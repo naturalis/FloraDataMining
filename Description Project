@@ -1,5 +1,5 @@
 Project Flora Data Mining
 
-Planten worden beschreven met behulp van een Flora. Dit willen we digitaliseren, om makkelijker naar planten te kunnen zoeken. Sommigen van deze Flora zijn al met XML omgezet in een ontologie.
+Planten worden beschreven met behulp van een Flora. Hiermee kan gezocht worden naar plantennamen aan de hand van kenmerken. Dit wordt kan makkelijker gemaakt worden door dit te digitaliseren. Sommigen van deze Flora zijn al met XML omgezet in een ontologie.
 
-Om verbanden tussen verschillende features te ontdekken in de Flora van Guiana's wordt er een matrix ontwikkeld waarmee naar correlaties gezocht kan worden. Dit betekent dat soorten in een matrix worden uitgezet tegen  relevante features. Met behulp van Python worden de termen uit de XML ontologie gehaald, en geordend in een text bestand.
+Om verbanden tussen verschillende features te ontdekken in de Flora van de Guiana's wordt er een matrix ontwikkeld waarmee naar correlaties gezocht kan worden. Dit betekent dat soorten in een matrix worden uitgezet tegen  relevante features. Met behulp van Python worden de termen uit de XML ontologie gehaald, en geordend in een text bestand.
