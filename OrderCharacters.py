@@ -8,23 +8,26 @@ tree = ET.parse(sys.argv[1])
 root = tree.getroot()
 out = open("Flora_Matrix.txt", "w") 
 numberOfSpecies = 0
-numberOfFeatures = 0 
+numberOfFeatures = 0
 
 #Count the number of species
 for feature in root.findall(".//*[@class='species']"):
-	numberOfSpecies++ 
+	numberOfSpecies+=1
 out.write("\n")
 
 #Construct the table
-table= [ [ 0 for i in range(numberOfSpecies) ] for j in range(numberoFFeatures) ]
+table= [ [ 0 for i in range(numberOfSpecies + 1) ] for j in range(numberOfFeatures + 1) ]
 
-for feature in root.findall(".//*[@class='species']"):
-	out.write(feature.text + " ")
-out.write("\n")
-
+i = 0
 for feature in root.findall(".//*[@class='genus']"):
-	out.write(feature.text + " ")	
-out.write("\n")
+	table[0][i] = feature.text
+	i+=1
+
+i = 0
+for feature in root.findall(".//*[@class='species']"):
+	table[0][i] = table[0][i] + " " + feature.text
+	i+=1
+print table[0]
 
 for feature in root.findall(".//*[@class='habit']"):
 	out.write(feature.text + " ")
