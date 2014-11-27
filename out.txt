@@ -1,0 +1,1960 @@
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'leaves'}/{'class': 'secretory structures'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'bracts and bracteoles'}
+{'class': 'flowers'}/{'class': 'perianth segments'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'interstaminal glands'}
+{'class': 'flowers'}/{'class': 'ovary'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'stamens'}/{'class': 'connective'}
+{'class': 'stamens'}/{'class': 'pollen'}
+{'class': 'ovary'}/{'class': 'ovules'}
+{'class': 'ovary'}/{'class': 'style'}
+{'class': 'fruits'}/{'class': 'seeds'}
+{'class': 'seeds'}/{'class': 'endosperm'}
+{'class': 'seeds'}/{'class': 'cotyledons'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'cincinni'}
+{'class': 'inflorescences'}/{'class': 'flowers'}
+{'class': 'inflorescences'}/{'class': 'hairs'}
+{'class': 'inflorescences'}/{'class': 'bracts'}
+{'class': 'inflorescences'}/{'class': 'bracteoles'}
+{'class': 'flowers'}/{'class': 'perianth segments'}
+{'class': 'perianth segments'}/{'class': 'outer segments'}
+{'class': 'perianth segments'}/{'class': 'inner segments'}
+{'class': 'male flowers'}/{'class': 'perianth segments'}
+{'class': 'male flowers'}/{'class': 'filaments'}
+{'class': 'male flowers'}/{'class': 'pollen'}
+{'class': 'male flowers'}/{'class': 'staminodes'}
+{'class': 'male flowers'}/{'class': 'pistil'}
+{'class': 'female flowers'}/{'class': 'perianth segments'}
+{'class': 'female flowers'}/{'class': 'stamens'}
+{'class': 'female flowers'}/{'class': 'ovary'}
+{'class': 'ovary'}/{'class': 'style'}
+{'class': 'ovary'}/{'class': 'stigma'}
+{'class': 'ovary'}/{'class': 'margins'}
+{'class': 'drupes'}/{'class': 'cotyledons'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'habit'}/{'class': 'bark'}
+{'class': 'habit'}/{'class': 'wood'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'apex'}/{'class': 'length'}
+{'class': 'base'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'cincinni'}
+{'class': 'inflorescences'}/{'class': 'bracts'}
+{'class': 'inflorescences'}/{'class': 'bracteoles'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'bracteoles'}/{'class': 'dimensions'}
+{'class': 'flower buds'}/{'class': 'dimensions'}
+{'class': 'male flowers'}/{'class': 'pedicels'}
+{'class': 'male flowers'}/{'class': 'perianth segments'}
+{'class': 'male flowers'}/{'class': 'stamens'}
+{'class': 'male flowers'}/{'class': 'glands'}
+{'class': 'pedicels'}/{'class': 'length'}
+{'class': 'perianth segments'}/{'class': 'dimensions'}
+{'class': 'perianth segments'}/{'class': 'apex and base'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'female flowers'}/{'class': 'pedicels'}
+{'class': 'female flowers'}/{'class': 'cupules'}
+{'class': 'female flowers'}/{'class': 'perianth'}
+{'class': 'female flowers'}/{'class': 'style'}
+{'class': 'pedicels'}/{'class': 'length'}
+{'class': 'cupules'}/{'class': 'dimensions'}
+{'class': 'fruit pedicels'}/{'class': 'length'}
+{'class': 'fruit cupules'}/{'class': 'dimensions'}
+{'class': 'drupes'}/{'class': 'dimensions'}
+{'class': 'drupes'}/{'class': 'apex'}
+{'class': 'drupes'}/{'class': 'cotyledons'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'leaves'}/{'class': 'cystoliths'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'bracts and bracteoles'}
+{'class': 'inflorescences'}/{'class': 'branches'}
+{'class': 'flowers'}/{'class': 'perianth'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'staminodes'}
+{'class': 'flowers'}/{'class': 'style'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'stamens'}/{'class': 'valves'}
+{'class': 'stamens'}/{'class': 'pollen'}
+{'class': 'pollen'}/{'class': 'dimensions'}
+{'class': 'style'}/{'class': 'stigma'}
+{'class': 'infructescences'}/{'class': 'fruit pedicels'}
+{'class': 'drupes'}/{'class': 'sarcocarp'}
+{'class': 'drupes'}/{'class': 'endocarp'}
+{'class': 'drupes'}/{'class': 'cotyledons'}
+{'class': 'short shoots'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'apex'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'pedicels'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'peduncle'}/{'class': 'branchlets'}
+{'class': 'flowers'}/{'class': 'perianth'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'style'}
+{'class': 'perianth'}/{'class': 'dimensions'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'filaments'}/{'class': 'length'}
+{'class': 'anthers'}/{'class': 'length'}
+{'class': 'style'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruit pedicels'}
+{'class': 'fruit pedicels'}/{'class': 'length'}
+{'class': 'drupes'}/{'class': 'dimensions'}
+{'class': 'short shoots'}/{'class': 'length'}
+{'class': 'short shoots'}/{'class': 'ultimate branchlets'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'apex'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'pedicels'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'flowers'}/{'class': 'perianth'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'style'}
+{'class': 'perianth'}/{'class': 'dimensions'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'filaments'}/{'class': 'length'}
+{'class': 'anthers'}/{'class': 'length'}
+{'class': 'style'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruit pedicels'}
+{'class': 'fruit pedicels'}/{'class': 'length'}
+{'class': 'drupes'}/{'class': 'dimensions'}
+{'class': 'branches'}/{'class': 'short shoots'}
+{'class': 'short shoots'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'apex'}/{'class': 'length'}
+{'class': 'base'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'pedicels'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'peduncle'}/{'class': 'branchlets'}
+{'class': 'flowers'}/{'class': 'perianth'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'style'}
+{'class': 'perianth'}/{'class': 'dimensions'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'filaments'}/{'class': 'length'}
+{'class': 'anthers'}/{'class': 'length'}
+{'class': 'style'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'branchlets'}
+{'class': 'infructescences'}/{'class': 'fruit pedicels'}
+{'class': 'fruit pedicels'}/{'class': 'length'}
+{'class': 'drupes'}/{'class': 'dimensions'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'stamens'}/{'class': 'connective'}
+{'class': 'pistil'}/{'class': 'carpels'}
+{'class': 'carpels'}/{'class': 'stigma'}
+{'class': 'carpels'}/{'class': 'ovules'}
+{'class': 'fruits'}/{'class': 'seeds'}
+{'class': 'seeds'}/{'class': 'embryo'}
+{'class': 'habit'}/{'class': 'wood'}
+{'class': 'habit'}/{'class': 'stems'}
+{'class': 'habit'}/{'class': 'nodes'}
+{'class': 'leaves'}/{'class': 'margins'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'stipular appendages'}
+{'class': 'staminate inflorescences'}/{'class': 'spikes'}
+{'class': 'staminate flowers'}/{'class': 'stamens'}
+{'class': 'stamens'}/{'class': 'connective'}
+{'class': 'pistillate inflorescences'}/{'class': 'flowers'}
+{'class': 'fruits'}/{'class': 'seeds'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'habit'}/{'class': 'juvenile stems'}
+{'class': 'habit'}/{'class': 'internodes'}
+{'class': 'juvenile stems'}/{'class': 'mature stems'}
+{'class': 'internodes'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'petiolar sheaths'}
+{'class': 'petiole'}/{'class': 'leaf blades'}
+{'class': 'petiole'}/{'class': 'midveins'}
+{'class': 'petiolar sheaths'}/{'class': 'length'}
+{'class': 'petiolar sheaths'}/{'class': 'length'}
+{'class': 'leaf blades'}/{'class': 'dimensions'}
+{'class': 'leaf blades'}/{'class': 'length'}
+{'class': 'leaf blades'}/{'class': 'margins'}
+{'class': 'staminate inflorescences'}/{'class': 'length'}
+{'class': 'staminate inflorescences'}/{'class': 'rachises'}
+{'class': 'staminate inflorescences'}/{'class': 'mature spikes'}
+{'class': 'staminate inflorescences'}/{'class': 'anthers'}
+{'class': 'mature spikes'}/{'class': 'length'}
+{'class': 'anthers'}/{'class': 'length'}
+{'class': 'pistillate inflorescences'}/{'class': 'length'}
+{'class': 'pistillate inflorescences'}/{'class': 'cymules'}
+{'class': 'pistillate inflorescences'}/{'class': 'pistillate flowers'}
+{'class': 'pistillate inflorescences'}/{'class': 'perianth'}
+{'class': 'pistillate inflorescences'}/{'class': 'stigma'}
+{'class': 'pistillate flowers'}/{'class': 'length'}
+{'class': 'pistillate flowers'}/{'class': 'width'}
+{'class': 'perianth'}/{'class': 'length'}
+{'class': 'stigma'}/{'class': 'length'}
+{'class': 'fruiting cymules'}/{'class': 'diameter'}
+{'class': 'fruiting cymules'}/{'class': 'seeds'}
+{'class': 'seeds'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'stipules'}
+{'class': 'leaves'}/{'class': 'prophyllum'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'ovary'}
+{'class': 'ovary'}/{'class': 'stigma'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'flowers'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'stamens'}/{'class': 'ovary'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'stems'}/{'class': 'internodes'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'stems'}/{'class': 'upper internodes'}
+{'class': 'upper internodes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'dimensions'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'diameter'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'length'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'thickness'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'relative distance'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'common peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'common peduncle'}/{'class': 'length'}
+{'class': 'common peduncle'}/{'class': 'lateral branches'}
+{'class': 'lateral branches'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'common peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'common peduncle'}/{'class': 'length'}
+{'class': 'common peduncle'}/{'class': 'lateral branches'}
+{'class': 'lateral branches'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'rachises'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'flower number'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'internodes'}
+{'class': 'internodes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stems'}/{'class': 'internodes'}
+{'class': 'internodes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'fertile branches'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'stems'}/{'class': 'internodes'}
+{'class': 'internodes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'habit'}/{'class': 'fertile stems'}
+{'class': 'stems'}/{'class': 'internodes'}
+{'class': 'internodes'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'habit'}/{'class': 'rhizome'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'relative distance'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'prophyllum'}/{'class': 'sheaths'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'flowers'}/{'class': 'stamens'}
+{'class': 'flowers'}/{'class': 'ovary'}
+{'class': 'stamens'}/{'class': 'filaments'}
+{'class': 'ovary'}/{'class': 'stigma'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'habit'}/{'class': 'length'}
+{'class': 'habit'}/{'class': 'upper internodes'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'anthers'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'upper internodes'}
+{'class': 'prophyllum'}/{'class': 'length'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'flowers'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'stamens'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'prophyllum'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'flowers'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'prophyllum'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'thecae'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stipules'}/{'class': 'petiole'}
+{'class': 'stipules'}/{'class': 'blade'}
+{'class': 'stipules'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'dimensions'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'anthers'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'leaves'}/{'class': 'shape'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'margins'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'margins'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'anthers'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'prophyllum'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'flowers'}
+{'class': 'inflorescences'}/{'class': 'anthers'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'fruits'}/{'class': 'seeds'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'habit'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'stems'}/{'class': 'upper internodes'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'secondary veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'stamens'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stigma'}/{'class': 'length'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'dimensions'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'dimensions'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'width'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'stamens'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'stamens'}/{'class': 'anthers'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'dimensions'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'thickness'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'apex'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stipules'}/{'class': 'dimensions'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'margins'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'margins'}/{'class': 'apex'}
+{'class': 'margins'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'thickness'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'ligula'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'ligula'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'anthers'}
+{'class': 'inflorescences'}/{'class': 'ovary'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'ovary'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'ovary'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'prophyllum'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'floral bracts'}/{'class': 'filaments'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stipules'}/{'class': 'petiole'}
+{'class': 'stipules'}/{'class': 'blade'}
+{'class': 'stipules'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'width'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'stamens'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'stamens'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'stigma'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'width'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stipules'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'habit'}/{'class': 'odor'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'diameter'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'fruits'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'rachises'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'leaves'}/{'class': 'petiole'}
+{'class': 'leaves'}/{'class': 'blade'}
+{'class': 'leaves'}/{'class': 'veins'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'position'}
+{'class': 'inflorescences'}/{'class': 'common peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'common peduncle'}/{'class': 'length'}
+{'class': 'common peduncle'}/{'class': 'peduncle'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stipules'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'margins'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'upper internodes'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'thickness'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'anthers'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'infructescences'}/{'class': 'stigma'}
+{'class': 'fruits'}/{'class': 'width'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'nodes'}
+{'class': 'prophyllum'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'dimensions'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'length'}
+{'class': 'infructescences'}/{'class': 'thickness'}
+{'class': 'infructescences'}/{'class': 'fruits'}
+{'class': 'fruits'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'margins'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'inflorescences'}/{'class': 'ovary'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'thickness'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'base'}/{'class': 'differential distance'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'length'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'spikes'}/{'class': 'length'}
+{'class': 'floral bracts'}/{'class': 'diameter'}
+{'class': 'fruits'}/{'class': 'stigma'}
+{'class': 'habit'}/{'class': 'height'}
+{'class': 'stems'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'length'}
+{'class': 'petiole'}/{'class': 'blade'}
+{'class': 'petiole'}/{'class': 'veins'}
+{'class': 'blade'}/{'class': 'texture'}
+{'class': 'blade'}/{'class': 'shape'}
+{'class': 'blade'}/{'class': 'dimensions'}
+{'class': 'blade'}/{'class': 'apex'}
+{'class': 'blade'}/{'class': 'base'}
+{'class': 'inflorescences'}/{'class': 'growth form'}
+{'class': 'inflorescences'}/{'class': 'peduncle'}
+{'class': 'inflorescences'}/{'class': 'spikes'}
+{'class': 'inflorescences'}/{'class': 'rachises'}
+{'class': 'inflorescences'}/{'class': 'floral bracts'}
+{'class': 'peduncle'}/{'class': 'length'}
+{'class': 'fruits'}/{'class': 'thickness'}
+{'class': 'fruits'}/{'class': 'stigma'}
