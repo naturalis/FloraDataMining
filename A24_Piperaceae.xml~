@@ -1,4 +1,4 @@
-<publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Digital%20Flora%20Data%20and%20Utilities/thomas/Flora%20Malesiana/mark-up/FlorMLv4_1.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
+   <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Digital%20Flora%20Data%20and%20Utilities/thomas/Flora%20Malesiana/mark-up/FlorMLv4_1.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
 	<metaData>
 		<defaultMediaUrl>http://wp5.e-taxonomy.eu/media/</defaultMediaUrl>
 		<mods:mods>
