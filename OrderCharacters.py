@@ -10,42 +10,41 @@ out = open("Flora_Matrix.txt", "w")
 numberOfFeatures = 1
 
 
-def getSpecies(matrix):		
-	for homotype in root.findall("./treatment/taxon/nomenclature/homotypes"):
-		print homotype.get('class')
-		if homotype.get('class') == 'accepted':
-			for nameType in ('nameType'):	
-				i = 0
-				for child in nameType.getchildren():
-					print child.get('class')
+def printToCsv(matrix):
+	line = ""
+	for i in range( len(matrix)):
+		for j in range( len(matrix[i] )):
+			line = line + str(matrix[i][j]) + ","	
+		print line
 
-					for grandchild in child.getchildren():
-						print child.get('class')
-						i = i + 1
-						if grandchild.get('class') == "genus abbreviation":
-							genus = grandchild.text
-						elif grandchild.get('class') == "species":
-							species = grandchild.text
-					for i in range(len(matrix)):
-						matrix[i][0] = genus + " " + species
+
+def getSpecies(matrix):	
+	i = 0	
+	for nomenclature in root.findall("./treatment/taxon/nomenclature"):
+		
+		homotypes = nomenclature[0]
+		nametype = homotypes.find('nameType')
+		print nametype.tag
+		if homotypes.get('class') == 'accepted':
+			i = i + 1
+			genus = nomenclature[1][0].text
+			species = nomeclature[1][1].text
+			matrix[0][i] = genus + " " + species	
 				
 	
 def getNumberOfSpecies():
-	numberOfSpecies = 1
-	for homotype in root.findall("./treatment/taxon/nomenclature/homotypes"):
-		for child in homotype.getchildren():
-			if child.get('class') == "accepted":
-				for grandchild in child.getchildren():
-					numberOfSpecies = numberOfSpecies + 1
+	numberOfSpecies = 0
+	for homotype in root.findall("./treatment/taxon/nomenclature/homotypes"):		
+		for nom in homotype:
+			if nom.get('class') == 'accepted':
+				numberOfSpecies = numberOfSpecies + 1
 	return numberOfSpecies
 
 
 numberOfSpecies = getNumberOfSpecies()
-matrix = [[0 for i in range(numberOfSpecies)] for j in range(numberOfFeatures)]
-
+matrix = [[0 for i in range(numberOfSpecies + 1)] for j in range(numberOfFeatures + 1)]
 getSpecies(matrix)
-
-print matrix[0][0]				
+printToCsv(matrix)				
 					
 
 					

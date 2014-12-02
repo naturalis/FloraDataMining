@@ -46,7 +46,7 @@
 		<taxon>
 			<nomenclature>
 				<homotypes>
-					<nom class="accepted">
+					<nom class="=accepted">
 						<num>9</num>
 						<name class="family">PIPERACEAE</name>
 					</nom>
