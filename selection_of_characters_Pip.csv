@@ -1,0 +1,139 @@
+1,/dispersal,N,1x mentioned
+2,/flowers,N,no character state
+3,/flowers/ovary,N,"no character state, term in notes or in description as ""ovary and fruit too young to describe accurately"""
+4,/flowers/ovary/stigma,Y,tentative
+5,/flowers/stamens,N,"difference only between the two genera, author did not use number per flower (Jaramillo & Manos)"
+6,/flowers/stamens/filaments,N,only at genus level
+7,/fruits,Y,
+8,/fruits/apex,Y,
+9,/fruits/diameter,Y,
+10,/fruits/dimensions,Y,
+11,/fruits/length,Y,
+12,/fruits/seeds,N,2x mentioned
+13,/fruits/stigma,N,not informative
+14,/fruits/stigma/length,N,not informative
+15,/fruits/thickness,Y,
+16,/fruits/width,Y,
+17,/habit,Y,
+18,/habit/fertile stems,N,1x mentioned
+19,/habit/height,N,wood data
+20,/habit/length,Y,
+21,/habit/odor,N,not specific enough
+22,/habit/rhizome,N,1x mentioned
+23,/habit/upper internodes,N,"inconsistent description, sometimes length, sometimes indumentum, etc."
+24,/indumentum,N,not in taxon description; only higher levels
+25,/inflorescences,Y,
+26,/inflorescences/anthers,N,"scattered info, 1 character state"
+27,/inflorescences/common peduncle,Y,to be mixed with peduncle
+28,/inflorescences/common peduncle/lateral branches,Y,
+29,/inflorescences/common peduncle/lateral branches/length,Y,
+30,/inflorescences/common peduncle/length,Y,
+31,/inflorescences/common peduncle/peduncle,Y,
+32,/inflorescences/common peduncle/peduncle/length,Y,
+33,/inflorescences/floral bracts,Y,
+34,/inflorescences/floral bracts/diameter,Y,
+35,/inflorescences/floral bracts/filaments,Y,
+36,/inflorescences/floral bracts/rachises,N,not found
+37,/inflorescences/flower number,Y,
+38,/inflorescences/flowers,Y,
+39,/inflorescences/growth form,Y,
+40,/inflorescences/length,Y,
+41,/inflorescences/ovary,N,not enough data
+42,/inflorescences/ovary/stigma,Y,tentative
+43,/inflorescences/peduncle,Y,to be mixed with common peduncle
+44,/inflorescences/peduncle/length,Y,
+45,/inflorescences/position,Y,
+46,/inflorescences/rachises,N,not enough data
+47,/inflorescences/spikes,Y,
+48,/inflorescences/spikes/diameter,Y,
+49,/inflorescences/spikes/dimensions,Y,
+50,/inflorescences/spikes/length,Y,
+51,/inflorescences/spikes/rachises,Y,
+52,/inflorescences/spikes/thickness,Y,
+53,/inflorescences/spikes/width,Y,
+54,/inflorescences/stamens,N,"difference only between the two genera, author did not use number per flower (pity, Jaramillo & Manos)"
+55,/inflorescences/stamens/anthers,N,not enough data
+56,/inflorescences/stamens/length,N,not enough data
+57,/inflorescences/thecae,N,not enough data (2x mentioned)
+58,/infructescences,Y,
+59,/infructescences/dimensions,Y,
+60,/infructescences/fruits,N,not enough data
+61,/infructescences/fruits/diameter,Y,
+62,/infructescences/fruits/stigma,N,not enough data
+63,/infructescences/fruits/thickness,Y,
+64,/infructescences/fruits/width,Y,
+65,/infructescences/length,N,
+66,/infructescences/stigma,N,"the same as ""/infructescences/fruits/stigma"""
+67,/infructescences/thickness,Y,
+68,/infructescences/width,N,
+69,/internodes,N,not enough data; measurements only in one genus
+70,/juvenile fruits,N,
+71,/leaves,Y,
+72,/leaves/blade,Y,
+73,/leaves/blade/apex,Y,
+74,/leaves/blade/base,Y,
+75,/leaves/blade/base/length,Y,
+76,/leaves/blade/diameter,Y,
+77,/leaves/blade/dimensions,Y,
+78,/leaves/blade/margins,Y,
+79,/leaves/blade/shape,Y,
+80,/leaves/blade/texture,Y,
+81,/leaves/fertile branches,Y,
+82,/leaves/petiole,Y,"too broad (I mean, does it capture the complete description after petiole?)"
+83,/leaves/petiole/length,Y,the same as /petiole/length?
+84,/leaves/petiole/relative distance,Y,not enough data
+85,/leaves/prophyllum,N,not enough data
+86,/leaves/shape,Y,"the same as ""/leaves/blade/shape""?"
+87,/leaves/stipules,N,"the same as ""/stipules""?"
+88,/leaves/veins,N,not informative
+89,/mature fruits,N,not enough data
+90,/petiole,N,not informative
+91,/petiole/blade,N,belongs to leaf blade
+92,/petiole/blade/apex,N,belongs to leaf blade
+93,/petiole/blade/base,N,belongs to leaf blade
+94,/petiole/blade/base/differential distance,N,belongs to leaf blade
+95,/petiole/blade/dimensions,N,belongs to leaf blade
+96,/petiole/blade/margins,N,belongs to leaf blade
+97,/petiole/blade/shape,N,belongs to leaf blade
+98,/petiole/blade/texture,N,belongs to leaf blade
+99,/petiole/length,Y,
+100,/petiole/ligula,N,not found
+101,/petiole/ligula/length,N,not found
+102,/petiole/margins,N,belongs to leaf blade
+103,/petiole/margins/apex,N,belongs to leaf blade
+104,/petiole/margins/base,N,belongs to leaf blade
+105,/petiole/margins/base/differential distance,N,belongs to leaf blade
+106,/petiole/margins/length,N,belongs to leaf blade
+107,/petiole/secondary veins,N,belongs to leaf blade
+108,/petiole/veins,N,belongs to leaf blade
+109,/prophyllum,N,not found
+110,/prophyllum/length,N,not found
+111,/prophyllum/sheaths,N,not found
+112,/shoot apex,N,not enough data
+113,/stamens,N,not enough data
+114,/stamens/anthers,N,not enough data
+115,/stamens/filaments,N,not enough data
+116,/stamens/ovary,N,not enough data
+117,/stems,Y,tentative
+118,/stems/internodes,N,not enough data; measurements only in one genus
+119,/stems/internodes/length,N,not enough data; measurements only in one genus
+120,/stems/length,Y,tentative
+121,/stems/nodes,Y,tentative
+122,/stems/thickness,Y,tentative
+123,/stems/upper internodes,N,not enough data
+124,/stems/upper internodes/length,N,not enough data
+125,/stipules,N,not enough data
+126,/stipules/blade,N,belongs to leaf blade
+127,/stipules/blade/apex,N,belongs to leaf blade
+128,/stipules/blade/base,N,belongs to leaf blade
+129,/stipules/blade/base/differential distance,N,belongs to leaf blade
+130,/stipules/blade/dimensions,N,belongs to leaf blade
+131,/stipules/blade/margins,N,belongs to leaf blade
+132,/stipules/blade/shape,N,belongs to leaf blade
+133,/stipules/blade/texture,N,belongs to leaf blade
+134,/stipules/dimensions,Y,
+135,/stipules/length,Y,
+136,/stipules/petiole,N,not related
+137,/stipules/petiole/length,N,"the same as ""/stipules/length"""
+138,/stipules/veins,N,belongs to leaf blade
+139,/upper internodes,N,"see above, line 23"
