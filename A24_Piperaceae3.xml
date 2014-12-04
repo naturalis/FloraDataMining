@@ -1,4 +1,4 @@
-   <publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Digital%20Flora%20Data%20and%20Utilities/thomas/Flora%20Malesiana/mark-up/FlorMLv4_1.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
+<publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Digital%20Flora%20Data%20and%20Utilities/thomas/Flora%20Malesiana/mark-up/FlorMLv4_1.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
 	<metaData>
 		<defaultMediaUrl>http://wp5.e-taxonomy.eu/media/</defaultMediaUrl>
 		<mods:mods>
@@ -46,7 +46,7 @@
 		<taxon>
 			<nomenclature>
 				<homotypes>
-					<nom class="=accepted">
+					<nom class="accepted">
 						<num>9</num>
 						<name class="family">PIPERACEAE</name>
 					</nom>
@@ -8969,7 +8969,7 @@
 		<taxon>
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">betle</name>
 						<name class="author">L.</name>
@@ -8986,7 +8986,7 @@
 		<taxon>
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">cubeba</name>
 						<name class="author">L.f.</name>
@@ -10285,7 +10285,7 @@
 			<heading>DOUBTFUL SPECIES</heading>
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Peperomia</name>
 						<name class="species">schomburgkii</name>
 						<name class="author">C. DC.</name>
@@ -10307,7 +10307,7 @@
 		<taxon class="dubious">
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">angremondii</name>
 						<name class="author">C. DC.</name>
@@ -10329,7 +10329,7 @@
 		<taxon class="dubious">
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">laevigatum</name>
 						<name class="author">Kunth</name>
@@ -10351,7 +10351,7 @@
 		<taxon class="dubious">
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">microstachyon</name>
 						<name class="author">Vahl</name>
@@ -10371,7 +10371,7 @@
 		<taxon class="dubious">
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">modestum</name>
 						<name class="paraut">Miq.</name>
@@ -10405,7 +10405,7 @@
 		<taxon class="dubious">
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus">Piper</name>
 						<name class="species">purpurascens</name>
 						<name class="author">Desf.</name>
@@ -10424,7 +10424,7 @@
 		<taxon class="dubious">
 			<nomenclature>
 				<homotypes>
-					<nom class="synonym">
+					<nom class="accepted">
 						<name class="genus abbreviation">P.</name>
 						<name class="species">schlechtendahlianum</name>
 						<name class="author">C. DC.</name>

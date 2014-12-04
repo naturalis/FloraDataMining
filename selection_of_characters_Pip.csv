@@ -7,7 +7,7 @@
 7,/fruits,Y,
 8,/fruits/apex,Y,
 9,/fruits/diameter,Y,
-10,/fruits/dimensions,Y,
+print numberOfCharacters,/fruits/dimensions,Y,
 11,/fruits/length,Y,
 12,/fruits/seeds,N,2x mentioned
 13,/fruits/stigma,N,not informative
