@@ -15,4 +15,4 @@ def constructHierarchy(character, path):
 for feature in root.findall("./treatment/taxon/feature"):
 	for child in feature.getchildren():
 		if child.get('class') != None:
-			constructHierarchy(child, child.get('class'))
+			constructHierarchy(child, "")
