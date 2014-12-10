@@ -1,13 +1,13 @@
-#This program constructs a matrix with the features belonging to different plant species. 
-#At the moment only the features are looked for and printed. However, these must be put in the matrix. 
+#This program constructs a matrix with the features belonging to different plant species. The arguments are a FlorML file, a csv file containing a table with the characters and a "Y", when they can be selected. The output is a tsv file containing the matrix.
 
 import sys
 import xml.etree.ElementTree as ET
 import codecs
 
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
-tree = ET.parse("A24_Piperaceae3.xml")
-characterFile = open("selection_of_characters_Pip.csv", "r")
+tree = ET.parse(sys.argv[1])
+characterFile = open(sys.argv[2], "r")
+output = open("matrix.tsv", "w")
 root = tree.getroot()
 numberOfFeatures = 0
 
@@ -17,7 +17,7 @@ def printToTsv(matrix):
 		line = ""
 		for j in range(len(matrix[0])):
 			line = line + str(matrix[i][j]) + "\t".strip('\n')	
-		print line		
+		output.write(line)		
 
 
 #This function prints the matrix in csv format						
@@ -43,7 +43,7 @@ def addSubchars(matrix, char, name, i):
 			addSubchars(matrix, subchar, newName, i)
 
 
-#This function fills the matrix with ll descriptions of the characters.
+#This function fills the matrix with all descriptions of the characters.
 def fillMatrix(matrix):
 	i = 0
 	j = 0
@@ -61,6 +61,7 @@ def fillMatrix(matrix):
 								addSubchars(matrix, char, "/" + str(char.get('class')), i)			
 									
 
+#This function extracts the relevant characters and puts them in the matrix
 def getCharacters(matrix, chars):
 	i = 0
 	for line in chars:
@@ -70,6 +71,7 @@ def getCharacters(matrix, chars):
 			matrix[0][i] = char	
 
 
+#This function extracts the accepted family and species names and puts them in the matrix
 def getSpecies(matrix):	
 	i = 0
 	for nomenclature in root.findall("./treatment/taxon/nomenclature"):		
@@ -106,6 +108,7 @@ def getNumberOfCharacters(char):
 		if line.split(",")[2] == "Y":
 			numberOfChar+=1
 	char.seek(0)
+	print numberOfChar
 	return numberOfChar
 
 
@@ -125,7 +128,7 @@ getSpecies(matrix)
 getCharacters(matrix, characterFile)
 fillMatrix(matrix)
 printToTsv(matrix)				
-					
+output.close()					
 
 					
 				

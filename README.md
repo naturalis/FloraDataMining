@@ -9,6 +9,8 @@ How does it work technically?
 
 All terms will be parsed with the help of Python and ordered in a text file. The ontology of the Piperaceae is digitalized in A24_Piperaceae3.xml. The python script MakeCharacterList.py made a list of all characters in this file. The relevant characters were selected. These selections are shown in selection_of_characters_Pip.csv. The python script OrderCharacters.py constructs a matrix with the species and the characters. This matrix is displayed in a tab-delimited file: Piperaceae.tsv.
 
+The input files are a FlorML file, and a csv file containing the characters in the FlorML file where the relevant characters are selected with "Y". 
+
 What are the dependencies?
 
 How can it be run?
