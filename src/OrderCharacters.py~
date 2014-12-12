@@ -34,7 +34,7 @@ def countAndRemoveEmptyPlaces(matrix, i):
 	print matrix[i][0]
 	print emptyPlaces
 	print len(matrix[0])
-	if emptyPlaces > len(matrix[0]) - 5:
+	if emptyPlaces > len(matrix[0]) - 4:
 		matrix = numpy.delete(matrix, i, axis=0)
 
 		if i != len(matrix):
