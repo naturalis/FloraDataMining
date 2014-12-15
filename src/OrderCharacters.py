@@ -18,7 +18,7 @@ def printToTsv(matrix):
 	for i in range(len(matrix)):
 		line = ""		
 		for j in range(len(matrix[0])):
-			matrix[i][j] = str(matrix[i][j].encode("UTF-8")).replace("\t", " ") 
+			matrix[i][j] = str(matrix[i][j]).replace("\t", " ") 
 			line = line + matrix[i][j] + "\t"
 		line = line.replace("\n", "") 
 		output.write(line)
@@ -58,7 +58,7 @@ def addSubchars(matrix, char, name, i):
 			
 			for j in range(len(matrix[0])):			
 				if  matrix[0][j] == newName:
-					matrix[i][j] = subchar.text					
+					matrix[i][j] = subchar.text.encode("UTF-8")					
 			addSubchars(matrix, subchar, newName, i)
 
 
@@ -76,7 +76,7 @@ def fillMatrix(matrix):
 						for j in range(len(matrix[0])):
 							for char in child:
 								if matrix[0][j] == "/" + str(char.get('class')):
-									matrix[i][j] = char.text
+									matrix[i][j] = char.text.encode("UTF-8")
 								addSubchars(matrix, char, "/" + str(char.get('class')), i)			
 									
 

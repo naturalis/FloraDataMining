@@ -18,7 +18,7 @@ def printToTsv(matrix):
 	for i in range(len(matrix)):
 		line = ""		
 		for j in range(len(matrix[0])):
-			matrix[i][j] = str(matrix[i][j].encode("UTF-8")).replace("\t", " ") 
+			matrix[i][j] = str(matrix[i][j].encode("aasci")).replace("\t", " ") 
 			line = line + matrix[i][j] + "\t"
 		line = line.replace("\n", "") 
 		output.write(line)
@@ -34,7 +34,7 @@ def countAndRemoveEmptyPlaces(matrix, i):
 	print matrix[i][0]
 	print emptyPlaces
 	print len(matrix[0])
-	if emptyPlaces > len(matrix[0]) - 4:
+	if emptyPlaces > len(matrix[0]) - 5:
 		matrix = numpy.delete(matrix, i, axis=0)
 
 		if i != len(matrix):
