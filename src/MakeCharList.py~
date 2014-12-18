@@ -1,0 +1,7 @@
+import sys
+
+characterFile = open(sys.argv[1], "r")
+
+for line in char:
+	if line.split(",")[2] == "Y":
+		print line.split(",")[1]

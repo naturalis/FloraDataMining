@@ -1,3 +1,5 @@
+#This code corrects texts in an FlorML XML file, that are displayed between /subChar elements. This code puts these texts in the correct element. 
+
 import xml.etree.ElementTree as ET
 import sys
 import re
@@ -8,7 +10,6 @@ output = open("ordened.xml", 'w')
 for line in xmlFile:
 	if re.search('<\/subChar>[,:] [a-z]', line):
 		misplaced = re.findall('<\/subChar>[,:] [^<]+', line)
-		print len(misplaced)
 		fields = re.split('[<>]', line)
 
 		for group in misplaced:
@@ -20,6 +21,5 @@ for line in xmlFile:
 			if i%2 == 0:
 				line += fields[i] + "<"
 			else:
-				line += fields[i] + ">"	
-		print line	
+				line += fields[i] + ">"		
 	output.write(line)

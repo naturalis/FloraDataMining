@@ -84,10 +84,8 @@ def fillMatrix(matrix):
 def getCharacters(matrix, chars):
 	i = 0
 	for line in chars:
-		char = line.split(",")[1]
-#		if line.split(",")[2] == "Y":
 		i+=1
-		matrix[0][i] = char	
+		matrix[0][i] = line	
 
 
 #This function extracts the accepted family and species names and puts them in the matrix
