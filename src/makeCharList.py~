@@ -1,3 +1,0 @@
-for line in char:
-	if line.split(",")[2] == "Y":
-		print line.split(",")

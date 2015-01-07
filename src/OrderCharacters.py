@@ -73,6 +73,8 @@ def addHabitatData(matrix, i, node):
 	if habitat != None:
 		if habitat.text:
 			matrix[i][len(matrix[0]) - 2] = habitat.text.encode("UTF-8")	
+	
+
 
 
 #This function adds the texts belonging to the subcharacters to the matrix.
