@@ -3,16 +3,14 @@ FloraDataMining
 
 What is the project about?
 
-Plants species can be found with the help of traits, by a book called Flora. These Flora's are digitalized with XML to make this process easier. To find correlations between the different feature types in in Flora of the Guianas, a matrix must be developed with species on one axis and the relevant features on the other axis.
+Plants species can be determined with the help of  a books mentioned Flora's. These Flora's are digitalized in an XML format mentioned FlorML to make them more accessible. When digitalized, the Flora data can be mined when it is put in table form. Because of this, a matrix is developed with species on one axis and relevant plant features (characters) on the other axis. To do this, first the characters present in the FlorML file were listed and the text belonging to some relevant elements in the FlorML file was ordered more. All these steps are performed with the programming language Python.
 
-How does it work technically?
+Parsing the relevant characters
+The python script MakeCharacterList.py makes a list of all characters in a FlorML file. The input is the FlorML file, and the output is the character list. Because some names are used for different character types, all characters are displayed together with their superiors on the axis of the matrix,  like for example “/grandparent/parent/child”. This list is used to build the matrix, and relevant characters can be selected from this list. 
 
-All terms will be parsed with the help of Python and ordered in a text file. The ontology of the Piperaceae is digitalized in A24_Piperaceae3.xml. The python script MakeCharacterList.py made a list of all characters in this file. The relevant characters were selected. These selections are shown in selection_of_characters_Pip.csv. The python script OrderCharacters.py constructs a matrix with the species and the characters. This matrix is displayed in a tab-delimited file: Piperaceae.tsv.
+Ordering the text in the FlorML file
+The text belonging to some elements in the FlorML files first must be ordered, before the matrix could be constructed. There were some places where the text belonging to the relevant elements did not occur on the correct place. The script OrderXml.py reads a FlorML file, and gives as output,  FlorML file containing the same information with the text put at the correct places.
 
-The input files are a FlorML file, and a csv file containing the characters in the FlorML file where the relevant characters are selected with "Y". 
+Constructing the final matrix
+The python script OrderCharacters.py constructs a matrix of the species and the characters. The input files are a FlorML file, and a csv file including the relevant the characters, their number, “Y” or “N” to select which characters are relevant, and some notes on each line like: “1,/dispersal,N,1x mentioned”.  This will probably be changed to make the script read a list containing the relevant characters instead of this specific format, but until now this gave some unwanted newline characters in the matrix. The output is a tab-delimited file containing the final matrix. 
 
-What are the dependencies?
-
-How can it be run?
-
-A python script is written. The python script runs with the XML file as input. 
