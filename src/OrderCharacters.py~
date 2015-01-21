@@ -53,8 +53,8 @@ def deleteRowsLackingChars(matrix):
 #This recursively adds the texts from the subcharacters to the matrix containing the text parst of the characters 
 def addSubchars(matrix, char, name, i):
 	if char.getchildren():
-		subchars = char.getchildren():
-		newName = "/".join(subchars)
+		for subchar in char.getchildren():
+			newName = name + "/" + str(subchar.get('class'))
 			
 			for j in range(len(matrix[0])):			
 				if  matrix[0][j] == newName:
