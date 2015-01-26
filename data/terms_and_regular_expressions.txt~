@@ -1,5 +1,5 @@
 Colour:
-(?:bright(?:er|) |dark(?:er|) |dull(?:er|)|light(?:er|) |pale(?:r|) |pastel |waxy |)(?:aquamarine|azure|black(?:ish|) |blu(?:e|ish)|brown(?:ish|)|champagne|crimson|cyan|gold(?:en|ish|)|green(?:ish|)|grey(?:ish|)|indigo|lavender|lilac|magenta|maroon|orang(?:e|ish)|pink(?:ish|)|purpl(?:e|ish)|(?:brick |wine-|)\Wred(?:dish|)\W|scarlet|silver(?:ish|)|transparent|turquoise|variously colored|vermillion|violet|whit(?:e|ish)|yellow(?:ish|))
+(?:bright(?:er|) |dark(?:er|) |dull(?:er|)|light(?:er|) |pale(?:r|) |pastel |waxy |)(?:aquamarine|azure|black(?:ish|) |blu(?:e|ish)|brown(?:ish|)|champagne|crimson|cyan|gold(?:en|ish|)|green(?:ish|)|grey(?:ish|)|indigo|lavender|lilac|magenta|maroon|orang(?:e|ish)|pink(?:ish|)|purpl(?:e|ish)|(?:brick |wine-|)\Wred\W(?:dish|)\W|scarlet|silver(?:ish|)|transparent|turquoise|variously colored|vermillion|violet|whit(?:e|ish)|yellow(?:ish|))
 
 Growth form:
 (?:more or less |occasionally |slightly |some(?:times|what) |)(?:clambering|creeping|erect|multi(?:-|)stemmed|parted|pendent|recurved|repent|scandent|spreading)
@@ -18,3 +18,13 @@ Shape:
 
 Texture:
 (?:fairly |more or less |often |rather |somewhat |very |)(?:bullate|chartaceous|(?:sub|)coriaceous|fleshy|leathery|membranous|papery|papyraceous|scabrous|stiff|thick(?!-walled)|thin)
+
+secondary veins/number:
+([0-9][^0-9/][^,]+)
+
+secondary veins/originating:
+(originating[^,]+) 
+
+tertiary veins:
+([tertiary[^.]+)
+

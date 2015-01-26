@@ -3,12 +3,10 @@ import re
 
 matrixFile = open(sys.argv[1], "r")
 termsAndRegex = open(sys.argv[2], "r")
+termsAndClasses = open(sys.argv[3], "r")
 matrix = []
 output = open("matrix.tsv", "w")
-
-for line in matrixFile:
-	row = line.split("\t")
-	matrix.append(row) 
+colourList = ['aquamarine', 'azure', 'black', 'blu', 'brown', 'champagne', 'crimson' , 'cyan' , 'gold', 'green', 'grey', 'indigo', 'lavender', 'lilac', 'magenta', 'maroon', 'orang', 'pink', 'purpl',  'red', 'scarlet', 'silver', 'transparent', 'turquoise', 'variously colored', 'vermillion', 'violet', 'whit', 'yellow']
 
 
 # This function prints a matrix in tsv format, when giving the matrix as argument.
@@ -48,13 +46,64 @@ def splitColumns(matrix, term, regex):
 					break
 
  
-print len(matrix[0]) 			
-for line in termsAndRegex:
-	if line[len(line) - 2] == ":":
-		term = line[:len(line) - 2]
-	if line[0] == "(":
-		regex = line[:len(line) - 1]
-		splitColumns(matrix, term, regex)
-print len(matrix[0]) 
+def initSplitting(termsAndRegex, matrix):		
+	for line in termsAndRegex:
+		if line[len(line) - 2] == ":":
+			term = line[:len(line) - 2]
+		if line[0] == "(":
+			regex = line[:len(line) - 1]
+			splitColumns(matrix, term, regex)
 
-printMatrixToTsv(matrix)
+
+def countClasses(matrix):
+	for j in range(1, len(matrix[0])):
+		tempRow = []
+		count = 0
+		for i in range(1, len(matrix)):
+			tempRow.append(matrix[i][j])	
+		for string in tempRow:
+			if string != "-":
+				count += 1		
+		set = {}
+  		map(set.__setitem__, tempRow, [])
+		print matrix[0][j]
+		print len(set.keys()) 
+	
+	
+def categorize(array, classes):
+	orderArray = [0 for i in range(len(array))]
+	classNumber = 0
+	for string in classes:
+		classNumber += 1
+		for i in range(len(array)):			
+			if string in array[i].split(",")[0]: 
+				orderArray[i] = classNumber
+	return orderArray
+
+
+def initCategorization(matrix, term, termList):
+	tMatrix = map(list, zip(*matrix))
+
+	for i in range(len(tMatrix)):
+		
+		classes = tMatrix[i][0].split("/")
+		if classes[len(classes)-1] == term:
+			tMatrix[i][1:] = categorize(tMatrix[i][1:], termList)		
+
+
+for line in matrixFile:
+	row = line.split("\t")
+	matrix.append(row)
+
+for line in termsAndClasses:
+	if line[len(line) - 2] == ":":
+		term = line[:len(line) - 2].lower()
+	elif re.match('\w', line[0]):
+
+		classList = line[:len(line) - 1].split(",")
+		initCategorization(matrix, term, classList)
+
+
+#printMatrixToTsv(matrix)
+
+

@@ -1,0 +1,19 @@
+Colour:
+aquamarine, azure, black,blu,brown,champagne,crimson,cyan,gold,green,grey,indigo,lavender,lilac,magenta, maroon,orang,pink,purpl, red,scarlet,silver,transparent,turquoise,variously colored,vermillion,violet,whit,yellow
+
+Hairs:
+glabr,hirsute,pilos,puberul,pubescent', sericeous,strig,toment,villo
+
+Margin type:
+dentate,entire,serrate,serrulate,sinuate,spinose
+
+Position:
+cauliflorous,lateral,pendulous,ramiflorous,terminal
+
+Shape:
+acuminate,acute,asymmetrical,symmetrical,conic,cordate,cuneate,cylindric,deltoid,ellip,falcate,funnelform,fusiform,globose,lance,linear,oblong,obtuse,orbicula,ovate,ovoid,rhombic,reniform,rounded,spat,spherical,subulate,triangular,truncate,tubular
+
+Texture:
+bullate,chartaceous,coriaceous,fleshy,leathery,membranous,papery,papyraceous,scabrous,stiff,thick,thin
+
+
