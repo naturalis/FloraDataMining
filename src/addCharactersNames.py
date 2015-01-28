@@ -70,7 +70,7 @@ def countClasses(matrix):
 		print len(set.keys()) 
 	
 	
-def categorize(array, classes):
+def categorizeOrdinals(array, classes):
 	orderArray = [0 for i in range(len(array))]
 	classNumber = 0
 	for string in classes:
@@ -81,29 +81,53 @@ def categorize(array, classes):
 	return orderArray
 
 
+def categorizeRange(string):
+	numberRange = re.match('[0-9]+-[0-9]+', string).group(0)
+	numbers = numberRange.split('-')
+	lowest = numbers[0]
+	highest = numbers[1]
+	return highest	
+
+
+def categorizeNumerics(array):
+	print array
+	for i in range(len(array)):
+		if re.match('[0-9]+-[0-9]+', array[i]):
+			array[i] = categorizeRange(array[i])
+		elif re.match('[0-9]+(?:/.[0-9]+|)', array[i]):
+			numbers = re.findall('[0-9]+', array[i])
+			array[i] = int(numbers[len(numbers) - 1])
+	return array
+
+
 def initCategorization(matrix, term, termList):
 	tMatrix = map(list, zip(*matrix))
 
-	for i in range(len(tMatrix)):
-		
+	for i in range(1, len(tMatrix)):
 		classes = tMatrix[i][0].split("/")
+
 		if classes[len(classes)-1] == term:
-			tMatrix[i][1:] = categorize(tMatrix[i][1:], termList)		
+			tMatrix[i][1:] = categorizeOrdinals(tMatrix[i][1:], termList)	
+		elif all(isinstance(item, str) for item in tMatrix[i]) == True:
+			tMatrix[i][1:] = categorizeNumerics(tMatrix[i][1:])
+	return  map(list, zip(*tMatrix))
+
+
+def readTermsAndClasses(termsAndClasses, matrix):
+	for line in termsAndClasses:
+		if line[len(line) - 2] == ":":
+			term = line[:len(line) - 2].lower()
+		elif re.match('\w', line[0]):	
+			classList = line[:len(line) - 1].split(",")
+			matrix = initCategorization(matrix, term, classList)
+	return matrix
 
 
 for line in matrixFile:
 	row = line.split("\t")
 	matrix.append(row)
 
-for line in termsAndClasses:
-	if line[len(line) - 2] == ":":
-		term = line[:len(line) - 2].lower()
-	elif re.match('\w', line[0]):
-
-		classList = line[:len(line) - 1].split(",")
-		initCategorization(matrix, term, classList)
-
-
-#printMatrixToTsv(matrix)
-
+newMatrix = readTermsAndClasses(termsAndClasses, matrix)	
+print newMatrix		
+printMatrixToTsv(newMatrix)
 
