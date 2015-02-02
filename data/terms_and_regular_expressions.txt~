@@ -19,12 +19,4 @@ Shape:
 Texture:
 (?:fairly |more or less |often |rather |somewhat |very |)(?:bullate|chartaceous|(?:sub|)coriaceous|fleshy|leathery|membranous|papery|papyraceous|scabrous|stiff|thick(?!-walled)|thin)
 
-secondary veins/number:
-([0-9][^0-9/][^,]+)
-
-secondary veins/originating:
-(originating[^,]+) 
-
-tertiary veins:
-([tertiary[^.]+)
 

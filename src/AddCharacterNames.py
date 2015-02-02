@@ -32,7 +32,7 @@ def addNewValue(matrix, i, regex):
 			matrix[j].insert(i, "-")
 
 
-#Looks for a regular expession in one of the columns of a mtarix. When found, a new column is made with new term added to rthe hierarchy were it belongs.
+#Looks for a regular expession in one of the columns of a matrix. When found, a new column is made with new term added to rthe hierarchy were it belongs.
 def splitColumns(matrix, term, regex):
 	lastTerm = ""
 
@@ -58,7 +58,7 @@ def initSplitting(termsAndRegex, matrix):
 			splitColumns(matrix, term, regex)
 
 
-#Counts the different number of classesin each row in a matrix
+#Counts the different number of classes in each row in a matrix
 def countClasses(matrix):
 	for j in range(1, len(matrix[0])):
 		tempRow = []
@@ -86,15 +86,15 @@ def countClasses(matrix):
 
 #Reads an array with strings containing terms and a list of terms. This code categorizes all arrays to a categoryNumber 	
 def categorizeOrdinals(array, categories):
-	orderArray = [0 for i in range(len(array))]
 	categoryNumber = 0
+	categorizedArray = [0 for i in range(len(array))]
 
 	for string in categories:
 		categoryNumber += 1
-		for i in range(len(array)):		
-			if string in array[i].split(",")[0] and ('not ' + string) in array is False: 
-				orderArray[i] = categoryNumber
-	return orderArray
+		for i in range(len(array)):
+			if (string in array[i].split(",")[0]):# and (('not ' + string) in array[i] == False):
+				categorizedArray[i] = categoryNumber
+	return categorizedArray
 
 
 #Reads a number and a string containing the unit. Converts the value to mm
@@ -105,7 +105,7 @@ def convertToMm(string, number):
 		return number * 10
 	elif ' dm ' in string:
 		return number * 100
-	elif ' m ' in string:
+	elif re.search(' m([^a-z])', string):
 		return number * 1000
 	else:
 		return number
@@ -131,7 +131,6 @@ def categorizeRange(string):
 def categorizeFloatRange(string):
 	match = re.search('[0-9]-[0-9]+\.[0-9]+', string).group(0)
 	number = float(match[2:])
-
 	return convertToMm(string, number)
 
 
@@ -157,7 +156,7 @@ def initCategorizationOrdinals(matrix, term, termList):
 	for i in range(1, len(matrix)):
 		classes = matrix[i][0].split("/")
 
-		if classes[len(classes)-1] == term:
+		if classes[len(classes) -1 ] == term:
 			matrix[i][1:] = categorizeOrdinals(matrix[i][1:], termList)
 	return matrix
 
@@ -171,16 +170,43 @@ def readTermsAndClasses(termsAndCategories, matrix):
 			categoryList = line[:len(line) - 1].split(",")
 			#When one term and its classes are found categorization of the text in the matrix with the help of the classses can start.
 			matrix = initCategorizationOrdinals(matrix, term, categoryList)
-		for i in range(1, len(matrix)):	
-			if all(isinstance(item, str) for item in matrix[i]) == True:
-				matrix[i][1:] = printNumericValueArray(matrix[i][1:])	
-
-	return matrix
 
 
-for line in matrixFile:
-	row = line.split("\t")
-	matrix.append(row)
+#Returns one numerical value for a range or in a text containing a numerical value
+def initCategorizationNumerics(matrix):
+	for i in range(1, len(matrix)):	
+		if all(isinstance(item, str) for item in matrix[i]) == True:
+			matrix[i][1:] = printNumericValueArray(matrix[i][1:])	
+
+
+def fillWholeGenerus(matrix, generus):
+	generus = generus.lower()
+
+	for i in range(len(matrix)):
+		if matrix[i][0].lower() == generus:
+			rowValue = i
+			break
+
+		if generus in matrx[i][j]:
+			for j in range(len(matrix)):
+				if matrix[i][j] == '-':
+					matrix[i][j] == matrix[rowValue][j]					
+		
+
+def fillWholeFamily(matrix):
+	for i in range(len(matrix)):
+		for j in range(len(matrix[0])):
+			if matrix[i][j] == "-":
+				matrix[i][j] = matrix[0][j]		
+	
+
+def readMatrix(matrixFile)
+	for line in matrixFile:
+		row = line.split("\t")
+		matrix.append(row)
+
+
+readMatrix(matrixFile)
 matrix = map(list, zip(*matrix))
 readTermsAndClasses(termsAndClasses, matrix)
 initCategorizationNumerics(matrix)

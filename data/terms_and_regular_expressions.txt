@@ -1,22 +1,23 @@
 Colour:
-(?:bright(?:er|) |dark(?:er|) |dull(?:er|)|light(?:er|) |pale(?:r|) |pastel |waxy |)(?:aquamarine|azure|black(?:ish|) |blu(?:e|ish)|brown(?:ish|)|champagne|crimson|cyan|gold(?:en|ish|)|green(?:ish|)|grey(?:ish|)|indigo|lavender|lilac|magenta|maroon|orang(?:e|ish)|pink(?:ish|)|purpl(?:e|ish)|(?:brick |wine-|)\Wred\W(?:dish|)\W|scarlet|silver(?:ish|)|transparent|turquoise|variously colored|vermillion|violet|whit(?:e|ish)|yellow(?:ish|))
+(?:aquamarine|azure|black(?:ish|)|blu(?:e|ish)|brown(?:ish|)|champagne|colored|cream|crimson|cyan|gold(?:en|ish|)|green(?:ish|)|grey(?:ish|)|indigo|(?:metallic-|)iridescent|lavender|lilac|magenta|maroon|nitid|olive|orang(?:e|ish)|pink(?:ish|)|purpl(?:e|ish)|(?:brick |wine-|)red(?:dish|)|rose|rufous|scarlet|silver(?:ish|)|transparent|turquoise|variously colored|vermillion|violet|whit(?:e|ish)|yellow(?:ish|))
 
 Growth form:
-(?:more or less |occasionally |slightly |some(?:times|what) |)(?:clambering|creeping|erect|multi(?:-|)stemmed|parted|pendent|recurved|repent|scandent|spreading)
+(?:clambering|creeping|erect|multi(?:-|)stemmed|parted|pendent|recurved|repent|scandent|sprawling|spreading)
 
 Hairs:
-(?:above |appressed(?: |-)|(?:outside |)densely |fairly |inside |minutely |more or less |nearly |often |outside |rather |short |softly |somewhat |(?:above |)sparsely |very |)(?:glabr(?:escent|ous)|hair(?:less|s)|hirsute|pilos(?:e|ulous)|(?:hirto-|)puberul(?:ent|ous)|(?:appressed |)pubescent|sericeous|strig(?:ill|)ose|toment(?:ellous|ose)|villo(?:se|us))
+(?:cili(?:ol|)ate|<subChar class="colour">ferrugineous|glabr(?:ate|escent|ous)|hair(?:less|s|y)|hirsute|hirtellous|hispid(?:ulous|)|lanate|lepidote|pilos(?:e|ulous)|(?:hirto-|)puberul(?:ent|ous)|(?:appressed |)pubescent|<subChar class="colour">rufous|sericeous|strig(?:ill|)ose|toment(?:ellous|ose)|trichome(?:s|)|villo(?:se|us))
 
 Margin type:
-(?:fairly |minutely |more or less |nearly |often |rather |short |softly |somewhat |sparsely |very |)(?:dentate|entire|serrate|serrulate|sinuate|spinose)
+(?:crenate|crenulate|dentate|entire|erose|lacerate|serrate|serrulate|sinuate|spinose|undulate)
 
 Position:
-(?:both |former in |mostly |nearly |(?:in uppermost leaf axils, |)not (?:truly |)|)(?:(?:supra-|)axillary(?: only(?:\?|)|)|cauliflorous|lateral|pendulous|ramiflorous|terminal)
-
-Shape:
-(?:broadly |irregularly |more or less |mostly |narrowly |obliquely |somewhat |varying from |)(?:acuminate|acute|(?:a|)symmetrical|(?:ob|)conic(?:al|)|cordate|cuneate|cylindric|deltoid|(?:ob|)ellip(?:soid|tic(?:al|))|(?:sub|)falcate|funnelform|fusiform|(?:sub|)globose|(?:(?:linear-|)ob|\(ob\)|wide-|)lance(?:olate|)|linear|oblong(?:oid|)|obtuse|(?:sub|)orbicula(?:r|te)|(?:(?:sub|)ob|\(ob\)|)ovate|ovoid|(?:sub|)rhombic|(?:sub|)reniform|rounded|(?:sub|)spat(?:h|)ulate|(?:sub|)spherical|subulate|(?:sub|)triangular|truncate|tubular)
+(?:(?:supra-|)axillary(?: only(?:\?|)|)|cauliflorous|lateral|pendulous|ramiflorous|terminal)
 
 Texture:
-(?:fairly |more or less |often |rather |somewhat |very |)(?:bullate|chartaceous|(?:sub|)coriaceous|fleshy|leathery|membranous|papery|papyraceous|scabrous|stiff|thick(?!-walled)|thin)
+(?:bullate|(?:sub|)carnose|chartaceous|(?:sub|)coriaceous|crustaceous|fleshy|granular|leathery|membranous|papery|papyraceous|roughened|rugose|scabrous|scaly|smooth|stiff|thick(?!-walled)|thin|tuberculate)
 
+Shape:
+(?:acicular|(?:sub|)acuminate|(?:sub|)acute|ampliate|(?:sub|)angular|(?:sub|)apiculate|(?:a|)symmetrical|attenuate|auriculate|(?:sub|)campanulate|(?:sub|)capitate|(?:sub|)carinate|(?:sub|)circular|(?:sub|)clavate|(?:lenticular-|)cochleate|(?:sub|)concave|(?:ob|)conic(?:al|)|(?:sub|)cordate|cucullate|(?:sub|)cuneate|(?:sub|)cylindric|decurrent|deltate|deltoid|(?:ob|sub|)ellip(?:soid|tic(?:al|))|(?:sub|)elongate|(?:sub|)falcate|filiform|flat(?:tened|)|funnelform|fusiform|(?:sub|)globose|(?:sub|)hexagonal|hippocrepiform|infundibuliform|(?:(?:linear-|)ob|\(ob\)|wide-|)lance(?:olate|)|lenticular|(?:sub|)linear|(?:sub|)oblique|(?:sub|)oblong(?:oid|)|obtuse|(?:cochleate-|sub|)orbicula(?:r|te)|(?:(?:sub|)ob|\(ob\)|lance-|)ovate|(?:sub|)ovoid|(?:sub|)paniculate|pyriform|(?:sub|)quadrangular|(?:sub|)quadrate|(?:sub|)rhombic|(?:lenticular-|sub|)reniform|rotundate|rounded|salverform|(?:sub|)spat(?:h|)ulate|(?:sub|)spheric(?:al|)|subulate|(?:sub|)terete|(?:sub|)thyrsiform|(?:sub|)triangular|truncate|tubular|urceolate)
+
+Still incomplete, of course.
 
