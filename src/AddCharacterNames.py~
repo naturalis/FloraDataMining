@@ -6,7 +6,21 @@ termsAndRegex = open(sys.argv[2], "r")
 termsAndClasses = open(sys.argv[3], "r")
 matrix = []
 output = open("matrix.tsv", "w")
-colourList = ['aquamarine', 'azure', 'black', 'blu', 'brown', 'champagne', 'crimson' , 'cyan' , 'gold', 'green', 'grey', 'indigo', 'lavender', 'lilac', 'magenta', 'maroon', 'orang', 'pink', 'purpl',  'red', 'scarlet', 'silver', 'transparent', 'turquoise', 'variously colored', 'vermillion', 'violet', 'whit', 'yellow']
+
+def fillEmptyFielsWithFamily(rowNumber, matrix):
+
+	for i in range(rowNumber + 1, len(matrix)):
+		for j in range(1, len(matrix)):
+			if matrix[i][j] == "-" or 0:
+				matrix[i][j] = matrix[rowNumber[j]]
+	
+
+def fillEmptyFiledsWithGenerus(generus, rowNumber, matrix):
+	for i in range(rowNumber + 1, len(matrix)):
+		if genera.lower() in matrix[i][0].lower():
+			for j in range(1, len(matrix[0])):
+				if matrix[i][j] == "-" or matrix[i][j] == 0:
+					matrix[i][j] = matrix[rowNumber][j] 
 
 
 # This function prints a matrix in tsv format, when giving the matrix as argument.
@@ -92,8 +106,11 @@ def categorizeOrdinals(array, categories):
 	for string in categories:
 		categoryNumber += 1
 		for i in range(len(array)):
-			if (string in array[i].split(",")[0]):# and (('not ' + string) in array[i] == False):
-				categorizedArray[i] = categoryNumber
+			if string in array[i].split(",")[0]:
+				print 'not ' + string
+				if ('not ' + string) not in array[i].split(',')[0]:
+					print string
+					categorizedArray[i] = categoryNumber
 	return categorizedArray
 
 
@@ -152,12 +169,12 @@ def printNumericValueArray(array):
 
 
 #This code reads a matrix, a term, and a list with categories belonging to that term. It returns a matrix with integers corresponding to a category to which the values int he matrix are assigned.
-def initCategorizationOrdinals(matrix, term, termList):		
+def initCategorizationOrdinals(matrix, term, categoryList):		
 	for i in range(1, len(matrix)):
 		classes = matrix[i][0].split("/")
 
 		if classes[len(classes) -1 ] == term:
-			matrix[i][1:] = categorizeOrdinals(matrix[i][1:], termList)
+			matrix[i][1:] = categorizeOrdinals(matrix[i][1:], categoryList)
 	return matrix
 
 	
@@ -174,41 +191,21 @@ def readTermsAndClasses(termsAndCategories, matrix):
 
 #Returns one numerical value for a range or in a text containing a numerical value
 def initCategorizationNumerics(matrix):
-	for i in range(1, len(matrix)):	
-		if all(isinstance(item, str) for item in matrix[i]) == True:
-			matrix[i][1:] = printNumericValueArray(matrix[i][1:])	
-
-
-def fillWholeGenerus(matrix, generus):
-	generus = generus.lower()
-
-	for i in range(len(matrix)):
-		if matrix[i][0].lower() == generus:
-			rowValue = i
-			break
-
-		if generus in matrx[i][j]:
-			for j in range(len(matrix)):
-				if matrix[i][j] == '-':
-					matrix[i][j] == matrix[rowValue][j]					
-		
-
-def fillWholeFamily(matrix):
-
-	for i in range(len(matrix)):
-		for j in range(len(matrix[0])):
-			if matrix[i][j] == "-":
-				matrix[i][j] = matrix[0][j]		
+	for i in range(1, len(matrix)):
+		if all(isinstance(item, str) for item in matrix[i]):
+			matrix[i][1:] = printNumericValueArray(matrix[i][1:])		
 	
 
-def readMatrix(matrixFile)
+def readMatrix(matrix, matrixFile):
 	for line in matrixFile:
 		row = line.split("\t")
 		matrix.append(row)
+	return matrix
 
 
-readMatrix(matrixFile)
+matrix = readMatrix(matrix, matrixFile)
 matrix = map(list, zip(*matrix))
+
 readTermsAndClasses(termsAndClasses, matrix)
 initCategorizationNumerics(matrix)
 

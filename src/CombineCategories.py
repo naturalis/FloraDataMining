@@ -9,15 +9,15 @@ def combineCategories(categoryList):
 	for line in categoryList:
 
 		if re.match('\w', line[0]):	
-			categoryList = line[:len(line) - 1].split(",")
+			categoryListLine = line[:len(line) - 1].split(",")
 			newLine = ""
-
-			for i in range(len(categoryList)):
-				for j in range(len(categoryList)):
+			print categoryListLine
+			for i in range(len(categoryListLine)):
+				for j in range(len(categoryListLine)):
 					if i != j: 
 						newLine += categoryList[i] + "," + categoryList[i] + " to " + categoryList[j] + "," + categoryList[i] + " or " + categoryList[j]
-					if i != len(categoryList) - 1:
-						newLine += ','
+				if i != len(categoryListLine) - 1:
+					newLine += ','
 			line = newLine
 
 		output.write(line)
