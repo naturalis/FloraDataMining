@@ -105,10 +105,10 @@ def categorizeOrdinals(array, categories):
 
 	for string in categories:
 		categoryNumber += 1
+		print string
 		for i in range(len(array)):
-			if string in array[i].split(",")[0]:
-				if ('not ' + string) not in array[i].split(',')[0]:
-					categorizedArray[i] = categoryNumber
+			if re.search(string, array[i].split(',')[0]):
+				categorizedArray[i] = categoryNumber
 	return categorizedArray
 
 
@@ -133,7 +133,7 @@ def categorizeFloat(string):
 	return convertToMm(string, number)
 
 
-#Reads a range and retuens the highest value in that range.
+#Reads a range and returns the highest value in that range.
 def categorizeRange(string):
 	numberRange = re.search('[0-9]+-[0-9]+', string).group(0)
 	numbers = numberRange.split('-')
@@ -176,12 +176,12 @@ def initCategorizationOrdinals(matrix, term, categoryList):
 	return matrix
 
 	
-#This code reads the file containing the terms and the different class assigned to that term. The term is put on the first row aneding wiht a :. IN the next line a row with classes is shown.
+#This code reads the file containing the terms and the different class assigned to that term. The term is put on the first row aneding with a :. IN the next line a row with classes is shown.
 def readTermsAndClasses(termsAndCategories, matrix):
 	for line in termsAndCategories:
 		if line[len(line) - 2] == ":":
 			term = line[:len(line) - 2].lower()
-		elif re.match('\w', line[0]):	
+		elif line.split(',') > 0:	
 			categoryList = line[:len(line) - 1].split(",")
 			#When one term and its classes are found categorization of the text in the matrix with the help of the classses can start.
 			matrix = initCategorizationOrdinals(matrix, term, categoryList)
