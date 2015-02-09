@@ -26,7 +26,8 @@ def convertToMm(string, number):
 		return number * 10
 	elif ' dm ' in string:
 		return number * 100
-	elif re.search(' m([^a-z])', string):
+	elif re.search(' m(" "|$)', string):
+		print string
 		return number * 1000
 	else:
 		return number
@@ -67,7 +68,10 @@ def printNumericValueArray(array):
 			array[i] = categorizeFloat(array[i])
 		elif re.search('[0-9]+', array[i]):
 			number = re.search('[0-9]+', array[i]).group(0)
+			print number
+			print array[i]
 			array[i] = convertToMm(array[i], int(number))
+			print array[i]
 	return array	
 
 
@@ -76,6 +80,7 @@ def initCategorizationNumerics(matrix):
 	for i in range(1, len(matrix)):
 		for j in range(1,len(matrix[0])):
 			if re.search('[0-9] ', matrix[i][j]):
+				print matrix[i][1:]
 				matrix[i][1:] = printNumericValueArray(matrix[i][1:])
 				break
 

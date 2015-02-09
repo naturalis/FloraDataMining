@@ -4,7 +4,7 @@ import re
 matrixFile = open(sys.argv[1], "r")
 termsAndClasses = open(sys.argv[2], "r")
 matrix = []
-output = open("matrix.tsv", "w")
+output = open("new_matrix.tsv", "w")
 
 
 # This function prints a matrix in tsv format, when giving the matrix as argument.
@@ -39,7 +39,6 @@ def catOrdinals(array, categories):
 def initCategorizationOrdinals(matrix, term, categoryList):		
 	for i in range(1, len(matrix)):
 		classes = matrix[i][0].split("/")
-
 		if classes[len(classes) - 1] == term:
 			print classes
 			matrix[i][1:] = catOrdinals(matrix[i][1:], categoryList)
@@ -47,15 +46,15 @@ def initCategorizationOrdinals(matrix, term, categoryList):
 
 
 #This code reads the file containing the terms and the different class assigned to that term. The term is put on the first row aneding wiht a :. IN the next line a row with classes is shown.
-def readTermsAndClasses(termsAndCategories, matrix):
-	for line in termsAndCategories:
+def readTermsAndClasses(termsAndClasses, matrix):
+	for line in termsAndClasses:
+
 		if line[len(line) - 2] == ":":
 			term = line[:len(line) - 2].lower()
 		elif len(line.split(',')) > 1:
 			categoryList = line[:len(line) - 1].split(",")
 			#When one term and its classes are found categorization of the text in the matrix with the help of the classses can start.
-			print term
-			matrix = initCategorizationOrdinals(matrix, term, categoryList)
+			initCategorizationOrdinals(matrix, term, categoryList)
 
 
 def readMatrix(matrix, matrixFile):
@@ -63,7 +62,6 @@ def readMatrix(matrix, matrixFile):
 		row = line.split("\t")
 		matrix.append(row)
 	return matrix
-
 
 matrix = readMatrix(matrix, matrixFile)
 matrix = map(list, zip(*matrix))

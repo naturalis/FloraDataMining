@@ -7,7 +7,7 @@ termsAndClasses = open(sys.argv[3], "r")
 matrix = []
 output = open("matrix.tsv", "w")
 
-def fillEmptyFielsWithFamily(rowNumber, matrix):
+def fillEmptyFieldsWithFamily(rowNumber, matrix):
 
 	for i in range(rowNumber + 1, len(matrix)):
 		for j in range(1, len(matrix)):
