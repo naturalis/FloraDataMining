@@ -1,21 +1,9 @@
 import sys
 import re
 
-matrixFile = open(sys.argv[1], "r")
-matrix = []
-output = open("matrix.tsv", "w")
-
-
-# This function prints a matrix in tsv format, when giving the matrix as argument.
-def printMatrixToTsv(matrix):	
-	for i in range(len(matrix)):
-		line = ""		
-		for j in range(len(matrix[0])):
-			matrix[i][j] = str(matrix[i][j]).replace("\t", " ") 
-			line = line + matrix[i][j] + "\t"
-		line = line.replace("\n", "") 
-		output.write(line)
-		output.write("\n")
+#matrixFile = open(sys.argv[1], "r")
+#matrix = []
+#output = open("matrix.tsv", "w")
 
 
 #Reads a number and a string containing the unit. Converts the value to mm
@@ -39,13 +27,18 @@ def categorizeFloat(string):
 	return convertToMm(string, number)
 
 
+def splitRange(matrix, i, term):
+	newColumn = [0 for i in range(len(matrix[0]))]
+	matrix.insert(i + 1, newColumn)
+	matrix.insert(i + 2, newColumn)
+	matrix[i+1][0] = term + '/' + "minimum"
+	matrix[i+2][0] = term + '/' + "maximum"	 
+
+
 #Reads a range and returns the highest value in that range.
 def categorizeRange(string):
 	numberRange = re.search('[0-9]+-[0-9]+', string).group(0)
-	numbers = numberRange.split('-')
-	lowest = numbers[0]
-	highest = numbers[1]
-	return convertToMm(string, int(highest))
+	return numberRange.split('-')
 
 
 #This code reads a string containing a float in a range and returns the highest value in the range.
@@ -56,12 +49,17 @@ def categorizeFloatRange(string):
 
 
 #This code reads an array with strings containing numerical values. It returns an array with all values converted to one numeric float or int
-def printNumericValueArray(array):
+def printNumericValueArray(matrix, array):
 	for i in range(len(array)):
 		if array[i] == '-':
 			array[i] = 0
+
 		elif re.search('[0-9]-[0-9]+\.[0-9]+', array[i]):
-			array[i] = categorizeFloatRange(array[i])
+			splitRange(matrix, matrix.index(array), array[0])
+			categories = categorizeFloatRange(array[i])
+			matrix[matrix.index(array) + 1] = categories[0]
+			matrix[matrix.index(array) + 2] = categories[2]
+
 		elif re.search('[0-9]+-[0-9]+', array[i]):
 			array[i] = categorizeRange(array[i])
 		elif re.search('[0-9]+\.[0-9]+', array[i]):
@@ -85,15 +83,8 @@ def initCategorizationNumerics(matrix):
 				break
 
 
-def readMatrix(matrix, matrixFile):
-	for line in matrixFile:
-		row = line.split("\t")
-		matrix.append(row)
-	return matrix
-
-
-matrix = readMatrix(matrix, matrixFile)
-matrix = map(list, zip(*matrix))
-initCategorizationNumerics(matrix)
-printMatrixToTsv(map(list, zip(*matrix)))
+#matrix = readMatrix(matrix, matrixFile)
+#matrix = map(list, zip(*matrix))
+#initCategorizationNumerics(matrix)
+#printMatrixToTsv(map(list, zip(*matrix)))
 

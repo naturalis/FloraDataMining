@@ -6,10 +6,10 @@ import codecs
 import numpy
 
 tree = ET.parse(sys.argv[1])
-characterFile = open(sys.argv[2], "r")
+#characterFile = open(sys.argv[2], "r")
 output = open("matrix.tsv", "w")
 root = tree.getroot()
-numberOfFeatures = 0
+#numberOfFeatures = 0
 
 
 # This function prints a matrix in tsv format, when giving the matrix as argument.
@@ -53,13 +53,13 @@ def deleteRowsLackingChars(matrix):
 #This recursively adds the texts from the subcharacters to the matrix containing the text parst of the characters 
 def addSubchars(matrix, char, name, i):
 	if char.getchildren():
-		subchars = char.getchildren():
+		subchars = char.getchildren()
 		newName = "/".join(subchars)
 			
-			for j in range(len(matrix[0])):			
-				if  matrix[0][j] == newName:
-					matrix[i][j] = subchar.text.encode("UTF-8")					
-			addSubchars(matrix, subchar, newName, i)
+		for j in range(len(matrix[0])):			
+			if  matrix[0][j] == newName:
+				matrix[i][j] = subchar.text.encode("UTF-8")					
+		addSubchars(matrix, subchar, newName, i)
 
 
 #Adds the habitat and its altitude to the matrix.
@@ -74,8 +74,6 @@ def addHabitatData(matrix, i, node):
 		if habitat.text:
 			matrix[i][len(matrix[0]) - 2] = habitat.text.encode("UTF-8")	
 	
-
-
 
 #This function adds the texts belonging to the subcharacters to the matrix.
 def addChars(matrix, i, node):
@@ -156,6 +154,7 @@ def getNumberOfCharacters(char):
 #Counts the number of species in the matrix
 def getNumberOfSpecies():
 	numberOfSpecies = 0
+
 	for homotypes in root.findall("./treatment/taxon/nomenclature/homotypes"):		
 		for nom in homotypes:
 			if nom.get('class') == 'accepted':
@@ -163,19 +162,19 @@ def getNumberOfSpecies():
 	return numberOfSpecies
 
 
-numberOfCharacters = getNumberOfCharacters(characterFile)
-numberOfSpecies = getNumberOfSpecies()
-matrix = [["-" for i in range(2 + numberOfCharacters + 1)] for j in range(numberOfSpecies + 1)]
-matrix[0][len(matrix[0]) - 1] = "/habitat/altitude"
-matrix[0][len(matrix[0]) - 2] = "/habitat"
-getSpecies(matrix)
-getCharacters(matrix, characterFile)
-fillMatrix(matrix)
+#numberOfCharacters = getNumberOfCharacters(characterFile)
+#numberOfSpecies = getNumberOfSpecies()
+#matrix = [["-" for i in range(2 + numberOfCharacters + 1)] for j in range(numberOfSpecies + 1)]
+#matrix[0][len(matrix[0]) - 1] = "/habitat/altitude"
+#matrix[0][len(matrix[0]) - 2] = "/habitat"
+#getSpecies(matrix)
+#getCharacters(matrix, characterFile)
+#fillMatrix(matrix)
 
-matrix = deleteRowsLackingChars(matrix)
+#matrix = deleteRowsLackingChars(matrix)
 
-printMatrixToTsv(matrix)				
-output.close()					
+#printMatrixToTsv(matrix)				
+#output.close()					
 
 					
 				
