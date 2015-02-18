@@ -6,6 +6,28 @@ import re
 #output = open("matrix.tsv", "w")
 
 
+def divideNumerics(matrix):
+	rangeRegex = '[0-9]+(\.[0-9]+)?-[0-9]+(\.[0-9]+)?'
+
+	for row in matrix:
+		
+		for text in row:
+	
+			if re.search(rangeRegex, text):
+
+				if matrix[matrix.index(row) + 1][0] != row[0] + "/minimum":
+					matrix.insert(matrix.index(row) + 1, ['-' for i in range(len(matrix[0]))])
+					matrix.insert(matrix.index(row) + 2, ['-' for i in range(len(matrix[0]))])
+					matrix[matrix.index(row) + 1][0] = row[0] + "/minimum"
+					matrix[matrix.index(row) + 2][0] = row[0] + "/maximum"
+
+				numbers = re.search(rangeRegex, text).group(0).split("-")
+				minimum = numbers[0]
+				maximum = numbers[1]
+				matrix[matrix.index(row) + 1][row.index(text)] = minimum
+				matrix[matrix.index(row) + 2][row.index(text)] = maximum										
+
+
 #Reads a number and a string containing the unit. Converts the value to mm
 def convertToMm(string, number):
 	if ' mm ' in string:

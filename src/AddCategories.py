@@ -2,13 +2,13 @@ import sys
 import re
 import SplitColumns
 import CategorizeOrdinals
-#import ClearNumerics
+import ClearNumerics
 
 matrixFile = open(sys.argv[1], "r")
 #termsAndRegex = open(sys.argv[2], "r")
-termsAndClasses = open(sys.argv[2], "r")
+#termsAndClasses = open(sys.argv[2], "r")
 matrix = []
-output = open("matrix_cat.tsv", "w")
+output = open("matrix_new.tsv", "w")
 
 
 # This function prints a matrix in tsv format, when giving the matrix as argument.
@@ -27,7 +27,7 @@ def printMatrixToTsv(matrix):
 def readMatrix(matrix, matrixFile):
 	for line in matrixFile:
 		row = line.split("\t")
-		matrix.append(row)
+		matrix.append(row)		
 	return matrix
 
 
@@ -39,7 +39,9 @@ matrix = map(list, zip(*matrix))
 
 #CategorizeOrdinals.constructNewColumns(matrix)
 
-CategorizeOrdinals.readTermsAndClasses(termsAndClasses, matrix)
+#CategorizeOrdinals.readTermsAndClasses(termsAndClasses, matrix)
+
+ClearNumerics.divideNumerics(matrix)
 
 matrix = map(list, zip(*matrix))
 

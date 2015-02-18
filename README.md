@@ -3,14 +3,21 @@ FloraDataMining
 
 What is the project about?
 
-Plants species can be determined with the help of  a books mentioned Flora's. These Flora's are digitalized in an XML format mentioned FlorML to make them more accessible. When digitalized, the Flora data can be mined when it is put in table form. Because of this, a matrix is developed with species on one axis and relevant plant features (characters) on the other axis. To do this, first the characters present in the FlorML file were listed and the text belonging to some relevant elements in the FlorML file was ordered more. All these steps are performed with the programming language Python.
+Plant species can be determined with the help of some books mentioned Floras. There are multiple types of plants and multiple types of Floras. When a botanist wants to determine a plant he must access the correct Flora. 
+
+To make these Floras more accessible, these are digitalized in an XML format mentioned FlorML. The XML format is recogizable for humans and for machines. 
+
+The reason the digitalisation is not only the accessibility. When digitalized, the Flora data will be put into table form. Then, some tests can be performed with this table to find correlation between species and their traits (mentioned characters). So, the text in the new XML file is converted to a table with species on one axis and relevant plant features (characters) on the other axis. This is performed with the programming language Python.
+
+The different steps in constructing the matrix
 
 Parsing the relevant characters
-The python script MakeCharacterList.py makes a list of all characters in a FlorML file. The input is the FlorML file, and the output is the character list. Because some names are used for different character types, all characters are displayed together with their superiors on the axis of the matrix,  like for example “/grandparent/parent/child”. This list is used to build the matrix, and relevant characters can be selected from this list. 
+First a list was made of all chracters that are in a particular FlorML file. With the help of this list, it is possible to select the characters relevant for the study by hand. Because some names are used to define different character types, all characters are displayed together with their superiors, like “/grandparent/parent/child”.
 
 Ordering the text in the FlorML file
-The text belonging to some elements in the FlorML files first must be ordered, before the matrix could be constructed. There were some places where the text belonging to the relevant elements did not occur on the correct place. The script OrderXml.py reads a FlorML file, and gives as output,  FlorML file containing the same information with the text put at the correct places.
+Before continuing the matrix construction, the text in the current XML file had to be ordered. Converting the text from a book to XML is very comprehensive, and because of this there were some  incorrectnesses in where some text parts were displayed in the XML file. This makes the construction of the matrix with a programming language too complex. Because of this, first a code was written to put the texts displayed on the wrong place to the correct places.
 
-Constructing the final matrix
-The python script OrderCharacters.py constructs a matrix of the species and the characters. The input files are a FlorML file, and a csv file including the relevant the characters, their number, “Y” or “N” to select which characters are relevant, and some notes on each line. An example of a line is “1,/dispersal,N,1x mentioned”.  This will probably be changed to make the script read a list containing the relevant characters instead of this specific format, but until now this gave some unwanted newline characters in the matrix. The script also adds the habitat data to the matrix. The output is a tab-delimited file containing the final matrix. 
+The construction of the final matrix
+Finally a code was written to construct a matrix with species and characters. The input files are a FlorML file, and a csv file including the relevant the characters. The output is a tab-delimited file containing the final matrix. The rows represent the species and the columns represent the characters. 
+
 
