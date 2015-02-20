@@ -6,26 +6,37 @@ import re
 #output = open("matrix.tsv", "w")
 
 
-def divideNumerics(matrix):
-	rangeRegex = '[0-9]+(\.[0-9]+)?-[0-9]+(\.[0-9]+)?'
 
-	for row in matrix:
-		
-		for text in row:
-	
-			if re.search(rangeRegex, text):
-
-				if matrix[matrix.index(row) + 1][0] != row[0] + "/minimum":
-					matrix.insert(matrix.index(row) + 1, ['-' for i in range(len(matrix[0]))])
-					matrix.insert(matrix.index(row) + 2, ['-' for i in range(len(matrix[0]))])
-					matrix[matrix.index(row) + 1][0] = row[0] + "/minimum"
-					matrix[matrix.index(row) + 2][0] = row[0] + "/maximum"
-
-				numbers = re.search(rangeRegex, text).group(0).split("-")
-				minimum = numbers[0]
-				maximum = numbers[1]
-				matrix[matrix.index(row) + 1][row.index(text)] = minimum
-				matrix[matrix.index(row) + 2][row.index(text)] = maximum										
+def divideNumerics(matrix, row, regex, left, right, term):
+	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
+	print row
+	for text in row:
+		if re.search("sea( |-)level", text):
+			row[row.index(text)] = '0'.join(text.split(re.search("sea( |-)level", text).group(0)))
+			text = '0'.join(text.split("sea level"))
+									
+		if re.search(regex, text):
+			
+			if matrix[matrix.index(row) + 1][0] != row[0] + left:
+				matrix.insert(matrix.index(row) + 1, ['-' for i in range(len(matrix[0]))])
+				matrix.insert(matrix.index(row) + 2, ['-' for i in range(len(matrix[0]))])
+				matrix[matrix.index(row) + 1][0] = row[0] + left
+				matrix[matrix.index(row) + 2][0] = row[0] + right
+				
+			if term == "l":
+				temp = re.search(regex, text).group(0)
+				number = re.search(numberRegex, temp).group(0)
+				matrix[matrix.index(row) + 1][row.index(text)] = number
+					
+			elif term == "r":
+				temp = re.search(regex, text).group(0)
+				number = re.search(numberRegex, temp).group(0)
+				matrix[matrix.index(row) + 2][row.index(text)] = number	
+				
+			else:
+				numbers = re.search(regex, text).group(0).split(term)
+				matrix[matrix.index(row) + 1][row.index(text)] = numbers[0]
+				matrix[matrix.index(row) + 2][row.index(text)] = numbers[1]										
 
 
 #Reads a number and a string containing the unit. Converts the value to mm

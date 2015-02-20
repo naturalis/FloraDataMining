@@ -6,6 +6,28 @@ categoryList = open(sys.argv[2], "r")
 matrix = []
 term = "colour"
 
+def constructColumns(array):
+
+	for cell in array:
+
+		if cell.split(',') > :
+			
+			for term in array.split(','):
+				array.append(term)
+				array.remove(array[array.index(term)])
+	return set(array)							
+
+
+def ConstructNewArray(rows)
+
+columns = constructColumns(rows)
+newMatrix = [[0 for j in range(len(columns) + 1)] for i in range(len(array) + 1]
+
+for i in range(1, len(newMatrix) + 1):
+	for j in range(1, len(newMatrix[0] + 1):
+		if matrix[0][j] in matrix[i][0]:
+			matrix[i][j] = 1
+
 
 # This function prints a matrix in tsv format, when giving the matrix as argument.
 def printMatrixToTsv(m):	
