@@ -1,7 +1,7 @@
 import sys
 import re
 import SplitColumns
-import CategorizeNominals
+import CategorizeOrdinals
 import ClearNumerics
 
 matrixFile = open(sys.argv[1], "r")
@@ -43,9 +43,9 @@ matrix = map(list, zip(*matrix))
 
 #matrix = SplitColumns.initSplitting(termsAndRegex, matrix)
 
-#CategorizeNominals.constructNewColumns(matrix)
+#CategorizeOrdinals.constructNewColumns(matrix)
 
-#CategorizeNominals.readTermsAndClasses(termsAndClasses, matrix)
+#CategorizeOrdinals.readTermsAndClasses(termsAndClasses, matrix)
 
 
 #for row in matrix:

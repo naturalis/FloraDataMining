@@ -11,7 +11,7 @@ def rowNumbersNotInRange(matrix):
 
 	for row in matrix:
 
-		if matrix.index(row) == len(matrix) - 1:
+		if matrix.index(row) == len(matrix - 1):
 			return
 
 		elif row[0] != matrix[matrix.index(row) - 1][0]:
