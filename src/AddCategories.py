@@ -3,9 +3,10 @@ import re
 import SplitColumns
 import CategorizeNominals
 import ClearNumerics
+import ConstructCategoryMatrix
 
 matrixFile = open(sys.argv[1], "r")
-#termsAndRegex = open(sys.argv[2], "r")
+termsAndRegex = open(sys.argv[2], "r")
 #termsAndClasses = open(sys.argv[2], "r")
 matrix = []
 rangeRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?-[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
@@ -47,7 +48,6 @@ matrix = map(list, zip(*matrix))
 
 #CategorizeNominals.readTermsAndClasses(termsAndClasses, matrix)
 
-
 #for row in matrix:
 #
 #	if row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions" or row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions (merged)":		
@@ -63,8 +63,17 @@ matrix = map(list, zip(*matrix))
 #	if row[0].split('/')[len(row[0].split('/')) - 2] == "dimensions" or row[0].split('/')[len(row[0].split('/')) - 2] == "dimensions (merged)":
 #		ClearNumerics.divideNumerics(matrix, row, rangeRegex, "/minimum", "/maximum", "-")
 
+#termList = CategorizeNominals.searchNewTerms(matrix)
 
-ClearNumerics.rowNumbersNotInRange(matrix)
+#CategorizeNominals.filterTerms(matrix, termList, termsAndRegex)
+
+#ClearNumerics.rowNumbersNotInRange(matrix)
+
+for row in matrix[1:]:
+	if row[0] != '-':
+		if row[0].split('/')[len(row[0].split('/')) - 1] == "colour" and row[0] != matrix[matrix.index(row) + 1][0]:
+			possibilities = ConstructCategoryMatrix.listPossibilities(row)
+			print possibilities
 
 matrix = map(list, zip(*matrix))
 

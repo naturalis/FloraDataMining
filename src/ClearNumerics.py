@@ -19,16 +19,16 @@ def rowNumbersNotInRange(matrix):
 			hierarchyNextRow = matrix[matrix.index(row) + 1][0].split('/')
 
 			if hierarchyNextRow[len(hierarchyNextRow) - 1]  == 'minimum':
-				matrix.insert( matrix.index(row) + 1, ['-' for i in range(len(row))] )
-				matrix[matrix.index(row) + 1][0] = matrix[matrix.index(row)][0] 
+				matrix.insert( matrix.index(row), ['-' for i in range(len(row))] )
+				matrix[matrix.index(row) - 1][0] = matrix[matrix.index(row)][0] 
 			
 				for cell in row:
-					if matrix[matrix.index(row) + 2][row.index(cell)] == '-' and matrix[matrix.index(row) + 3][row.index(cell)] == '-' and re.search(numberRegex, cell):
-						matrix[matrix.index(row) + 1][row.index(cell)] = re.search(numberRegex, cell).group(0)
+					if matrix[matrix.index(row) + 1][row.index(cell)] == '-' and matrix[matrix.index(row) + 2][row.index(cell)] == '-' and re.search(numberRegex, cell):
+						matrix[matrix.index(row) - 1][row.index(cell)] = re.search(numberRegex, cell).group(0)
 		
 		
 def divideNumerics(matrix, row, regex, left, right, term):
-	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
+	numberRegex = '[0-9]+(\.[0-9]+)?'
 
 	for text in row:
 		if re.search("sea( |-)level", text):

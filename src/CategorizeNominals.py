@@ -7,6 +7,43 @@ import re
 #output = open("new_matrix.tsv", "w")
 
 
+def filterTerms(matrix, termList, termsAndRegex):
+	rangeRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?-[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
+	termList = list(termList)
+
+	for term in termList:
+			
+		if re.search(rangeRegex, term):
+			termList.remove(term)				
+			continue
+		
+		for line in termsAndRegex:
+		
+			if re.search(line, term):
+				termList.remove(term)				
+				break
+			
+			elif re.search(rangeRegex, term):
+				termList.remove(term)				
+				break	
+	print termList			
+					
+
+
+def searchNewTerms(matrix):
+	termList = []
+
+	for row in matrix[1:]:
+
+		if len(row[0].split('/')) < 3 and row[0] != matrix[matrix.index(row) - 1][0]:
+
+			for cell in row[1:]:
+
+				termList.extend(cell.split(" "))
+
+	return set(termList)	
+
+
 #Reads an array with strings containing terms and a list of terms. This code categorizes all arrays to a categoryNumber 	
 def catNominals(speciesStates, categorizedArray, categories):
 
