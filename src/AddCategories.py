@@ -69,11 +69,7 @@ matrix = map(list, zip(*matrix))
 
 #ClearNumerics.rowNumbersNotInRange(matrix)
 
-for row in matrix[1:]:
-	if row[0] != '-':
-		if row[0].split('/')[len(row[0].split('/')) - 1] == "colour" and row[0] != matrix[matrix.index(row) + 1][0]:
-			possibilities = ConstructCategoryMatrix.listPossibilities(row)
-			print possibilities
+matrix = ConstructCategoryMatrix.initBitColumns(matrix, "colour")
 
 matrix = map(list, zip(*matrix))
 

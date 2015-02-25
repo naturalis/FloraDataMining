@@ -39,31 +39,48 @@ def printMatrixToTsv(m):
 		line = line.replace("\n", "") 
 		output.write(line)
 		output.write("\n")
-
-
-def constructCategoryMatrix(speciesList, categoryList, possibilities):
-	categoryMatrix = [[0 for j in range(len(possibilities) - 1)] for i in range(len(r))]
-	categoryMatrix[0] = possibilities
 	
+
+def constructCategoryMatrix(row, term, possibilities):
+	categoryMatrix = [["0" for j in range(len(possibilities))] for i in range(len(row))]
+	categoryMatrix[0] = possibilities
+				
 	for cell in row:
 
 		for possibility in possibilities:
 
-			if possibility in cell:
-				
-				matrix[row.index(cell)][possibilities.index(possibility)] = 1		
+			if possibility in cell:			
+				categoryMatrix[row.index(cell)][possibilities.index(possibility)] = "1"	
+	return categoryMatrix
+	
 
-
-def listPossibilities(values):
+def listPossibilities(row, term):
 	possibilities = []
 
- 	for value in values[1:]:
+ 	for value in row[1:]:
 		possibilities.extend(value.split(','))
-
+	
 	possibilities = list(set(possibilities))
 	possibilities.remove('-')
-
+	
 	return possibilities
+
+
+def initBitColumns(matrix, term):
+
+	for row in matrix[1:]:
+
+		if row[0].split('/')[len(row[0].split('/')) - 1] == term and row[0] != matrix[matrix.index(row) + 1][0]:
+			possibilities = listPossibilities(row, term)
+			categoryMatrix = constructCategoryMatrix(row, term, possibilities)
+
+			matrix.insert(matrix.index(row), ['-' for i in range(len(matrix[0]))])
+				
+			for cell in row:
+				print categoryMatrix[row.index(cell)]
+				print "".join(categoryMatrix[row.index(cell)])
+				matrix[matrix.index(row) - 1][row.index(cell)] = "".join(categoryMatrix[row.index(cell)])
+	return matrix
 
 
 def column(matrix, i):
