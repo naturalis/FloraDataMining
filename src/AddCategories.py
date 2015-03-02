@@ -9,12 +9,12 @@ matrixFile = open(sys.argv[1], "r")
 termsAndRegex = open(sys.argv[2], "r")
 #termsAndClasses = open(sys.argv[2], "r")
 matrix = []
-rangeRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?-[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
-dimensionRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))? x [0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
-maxRegex = '(to|up to|to over) [0-9]+(\.[0-9]+)?'
-minRegex = '(above|from) [0-9]+(\.[0-9]+)?'
-lenRegex = '[0-9]+(\.[0-9]+) (long|in diam)'
-widRegex = '[0-9]+(\.[0-9]+) (wide|thick)'
+#rangeRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?-[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
+#dimensionRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))? x [0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
+#maxRegex = '(to|up to|to over) [0-9]+(\.[0-9]+)?'
+#minRegex = '(above|from) [0-9]+(\.[0-9]+)?'
+#lenRegex = '[0-9]+(\.[0-9]+) (long|in diam)'
+#widRegex = '[0-9]+(\.[0-9]+) (wide|thick)'
 output = open("matrix_new.tsv", "w")
 
 
@@ -67,9 +67,9 @@ matrix = map(list, zip(*matrix))
 
 #CategorizeNominals.filterTerms(matrix, termList, termsAndRegex)
 
-#ClearNumerics.rowNumbersNotInRange(matrix)
+ClearNumerics.initializeDivideNumerics(matrix)
 
-matrix = ConstructCategoryMatrix.initBitColumns(matrix, "colour")
+matrix = ConstructCategoryMatrix.initBitCodingMultipleCat(matrix, termsAndRegex)
 
 matrix = map(list, zip(*matrix))
 

@@ -44,13 +44,15 @@ def printMatrixToTsv(m):
 def constructCategoryMatrix(row, term, possibilities):
 	categoryMatrix = [["0" for j in range(len(possibilities))] for i in range(len(row))]
 	categoryMatrix[0] = possibilities
-				
-	for cell in row:
-
+			
+	for i in range(1, len(row)):
+		categories = row[i].split(",")
+		
 		for possibility in possibilities:
+			for category in categories:
 
-			if possibility in cell:			
-				categoryMatrix[row.index(cell)][possibilities.index(possibility)] = "1"	
+				if possibility == category:	
+					categoryMatrix[i][possibilities.index(possibility)] = "1"	
 	return categoryMatrix
 	
 
@@ -67,19 +69,28 @@ def listPossibilities(row, term):
 
 
 def initBitColumns(matrix, term):
+	result = matrix[:][:]		
 
-	for row in matrix[1:]:
+	for i in range(1, len(matrix)):
 
-		if row[0].split('/')[len(row[0].split('/')) - 1] == term and row[0] != matrix[matrix.index(row) + 1][0]:
-			possibilities = listPossibilities(row, term)
-			categoryMatrix = constructCategoryMatrix(row, term, possibilities)
+		if matrix[i][0].split('/')[len(matrix[i][0].split('/')) - 1] == term and matrix[i][0] != matrix[i + 1][0]:
+			possibilities = listPossibilities(matrix[i], term)
+			categoryMatrix = constructCategoryMatrix(matrix[i], term, possibilities)
 
-			matrix.insert(matrix.index(row), ['-' for i in range(len(matrix[0]))])
-				
-			for cell in row:
-				print categoryMatrix[row.index(cell)]
-				print "".join(categoryMatrix[row.index(cell)])
-				matrix[matrix.index(row) - 1][row.index(cell)] = "".join(categoryMatrix[row.index(cell)])
+			result.insert(result.index(matrix[i]), ['-' for cell in range(len(matrix[0]))])
+
+			for j in range(1, len(result[0])):
+				result[result.index(matrix[i]) - 1][j] = "".join(categoryMatrix[j])
+
+			result[result.index(matrix[i]) - 1][0] = matrix[i][0]
+	return result
+
+
+def initBitCodingMultipleCat(matrix, cat):	
+	for line in cat:
+		
+		if line[len(line) - 2] == ':':
+			matrix = initBitColumns(matrix, line[:len(line) - 2].lower())
 	return matrix
 
 
