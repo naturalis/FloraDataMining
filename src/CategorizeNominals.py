@@ -75,13 +75,16 @@ def initCategorizationNominals(matrix, term, categoryList):
 				lastCharacterName = character[0]			
 				categoryArray = [0 for i in range(len(character))]			
 				categoryArray[1:] = catNominals(character[1:], categoryArray[1:], categoryList)
-				categoryArray[0] = character[0]	
+				categoryArray[0] = character[0]
+	
 				matrix.insert(matrix.index(character), categoryArray)
 		
 
 #This code reads the file containing the terms and the different class assigned to that term. The term is put on the first row ending wiht a :. IN the next line a row with classes is shown.
 def readTermsAndClasses(termsAndClasses, matrix):
+
 	for line in termsAndClasses:
+
 		if line[len(line) - 2] == ":":
 			term = line[:len(line) - 2].lower()
 

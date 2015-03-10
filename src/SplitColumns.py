@@ -15,19 +15,25 @@ def addNewValue(array, regexes):
 		termList = []
 
 		for regex in regexes:
+
 			if re.search(regex, array[i]):			
 				termList.append(re.search(regex, array[i]).group(0))
 
 				for j in range(len(termList) - 1):
+
 					if re.search(termList[0], termList[len(termList) - 1]):
 						termList.pop(0)
+
 					elif re.search(termList[len(termList) - 1], termList[j]):
 						termList.pop(len(termList) - 1)	
 
 		terms = ','.join(termList)
+
 		if terms == "":
 			terms = "-"
+
 		newArray[i] = terms
+
 	return newArray
 
 
@@ -45,31 +51,53 @@ def splitColumns(matrix, term, regexes):
 				break
 				
 			for regex in regexes:
-								
+				
 				if re.search(regex, array[i]):
 					lastTerm = array[0]
-					newTerm = array[0] + "/" + term.lower()
-											
+					newTerm = array[0] + "/" + term.lower()	
 					newArray = addNewValue(array, regexes)
 					newArray[0] = newTerm
-					print array
-					print newArray
+
 					matrix.insert(matrix.index(array) + 1, newArray)
 					break	
 
 	return matrix
 
 
+def stemCases(cases):
+
+	for case in cases:
+
+		if case[len(case) - 1] == 'e':						
+			stem = case[:len(case) - 1]		
+			cases[cases.index(case)] = stem
+	return cases
+
+ 
+def markOriginalCategories(matrix):
+
+	for row in matrix:
+		markedOriginalTerm = row[0] + "*"
+		row[0] = markedOriginalTerm
+
+	return matrix
+		
+
 #Adds new values to the matrix 
-def initSplitting(termsAndRegex, matrix):		
+def initSplitting(termsAndRegex, matrix):
+		
+	markOriginalCategories(matrix)
+
 	for line in termsAndRegex:
+
 		if line[len(line) - 2] == ":":
 			term = line[:len(line) - 2]
+
 		if len(line.split(',')) > 1:
-			regexes = line[:len(line) - 2].split(',')
-			print term
+			regexes = line[:len(line) - 1].split(',')
+			regexes = stemCases(regexes)
+
 			splitColumns(matrix, term, regexes)#Adds the correct terms to new columns made in the matrix
-	print matrix
 	return matrix
 
 

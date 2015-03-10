@@ -10,30 +10,32 @@ def rowNumbersNotInRange(matrix):
 	numberRegex = '[0-9]+(\.[0-9]+)?'
 
 	for row in matrix:
-
-		if matrix.index(row) == len(matrix) - 1:
-			return
+		
+		if matrix.index(row) == len(matrix) - 2:
+			return matrix
 
 		elif row[0] != matrix[matrix.index(row) - 1][0]:
-			
 			hierarchyNextRow = matrix[matrix.index(row) + 1][0].split('/')
-
-			if hierarchyNextRow[len(hierarchyNextRow) - 1]  == 'minimum':
-				matrix.insert( matrix.index(row), ['-' for i in range(len(row))] )
-				matrix[matrix.index(row) - 1][0] = matrix[matrix.index(row)][0] 
 			
-	
-			for cell in row:
-					if matrix[matrix.index(row) + 1][row.index(cell)] == '-' and matrix[matrix.index(row) + 2][row.index(cell)] == '-' and re.search(numberRegex, cell):
-						matrix[matrix.index(row) - 1][row.index(cell)] = re.search(numberRegex, cell).group(0)
+			if hierarchyNextRow[len(hierarchyNextRow) - 1]  == 'minimum' and row[0] != '-':
+				matrix.insert(matrix.index(row) + 1, ['-' for i in range(len(row))])
+				matrix[matrix.index(row) + 1][0] = matrix[matrix.index(row)][0] 
+				
+				for i in range(len(row)):
+
+					if matrix[matrix.index(row) + 2][i] == '-' and matrix[matrix.index(row) + 3][i] == '-' and re.search(numberRegex, row[i]):
+						matrix[matrix.index(row) + 1][i] = re.search(numberRegex, row[i]).group(0)	
 
 
 def fillCell(matrix, row, cellNumber, temp, n):
 	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
 	number = re.search(numberRegex, temp).group(0)
+	
+	if "-" in number:
+		number = number.split("-")[n-1]
 
 	matrix[matrix.index(row) + n][cellNumber] = number
-
+	
 
 def makeRangeRows(matrix, row, left, right):
 	matrix.insert(matrix.index(row) + 1, ['-' for i in range(len(matrix[0]))])
@@ -44,16 +46,16 @@ def makeRangeRows(matrix, row, left, right):
 	 		
 		
 def divideNumerics(matrix, row, regex, left, right, term):
+
 	for i in range(len(row)):
 
 		if re.search("sea( |-)level", row[i]):
 			row[i] = '0'.join(row[i].split(re.search("sea( |-)level", row[i]).group(0)))
-			text = '0'.join(row[i].split("sea level"))
+
+		if re.search("\(-[0-9]+(\.[0-9]+)?\??-?\)", row[i]):
+			row[i] = ''.join(row[i].split(re.search("\(-[0-9]+(\.[0-9]+)?\??-?\)", row[i]).group(0)))
 									
 		if re.search(regex, row[i]):
-			
-			if matrix[matrix.index(row) + 1][0] != row[0] + left:
-				makeRangeRows(matrix, row, left, right)
 				
 			if term == "l":
 				fillCell(matrix, row, i, re.search(regex, row[i]).group(0), 1)
@@ -61,37 +63,40 @@ def divideNumerics(matrix, row, regex, left, right, term):
 			elif term == "r":
 				fillCell(matrix, row, i, re.search(regex, row[i]).group(0), 2)
 				
-			elif len(row[i].split(term)) == 2:
+			elif len(row[i].split(term)) > 1:			
 				numbers = re.search(regex, row[i]).group(0).split(term)
 				matrix[matrix.index(row) + 1][i] = numbers[0]
 				matrix[matrix.index(row) + 2][i] = numbers[1]										
 
 
 def splitValues(matrix, row, regex, regexLeft, regexRight, left, right, delimiter):
+	for i in range(len(row)):
+
+		if re.search('(' + regex + '|' + regexLeft + '|' + regexRight + ')', row[i]):
+			makeRangeRows(matrix, row, left, right)
+			break
+
 	divideNumerics(matrix, row, regex, left, right, delimiter)
 	divideNumerics(matrix, row, regexLeft, left, right, "l")
 	divideNumerics(matrix, row, regexRight, left, right, "r")
 
 
 def initializeDivideNumerics(matrix):
-	rangeRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?-[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
-	dimensionRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))? x [0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+))?'
-	maxRegex = '(up to|to over|to) [0-9]+(\.[0-9]+)?'
-	minRegex = '(above|from) [0-9]+(\.[0-9]+)?'
-	lenRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)(\(-[0-9]\))? (long)'
-	widRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)(\(-[0-9]\))? (wide|thick|in diam)'
+	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
+	rangeRegex = numberRegex +'(\(-[0-9]+\))?' + '-' + numberRegex + '(\(-[0-9]+\))?'
+	dimensionRegex = numberRegex + '(\(-[0-9]+\))?' + ' x ' '(\([0-9]+(.[0-9]+)?-\))?' + numberRegex + '(\(-[0-9]+\))?'
+	maxRegex = '(up to|to over|to) ' + numberRegex
+	minRegex = '(above|from) ' + numberRegex
+	lenRegex = numberRegex + '(\(-[0-9]+\))? (m|c|)?m (long)'
+	widRegex = numberRegex + '(\(-[0-9]+\))? (m|c|)?m (wide|thick|in diam)'
 	
 	for row in matrix:
 
 		if row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions" or row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions (merged)":
-			splitValues(matrix, row, dimensionRegex, lenRegex, widRegex, "/length", "/width", " x ")		
-
-		else:
-			splitValues(matrix, row, dimensionRegex, minRegex, maxRegex, "/minimum", "/maximum", "-")
-
-	for row in matrix:
-		if row[0].split('/')[len(row[0].split('/')) - 2] == "dimensions" or row[0].split('/')[len(row[0].split('/')) - 2] == "dimensions (merged)":
-			divideNumerics(matrix, row, rangeRegex, "/minimum", "/maximum", "-")
+			splitValues(matrix, row, dimensionRegex, lenRegex, widRegex, "/length", "/width", " x ")
+			
+		elif row[0].split('/')[len(row[0].split('/')) - 1] != "minimum" and row[0].split('/')[len(row[0].split('/')) - 1] != "maximum":
+			splitValues(matrix, row, rangeRegex, minRegex, maxRegex, "/minimum", "/maximum", "-")
 
 
 #Reads a number and a string containing the unit. Converts the value to mm
