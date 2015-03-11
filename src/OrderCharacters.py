@@ -4,6 +4,7 @@ import sys
 import xml.etree.ElementTree as ET
 import codecs
 import numpy
+import matrix
 
 tree = ET.parse(sys.argv[1])
 characterFile = open(sys.argv[2], "r")
@@ -12,23 +13,12 @@ root = tree.getroot()
 #numberOfFeatures = 0
 
 
-# This function prints a matrix in tsv format, when giving the matrix as argument.
-def printMatrixToTsv(matrix):	
-	for i in range(len(matrix)):
-		line = ""		
-		for j in range(len(matrix[0])):
-			matrix[i][j] = str(matrix[i][j]).replace("\t", " ") 
-			line = line + matrix[i][j] + "\t"
-		line = line.replace("\n", "") 
-		output.write(line)
-		output.write("\n")
-
-
 #In this function, all places in a matrix with "-" are counted. When this amount exceeds a [articular value, the corresponding row will be deleted. The argument are the matrix and the row number.
 def countAndRemoveEmptyPlaces(matrix, i):
 	emptyPlaces = 0
 
 	for j in range(len(matrix[i])):
+
 		if matrix[i][j] == "-":
 			emptyPlaces+=1
 
@@ -42,9 +32,12 @@ def countAndRemoveEmptyPlaces(matrix, i):
 
 #In this fucntion a matrix is read and for each row not not containing enough values. The input is a matrix and the output is a smaller filtered matrix.
 def deleteRowsLackingChars(matrix): 
+
 	for i in range(len(matrix)):
+
 		if i >= len(matrix) - 1:
 			break
+
 		else:
 			matrix = countAndRemoveEmptyPlaces(matrix, i)							
 
@@ -71,9 +64,12 @@ def addHabitatData(matrix, i, node):
 	altitude = node.find('.//altitude')
 	
 	if altitude != None:
+
 		if altitude.text:
 			matrix[i][len(matrix[0]) - 1] = altitude.text.encode("UTF-8")
+
 	if habitat != None:
+
 		if habitat.text:
 			matrix[i][len(matrix[0]) - 2] = habitat.text.encode("UTF-8")	
 	
@@ -117,6 +113,7 @@ def fillMatrix(matrix):
 #This function reads characters and adds them to a matrix
 def getCharacters(matrix, chars):
 	i = 0
+
 	for line in chars:
 		i+=1
 		matrix[0][i] = line.split(",")[1]	
@@ -188,6 +185,7 @@ numberOfSpecies = getNumberOfSpecies()
 matrix = [["-" for i in range(2 + numberOfCharacters + 1)] for j in range(numberOfSpecies + 1)]
 matrix[0][len(matrix[0]) - 1] = "/habitat/altitude"
 matrix[0][len(matrix[0]) - 2] = "/habitat"
+
 
 getSpecies(matrix)
 

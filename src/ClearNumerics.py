@@ -1,9 +1,28 @@
 import sys
 import re
+import table
 
-#matrixFile = open(sys.argv[1], "r")
-#matrix = []
-#output = open("matrix.tsv", "w")
+matrixFile = open(sys.argv[1], "r")
+matrix = []
+output = open("matrix.tsv", "w")
+
+
+#Reads a number and a string containing the unit. Converts the value to mm
+def convertToMm(string, number):
+	if ' mm ' in string:
+		return number
+
+	elif ' cm ' in string:
+		return number * 10
+
+	elif ' dm ' in string:
+		return number * 100
+
+	elif re.search(' m(" "|$)', string):
+		return number * 1000
+
+	else:
+		return number
 
 
 def rowNumbersNotInRange(matrix):
@@ -31,7 +50,7 @@ def fillCell(matrix, row, cellNumber, temp, n):
 	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
 	number = re.search(numberRegex, temp).group(0)
 	
-	if "-" in number:
+	if "-" in number and row[0].split('/')[len(row[0].split('/')) - 1] != "dimensions*" and row[0].split('/')[len(row[0].split('/')) - 1] != "dimensions (merged)*":
 		number = number.split("-")[n-1]
 
 	matrix[matrix.index(row) + n][cellNumber] = number
@@ -71,7 +90,7 @@ def divideNumerics(matrix, row, regex, left, right, term):
 
 def splitValues(matrix, row, regex, regexLeft, regexRight, left, right, delimiter):
 	for i in range(len(row)):
-
+		
 		if re.search('(' + regex + '|' + regexLeft + '|' + regexRight + ')', row[i]):
 			makeRangeRows(matrix, row, left, right)
 			break
@@ -92,26 +111,14 @@ def initializeDivideNumerics(matrix):
 	
 	for row in matrix:
 
-		if row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions" or row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions (merged)":
+		if row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions*" or row[0].split('/')[len(row[0].split('/')) - 1] == "dimensions (merged)*":
 			splitValues(matrix, row, dimensionRegex, lenRegex, widRegex, "/length", "/width", " x ")
 			
 		elif row[0].split('/')[len(row[0].split('/')) - 1] != "minimum" and row[0].split('/')[len(row[0].split('/')) - 1] != "maximum":
 			splitValues(matrix, row, rangeRegex, minRegex, maxRegex, "/minimum", "/maximum", "-")
 
 
-#Reads a number and a string containing the unit. Converts the value to mm
-def convertToMm(string, number):
-	if ' mm ' in string:
-		return number
-	elif ' cm ' in string:
-		return number * 10
-	elif ' dm ' in string:
-		return number * 100
-	elif re.search(' m(" "|$)', string):
-		print string
-		return number * 1000
-	else:
-		return number
+
 
 
 #Reads a string containing a float and returns this numerical value as float.
@@ -159,10 +166,8 @@ def printNumericValueArray(matrix, array):
 			array[i] = categorizeFloat(array[i])
 		elif re.search('[0-9]+', array[i]):
 			number = re.search('[0-9]+', array[i]).group(0)
-			print number
-			print array[i]
 			array[i] = convertToMm(array[i], int(number))
-			print array[i]
+
 	return array	
 
 
@@ -171,13 +176,16 @@ def initCategorizationNumerics(matrix):
 	for i in range(1, len(matrix)):
 		for j in range(1,len(matrix[0])):
 			if re.search('[0-9] ', matrix[i][j]):
-				print matrix[i][1:]
 				matrix[i][1:] = printNumericValueArray(matrix[i][1:])
 				break
 
 
-#matrix = readMatrix(matrix, matrixFile)
-#matrix = map(list, zip(*matrix))
-#initCategorizationNumerics(matrix)
-#printMatrixToTsv(map(list, zip(*matrix)))
+matrix = table.readMatrix(matrixFile)
+
+
+matrix = map(list, zip(*matrix))
+
+initializeDivideNumerics(matrix)
+
+table.printToTsv(map(list, zip(*matrix)))
 

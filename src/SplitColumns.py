@@ -1,10 +1,10 @@
 import sys
 import re
+import table
 
-#matrixFile = open(sys.argv[1], "r")
-#termsAndRegex = open(sys.argv[2], "r")
-#matrix = []
-#output = open("matrix.tsv", "w")
+matrixFile = open(sys.argv[1], "r")
+termsAndCategories = open(sys.argv[2], "r")
+matrix = []
 
 
 #Adds the correct terms to new columns made in the matrixdef addNewValue(matrix, i, regex):
@@ -84,11 +84,11 @@ def markOriginalCategories(matrix):
 		
 
 #Adds new values to the matrix 
-def initSplitting(termsAndRegex, matrix):
+def initSplitting(termsAndCategories, matrix):
 		
 	markOriginalCategories(matrix)
 
-	for line in termsAndRegex:
+	for line in termsAndCategories:
 
 		if line[len(line) - 2] == ":":
 			term = line[:len(line) - 2]
@@ -101,7 +101,9 @@ def initSplitting(termsAndRegex, matrix):
 	return matrix
 
 
-#matrix = readMatrix(matrix, matrixFile)
-#initSplitting(termsAndRegex, matrix)
-#printMatrixToTsv(matrix)
+matrix = table.readMatrix(matrixFile)
+
+matrix = initSplitting(termsAndCategories, map(list, zip(*matrix)))
+
+table.printToTsv(map(list, zip(*matrix)))
 

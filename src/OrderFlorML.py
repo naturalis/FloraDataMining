@@ -4,16 +4,21 @@ import xml.etree.ElementTree as ET
 import sys
 import re
 
-xmlFile = open(sys.argv[1], 'r')
-output = open("ordened.xml", 'w')
 
-for line in xmlFile:
-	if re.search('<\/subChar>[,:] [a-z]', line):
-		misplaced = re.findall('<\/subChar>[,:] [^<]+', line)
+flormlFile = open(sys.argv[1], 'r')
+output = open("ordened.xml", 'w')
+subCharacter = '<\/subChar>[,:] [a-z]'
+misplacedCharacter = '<\/subChar>[,:] [^<]+'
+
+
+for line in flormlFile:	
+
+	if re.search(subCharacter, line):
+		misplaced = re.findall(misplacedCharacter, line)
 		fields = re.split('[<>]', line)
 
 		for group in misplaced:
-			fields[2]+= "|" + group.split('>')[1]			
+			fields[2] += "|" + group.split('>')[1]			
 
 		line = fields[0] + "<"
 

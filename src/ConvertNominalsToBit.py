@@ -1,5 +1,6 @@
 import sys
 import re
+import table
 
 matrixFile = open(sys.argv[1], "r")
 termsAndCategories = open(sys.argv[2], "r")
@@ -73,7 +74,7 @@ def listPossibilities(matrix,term):
 				possibilities.extend(value.split(','))
 
 	possibilities = list(set(possibilities))
-
+ 
 	possibilities.remove('-')
 
 	return possibilities		
@@ -111,18 +112,8 @@ def column(matrix, i):
 	return [row[i] for row in matrix]			
 
 
-def readMatrix(matrix, matrixFile):
-
-	for line in matrixFile:
-		row = line.split("\t")
-
-		matrix.append(row)
-
-	return matrix
-
-
-matrix = matrixreadMatrix(matrixFile)
+matrix = table.readMatrix(matrixFile)
 	
-initBitCodingMultipleCat(matrix, termsAndCategories)
+matrix = initBitCodingMultipleCat(map(list, zip(*matrix)), termsAndCategories)
  
-
+table.printToTsv(map(list, zip(*matrix)))

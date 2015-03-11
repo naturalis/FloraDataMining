@@ -2,9 +2,9 @@ import sys
 import re
 
 matrixFile = open(sys.argv[1], "r")
-termsAndCategories = open(sys.argv[2], "r")
+categoryList = open(sys.argv[2], "r")
 matrix = []
-
+term = "colour"
 
 def constructColumns(array):
 
@@ -121,8 +121,22 @@ def readMatrix(matrix, matrixFile):
 	return matrix
 
 
-matrix = matrixreadMatrix(matrixFile)
+#matrix = readMatrix(matrix, matrixFile)
+
+#for line in categoryList:
+#	if line.split(',')[0] == 'aquamarine':	
+#		possibilities = line.split(',')		
+
+#for i in range(1, len(matrix[0])):
+#	classes = matrix[0][i].split("/")
+#	if classes[len(classes) - 1 ] == term:
+#		print classes
+#		categoryMatrix = constructCategoryMatrix(column(matrix, 0), column(matrix ,i), possibilities)		
+#		fileName = "_".join(classes) + "-matrix.tsv"			
+#		output = open(fileName, "w")
+#		printMatrixToTsv(categoryMatrix)
+
 	
-initBitCodingMultipleCat(matrix, termsAndCategories)
+
  
 
