@@ -5,6 +5,7 @@ import xml.etree.ElementTree as ET
 import codecs
 import numpy
 import matrix
+import table
 
 tree = ET.parse(sys.argv[1])
 characterFile = open(sys.argv[2], "r")
@@ -20,13 +21,16 @@ def countAndRemoveEmptyPlaces(matrix, i):
 	for j in range(len(matrix[i])):
 
 		if matrix[i][j] == "-":
-			emptyPlaces+=1
+			emptyPlaces += 1
 
 	if emptyPlaces > len(matrix[0]) - 5:
-		matrix = numpy.delete(matrix, i, axis=0)
-
+		matrix = numpy.delete(matrix, i, axis = 0)
+		print len(matrix)
+		print i
 		if i != len(matrix):
 			matrix = countAndRemoveEmptyPlaces(matrix, i)
+			print "removed"			
+		print "done"
 	return matrix
 
 
@@ -39,7 +43,9 @@ def deleteRowsLackingChars(matrix):
 			break
 
 		else:
-			matrix = countAndRemoveEmptyPlaces(matrix, i)							
+			if i != len(matrix):
+				print "counting"
+				matrix = countAndRemoveEmptyPlaces(matrix, i)							
 
 	
 #This recursively adds the texts from the subcharacters to the matrix containing the text parst of the characters 
@@ -53,10 +59,13 @@ def addSubchars(matrix, char, name, i):
 			for j in range(len(matrix[0])):
 			
 				if  matrix[0][j] == newName:
-					matrix[i][j] = subchar.text.encode("UTF-8")
+
+					if subchar.text:
+						matrix[i][j] = subchar.text.encode("UTF-8")
+						print subchar.get("class") + " added"
 					
 			addSubchars(matrix, subchar, newName, i)
-
+	
 
 #Adds the habitat and its altitude to the matrix.
 def addHabitatData(matrix, i, node):
@@ -81,7 +90,7 @@ def addChars(matrix, i, node):
 
 		for char in node:
 
-			if matrix[0][j] == "/" + str(char.get('class')):
+			if matrix[0][j] == "/" + str(char.get('class')) and char.text:
 				matrix[i][j] = char.text.encode("UTF-8")
 
 			addSubchars(matrix, char, "/" + str(char.get('class')), i)
@@ -98,17 +107,17 @@ def fillMatrix(matrix):
 
 			if homotypes[0].get('class') == 'accepted':
 				i+=1
-
+				print matrix[i][0]
 				for child in taxon:
 
 					if child.tag == "feature":
  
 						if child.get('class') == "description":
 							addChars(matrix, i, child)
-
+							print "char added"	
 						elif child.get('class') == "habitat":
 							addHabitatData(matrix, i, child)
-									
+							print "habitat data added"		
 
 #This function reads characters and adds them to a matrix
 def getCharacters(matrix, chars):
@@ -116,7 +125,7 @@ def getCharacters(matrix, chars):
 
 	for line in chars:
 		i+=1
-		matrix[0][i] = line.split(",")[1]	
+		matrix[0][i] = line.split(",")[0]
 
 
 #This function extracts the accepted family and species names and puts them in the matrix
@@ -173,8 +182,10 @@ def getNumberOfCharacters(char):
 def getNumberOfSpecies():
 	numberOfSpecies = 0
 
-	for homotypes in root.findall("./treatment/taxon/nomenclature/homotypes"):		
+	for homotypes in root.findall("./treatment/taxon/nomenclature/homotypes"):
+		
 		for nom in homotypes:
+
 			if nom.get('class') == 'accepted':
 				numberOfSpecies += 1
 	return numberOfSpecies
@@ -188,14 +199,14 @@ matrix[0][len(matrix[0]) - 2] = "/habitat"
 
 
 getSpecies(matrix)
-
+print  "species added"
 getCharacters(matrix, characterFile)
-
+print "characters added"
 fillMatrix(matrix)
-
+print "matrix filled" 
 deleteRowsLackingChars(matrix)
-
-printMatrixToTsv(matrix)				
+print "rows lacking chars deleted"
+table.printToTsv(matrix)				
 
 output.close()					
 

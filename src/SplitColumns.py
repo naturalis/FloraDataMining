@@ -75,7 +75,7 @@ def stemCases(cases):
 
  
 def markOriginalCategories(matrix):
-
+	
 	for row in matrix:
 		markedOriginalTerm = row[0] + "*"
 		row[0] = markedOriginalTerm
@@ -97,13 +97,27 @@ def initSplitting(termsAndCategories, matrix):
 			regexes = line[:len(line) - 1].split(',')
 			regexes = stemCases(regexes)
 
-			splitColumns(matrix, term, regexes)#Adds the correct terms to new columns made in the matrix
+			splitColumns(matrix, term, regexes) #Adds the correct terms to new columns made in the matrix
 	return matrix
+
+
+def deleteRowsAlmostEmpty(matrix):
+	result = matrix[:]
+	
+	for row in matrix:
+
+		if len(list(set(row))) < 10:			
+			result.remove(row)
+	return result
 
 
 matrix = table.readMatrix(matrixFile)
 
-matrix = initSplitting(termsAndCategories, map(list, zip(*matrix)))
+matrix = map(list, zip(*matrix))			
+
+matrix = deleteRowsAlmostEmpty(matrix)
+
+matrix = initSplitting(termsAndCategories, matrix)
 
 table.printToTsv(map(list, zip(*matrix)))
 

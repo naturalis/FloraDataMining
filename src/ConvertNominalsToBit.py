@@ -74,7 +74,7 @@ def listPossibilities(matrix,term):
 				possibilities.extend(value.split(','))
 
 	possibilities = list(set(possibilities))
- 
+
 	possibilities.remove('-')
 
 	return possibilities		

@@ -12,7 +12,7 @@ The reason the digitalisation is not only the accessibility. When digitalized, t
 The different steps in constructing the matrix
 
 Parsing the relevant characters (MakeCharacterList.py FlorML file )
-First a list was made of all characters that are in a particular FlorML file. With the help of this list, it is possible to select the characters relevant for the study by hand. Because some names are used to define different character types, all characters are displayed together with their superiors, like “/grandparent/parent/child”.
+First a list was made of all characters that are in a particular FlorML file. With the help of this list, it is possible to select the characters relevant for the study by hand. Because some names are used to define different character types, all characters are displayed together with their superiors, like “/grandparent/parent/child”. 
 
 Ordering the text in the FlorML file (OrderFlorML.py FlorML file)
 Before continuing the matrix construction, the text in the current XML file had to be ordered. Converting the text from a book to XML is very comprehensive, and because of this there were some  incorrectnesses in where some text parts were displayed in the XML file. This makes the construction of the matrix with a programming language too complex. Because of this, a code was written to put the texts displayed on the wrong place to the correct places.

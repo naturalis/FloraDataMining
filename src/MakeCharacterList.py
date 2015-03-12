@@ -1,11 +1,15 @@
 import xml.dom.minidom
 import xml.etree.ElementTree as ET
-tree = ET.parse("A24_Piperaceae.xml")
+import sys
+
+tree = ET.parse(sys.argv[1])
 root = tree.getroot()
 
 
 def constructHierarchy(character, path):
 	path = path + "/" + character.get('class')
+
+	print path + ','
 
 	if character.getchildren():
 
@@ -13,6 +17,7 @@ def constructHierarchy(character, path):
 		
 			if child.get('class') != None:
 				constructHierarchy(child, path)
+	
 
 			
 for feature in root.findall("./treatment/taxon/feature"):
