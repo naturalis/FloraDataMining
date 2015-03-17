@@ -25,8 +25,7 @@ def countAndRemoveEmptyPlaces(matrix, i):
 
 	if emptyPlaces > len(matrix[0]) - 5:
 		matrix = numpy.delete(matrix, i, axis = 0)
-		print len(matrix)
-		print i
+
 		if i != len(matrix):
 			matrix = countAndRemoveEmptyPlaces(matrix, i)
 			print "removed"			
@@ -62,8 +61,9 @@ def addSubchars(matrix, char, name, i):
 
 					if subchar.text:
 						matrix[i][j] = subchar.text.encode("UTF-8")
-						print subchar.get("class") + " added"
-					
+			if char.text:
+				print str(char.text.encode("UTF-8")) + "and subchars added"
+				
 			addSubchars(matrix, subchar, newName, i)
 	
 
@@ -107,7 +107,7 @@ def fillMatrix(matrix):
 
 			if homotypes[0].get('class') == 'accepted':
 				i+=1
-				print matrix[i][0]
+
 				for child in taxon:
 
 					if child.tag == "feature":

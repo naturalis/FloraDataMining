@@ -7,8 +7,6 @@ matrix = []
 output = open("matrix.tsv", "w")
 
 
-
-
 def rowNumbersNotInRange(matrix):
 	numberRegex = '[0-9]+(\.[0-9]+)?'
 

@@ -113,7 +113,7 @@ def column(matrix, i):
 
 
 matrix = table.readMatrix(matrixFile)
-	
+print matrix[10]	
 matrix = initBitCodingMultipleCat(map(list, zip(*matrix)), termsAndCategories)
  
 table.printToTsv(map(list, zip(*matrix)))

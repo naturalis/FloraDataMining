@@ -95,7 +95,7 @@ def initSplitting(termsAndCategories, matrix):
 
 		if len(line.split(',')) > 1:
 			regexes = line[:len(line) - 1].split(',')
-			regexes = stemCases(regexes)
+			#regexes = stemCases(regexes)
 
 			splitColumns(matrix, term, regexes) #Adds the correct terms to new columns made in the matrix
 	return matrix
