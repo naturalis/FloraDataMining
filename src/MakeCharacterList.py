@@ -9,7 +9,7 @@ root = tree.getroot()
 def constructHierarchy(character, path):
 	path = path + "/" + character.get('class')
 
-	print path + ','
+	print path
 
 	if character.getchildren():
 

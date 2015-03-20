@@ -1,6 +1,6 @@
-<publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Digital%20Flora%20Data%20and%20Utilities/thomas/Flora%20Malesiana/mark-up/FlorMLv4_1.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
+<publication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file://Pesiimport3/schema/FMmark-upv3_latest.xsd" xmlns:mods="http://www.loc.gov/mods/v3" lang="en">
 	<metaData>
-		<defaultMediaUrl>http://wp5.e-taxonomy.eu/media/</defaultMediaUrl>
+		<defaultMediaUrl>http://cybertaxonomy.eu/media/flora-guianas/</defaultMediaUrl>
 		<mods:mods>
 			<mods:titleInfo>
 				<mods:title>﻿FLORA OF THE GUIANAS</mods:title>
@@ -43,6 +43,1136 @@
 		</mods:mods>
 	</metaData>
 	<treatment>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>7</num>
+						<name class="family">HERNANDIACEAE</name>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<writer>André S.J. van Proosdij<footnoteRef ref="FN_1"><num>1</num></footnoteRef></writer>
+			<feature class="description">
+				<char class="habit">Trees, (climbing) shrubs or lianas. </char>
+				<char class="leaves">Leaves not stipulate, petiolate, often peltate, alternate; 
+					<subChar class="blade">blade simple or up to 3-5-lobed or divided into 3-5 leaflets; </subChar>
+					<subChar class="veins">veination prominent, pinnate, palmate or camptodromous; </subChar>
+					<subChar class="secretory structures">oil cells, sometimes cystoliths and glandular hairs present. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescences <subChar class="position">axillary, pseudo-terminal, rarely terminal panicles</subChar>, usually much branched, terminal-flower generally absent, flowers in cincinni or dichasia; 
+					<subChar class="bracts and bracteoles">bracts and bracteoles present or absent. </subChar>
+				</char>
+				<char class="flowers">Flowers bisexual, unisexual, or by abortion unisexual (then plants monoecious, very rarely dioecious), regular, epigynous; 
+					<subChar class="perianth segments">perianth segments 3-10, in 1 or 2 whorls, quincuncial, (sub-)imbricate or valvate; </subChar>
+					<subChar class="stamens">stamens 1-7, in 1 whorl, alternating with (inner) whorl of perianth segments, usually free, in <fullName rank="genus">Hernandia</fullName> with 2 somewhat connate, swollen glands on back, 
+						<subChar class="anthers">anthers basifixed, 2-locular, introrse, dehiscing by valves opening to the top or to the side, </subChar>
+						<subChar class="connective">connective linear, </subChar>
+						<subChar class="pollen">pollen grains inaperturate, spinulose; </subChar>
+					</subChar>
+					<subChar class="interstaminal glands">interstaminal glands very small or absent; </subChar>
+					<subChar class="ovary">ovary present or rudimentary, unilocular, 
+						<subChar class="ovules">ovule 1, anatropous, pendulous, </subChar>
+						<subChar class="style">style 1, simple, with a groove decurrent along entire length. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruits dry, indehiscent drupes, ovoid or ellipsoid, rarely globose, longitudinally ribbed, in <fullName rank="genus">Hernandia</fullName> included in cupule; 
+					<subChar class="seeds">seed 1, 
+						<subChar class="endosperm">endosperm absent, </subChar>
+						<subChar class="cotyledons">cotyledons 2, large, with apical radicle.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="world">Pantropical</distributionLocality>, most frequent in coastal regions, 4 genera and 62 species; in the <distributionLocality class="world">Neotropics</distributionLocality> 3 genera with 24 species: <fullName rank="genus">Gyrocarpus</fullName> (2 species), <fullName rank="genus">Hernandia</fullName> (7 species) and <fullName rank="genus">Sparattanthelium</fullName> (15 species); in the <distributionLocality class="region">Guianas</distributionLocality> 4 species in 2 genera; <fullName rank="genus">Hernandia</fullName> (1 species) and <fullName rank="genus">Sparattanthelium</fullName> (3 species).</string>
+			</feature>
+			<footnote id="FN_1"><footnoteString>1 Nationaal Herbarium Nederland, Utrecht University branch, Heidelberglaan 2, 3584 CS Utrecht, The Netherlands.</footnoteString></footnote>
+			<references>
+				<heading>LITERATURE</heading>
+				<reference>
+					<refPart class="author">Espejo, A.</refPart>
+					<refPart class="year">1992</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="pubname">Flora de Veracruz</refPart>
+					<refPart class="volume">67</refPart>
+					<refPart class="pages">1-22</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Grenand, P., et al.</refPart>
+					<refPart class="year">1987</refPart>
+					<refPart class="pubname">Pharmacopées traditionnelles en Guyane, Hernandiaceae</refPart>
+					<refPart class="pages">p. 245-247</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Kostermans, A.J.G.H.</refPart>
+					<refPart class="year">1937</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="editors">A.A. Pulle</refPart>
+					<refPart class="pubname">Flora of Suriname</refPart>
+					<refPart class="volume">2</refPart>
+					<refPart class="issue">1</refPart>
+					<refPart class="pages">338-344</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Kubitzki, K.</refPart>
+					<refPart class="year">1969</refPart>
+					<refPart class="pubtitle">Monographie der Hernandiaceen</refPart>
+					<refPart class="pubname">Bot. Jahrb. Syst.</refPart>
+					<refPart class="volume">89</refPart>
+					<refPart class="pages">78-209</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Kubitzki, K.</refPart>
+					<refPart class="year">1976</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="editors">J. Lanjouw &amp; A.L. Stoffers</refPart>
+					<refPart class="pubname">Flora of Suriname, Additions and Corrections</refPart>
+					<refPart class="volume">2</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">485-486</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Kubitzki, K.</refPart>
+					<refPart class="year">1982</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="editors">Z.L. de Febres &amp; J.A. Steyermark</refPart>
+					<refPart class="pubname">Flora de Venezuela</refPart>
+					<refPart class="volume">4</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">324</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Lemée, A.M.V.</refPart>
+					<refPart class="year">1955-56</refPart>
+					<refPart class="pubtitle">Hernandiacées</refPart>
+					<refPart class="pubname">Flore de la Guyane Française</refPart>
+					<refPart class="volume">1</refPart>
+					<refPart class="pages">658-659</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Lemée, A.M.V.</refPart>
+					<refPart class="year">1955-56</refPart>
+					<refPart class="pubtitle">Hernandiacées</refPart>
+					<refPart class="pubname">Flore de la Guyane Française</refPart>
+					<refPart class="volume">4</refPart>
+					<refPart class="pages">36</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Meisner, C.D.F.</refPart>
+					<refPart class="year">1866</refPart>
+					<refPart class="pubtitle">Lauraceae (Sparattanthelium) and Hernandiaceae</refPart>
+					<refPart class="editors">C.F.P. von Martius</refPart>
+					<refPart class="pubname">Flora Brasiliensis</refPart>
+					<refPart class="volume">5</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">291-294 and 297-300</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Miller, J.S. &amp; P.E. Berry.</refPart>
+					<refPart class="year">1999</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="editors">J.A. Steyermark et al.</refPart>
+					<refPart class="pubname">Flora of the Venezuelan Guayana</refPart>
+					<refPart class="volume">5</refPart>
+					<refPart class="pages">592-593</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Mori, S.A. &amp; J.L. Brown.</refPart>
+					<refPart class="year">2002</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="editors">S.A. Mori et al.</refPart>
+					<refPart class="pubname">Guide to the Vascular Plants of Central French Guiana. Mem. New York Bot. Gard.</refPart>
+					<refPart class="volume">76</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">344-347</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Pax, F.</refPart>
+					<refPart class="year">1889</refPart>
+					<refPart class="pubtitle">Hernandiaceae</refPart>
+					<refPart class="editors">H.G.A. Engler &amp; K.A.E. Prantl</refPart>
+					<refPart class="pubname">Die natürlichen Pflanzenfamilien</refPart>
+					<refPart class="volume">3</refPart>
+					<refPart class="issue">2</refPart>
+					<refPart class="pages">126-129</refPart>
+				</reference>
+			</references>
+			<feature class="wood">
+				<heading>WOOD AND TIMBER</heading>
+				<writer>Alberta M.W.Mennega<footnoteRef ref="FN_2"><num>4</num></footnoteRef></writer>
+				<heading>WOOD ANATOMY</heading>
+				<string>The wood of the two genera indigenous in the Guianas, <fullName rank="genus">Hernandia</fullName> and <fullName rank="genus">Sparattanthelium</fullName>, is very much alike, as well in general aspects as in structure. The bark is thin and superficially longitudinally grooved; the beige wood is rather coarse, particularly in <fullName rank="genus">Hernandia</fullName>, and light. Special features are absent.<br />The wood is of no commercial value.<br />
+				<subHeading>FAMILY DESCRIPTION</subHeading><br />
+Growth rings present and rather distinct, boundaries indicated by a few rows of flattened fibres and by an almost continuous ring of aliform/confluent parenchyma.<br />Vessels diffuse, for 50-80% solitary, the remainder in radial pairs occasionally in clusters or in longer chains, scarce, average number in <fullName rank="genus">Hernandia</fullName> 1.5 per mm², in <fullName rank="genus">Sparattanthelium</fullName> 5 per mm². Perforations simple. Intervessel pits alternate, 10-14 μm wide, the apertures included. Vessel member length in <fullName rank="genus">Hernandia</fullName> 580 μm, in <fullName rank="genus">Sparattanthelium</fullName> 370 μm. Vessel-ray pits very large, oval to irregularly shaped, in <fullName rank="genus">Sparattanthelium</fullName> more or less in scalariform arrangement, in <fullName rank="genus">Hernandia</fullName> also partly similar to the intervessel pitting.<br />Rays 1-4-seriate, uniseriates rather scarce; 3-4 per mm; almost homocellular, marginal cells of the same height as procumbent cells, but radially slightly shorter; width 20-50 μm, height up to 600 μm (18 cells) in <fullName rank="genus">Hernandia</fullName>, up to 235 μm (30 cells) in <fullName rank="genus">Sparattanthelium</fullName>.<br />Parenchyma rather abundant, mainly paratracheal, vasicentric to aliform and aliform-confluent, also apotracheal diffuse and diffuse-in-aggregates; strands of 2-4 cells. Large cystoliths in inflated cells in <fullName rank="genus">Sparattanthelium</fullName> p.p.<br />Fibres non-septate, thin-walled with a wide lumen, diam. 20-25 μm. Pits simple, minute, in radial walls. Average length of fibres in <fullName rank="genus">Hernandia</fullName> 486 μm, in <fullName rank="genus">Sparattanthelium</fullName> 860 μm.
+				<footnote id="FN_2"><footnoteString>4 Nationaal Herbarium Nederland, Utrecht University branch, Heidelberglaan 2, 3584 CS Utrecht, The Netherlands</footnoteString></footnote></string>
+				<references>
+					<heading>LITERATURE ON WOOD AND TIMBER</heading>
+					<reference>
+						<refPart class="author">Carlquist, S.</refPart>
+						<refPart class="year">1962a</refPart>
+						<refPart class="pubtitle">A theory of paedomorphosis in dicotyledonous woods</refPart>
+						<refPart class="pubname">Phytomorphology</refPart>
+						<refPart class="volume">12</refPart>
+						<refPart class="pages">30-45</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Dadswell, H.E. &amp; S.J. Record.</refPart>
+						<refPart class="year">1936</refPart>
+						<refPart class="pubtitle">Identification of woods with conspicuous rays</refPart>
+						<refPart class="pubname">Trop Woods</refPart>
+						<refPart class="volume">48</refPart>
+						<refPart class="pages">1-30</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Dechamps, R.</refPart>
+						<refPart class="year">1985</refPart>
+						<refPart class="pubtitle">Etude anatomique de bois d’ Amérique du Sud. III. Linaceae-Quiinaceae.</refPart>
+						<refPart class="pubname">Ann. Mus. roy. Afr. Cent. Tervuren</refPart>
+						<refPart class="series">ser. IN-8, Sci. econ.</refPart>
+						<refPart class="volume">No 14</refPart>
+						<refPart class="pages">471 pp.</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Détienne, P. &amp; P. Jacquet.</refPart>
+						<refPart class="year">1983</refPart>
+						<refPart class="pubname">Atlas d’identification des bois de l’Amazonie et des régions voisines</refPart>
+						<refPart class="publisher">C.T.F.T.</refPart>
+						<refPart class="publocation">Nogent sur Marne</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Ilic, J.</refPart>
+						<refPart class="year">1991</refPart>
+						<refPart class="pubname">CSIRO atlas of hardwoods</refPart>
+						<refPart class="publisher">Springer-Verlag</refPart>
+						<refPart class="publocation">Berlin, etc.</refPart>
+						<refPart class="pages">525 pp.</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Kribs, D.A.</refPart>
+						<refPart class="year">1968</refPart>
+						<refPart class="pubname">Commercial Foreign Woods on the American Market</refPart>
+						<refPart class="publisher">Dover Publ.</refPart>
+						<refPart class="publocation">New York</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Lindeman, J.C., A.M.W. Mennega &amp; W.H.A. Hekking.</refPart>
+						<refPart class="year">1963</refPart>
+						<refPart class="pubname">Bomenboek voor Suriname</refPart>
+						<refPart class="publisher">Dienst ’s Lands Bosbeheer</refPart>
+						<refPart class="publocation">Paramaribo</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Metcalfe, C.R.</refPart>
+						<refPart class="year">1987</refPart>
+						<refPart class="pubname">Anatomy of the Dicotyledons</refPart>
+						<refPart class="volume">vol. 3</refPart>
+						<refPart class="edition">sec. ed.</refPart>
+						<refPart class="publisher">Oxford Univ. Press</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Metcalfe, C.R. &amp; L. Chalk.</refPart>
+						<refPart class="year">1950</refPart>
+						<refPart class="pubname">Anatomy of the Dicotyledons</refPart>
+						<refPart class="volume">Volume 2</refPart>
+						<refPart class="publisher">Clarendon Press</refPart>
+						<refPart class="publocation">Oxford</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Record, S.J. &amp; R.W. Hess.</refPart>
+						<refPart class="year">1943</refPart>
+						<refPart class="pubname">Timbers of the New World</refPart>
+						<refPart class="publisher">Yale school of Forestry</refPart>
+						<refPart class="publocation">New Haven</refPart>
+						<refPart class="pages">640 pp.</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Shutts, C.F.</refPart>
+						<refPart class="year">1960</refPart>
+						<refPart class="pubtitle">Wood anatomy of Hernandiaceae and Gyrocarpaceae</refPart>
+						<refPart class="pubname">Trop. Woods</refPart>
+						<refPart class="volume">113</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Welle, B.J.H. ter,</refPart>
+						<refPart class="year">1980</refPart>
+						<refPart class="pubtitle">Cystoliths in the secondary xylem of Sparattanthelium (Hernandiaceae)</refPart>
+						<refPart class="pubname">IAWA Bull. n.s.</refPart>
+						<refPart class="volume">Vol. I</refPart>
+					</reference>
+					<reference>
+						<refPart class="author">Williams, L.</refPart>
+						<refPart class="year">1936</refPart>
+						<refPart class="pubtitle">Woods of Northeastern Peru.</refPart>
+						<refPart class="pubname">Field Mus. Nat. Hist.</refPart>
+						<refPart class="series">Bot. Ser.</refPart>
+						<refPart class="volume">15</refPart>
+						<refPart class="pages">1-187</refPart>
+						<refPart class="publisher">Chicago</refPart>
+					</reference>
+				</references>
+			</feature>
+			<feature class="taxonomic changes">
+				<heading>TAXONOMIC CHANGES</heading>
+				<string>The following taxon are newly placed in synonymy:
+					<ul>
+						<li><fullName rank="variety">Sparattanthelium botocudorum Mart. var. uncigerum Meisn.</fullName> to <fullName rank="species">Sparattanthelium wonotoboense Kosterm.</fullName></li>
+						<li><fullName rank="species">Sparattanthelium uncigerum (Meisn.) Kubitzki</fullName> to <fullName rank="species">S. wonotoboense Kosterm.</fullName></li>
+					</ul>
+				</string>
+			</feature>
+			<feature class="specimens">
+				<heading>COLLECTIONS STUDIED</heading>
+				<string><gatheringGroup geoscope="guyana">GUYANA
+				<gathering><collector>Andel, T. van et al.</collector>, <fieldNum>2646</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Anderson, C.W.</collector>, <fieldNum>12</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Clarke, D. et al.</collector>, <fieldNum>6178</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Cruz, J.S. de la</collector>, <fieldNum>1395</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>3093</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Forest Dept. British Guiana (FD)</collector>, <fieldNum>5586</fieldNum>=<alternativeCollector>Fanshawe</alternativeCollector> <alternativeFieldNum>2787</alternativeFieldNum> (<fullName rank="species">Sparattanthelium aruakorum</fullName>)</gathering>; <gathering><fieldNum>3355</fieldNum>=<alternativeCollector>Fanshawe</alternativeCollector> <alternativeFieldNum>619</alternativeFieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>3938</fieldNum>=<alternativeCollector>Fanshawe</alternativeCollector> <alternativeFieldNum>1202</alternativeFieldNum> (<fullName rank="species">Sparattanthelium guianense</fullName>)</gathering>
+				<gathering><collector>Gillespie, L.J. &amp; H. Persaud</collector>, <fieldNum>1202</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Hitchcock, A.S.</collector>, <fieldNum>17622</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Hoffman, B. et al.</collector>, <fieldNum>2764</fieldNum> (<fullName rank="species">Sparattanthelium guianense</fullName>)</gathering>
+				<gathering><collector>Jansen-Jacobs, M.J. et al.</collector>, <fieldNum>3180</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>3557</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>4488</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Jenman, G.S.</collector>, <fieldNum>4889</fieldNum> (<fullName rank="species">Sparattanthelium guianense</fullName>)</gathering>
+				<gathering><collector>Maas, P.J.M. et al.</collector>, <fieldNum>5562</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Sandwith, N.Y.</collector>, <fieldNum>470</fieldNum> (<fullName rank="species">Sparattanthelium guianense</fullName>)</gathering>
+				<gathering><collector>Smith, A.C.</collector>, <fieldNum>3390</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Snow, D.W.</collector>,<fieldNum>14</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Pipoly, J.J. et al.</collector>, <fieldNum>7437</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Polak, M. et al.</collector>, <fieldNum>72</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Tutin, T.G.</collector>, <fieldNum>252</fieldNum> (<fullName rank="species">Sparattanthelium aruakorum</fullName>)</gathering>
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">SURINAME
+				<gathering><collector>BBS</collector>, <fieldNum>112</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>BW</collector>, <fieldNum>802</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>3120</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>6559</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Collector indigenus surinamensis</collector>, <fieldNum>164</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Lanjouw, J. &amp; J.C. Lindeman</collector>, <fieldNum>1547</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Lindeman, J.C. &amp; A.R.A. Görts-van Rijn et al.</collector>, <fieldNum>57</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>363</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Maguire, B.</collector>, <fieldNum>24127</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Mennega, A.M.W.</collector>, <fieldNum>463</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Stahel, G. &amp; J.W. Gonggrijp, in BW</collector> <fieldNum>802</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">FRENCH GUIANA
+				<gathering><collector>Aublet, J.B.C.F.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Béna, P., in BAFOG</collector> <fieldNum>47N</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Cremers, G.</collector>, <fieldNum>7020</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>9581</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Feuillet, C.</collector>, <fieldNum>239</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Granville J.J. de</collector>, <fieldNum>2811</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>6900</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Grenand, P.</collector>, <fieldNum>2101</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Hallé, F.</collector>, <fieldNum>4019</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Jacquemin, H.</collector>, <fieldNum>2790</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Kubitzki, K.</collector>, <fieldNum>71-116</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Leeuwenberg, A.J.M.</collector>, <fieldNum>11781</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Mélinon, M.</collector>, <fieldNum>s.n.</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Mori, S.A. et al.</collector>, <fieldNum>18986</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>23044</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>23571</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Oldeman, R.A.A</collector>, <fieldNum>B-1029</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>B-3890</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Prévost, M.F.</collector>, <fieldNum>1512</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>; <gathering><fieldNum>3438</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>3500</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>4085</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>; <gathering><fieldNum>4096</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering>
+				<gathering><collector>Riera, B.</collector>, <fieldNum>792</fieldNum> (<fullName rank="species">Hernandia guianensis</fullName>)</gathering>
+				<gathering><collector>Sagot, P.</collector>, <fieldNum>1218</fieldNum> (<fullName rank="species">Sparattanthelium wonotoboense</fullName>)</gathering></gatheringGroup>
+				</string>
+			</feature>
+			<key>
+				<keyTitle>KEY TO THE GENERA</keyTitle>
+				<couplet num="1">
+					<question num="a">
+						<text>Trees; inflorescences with cincinni, bracts present; flowers unisexual, stigma broadly peltate; fruits included in a cupule</text>
+						<toTaxon num="1">Hernandia</toTaxon>
+					</question>
+					<question num="b">
+						<text>Lianas or shrubs; inflorescences with dichasia, bracts in general absent; flowers bisexual, stigma knob-like; fruits not included in a cupule</text>
+						<toTaxon num="2">Sparattanthelium</toTaxon>
+					</question>
+				</couplet>
+			</key>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">HERNANDIA</name>
+						<name class="author">L.</name>
+						<citation class="publication">
+							<refPart class="pubname">Sp. Pl.</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">981</refPart>
+							<refPart class="year">1753</refPart>
+						</citation>
+					</nom>
+					<nameType>
+						<nom class="nametype">Type: 
+							<name class="genus abbreviation">H.</name>
+							<name class="species">sonora</name>
+							<name class="author">L.</name>
+						</nom>
+					</nameType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Trees, rarely shrubs, in general evergreen (rarely deciduous). </char>
+				<char class="leaves">Leaves simple (rarely 3-5-lobed), often peltate, cystoliths absent. </char>
+				<char class="inflorescences">Inflorescences consisting of a branched axis and flowers in cincinni; 
+					<subChar class="peduncle">peduncles elongate (rarely short); </subChar>
+					<subChar class="cincinni">cincinni with 3 flowers (rarely 2 or 1): </subChar>
+					<subChar class="flowers">2 (1) lateral male flower(s) and 1 central, subsessile female flower (rarely bisexual) on branches of the first (rarely second) order, or on main axis; </subChar>
+					<subChar class="hairs">upper parts of branches somewhat tawny or white pubescent, rarely glabrous; </subChar>
+					<subChar class="bracts">bracts generally present; </subChar>
+					<subChar class="bracteoles">bracteoles of male flowers 4, ± equal, free, partly including flower buds from cincinnus, bracteoles of female flower 2, connate, forming fleshy, campanulate cupule. </subChar>
+				</char>
+				<char class="flower buds">Flower buds ovoid, rarely globose. </char>
+				<char class="flowers">Flowers bisexual or unisexual, then monoecious, rarely dioecious; 
+					<subChar class="perianth segments">perianth segments free, minutely pubescent on both sides, 
+						<subChar class="outer segments">outer segments quincuncial or imbricate, </subChar>
+						<subChar class="inner segments">inner segments narrower and imbricate or valvate. </subChar>
+					</subChar>
+				</char>
+				<char class="male flowers">Male flowers: 
+					<subChar class="perianth segments">6-12 perianth segments; </subChar>
+					<subChar class="filaments">stamen filaments short, each with 2 yellow, somewhat stalked, glandular appendages, free or united; </subChar>
+					<subChar class="pollen">pollen 90-160 μm, spinose; </subChar>
+					<subChar class="staminodes">staminodes absent; </subChar>
+					<subChar class="pistil">pistil rudimentary. </subChar>
+				</char>
+				<char class="female flowers">Female flowers: 
+					<subChar class="perianth segments">8-12 perianth segments; </subChar>
+					<subChar class="stamens">stamens absent, glands 4-5(-10-12), free or connate; </subChar>
+					<subChar class="ovary">ovary laterally somewhat compressed, 
+						<subChar class="style">style sigmoid or straight, moderately thick or thinner towards base, </subChar>
+						<subChar class="stigma">stigma mostly diagonally placed, large, fleshy, </subChar>
+						<subChar class="margins">margin fimbriate. </subChar>
+					</subChar>
+				</char>
+				<char class="drupes">Drupes black, ovoid or ellipsoid, ribbed/striped, included in cupule; 
+					<subChar class="cotyledons">cotyledons free and rather thick, or connate and ruminate. </subChar>
+				</char>
+				<char class="dispersal">Dispersal of fruits zoöchorous or hydrochorous.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="world">Pantropical</distributionLocality>, 26 species; most frequent in <distributionLocality class="continental region">coastal regions in Central America</distributionLocality>, the <distributionLocality class="region">Guianas</distributionLocality>, <distributionLocality class="region">West Indies</distributionLocality>, <distributionLocality class="continental region">West Africa</distributionLocality>, <distributionLocality class="region">Indomalaysia</distributionLocality>, <distributionLocality class="region">Pacific Islands</distributionLocality>.</string>
+			</feature>
+			<feature class="wood">
+				<heading>WOOD ANATOMY</heading>
+				<figureRef ref="ID_60">Fig. <num>59</num><figurePart>A</figurePart></figureRef>
+				<string>Growth rings usually present, boundaries indicated by a few to several rows of flattened fibres, occasionally by a more or less continuous band of parenchyma.<br />Vessels diffuse, for the greater part solitary (50-80 %), the remainder in radial pairs, seldom in longer chains or in clusters, outline round to oval, 160-250 μm wide; number very scarce, 1.5 (0-3) per mm². Vessel member length 580 (300-840) μm. Intervessel pits large, alternate, 14-17 μm with included, wide apertures. Vessel-ray pits and vessel-parenchyma pits of two types, similar to the intervessl pits and very large and irregular-shaped, with strongly reduced borders.<br />Rays 1-4-seriate, uniseriates rather scarce; 4 (2-5) per mm; almost homocellular, marginal cells of the same height as the procumbent cells; multiseriates usually with short uniseriate margins; height up to 600 μm (18 cells).<br />Parenchyma mainly paratracheal, ranging from vasicentric to aliform and aliform-confluent, also some diffuse and in aggregates; strands of 2-4 cells.<br />Fibres non-septate, thin-walled (2-2.5 μm), diam. 23-25 μm. Intercellular cavities obvious. Pits minute, bordered, in radial walls. Length of fibres 1272 (990-1450) μm. F/V ratio 2.2.</string>
+			</feature>
+			<feature class="wood specimens">
+				<string><subHeading>Material studied (Uw-numbers refer to the Utrecht Wood collection):</subHeading>
+				<gatheringGroup geoscope="suriname">Suriname: <gathering><fullName rank="species">H. guianensis Aubl.</fullName>: <collector>Stahel</collector> <fieldNum>380</fieldNum> = <alternativeFieldNum>Uw 380</alternativeFieldNum></gathering>; <gathering><collector>Lanjouw &amp; Lindeman</collector> <fieldNum>1547</fieldNum> = <alternativeFieldNum>Uw 1509</alternativeFieldNum>.</gathering></gatheringGroup></string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">Hernandia</name>
+						<name class="species">guianensis</name>
+						<name class="author">Aubl.</name>
+						<citation class="publication">
+							<refPart class="pubname">Hist. Pl. Guiane</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">848</refPart>
+							<refPart class="details">t. 329</refPart>
+							<refPart class="year">1775</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">French Guiana, Kaw Distr., property of M. Boutin</locality><collector>Aublet</collector><fieldNum>s.n.</fieldNum><collectionAndType>(holotype BM, isotypes NY, G)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">H.</name>
+						<name class="species">sonora</name>
+						<name class="status">sensu Kosterm. (1937), non L. (1753).</name>
+					</nom>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">H.</name>
+						<name class="species">sonora</name>
+						<name class="status">sensu Lemée (1955), non L. (1753).</name>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_2">Fig. <num>1</num><figurePart>A-H</figurePart></figureRef>
+			<feature class="description">
+				<char class="habit">Tree <subChar class="height">up to 30 m high</subChar>, with buttresses; 
+					<subChar class="bark">bark glabrous, shining greyish-white; </subChar>
+					<subChar class="wood">wood white, with a soft aroma of Apium. </subChar>
+				</char>
+				<char class="branches">Branches fragile and breaking easily. </char>
+				<char class="leaves">Leaves simple; 
+					<subChar class="petiole">petiole terete, <subChar class="length">6-14(-22) cm long</subChar>, fleshy at base; </subChar>
+					<subChar class="blade">blade <subChar class="texture">papery to somewhat leathery</subChar>, <subChar class="shape">longitudinally folded, elliptic-ovate</subChar>, <subChar class="dimensions">11-20(-30) x 6-14(-25) cm</subChar>, 
+						<subChar class="margins">margin entire, </subChar>
+						<subChar class="apex">apex <subChar class="length">1-2(-3) cm</subChar> acuminate, </subChar>
+						<subChar class="base">base rounded, subcordate or acute, not peltate, only leaves of young plants <subChar class="length">up to 10 mm</subChar> peltate, green; </subChar>
+					</subChar>
+					<subChar class="veins">at base sub-5-veined, 2-4 pairs of higher secondary veins, veins below loosely pubescent with short glandular and longer straight hairs, otherwise leaves glabrous on both sides. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">axillary or pseudo-terminal</subChar>, pubescent, conspicuously ash-grey; 
+					<subChar class="peduncle">peduncle <subChar class="length">(6-)10-16 cm long</subChar>; </subChar>
+					<subChar class="cincinni">cincinni on secondary or tertiary branches; </subChar>
+					<subChar class="bracts">bracts 0-2, underneath ramifications, variable in shape; </subChar>
+					<subChar class="bracteoles">bracteoles of male flowers oblong, <subChar class="dimensions">5-8 x 3-4 mm</subChar>. </subChar>
+				</char>
+				<char class="flower buds">Flower buds ellipsoid or obovoid, <subChar class="dimensions">3-5 x 2-3.5 mm</subChar>. </char>
+				<char class="flowers">Flowers unisexual. </char>
+				<char class="male flowers">Male flowers: 
+					<subChar class="pedicels">pedicels <subChar class="length">2-3 mm long</subChar>; </subChar>
+					<subChar class="perianth segments">perianth segments 6, in 2 whorls, whitish, elliptic, <subChar class="dimensions">5-6(-7) x 2-2.5 mm</subChar>, 
+						<subChar class="apex and base">apex and base rounded, densely pubescent; </subChar>
+					</subChar>
+					<subChar class="stamens">stamens 3, little shorter than perianth, orange-yellow, 
+						<subChar class="filaments">filaments free, loosely pubescent, anther valves opening to sides; </subChar>
+					</subChar>
+					<subChar class="glands">each stamen with 2 glabrous glands. </subChar>
+				</char>
+				<char class="female flowers">Female flower: 
+					<subChar class="pedicels">pedicel <subChar class="length">0-1 mm long</subChar>; </subChar>
+					<subChar class="cupules">cupule broadly cup-shaped, not constricted, <subChar class="dimensions">ca. 2 x 2 mm</subChar>, entire; </subChar>
+					<subChar class="perianth">perianth as in male flower; </subChar>
+					<subChar class="style">style little shorter than perianth, thin at base, broader towards stigma, recurved at top, lanate. </subChar>
+				</char>
+				<char class="fruit pedicels">Fruit pedicel <subChar class="length">up to 5 mm long</subChar>. </char>
+				<char class="fruit cupules">Fruit cupule succulent, red spotted, <subChar class="dimensions">up to 5.5 x 4 cm</subChar>, with an almost circular, slightly constricted hole. </char>
+				<char class="drupes">Drupe brown, ovoid, <subChar class="dimensions">ca. 3 x 2.4 cm</subChar>, with 8 longitudinal slightly prominent ribs/grooves, glabrous, 
+					<subChar class="apex">apex almost flat, with rounded umbo; </subChar>
+					<subChar class="cotyledons">cotyledons ruminate, connate.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> In <distributionLocality class="continental region">coastal regions from Trinidad and Venezuela to the Guianas and the Amazon region</distributionLocality>; 26 collections studied (GU: 8; SU: 3; FG: 13).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>occasional to frequent in rain forest and secondary forest, as well as on shell-ridges, in swamp forest or along flooded river banks, also found on laterite soil and in mixed forest on light brown sandy loam, <altitude>lowland</altitude>.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Berbice R., S of New Dageraad</locality>, <collector>Maas et al.</collector> <fieldNum>5562</fieldNum> (<collectionAndType>NY, U</collectionAndType>)</gathering>; <gathering><locality class="locality">Port Kaituma</locality>, <collector>Polak et al.</collector> <fieldNum>72</fieldNum> (<collectionAndType>B, NY, U</collectionAndType>)</gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Coppename R., between Coppename and Coronie</locality>, <collector>Lanjouw &amp; Lindeman</collector> <fieldNum>1547</fieldNum> (<collectionAndType>K, NY, U</collectionAndType>)</gathering>; <gathering><locality class="locality">Saramaca R., klein Moho, Hamburg</locality>, <collector>BBS</collector> <fieldNum>112</fieldNum> (<collectionAndType>U</collectionAndType>)</gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Cayenne, garden of centre ORSTOM</locality>, <collector>Prévost</collector> <fieldNum>3500</fieldNum> (<collectionAndType>CAY, P, U, US</collectionAndType>)</gathering>; <gathering><locality class="locality">Oyapock R., near St. Georges</locality>, <collector>Cremers</collector> <fieldNum>7020</fieldNum> (<collectionAndType>U</collectionAndType>)</gathering>.
+				</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="uses">
+				<string><subHeading>Uses:</subHeading> The light and strong wood is traded and used as timber. The Galibis and the Bush-negros use the wood the way we use a tinder/fire lighter. The flowers and the fruit, especially the kernel are used by the Garipons (coming from Pará, Brazil) and by some people from Cayenne to make purgative emulsions. The Palikur use emulsions from the flowers and the fruit against whooping cough, for which the local name is 'maoksikan', which means 'cry of the howler monkey'.</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>Guyana:</subHeading>
+					<vernacularName><name class="vernacular">takariwa</name> (<localLanguage>Akawaio</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">hoahoa/howa howa</name>, <name class="vernacular">kaioballi</name>, <name class="vernacular">takariwa</name> (<localLanguage>Arawak</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">jack-in-the-box</name> (<localLanguage>Creole</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">kurokuroru</name> (<localLanguage>Warrau</localLanguage>)</vernacularName>
+					<subHeading>Suriname:</subHeading>
+					<vernacularName><name class="vernacular">popolika</name></vernacularName>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">bois banane</name> (based on the white and poreuze wood like the false stem of a banana), <name class="vernacular">mirobolan</name> (the fruit) (<localLanguage>Creole</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">ajowa</name>, <name class="vernacular">haiwowa</name> (<localLanguage>Carib</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">maoksi adudu</name> (maoksi = howler monkey, adudu = goitrous, to the form of the mature cupule) (<localLanguage>Palikur</localLanguage>)</vernacularName>
+					<vernacularName><name class="vernacular">waliwowo</name> (describing the noise of the wind in the enlarged cupule) (<localLanguage>Wayampi</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+			<feature class="phenology">
+				<string><subHeading>Phenology:</subHeading> Flowering in <lifeCyclePeriods class="flowering"><dates><fullDate>Jan. to Jul. and Sep. to Dec.</fullDate></dates></lifeCyclePeriods>; fruiting in <lifeCyclePeriods class="fruiting"><dates><fullDate>Mar. to May</fullDate></dates></lifeCyclePeriods>.</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> Many specimens of <fullName rank="species">H. guianensis</fullName> from the Guianas have been wrongly identified as <fullName rank="species">H. sonora L.</fullName> which is known to occur in the Antilles, the most southern place being Trinidad. The latter differs from <fullName rank="species">H. guianensis</fullName> in having larger leaves which are always 1.2-2.0 cm peltate. The drupe of <fullName rank="species">H. sonora</fullName> has a contracted narrow base and a clearly constricted umbo, whereas <fullName rank="species">H. guianensis</fullName> has a broad base and a non-constricted umbo. The drupe of <fullName rank="species">H. sonora</fullName> has much more prominent grooves.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>2</num>
+						<name class="genus">SPARATTANTHELIUM</name>
+						<name class="author">Mart.</name>
+						<citation class="publication">
+							<refPart class="pubname">Flora</refPart>
+							<refPart class="volume">24</refPart>
+							<refPart class="appendix">2 Beibl.</refPart>
+							<refPart class="pages">40</refPart>
+							<refPart class="year">1841</refPart>
+						</citation>
+					</nom>
+					<nameType>
+						<nom class="nametype">Type: 
+							<name class="genus abbreviation">S.</name>
+							<name class="species">tupiniquinorum</name>
+							<name class="author">Mart.</name>
+						</nom>
+					</nameType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Small evergreen trees, shrubs, or lianas climbing with lateral, often recurved short-shoots. </char>
+				<char class="branches">Branches terete, glabrous or pubescent or with stellate-congested hairs on young branches, finally glabrate. </char>
+				<char class="leaves">Leaves simple, more dense towards end of branchlets; 
+					<subChar class="blade">blades margin entire, 
+						<subChar class="apex">apex acuminate, deep green, laxly pubescent or glabrous above, dense and whitish lanuginose or more or less glabrous below; </subChar>
+					</subChar>
+					<subChar class="veins">in general 3-veined or 3-pliveined, 2-4 pairs of secondary veins, rarely more or less pinnately veined, intersecondary veins parallel reticulate, all veins below prominulous; </subChar>
+					<subChar class="cystoliths">cystoliths present. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescences numerous, <subChar class="position">axillary, just under top of branch or terminal</subChar>, spreading, dichasial, 8-13 times branched, terminal flower of final dichasia usually lacking; 
+					<subChar class="peduncle">pedunculate; </subChar>
+					<subChar class="bracts and bracteoles">bracts and bracteoles in general absent, sometimes basal ramifications with leaf-like bracts; </subChar>
+					<subChar class="branches">branches moderately to strongly nodose, sometimes dense and whitish or laxly pubescent. </subChar>
+				</char>
+				<char class="flower buds">Flower buds ovoid or ellipsoid, greyish white pubescent. </char>
+				<char class="flowers">Flowers bisexual, or functional unisexuall; 
+					<subChar class="perianth">perianth lobes 4-8, in one whorl, valvate when 4-5, irregular sub-imbricate when 6-8, more or less persistent, outside greyish white pubescent, inside green to dark green, glabrous; </subChar>
+					<subChar class="stamens">stamens 4-5(-7), alternating with perianth lobes, 
+						<subChar class="filaments">filaments short, glabrous, </subChar>
+						<subChar class="anthers">anthers elongate, glabrous, </subChar>
+						<subChar class="valves">valves opening from base to top, finally horizontally spreading, pale yellow, </subChar>
+						<subChar class="pollen">pollen <subChar class="dimensions">19-30 μm</subChar>, in white heaps; </subChar>
+					</subChar>
+					<subChar class="staminodes">staminodes and glandular appendages absent; </subChar>
+					<subChar class="style">style cylindrical, thick, with appressed hairs, 
+						<subChar class="stigma">stigma knob-like, small. </subChar>
+					</subChar>
+				</char>
+				<char class="infructescences">Infructescence broad, many branched panicle, hanging, bearing few fruits, nodose, silver-white, rarely dark or brown; 
+					<subChar class="fruit pedicels">fruit pedicels discoid at top. </subChar>
+				</char>
+				<char class="drupes">Drupes silver whitish, rarely dark or brownish, often compressed, glabrous, striped, 
+					<subChar class="sarcocarp">sarcocarp thin, </subChar>
+					<subChar class="endocarp">endocarp stony, coriaceous or woody; </subChar>
+					<subChar class="cotyledons">cotyledons narrowly folded.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> 15 species in the <distributionLocality class="world">Neotropics</distributionLocality>, from <distributionLocality class="country">Mexico</distributionLocality> to <distributionLocality class="country">Brazil</distributionLocality>; 3 species in the <distributionLocality class="region">Guianas</distributionLocality>.</string>
+			</feature>
+			<feature class="wood">
+				<heading>WOOD ANATOMY</heading>
+				<figureRef ref="ID_60">Fig. <num>59</num><figurePart>B-D</figurePart></figureRef>
+				<string>Growth rings distinct, boundaries indicated by a few rows of flattened fibres and by an almost continuous band of aliform/confluent parenchyma.<br />Vessels for 60-70 % solitary, the remainder in radial pairs or in multiples of 3-4, occasionally in small clusters; outline round to elliptic, medium-sized to large, mostly 100-220 μm, but up to 300 μm in <fullName rank="species">S. wonotoboense</fullName>; number on average 5 (3-7) per mm². Perforations simple. Vessel member length 370 (200-650) μm. Intervessel pits 10-14 μm, apertures included. Vessel-ray pits large, oval, more or less in scalariform arrangement, the borders strongly reduced.<br />Rays 1-3-seriate, mainly biseriate; 3(2-7) per mm; almost homocellular, marginal cells radially slightly shorter, but of the same height as the procumbent cells; width 20-50 μm, height up to 235 μm (30 cells).<br />Parenchyma abundant, chiefly paratracheal, vasicentric to aliform and aliform-confluent but also some apotracheal diffuse and diffuse-in-aggregates present; strands of 2-4 cells. Large cystoliths in inflated cells numerous in all species except <fullName rank="species">S. wonotoboense</fullName>.<br />Fibres non-septate, thin-walled with a large lumen, diam. 20-23 μm. Pits minute, simple, mainly in radial walls. Length of fibres 860 (750-970) μm. F/V ratio 2.2.</string>
+			</feature>
+			<feature class="wood specimens">
+				<string><subHeading>Material studied (Uw-numbers refer to the Utrecht Wood collection):</subHeading>
+				<gatheringGroup geoscope="suriname">Suriname: <gathering><fullName rank="species">S. aruakorum Tutin</fullName>: <collector>van Donselaar</collector> <fieldNum>3754</fieldNum> = <alternativeFieldNum>Uw 12148</alternativeFieldNum>.</gathering></gatheringGroup>
+				<gatheringGroup geoscope="guyana">Guyana: <gathering><fullName rank="species">S. guianense Sandwith</fullName>: <collector>Fanshawe</collector> <fieldNum>3938</fieldNum> = <alternativeFieldNum>Uw 24087</alternativeFieldNum>.</gathering></gatheringGroup>
+				<gatheringGroup geoscope="guyana">Guyana: <gathering><fullName rank="species">S. wonotoboense Kosterm.</fullName>: <collector>A.C.Smith</collector> <fieldNum>3390</fieldNum> = <alternativeFieldNum>Uw 24191</alternativeFieldNum></gathering>; <gathering><collector>Jansen-Jacobs et al.</collector> <fieldNum>3180</fieldNum> = <alternativeFieldNum>Uw 34575</alternativeFieldNum></gathering>; <gathering><collector>Pipoly et al.</collector> <fieldNum>7437</fieldNum> = <alternativeFieldNum>Uw 32739</alternativeFieldNum>.</gathering></gatheringGroup></string>
+			</feature>
+			<key>
+				<keyTitle>KEY TO THE SPECIES</keyTitle>
+				<couplet num="1">
+					<question num="a">
+						<text>Leaves pinnately veined; short-shoots hook-formed, up to 2 cm long, leafless; infructescence and drupes dark brown or black</text>
+						<toTaxon num="1">S. aruakorum</toTaxon>
+					</question>
+					<question num="b">
+						<text>Leaves 3-pliveined; short-shoots sometimes present, hook-formed, 4-16 cm long, usually with leaves; infructescence and drupes silvery white or silvery grey</text>
+						<toCouplet num="2">2</toCouplet>
+					</question>
+				</couplet>
+				<couplet num="2">
+					<question num="a">
+						<text>Leaf surface glabrous or (laxly) pubescent below; fruit pedicel 0.9-1.7 cm long</text>
+						<toTaxon num="2">S. guianense</toTaxon>
+					</question>
+					<question num="b">
+						<text>Leaf surface densely pubescent below; fruit pedicel 2.5-6 cm long</text>
+						<toTaxon num="3">S. wonotoboense</toTaxon>
+					</question>
+				</couplet>
+			</key>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">Sparattanthelium</name>
+						<name class="species">aruakorum</name>
+						<name class="author">Tutin</name>
+						<citation class="publication">
+							<refPart class="pubname">J. Bot.</refPart>
+							<refPart class="volume">78</refPart>
+							<refPart class="pages">249</refPart>
+							<refPart class="year">1940</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Bartica-Portaro road</locality><collector>Tutin</collector><fieldNum>252</fieldNum><collectionAndType>(holotype BM, isotypes K, U, US)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Liana. </char>
+				<char class="stems">Stem dark green. </char>
+				<char class="short shoots">Short-shoots <subChar class="length">up to 2 cm long</subChar>, recurved, hook-formed, compressed at base, striate, without leaves, glabrous, when young laxly pubescent. </char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="length">1-3.5 cm long</subChar>, glabrous; </subChar>
+					<subChar class="blade">blade <subChar class="texture">slightly coriaceous</subChar>, <subChar class="shape">narrowly oblong to ovate</subChar>, <subChar class="dimensions">6-12(-13) x 2.5-4.5 cm</subChar>, 
+						<subChar class="margins">margin flat, </subChar>
+						<subChar class="apex">apex <subChar class="length">0.5-1 cm</subChar> acuminate, </subChar>
+						<subChar class="base">base rounded or obtuse, when dry olive-green to dark green above, slightly shining, glabrous, below somewhat paler olive or grey, glabrous; </subChar>
+					</subChar>
+					<subChar class="veins">at base 3-veined, appearing to be pinnately veined, secondary veins 4-6 pairs, in a right angle with main vein, all veins above and below glabrous or laxly pubescent, on both sides prominulous. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence <subChar class="position">axillary or pseudo-terminal</subChar>, 8-10 times branched, <subChar class="length">up to 13.5 cm long</subChar>; 
+					<subChar class="peduncle">peduncle <subChar class="length">4.5-6(-7) cm long</subChar>, dark, glabrous, 
+						<subChar class="branchlets">branchlets loosely minutely pubescent; </subChar>
+					</subChar>
+					<subChar class="pedicels">pedicels thin, greyish white pubescent. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="perianth">perianth lobes 5, rarely 4, narrowly obovate/ovate/oblong to ligulate, <subChar class="dimensions">1.5-1.8 x 0.8-1 mm</subChar>, more or less hooded; </subChar>
+					<subChar class="stamens">stamens 4, 
+						<subChar class="filaments">filaments <subChar class="length">0.5 mm long</subChar>, </subChar>
+						<subChar class="anthers">anthers <subChar class="length">ca. 1 mm long</subChar>; </subChar>
+					</subChar>
+					<subChar class="style">style <subChar class="length">0.6-0.8 mm long</subChar>. </subChar>
+				</char>
+				<char class="infructescences">Infructescence <subChar class="length">up to 22 cm long</subChar>, nodose, dark brown to black; 
+					<subChar class="fruit pedicels">fruit pedicel <subChar class="length">4.5-5.5 cm long</subChar>. </subChar>
+				</char>
+				<char class="drupes">Drupe dark brown or black, ellipsoid, <subChar class="dimensions">1.7-1.8 x 0.6-0.7 cm</subChar>, compressed, inconspicuously 6-ribbed.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Guyana</distributionLocality>; only 2 fertile collections seen, both from the Bartica-Potaro road: the type and Forest Dept. 5586 = Fanshawe 2787 (U) and 1 sterile collection from <distributionLocality class="country">Suriname</distributionLocality>: Brokopondo Distr., W of Village Brokopondo, van Donselaar 3754 (U) (GU: 2; SU: 1).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>on white sand in clearings and wallaba (Eperua) bush, <altitude>lowland</altitude>.</habitat></string>
+			</feature>
+			<feature class="phenology">
+				<string><subHeading>Phenology:</subHeading> Flowering in <lifeCyclePeriods class="flowering"><dates><fullDate>Jun.</fullDate></dates></lifeCyclePeriods>; fruiting in <lifeCyclePeriods class="fruiting"><dates><fullDate>Nov</fullDate></dates></lifeCyclePeriods>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>2</num>
+						<name class="genus">Sparattanthelium</name>
+						<name class="species">guianense</name>
+						<name class="author">Sandwith</name>
+						<citation class="publication">
+							<refPart class="pubname">Bull. Misc. Inform. Kew</refPart>
+							<refPart class="volume">1932</refPart>
+							<refPart class="pages">225</refPart>
+							<refPart class="year">1932</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Essequibo R., Moraballi Cr., near Bartica</locality><collector>Sandwith</collector><fieldNum>470</fieldNum><collectionAndType>(holotype K, isotypes NY, U)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Liana. </char>
+				<char class="short shoots">Short-shoots <subChar class="length">5-13 cm long</subChar>, recurved, leaf-bearing and often hooked at top; 
+					<subChar class="ultimate branchlets">ultimate branchlets striate, densely minutely pubescent, lower ones brown, glabrous. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole <subChar class="length">(0.5-)1.5-2.5(-3.2) cm long</subChar>, densely pubescent, glabrescent; </subChar>
+					<subChar class="blade">blade <subChar class="texture">thick papery to slightly coriaceous</subChar>, <subChar class="shape">ovate-, obovate- or oblong-elliptic</subChar>, <subChar class="dimensions">4-16.5 x 1.7-8 cm</subChar>, 
+						<subChar class="margins">margin slightly revolute, </subChar>
+						<subChar class="apex">apex <subChar class="length">0.3-1.5 cm</subChar> pointed, </subChar>
+						<subChar class="base">base rounded or obtuse, when dry dark olive-green above, subglabrous, below somewhat paler, glabrous or laxly pubescent; </subChar>
+					</subChar>
+					<subChar class="veins">at base 3-veined, secondary veins 1-2 pairs, intersecondary veins more or less parallel, at right angle with main vein, veins pubescent above when young, later glabrous, below densely, later laxly minutely pubescent. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescence 9-11 times branched, <subChar class="length">up to 10-12 cm long</subChar>; 
+					<subChar class="peduncle">peduncle <subChar class="length">5-9 cm long</subChar>, ash grey, minutely pubescent; </subChar>
+					<subChar class="pedicels">pedicel thin, ash grey, minutely pubescent. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="perianth">perianth lobes 4-5, oblong, <subChar class="dimensions">1.5-2 x 0.5-0.8(-1) mm</subChar>; </subChar>
+					<subChar class="stamens">stamens 4-5, 
+						<subChar class="filaments">filaments <subChar class="length">0.3 mm long</subChar>, </subChar>
+						<subChar class="anthers">anthers <subChar class="length">ca. 1 mm long</subChar>; </subChar>
+					</subChar>
+					<subChar class="style">style <subChar class="length">1.8-2 mm long</subChar>. </subChar>
+				</char>
+				<char class="infructescences">Infructescence <subChar class="length">up to 20 cm long</subChar>, slightly nodose, silvery grey when mature; 
+					<subChar class="fruit pedicels">fruit pedicel <subChar class="length">0.9-1.7 cm long</subChar>. </subChar>
+				</char>
+				<char class="drupes">Drupe silvery grey, elongate-ellipsoid, <subChar class="dimensions">1.5-1.7 x 0.6-0.7 cm</subChar>, longitudinally slightly compressed, inconspicuously 5-7-ribbed, rugose/somewhat wrinkled.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Guyana</distributionLocality>; (GU: 4).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>mixed forest on brown or white sand, <altitude>lowland</altitude>.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Demerara R.</locality>, <collector>Jenman</collector> <fieldNum>4889</fieldNum> (<collectionAndType>K</collectionAndType>)</gathering>; <gathering><locality class="locality">Sandhills</locality>, <collector>Forest Dept.</collector> <fieldNum>3938</fieldNum> = <alternativeCollector>Fanshawe</alternativeCollector> <alternativeFieldNum>1202</alternativeFieldNum> (<collectionAndType>K, NY</collectionAndType>)</gathering>; <gathering><locality class="locality">Pomeroon-Supenaam, Kurushi Cr.</locality>, <collector>Hoffman et al.</collector> <fieldNum>2764</fieldNum> (<collectionAndType>U, US</collectionAndType>)</gathering>.</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="phenology">
+				<string><subHeading>Phenology:</subHeading> Flowering and fruiting in <lifeCyclePeriods class="both"><dates><fullDate>Feb., May, Oct</fullDate></dates></lifeCyclePeriods>.</string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>3</num>
+						<name class="genus">Sparattanthelium</name>
+						<name class="species">wonotoboense</name>
+						<name class="author">Kosterm.</name>
+						<citation class="publication">
+							<refPart class="pubname">Meded. Bot. Mus. Herb. Rijks Univ. Utrecht</refPart>
+							<refPart class="volume">25</refPart>
+							<refPart class="pages">44</refPart>
+							<refPart class="year">1936</refPart>
+							<refPart class="notes">as 'wonotoboensis'.</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Suriname, Wonotobo, Corantijne R.</locality><collector>BW</collector><fieldNum>3120</fieldNum><collectionAndType>(holotype U, isotype NY)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">S.</name>
+						<name class="species">botocudorum</name>
+						<name class="status">sensu Pulle, non Mart. (1841).</name>
+						<citation class="publication">
+							<refPart class="pubname">Recueil Trav. Bot. Néerl.</refPart>
+							<refPart class="volume">9</refPart>
+							<refPart class="pages">138</refPart>
+							<refPart class="year">1912</refPart>
+						</citation>
+					</nom>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">S.</name>
+						<name class="species">botocudorum</name>
+						<name class="status">sensu Kosterm. (1937), non Mart. (1841).</name>
+					</nom>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">S.</name>
+						<name class="species">botocudorum</name>
+						<name class="author">Mart.</name>
+						<name class="infrank">var.</name>
+						<name class="variety">uncigerum</name>
+						<name class="infraut">Meisn.</name>
+						<citation class="publication">
+							<refPart class="editors">Mart.</refPart>
+							<refPart class="pubname">Fl. Bras.</refPart>
+							<refPart class="volume">5</refPart>
+							<refPart class="part">2</refPart>
+							<refPart class="pages">293</refPart>
+							<refPart class="year">1866</refPart>
+						</citation>
+					</nom>
+					<nom class="synonym">
+						<name class="genus abbreviation">S.</name>
+						<name class="species">uncigerum</name>
+						<name class="paraut">Meisn.</name>
+						<name class="author">Kubitzki</name>
+						<name class="status">syn. nov.</name>
+						<citation class="publication">
+							<refPart class="pubname">Bot. Jahrb. Syst.</refPart>
+							<refPart class="volume">89-1</refPart>
+							<refPart class="pages">196</refPart>
+							<refPart class="year">1969</refPart>
+						</citation>
+					</nom>
+					<specimenType>Type: <gathering><locality class="locality">French Guiana, Karouany</locality><collector>Sagot</collector><fieldNum>1218</fieldNum><collectionAndType>(holotype BR, isotypes P, U)</collectionAndType></gathering></specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">S.</name>
+						<name class="species">macusiorum</name>
+						<name class="author">A.C. Sm.</name>
+						<citation class="publication">
+							<refPart class="pubname">Lloydia</refPart>
+							<refPart class="volume">2</refPart>
+							<refPart class="pages">181</refPart>
+							<refPart class="year">1939</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Guyana, Kanuku Mts., NW slopes, Moku Cr. (Takutu tributary)</locality><collector>A.C. Smith</collector><fieldNum>3390</fieldNum><collectionAndType>(holotype NY, isotypes B, K, NY, U)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+				<homotypes>
+					<nom class="synonym">
+						<name class="genus abbreviation">S.</name>
+						<name class="species">melinonii</name>
+						<name class="author">Baill. ex Lemée</name>
+						<citation class="publication">
+							<refPart class="pubname">Fl. Guyan. Franç.</refPart>
+							<refPart class="volume">4</refPart>
+							<refPart class="pages">36</refPart>
+							<refPart class="year">1956</refPart>
+							<refPart class="status">(nom. inval.)</refPart>
+						</citation>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_3">Fig. <num>2</num><figurePart>A-C</figurePart></figureRef>
+			<feature class="description">
+				<char class="habit">Liana. </char>
+				<char class="branches">Branches terete, smooth, striate; 
+					<subChar class="short shoots">short-shoots thick, terete, <subChar class="length">4-16(-20) cm long</subChar>, recurved, hooked or arcuate at top, strongly compressed at base, glabrous or densely pubescent when young, darkening, striate. </subChar>
+				</char>
+				<char class="leaves">Leaves: 
+					<subChar class="petiole">petiole thin, <subChar class="length">0.8-2.5(-4) cm long</subChar>, densely minutely pubescent to more or less glabrous; </subChar>
+					<subChar class="blade">blade <subChar class="texture">papery to slightly coriaceous</subChar>, <subChar class="shape">ovate-, obovate- or oblong-elliptic</subChar>, <subChar class="dimensions">4-11(-14) x 2-5(-7) cm</subChar>, 
+						<subChar class="margins">margin somewhat revolute, </subChar>
+						<subChar class="apex">apex <subChar class="length">0.3-1 cm</subChar> acuminate, </subChar>
+						<subChar class="base">base rounded or obtuse, sometimes shortly acute, above brownish green to (dark) olive, glabrous or laxly pubescent, sometimes a bit shining, below paler or greyish green to ash-grey, densely puberulent, trichomes <subChar class="length">0.1-0.7 mm long</subChar>; </subChar>
+					</subChar>
+					<subChar class="veins">sub-3-pliveined, secondary veins 1-4 pairs, all veins above glabrous to pubescent, below glabrous to densely pubescent. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescences <subChar class="position">axillary</subChar>, 8-12(-13) times branched, <subChar class="length">up to 10-14 cm long</subChar>; 
+					<subChar class="peduncle">peduncle <subChar class="length">3-8 cm long</subChar>, grey pubescent or glabrous, 
+						<subChar class="branchlets">branchlets terete, greyish white pubescent; </subChar>
+					</subChar>
+					<subChar class="pedicels">pedicels slender, grey pubescent. </subChar>
+				</char>
+				<char class="flowers">Flowers: 
+					<subChar class="perianth">perianth lobes 4, elliptic or oblong, <subChar class="dimensions">1.5-2 x 0.5-1 mm</subChar>, smudgy red; </subChar>
+					<subChar class="stamens">stamens 4, 
+						<subChar class="filaments">filaments <subChar class="length">0.5 mm long</subChar>, </subChar>
+						<subChar class="anthers">anthers <subChar class="length">1 mm long</subChar>; </subChar>
+					</subChar>
+					<subChar class="style">style thick, <subChar class="length">1.2-1.8 mm long</subChar>. </subChar>
+				</char>
+				<char class="infructescences">Infructescence <subChar class="length">12-24 cm long</subChar>, nodose to strongly nodose, silver-white when mature, pubescent or glabrous; 
+					<subChar class="branchlets">branchlets slender; </subChar>
+					<subChar class="fruit pedicels">fruit pedicel slender, <subChar class="length">2.5-6(-6.5) cm long</subChar>. </subChar>
+				</char>
+				<char class="drupes">Drupe silver-white, ellipsoid, <subChar class="dimensions">1.3-1.6 x 0.6-0.7 cm</subChar>, longitudinally compressed, acute, inconspicuously 6(-8)-ribbed, somewhat wrinkled.</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Venezuela</distributionLocality>, the <distributionLocality class="region">Guianas</distributionLocality>, <distributionLocality class="country">Brazil</distributionLocality>; 30 collections studied (GU: 7; SU: 7; FG: 12).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>forest near granite rocks, savanna forest, non-flooded moist forest, high forest along rivers and wallaba (Eperua) forest, <altitude>0-400 m</altitude> elev.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Selected specimens:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Rupununi Distr., Kuyuwini Landing, Kuyuwini R.</locality>, <collector>Jansen-Jacobs et al.</collector> <fieldNum>3180</fieldNum> (<collectionAndType>B, NY, U, US</collectionAndType>)</gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="suriname">Suriname:
+					<gathering><locality class="locality">Nickerie Distr., Kabalebo Dam project, between km 29 &amp; 30</locality>, <collector>Lindeman &amp; Görts-van Rijn et al.</collector> <fieldNum>57</fieldNum> (<collectionAndType>NY, U, US</collectionAndType>)</gathering>.
+				</gatheringGroup>
+				<gatheringGroup geoscope="french guiana">French Guiana:
+					<gathering><locality class="locality">Saül, airport road</locality>, <collector>Mori et al.</collector> <fieldNum>23044</fieldNum> (<collectionAndType>B, CAY, U, US</collectionAndType>)</gathering>; <gathering><locality class="locality">Ile de Cayenne, River S.</locality>, <collector>Oldeman</collector> <fieldNum>B-3890</fieldNum> (<collectionAndType>CAY, NY, P, U</collectionAndType>)</gathering>.</gatheringGroup>
+				</string>
+			</feature>
+			<feature class="vernacular">
+				<string><subHeading>Vernacular names:</subHeading><vernacularNames>
+					<subHeading>Suriname:</subHeading>
+					<vernacularName><name class="vernacular">oneka</name> (<localLanguage>Carib</localLanguage>)</vernacularName>
+					<subHeading>French Guiana:</subHeading>
+					<vernacularName><name class="vernacular">wilalãkãyewi</name> (<localLanguage>Wayampi</localLanguage>)</vernacularName>
+				</vernacularNames>.</string>
+			</feature>
+			<feature class="phenology">
+				<string><subHeading>Phenology:</subHeading> Flowering in <lifeCyclePeriods class="flowering"><dates><fullDate>Feb., Apr.-Jul., Sep and Oct.</fullDate></dates></lifeCyclePeriods>; fruiting in <lifeCyclePeriods class="fruiting"><dates><fullDate>Jan., Apr.-Aug., Oct. and Nov</fullDate></dates></lifeCyclePeriods>.</string>
+			</feature>
+			<feature class="notes">
+				<string><subHeading>Note:</subHeading> In 1969 Kubitzki raised <fullName rank="variety">S. botocudorum var. uncigerum</fullName> to the rank of species. The differences he mentioned between <fullName rank="species">S. uncigerum</fullName> and <fullName rank="species">S. wonotoboense</fullName> are that the former has glabrous young branches and petioles, slightly coriaceous leaves, 0.3-0.4 mm long hairs on the lower surface of the leaf, buds 0.6-1.0 mm in diameter, strongly nodose infructescence and drupes 1.5-1.6 x 0.6-0.7 cm. The latter has densely villose young branches and petioles, papery leaves, 0.5-0.8 mm long hairs on the lower surface of the leaf, buds 1.2 mm in diameter, slender and nodose infructescence and drupes 1.2-1.5 x 0.4 cm.<br />Studying the collections I noticed the great similarity between the two species. Most characters such as leaf texture, shape and size, indument of branches, petioles and inflorescences, characters of the flowers and fruits showed to vary in such a way that the ranges in which these characters occur in one species, do overlap those of the other species. Therefore, no character or combination of characters can be found that clearly distinguishes the 2 species.<br />Typical specimens of <fullName rank="species">S. wonotoboense</fullName> were collected in Suriname and Guyana, but not in French Guiana. Typical <fullName rank="species">S. uncigerum</fullName> specimens were found in French Guiana and Suriname, but not in Guyana. Intermediary forms were collected in all of the three countries.<br />Conclusion: <fullName rank="species">S. uncigerum</fullName> and <fullName rank="species">S. wonotoboense</fullName> as well as all the intermediate forms belong to one single variable species: <fullName rank="species">S. wonotoboense</fullName>.</string>
+			</feature>
+			<figure id="ID_2" type="lineart" url="fotg-a-24-2.gif">Fig. <num>1</num>. <figureLegend><fullName rank="species">Hernandia guianensis Aubl.</fullName>: A, leaf; B, inflorescence; C, cincinnus consisting of 1 central female flower and 2 lateral male flowers; D, female flower with young cupule; E, male flower; F, stamen with valves opened to the sides; G, fruit cupule; H, opened cupule, showing drupe (A-B, <gathering><collector>Polak et al.</collector><fieldNum>72</fieldNum></gathering>; C-F, <gathering><collector>van Andel et al.</collector><fieldNum>2646</fieldNum></gathering>; G-H, <gathering><collector>Prévost</collector><fieldNum>3500</fieldNum></gathering>). Drawing by H. Rypkema.</figureLegend></figure>
+			<figure id="ID_3" type="lineart" url="fotg-a-24-3.gif">Fig. <num>2</num>. <figureLegend><fullName rank="species">Sparattanthelium wonotoboense Kosterm.</fullName>: A, flowering branch; B, infructescence; C, flower at anthesis (A, <gathering><collector>Cremers</collector><fieldNum>9581</fieldNum></gathering>; B, <gathering><collector>Smith</collector><fieldNum>3390</fieldNum></gathering>; C, <gathering><collector>Jansen-Jacobs et al.</collector><fieldNum>3180</fieldNum></gathering>). Drawing by H. Rypkema.</figureLegend></figure>
+			<figure id="ID_60" type="photo" url="fotg-a-24-60.jpg">Fig. <num>59</num>. <figureLegend>A, <fullName rank="species">Hernandia guianensis Aubl.</fullName>: transverse section; B-C, <fullName rank="species">Sparattanthelium wonotobense Kosterm.</fullName>: transverse sections; D, <fullName rank="genus">Sparattanthelium guianense Sandwith</fullName>: tangential section (scale bars A-C = 1 mm; D = 0.5 mm).</figureLegend></figure>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>8</num>
+						<name class="family">CHLORANTHACEAE</name>
+					</nom>
+				</homotypes>
+			</nomenclature>
+			<writer>Carol A. Todzia<footnoteRef ref="FN_3"><num>2</num></footnoteRef></writer>
+			<feature class="description">
+				<char class="habit">Trees, shrubs or herbs. </char>
+				<char class="leaves">Leaves opposite, decussate, simple; 
+					<subChar class="petiole">petioles connate at base, stipulates present, petiolar; </subChar>
+					<subChar class="blade">blades pinnately veined, usually glabrous, margins dentate. </subChar>
+				</char>
+				<char class="inflorescences">Inflorescences capitate, spicate or racemose, <subChar class="position">axillary or terminal</subChar>. </char>
+				<char class="flowers">Flowers small, unisexual (monoecious or dioecious) or bisexual, without perianth or with 3-lobed calyx, subtended by 1-3 bracts or ebracteate; 
+					<subChar class="stamens">stamens 1-3, in bisexual flowers adnate to ovary, 
+						<subChar class="anthers">anthers 2- or 4-locular, linear to oblong, opening with longitudinal slits, </subChar>
+						<subChar class="connective">connective often expanded or extended. </subChar>
+					</subChar>
+				</char>
+				<char class="pistil">Pistillate and bisexual flowers epigynous, hemi-epigynous or naked; 
+					<subChar class="carpels">carpel 1, 
+						<subChar class="stigma">stigma sessile, </subChar>
+						<subChar class="ovules">ovule 1, orthotropous. </subChar>
+					</subChar>
+				</char>
+				<char class="fruits">Fruit a berry with a hard seed coat or a drupe with a fragile, stony endocarp (Hedyosmum); 
+					<subChar class="seeds">seeds with well-developed starchy endosperm, 
+						<subChar class="embryo">embryo small with 2 minute cotyledons.</subChar>
+					</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> About 75 species in 4 genera, all found in the <distributionLocality class="world">moist tropics of the world</distributionLocality>; in the <distributionLocality class="world">Neotropics</distributionLocality> 1 genus with 44 species; in the <distributionLocality class="region">Guianas</distributionLocality> 1 species.</string>
+			</feature>
+			<references>
+				<heading>LITERATURE</heading>
+				<reference>
+					<refPart class="author">Todzia, C.A.</refPart>
+					<refPart class="year">1988</refPart>
+					<refPart class="pubtitle">Chloranthaceae: Hedyosmum</refPart>
+					<refPart class="pubname">Flora Neotropica</refPart>
+					<refPart class="volume">48</refPart>
+					<refPart class="pages">1-139</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Todzia, C.A.</refPart>
+					<refPart class="year">1993</refPart>
+					<refPart class="pubtitle">Chloranthaceae</refPart>
+					<refPart class="editors">K. Kubitzki</refPart>
+					<refPart class="pubname">The Families and Genera of Vascular Plants</refPart>
+					<refPart class="volume">2</refPart>
+					<refPart class="pages">281-287</refPart>
+				</reference>
+				<reference>
+					<refPart class="author">Todzia, C.A.</refPart>
+					<refPart class="year">1998</refPart>
+					<refPart class="pubtitle">Chloranthaceae</refPart>
+					<refPart class="editors">J.A. Steyermark et al.</refPart>
+					<refPart class="pubname">Flora of the Venezuelan Guayana</refPart>
+					<refPart class="volume">4</refPart>
+					<refPart class="pages">198-201</refPart>
+				</reference>
+			</references>
+			<footnote id="FN_3"><footnoteString>2 Plant Resources Center, The University of Texas, Austin, Texas 78712, U.S.A.</footnoteString></footnote>
+			<feature class="specimens">
+				<heading>COLLECTIONS STUDIED</heading>
+				<string><gatheringGroup geoscope="guyana">GUYANA
+				<gathering><collector>Boom, B.M. et al.</collector>, <fieldNum>9063</fieldNum> (<fullName rank="species">Hedyosmum tepuiense</fullName>)</gathering>; <gathering><fieldNum>9200</fieldNum> (<fullName rank="species">Hedyosmum tepuiense</fullName>)</gathering>
+				<gathering><collector>Hahn, W.J. et al.</collector>, <fieldNum>5481a</fieldNum> (<fullName rank="species">Hedyosmum tepuiense</fullName>)</gathering>
+				</gatheringGroup></string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">Hedyosmum</name>
+						<name class="author">Swartz</name>
+						<citation class="publication">
+							<refPart class="pubname">Prodr.</refPart>
+							<refPart class="volume">847</refPart>
+							<refPart class="year">1788</refPart>
+						</citation>
+					</nom>
+					<nameType>
+						<nom class="nametype">Type: 
+							<name class="genus abbreviation">H.</name>
+							<name class="species">nutans</name>
+							<name class="author">Swartz</name>
+						</nom>
+					</nameType>
+				</homotypes>
+			</nomenclature>
+			<feature class="description">
+				<char class="habit">Monoecious or dioecious aromatic shrubs or trees, rarely herbs, often with prop roots; 
+					<subChar class="wood">wood white, usually soft; </subChar>
+					<subChar class="stems">stems with persistent leaf sheaths or with encircling leaf sheath scars; </subChar>
+					<subChar class="nodes">nodes swollen. </subChar>
+				</char>
+				<char class="leaves">Leaves fleshy to coriaceous when fresh; 
+					<subChar class="margins">margins dentate; </subChar>
+					<subChar class="petiole">petioles with expanded bases forming a connate sheath around stem; </subChar>
+					<subChar class="stipular appendages">distal margin of leaf sheath with or without stipular appendages. </subChar>
+				</char>
+				<char class="staminate inflorescences">Staminate inflorescences composed of a solitary spike or with several spikes on a racemose or paniculate axis, subtended by a pair of leafy bracts; 
+					<subChar class="spikes">spikes with 50-300 flowers. </subChar>
+				</char>
+				<char class="staminate flowers">Staminate flowers consisting of a solitary, sessile, ebracteate stamen; 
+					<subChar class="stamens">stamens quadrangular to oblong, 4-locular, longitudinally dehiscent, 
+						<subChar class="connective">anther connective extended with apex, flat, acute or acuminate. </subChar>
+					</subChar>
+				</char>
+				<char class="pistillate inflorescences">Pistillate inflorescences solitary, thryse-like, racemose, or paniculate, subtended by leafy bracts; 
+					<subChar class="flowers">flowers solitary or more often clustered into cymules. </subChar>
+				</char>
+				<char class="pistillate flowers">Pistillate flowers consisting of an ellipsoidal or trigonous ovary, with perianth adnate to ovary with 3 free or partially fused lobes at apex of ovary, subtended by a chartaceous or fleshy floral bract that often encloses flower. </char>
+				<char class="fruits">Fruit a drupe with a fleshy wall formed by fused perianth or multiple with connate floral bracts becoming fleshy and colored (white or purple); 
+					<subChar class="seeds">seeds small, brown or black, ellipsoidal or trigonous, smooth or minutely papillate.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> About 44 species, mostly at mid-elevations from <distributionLocality class="country">Mexico</distributionLocality> to <distributionLocality class="country">Paraguay</distributionLocality>; 1 species in  <distributionLocality class="continental region">SE Asia</distributionLocality>; in the <distributionLocality class="region">Guianas</distributionLocality> 1 species.</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat><altitude>Mid-elevations</altitude>.</habitat></string>
+			</feature>
+		</taxon>
+		<taxon>
+			<nomenclature>
+				<homotypes>
+					<nom class="accepted">
+						<num>1</num>
+						<name class="genus">Hedyosmum</name>
+						<name class="species">tepuiense</name>
+						<name class="author">Todzia</name>
+						<citation class="publication">
+							<refPart class="pubname">Novon</refPart>
+							<refPart class="volume">3</refPart>
+							<refPart class="pages">83</refPart>
+							<refPart class="year">1993</refPart>
+						</citation>
+					</nom>
+					<specimenType><gathering>Type: <locality class="locality">Venezuela, Amazonas, Dept. Rio Negro, Cerro de la Neblina</locality><collector>Anderson</collector><fieldNum>13389</fieldNum><collectionAndType>(holotype TEX, isotypes MICH, NY, VEN)</collectionAndType></gathering>.</specimenType>
+				</homotypes>
+			</nomenclature>
+			<figureRef ref="ID_4">Fig. <num>3</num></figureRef>
+			<feature class="description">
+				<char class="habit">Dioecious aromatic tree or shrub, <subChar class="height">2-16 m tall</subChar>; 
+					<subChar class="juvenile stems">young stems quadrate, 
+						<subChar class="mature stems">older stems terete with tubular leaf bases persisting; </subChar>
+					</subChar>
+					<subChar class="internodes">internodes <subChar class="length">3-6 cm long</subChar>, glabrous. </subChar>
+				</char>
+				<char class="petiole">Free portion of petiole <subChar class="length">0.7-2 cm long</subChar>, glabrous to slightly floccose or strigose; 
+					<subChar class="petiolar sheaths">petiolar sheaths <subChar class="length">1.5-2.5 cm long</subChar>, usually verrucose with two linear to fimbriate stipular appendages <subChar class="length">ca. 3 mm long</subChar>; </subChar>
+					<subChar class="leaf blades">leaf blade elliptic, <subChar class="dimensions">7.5-19 x 2.3-10 cm</subChar>, with long-acuminate tip <subChar class="length">0.5-1.5 cm long</subChar>, attenuate at base, 
+						<subChar class="margins">margin serrate, drying scabrous; </subChar>
+					</subChar>
+					<subChar class="midveins">midvein impressed above, raised beneath, with floccose or strigose hairs. </subChar>
+				</char>
+				<char class="staminate inflorescences">Staminate inflorescence <subChar class="length">2.5-6.5 cm long</subChar>, 
+					<subChar class="rachises">rachis with 2-3 nodes, each with 1-3 spikes; </subChar>
+					<subChar class="mature spikes">mature spike <subChar class="length">0.6-1.5 cm long</subChar> with 50-100 stamens; </subChar>
+					<subChar class="anthers">anthers <subChar class="length">1-1.5 cm long</subChar> terminated by an expanded apiculate connective. </subChar>
+				</char>
+				<char class="pistillate inflorescences">Pistillate inflorescence racemose or paniculate, <subChar class="length">3-10 cm long</subChar> with ca. 20 cymules; 
+					<subChar class="cymules">cymule with 2-5 pistillate flowers; </subChar>
+					<subChar class="pistillate flowers">pistillate flower slightly trigonous, <subChar class="length">2-3 cm long</subChar>, <subChar class="width">1-2 mm broad</subChar>; </subChar>
+					<subChar class="perianth">perianth lobes small, <subChar class="length">ca. 0.3 mm long</subChar>; </subChar>
+					<subChar class="stigma">stigmas irregularly clavate, <subChar class="length">1-2 mm long</subChar>, 3-angled, papillose. </subChar>
+				</char>
+				<char class="fruiting cymules">Fruiting cymules white, irregularly globose, <subChar class="diameter">4-9 mm diam.</subChar>; 
+					<subChar class="seeds">seeds ellipsoidal, <subChar class="length">ca. 3 mm long</subChar>, brown, smooth.</subChar>
+				</char>
+			</feature>
+			<feature class="distribution">
+				<string><subHeading>Distribution:</subHeading> <distributionLocality class="region">Venezuelan Guayana</distributionLocality> and <distributionLocality class="region">Pakaraima Mts.</distributionLocality> in <distributionLocality class="country">Guyana</distributionLocality>; 20 collections studied (GU: 3).</string>
+			</feature>
+			<feature class="habitat">
+				<string><subHeading>Habitat:</subHeading> <habitat>wet montane forest and riparian habitats, <altitude>1200-2600 m</altitude> elev.</habitat></string>
+			</feature>
+			<feature class="specimens">
+				<string><subHeading>Specimens examined:</subHeading>
+				<gatheringGroup geoscope="guyana">Guyana:
+					<gathering><locality class="locality">Mt. Roraima</locality>, <collector>Hahn &amp; Gopaul</collector> <fieldNum>5481a</fieldNum> (<collectionAndType>TEX, US</collectionAndType>)</gathering>; <gathering><locality class="locality">Mt. Wokomung</locality>, <collector>Boom &amp; Samuels</collector> <fieldNum>9063</fieldNum> (<collectionAndType>NY, TEX</collectionAndType>)</gathering>; <gathering><locality class="locality">Mt. Wokomung</locality>, <collector>Boom &amp; Samuels</collector> <fieldNum>9200</fieldNum> (<collectionAndType>NY, TEX</collectionAndType>)</gathering>.</gatheringGroup>
+				</string>
+			</feature>
+			<figure id="ID_4" type="lineart" url="fotg-a-24-4.gif">Fig. <num>3</num>. <figureLegend><fullName rank="species">Hedyosmum tepuiense Todzia</fullName>: A, flowering branch; B, petiolar sheath with stipular appendages; C, pistillate cymule. Drawing by B. Manara; reproduced with permission of the Missouri Botanical Garden Press from J.A. Steyermark, P.E. Berry and B.K. Holst (eds.), Flora of the Venezuelan Guayana 4: 201, Fig. 142. 1998.</figureLegend></figure>
+		</taxon>
 		<taxon>
 			<nomenclature>
 				<homotypes>
@@ -1963,11 +3093,11 @@
 			<nomenclature>
 				<homotypes>
 					<nom class="accepted">
+						<num>11</num>
 						<name class="genus">Peperomia</name>
 						<name class="species">lancifolia</name>
-						<name class="author">Hook.</name>
 						<name class="infrank">subsp.</name>
-						<name class="subspecies">lancifolia.</name>
+						<name class="subspecies">lancifolia</name>
 					</nom>
 				</homotypes>
 			</nomenclature>
@@ -2563,7 +3693,7 @@
 				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Nicaragua</distributionLocality>, <distributionLocality class="country">Costa Rica</distributionLocality>, <distributionLocality class="country">Colombia</distributionLocality>, <distributionLocality class="country">Venezuela</distributionLocality>, the <distributionLocality class="region">Guianas</distributionLocality> and <distributionLocality class="region">Brazil to Paraná and Rio de Janeiro</distributionLocality>; 64 collections studied (GU: 19; SU: 13; FG: 32).</string>
 			</feature>
 			<feature class="habitat">
-				<string><subHeading>Habitat:</subHeading> <habitat>from sea level <altitude>to 850-1400 m</altitude> elev.</habitat></string>
+				<string><subHeading>Habitat:</subHeading> <habitat><altitude>from sea level to 850-1400 m</altitude> elev.</habitat></string>
 			</feature>
 			<feature class="specimens">
 				<string><subHeading>Selected specimens:</subHeading>
@@ -2723,7 +3853,7 @@
 				<char class="habit">Terrestrial or epiphytic, erect herb, glabrous except for pubescent peduncle. </char>
 				<char class="stems">Stem <subChar class="length">to 5 cm long</subChar>, green. </char>
 				<char class="leaves">Leaves alternate, basely attached; 
-					<subChar class="petiole">petiole to 0.<subChar class="length">25 cm long</subChar>; </subChar>
+					<subChar class="petiole">petiole to <subChar class="length">0.25 cm long</subChar>; </subChar>
 					<subChar class="blade">blade <subChar class="texture">membranous</subChar>, <subChar class="shape">narrowly elliptic or oblanceolate</subChar>, <subChar class="dimensions">15-30 x 4-12 cm</subChar>, 
 						<subChar class="apex">apex acuminate, </subChar>
 						<subChar class="base">base cuneate; </subChar>
@@ -3632,7 +4762,7 @@
 				<char class="habit">Epiphytic or rarely epilithic herb, cespitose or rooting at nodes and ascending. </char>
 				<char class="stems">Stem <subChar class="length">to 25 cm long</subChar>, minutely pubescent, green. </char>
 				<char class="leaves">Leaves in whorls of 4, basely attached; 
-					<subChar class="petiole">petiole 0.<subChar class="length">05-0.2 cm long</subChar>, minutely pubescent; </subChar>
+					<subChar class="petiole">petiole <subChar class="length">0.05-0.2 cm long</subChar>, minutely pubescent; </subChar>
 					<subChar class="blade">blade <subChar class="texture">fleshy to subcoriaceous</subChar>, <subChar class="shape">rhombic, ovate-elliptic to suborbicular</subChar>, <subChar class="dimensions">0.6-1.2 x 0.4-1.0 cm</subChar>, 
 						<subChar class="apex">apex obtuse, rounded or emarginate, </subChar>
 						<subChar class="base">base obtuse to subacute, somewhat ciliate towards apex and sparsely puberulent to glabrous; </subChar>
@@ -3653,7 +4783,7 @@
 				<string><subHeading>Distribution:</subHeading> <distributionLocality class="world">Pantropical</distributionLocality>; 4 collections studied (GU: 1).</string>
 			</feature>
 			<feature class="habitat">
-				<string><subHeading>Habitat:</subHeading> <habitat>at higher altitudes.</habitat></string>
+				<string><subHeading>Habitat:</subHeading> <habitat><altitude>at higher altitudes</altitude>.</habitat></string>
 			</feature>
 			<feature class="specimens">
 				<string><subHeading>Specimen examined:</subHeading> 
@@ -4610,7 +5740,7 @@
 				<couplet num="56">
 					<question num="a">
 						<text>Infructescence 2.5-4.5 cm long, fruits distinctly sulcate</text>
-						<toTaxon num="10">P. aulacospermun</toTaxon>
+						<toTaxon num="10">P. aulacospermum</toTaxon>
 					</question>
 					<question num="b">
 						<text>Infructescence 10-12 cm long, fruits ridged or winged.</text>
@@ -8319,7 +9449,7 @@
 			</nomenclature>
 			<figureRef ref="ID_44">Fig. <num>43</num><figurePart>A-C</figurePart></figureRef>
 			<feature class="description">
-				<char class="habit">Creeping herb or subshrub to 0.<subChar class="height">35 m tall</subChar>. </char>
+				<char class="habit">Creeping herb or subshrub to <subChar class="height">0.35 m tall</subChar>. </char>
 				<char class="stems">Stem villous often with white hairs. </char>
 				<char class="petiole">Petiole <subChar class="length">1-2(-5.5) cm long</subChar>, villous; 
 					<subChar class="blade">blade discolourous, <subChar class="texture">not scabrous</subChar>, not conspicuously glandular-dotted, <subChar class="shape">elliptic to broadly elliptic</subChar>, <subChar class="dimensions">9-15(-18) x 5-7(-8.5) cm</subChar>, 
@@ -9548,7 +10678,7 @@
 				<string><subHeading>Distribution:</subHeading> <distributionLocality class="country">Venezuela</distributionLocality> and <distributionLocality class="country">Brazil</distributionLocality> (<distributionLocality class="state">Mato Grosso</distributionLocality>); not yet reported from the <distributionLocality class="region" status="expected">Guianas</distributionLocality>, but expected to be used there too as fish poison.</string>
 			</feature>
 			<feature class="habitat">
-				<string><subHeading>Habitat:</subHeading> <habitat>non-flooded moist forest, or along riverbanks, up to 660(-1100?) m elev.</habitat></string>
+				<string><subHeading>Habitat:</subHeading> <habitat>non-flooded moist forest, or along riverbanks, <altitude>up to 660(-1100?) m</altitude> elev.</habitat></string>
 			</feature>
 			<feature class="uses">
 				<string><subHeading>Uses:</subHeading> Roots and branches are used as fish poison; also used to alleviate pain of teeth and gums. (<references><reference>
@@ -10442,63 +11572,63 @@
 			<feature class="taxonomy">
 				<string>is a nom. illeg. based on among others Enckea schlechtendalii Miq. (which was based on specimens from Mexico) and "P. angustifolium Pav." (an invalid name, probably a nomen herbariorum). I have not seen the type of Miquel's species name, and it is not clear which species Lemée had in mind when he (1955: 481) accepted this species for French Guiana: "P. angustifolium Pav. (P. schlechtendalianum or schlechtendalii Pav.)".</string>
 			</feature>
-			<figure id="ID_5" type="lineart" url="fotg-a-24-5.gif">Fig. <num>4</num>. <figureLegend>Peperomia alata Ruiz &amp; Pav.: A, habit; B, fruit. After drawing in Flora de Venezuela.</figureLegend></figure>
-			<figure id="ID_6" type="lineart" url="fotg-a-24-6.gif">Fig. <num>5</num>. <figureLegend>Peperomia angustata Kunth: A, habit. Peperomia blanda (Jacq.) Kunth: B, habit; C, fruit (A, <gathering><collector>Feuillet</collector><fieldNum>1173</fieldNum></gathering>; B-C, <gathering><collector>Henkel</collector><fieldNum>5658</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_7" type="lineart" url="fotg-a-24-7.gif">Fig. <num>6</num>. <figureLegend>Peperomia delascioi Steyerm.: A, habit; B, leaf; C, stipitate fruit; D, part of rachis with fruits. After Steyermark, Brittonia 40: 295. 1988.</figureLegend></figure>
-			<figure id="ID_8" type="lineart" url="fotg-a-24-8.gif">Fig. <num>7</num>. <figureLegend>Peperomia emarginella (Sw. ex Wikstr.) C. DC.: A, habit; B, part of stem with leaves; C, spike (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>8750</fieldNum></gathering>; C, <gathering><collector>Clarke</collector><fieldNum>9725</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_9" type="lineart" url="fotg-a-24-9.gif">Fig. <num>8</num>. <figureLegend>Peperomia galioides Kunth: A, habit; B, fruit (A-B, <gathering><collector>Hahn</collector><fieldNum>5019</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_10" type="lineart" url="fotg-a-24-10.gif">Fig. <num>9</num>. <figureLegend>Peperomia glabella (Sw.) A. Dietr.: A, habit, with detail of glandular leaf surface; B, spike with fruits; C, fruit with 3 glands and subapical stigma (A, <gathering><collector>Kegel</collector><fieldNum>437</fieldNum></gathering>; B-C, <gathering><collector>van Donselaar</collector><fieldNum>3819</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_11" type="lineart" url="fotg-a-24-11.gif">Fig. <num>10</num>. <figureLegend>Peperomia gracieana Görts: A, habit; B, part of stem with leaf and spike; C, detail of leaf surface and trichoom; D, part of flowering spike showing floral bracts and flowers with stamens (A, <gathering><collector>Mori et al.</collector><fieldNum>23264</fieldNum></gathering>; B-D, <gathering><collector>Mori et al.</collector><fieldNum>23773</fieldNum></gathering>). Drawing by B. Angell (NY).</figureLegend></figure>
-			<figure id="ID_12" type="lineart" url="fotg-a-24-12.gif">Fig. <num>11</num>. <figureLegend>Peperomia haematolepis Trel.: A, habit. Peperomia magnoliifolia (Jacq.) A. Dietr.: B, habit; D, fruits. Peperomia obtusifolia (L.) A. Dietr.: C, fruits (A, <gathering><collector>Görts-van Rijn et al.</collector><fieldNum>71</fieldNum></gathering>; B, <gathering><collector>Chanderbali et al.</collector><fieldNum>603</fieldNum></gathering>). C-D from Table 2 in: H. Dahlstedt, Kongl. Svenska Vetensk. Handl. Stockholm 33(2): Tafel 2. 1900.</figureLegend></figure>
-			<figure id="ID_13" type="lineart" url="fotg-a-24-13.gif">Fig. <num>12</num>. <figureLegend>Peperomia hernandiifolia (Vahl) A. Dietr.: A, habit; B, fruit. Peperomia lancifolia Hook. subsp. lancifolia: C, habit; D, fruit (A-B, <gathering><collector>Maas et al.</collector><fieldNum>4442</fieldNum></gathering>; C-D, <gathering><collector>Henkel</collector><fieldNum>4419</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_14" type="lineart" url="fotg-a-24-14.gif">Fig. <num>13</num>. <figureLegend>Peperomia macrostachya (Vahl) A. Dietr.: A, habit; B-E, leaf shapes; F-G, fruits (A, F, <gathering><collector>Gillespie</collector><fieldNum>1180</fieldNum></gathering>; B, <gathering><collector>Acevedo</collector><fieldNum>3415</fieldNum></gathering>; D, G, <gathering><collector>de Granville et al.</collector><fieldNum>9560</fieldNum></gathering>; C, E, <gathering><collector>Mutchnick</collector><fieldNum>1102</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_15" type="lineart" url="fotg-a-24-15.gif">Fig. <num>14</num>. <figureLegend>Peperomia maguirei Yunck.: A, habit; B, part of spike with fruits. Peperomia ouabianae C. DC.: C, D, habit; E, fruit (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>11087</fieldNum></gathering>; C, E, <gathering><collector>de Granville et al.</collector><fieldNum>12316</fieldNum></gathering>; D, <gathering><collector>Maas et al.</collector><fieldNum>4448</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_16" type="lineart" url="fotg-a-24-16.gif">Fig. <num>15</num>. <figureLegend>Peperomia pellucida (L.) Kunth: A, habit. Peperomia pernambucensis Miq.: B, habit; C, leaf (A, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2858</fieldNum></gathering>; B, from photograph by T. Schöpke; C, <gathering><collector>Henkel</collector><fieldNum>4876</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_17" type="lineart" url="fotg-a-24-17.gif">Fig. <num>16</num>. <figureLegend>Peperomia popayanensis Trel. &amp; Yunck.: A, leaf. Peperomia purpurinervis C. DC.: B, habit; C, fruit. Peperomia quadrangularis (J.V. Thomps.) A. Dietr.: D, habit; E, spike on branch tip (A, <gathering><collector>Cremers et al.</collector><fieldNum>6349</fieldNum></gathering>; B-C, <gathering><collector>Clarke</collector><fieldNum>9215</fieldNum></gathering>; D-E, <gathering><collector>Jansen-Jacobs et al.</collector><fieldNum>748</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_18" type="lineart" url="fotg-a-24-18.gif">Fig. <num>17</num>. <figureLegend>Peperomia reptans C. DC.: A, habit (A, <gathering><collector>Henkel</collector><fieldNum>4356</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_19" type="lineart" url="fotg-a-24-19.gif">Fig. <num>18</num>. <figureLegend>Peperomia rotundifolia (L.) Kunth: A-B, habit; C, detail of branch tip with spike bearing fruits; D, detail spike rachis with fruits. Peperomia serpens (Sw.) Loudon: E, habit; F, fruit (A, <gathering><collector>Henkel</collector><fieldNum>4243</fieldNum></gathering>; B, <gathering><collector>Jonker &amp; Daniëls</collector><fieldNum>1136</fieldNum></gathering>; C, <gathering><collector>Henkel</collector><fieldNum>5096</fieldNum></gathering>; D, <gathering><collector>Clarke</collector><fieldNum>6004</fieldNum></gathering>; E, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2671</fieldNum></gathering>; F, <gathering><collector>Maguire</collector><fieldNum>24092</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_20" type="lineart" url="fotg-a-24-20.gif">Fig. <num>19</num>. <figureLegend>Peperomia tenella (Sw.) A. Dietr.: A, habit; B, detail of spike rachis with stipitate fruits. Peperomia tetraphylla (G. Forstr.) Hook. &amp; Arn.: C, habit. Peperomia transparens Miq.: D, habit. Peperomia urocarpa Fisch. &amp; Mey.: E, habit (A-B, <gathering><collector>Clarke</collector><fieldNum>5599</fieldNum></gathering>; C, <gathering><collector>Im Thurn</collector><fieldNum>224</fieldNum></gathering>; D, <gathering><collector>de Granville et al.</collector><fieldNum>12132</fieldNum></gathering>; E, <gathering><collector>McDowell</collector><fieldNum>2713</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_21" type="lineart" url="fotg-a-24-21.gif">Fig. <num>20</num>. <figureLegend>Piper adenandrum (Miq.) C. DC.: A, habit; B, leaf; C, detail of indument on lower leaf surface (A, <gathering><collector>Hoff</collector><fieldNum>6799</fieldNum></gathering>; B-C, <gathering><collector>Wallnöfer</collector><fieldNum>13475</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_22" type="lineart" url="fotg-a-24-22.gif">Fig. <num>21</num>. <figureLegend>Piper aduncum L.: A, habit (A, <gathering><collector>Pulle</collector><fieldNum>9</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_23" type="lineart" url="fotg-a-24-23.gif">Fig. <num>22</num>. <figureLegend>Piper aequale Vahl: A, habit; B, part of stem with leaf; C, spike with fruits (A-B, <gathering><collector>Lent</collector><fieldNum>3360</fieldNum></gathering>; C, <gathering><collector>Feuillet</collector><fieldNum>2474</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_24" type="lineart" url="fotg-a-24-24.gif">Fig. <num>23</num>. <figureLegend>Piper alatabaccum Trel. &amp; Yunck.: A, fruit seen from above; B, fruit seen from the side; C, part of spike showing rachis and young flowers. Piper bartlingianum (Miq.) C. DC.: D, leaf; E, fruit seen from the side. Piper bolivaranum Yunck.: F, habit; G, leaf (A-B, <gathering><collector>Henkel</collector><fieldNum>418</fieldNum></gathering>; C, <gathering><collector>de Granville et al.</collector><fieldNum>876</fieldNum></gathering>; D, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2388</fieldNum></gathering>; E, <gathering><collector>Hoffman</collector><fieldNum>1415</fieldNum></gathering>; F-G, <gathering><collector>Maas et al.</collector><fieldNum>5578</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_25" type="lineart" url="fotg-a-24-25.gif">Fig. <num>24</num>. <figureLegend>Piper angustifolium Lam.: A, habit; B, detail of stem with indument (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>6219</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_26" type="lineart" url="fotg-a-24-26.gif">Fig. <num>25</num>. <figureLegend>Piper anonifolium (Kunth) Steud. var. anonifolium: A, habit; B, part of stem with petiole and decurrent lines of hairs; C, spike with fruits; D, fruit with stigmas seen from above (A-B, <gathering><collector>Billiet et al.</collector><fieldNum>6313</fieldNum></gathering>; C-D, <gathering><collector>Görts-van Rijn et al.</collector><fieldNum>124</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_27" type="lineart" url="fotg-a-24-27.gif">Fig. <num>26</num>. <figureLegend>Piper arboreum Aubl.: A, habit; B, tip of branch, young spike, prophyll and leaf attachment; C, detail of spike showing spirally arranged flowers; D, anther; E, detail of spike with fruits; F, fruit with subtending floral bract (A-D, <gathering><collector>Hahn</collector><fieldNum>5533</fieldNum></gathering>; E-F, <gathering><collector>Fanshawe</collector><fieldNum>3076</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_28" type="lineart" url="fotg-a-24-28.gif">Fig. <num>27</num>. <figureLegend>Piper augustum Rudge: A, habit; B, detail of leaf margin; C, spike with fruits (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>7992</fieldNum></gathering>; C, <gathering><collector>McDowell</collector><fieldNum>4748</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_29" type="lineart" url="fotg-a-24-29.gif">Fig. <num>28</num>. <figureLegend>Piper aulacospermum Callejas: A, habit, showing sympodial branches with inflorescences at anthesis and fruit; B, detail of leaf base and prophyll; C, leaf veins, view from above; D, leaf veins, view from below; E, young fruits; F, anther; G, floral diagram; H, seed (A-H, <gathering><collector>Mori &amp; Pennington</collector><fieldNum>18087</fieldNum></gathering>). Drawing by J. Colorado (HUA).</figureLegend></figure>
-			<figure id="ID_30" type="lineart" url="fotg-a-24-30.gif">Fig. <num>29</num>. <figureLegend>Piper avellanum (Miq.) C. DC.: A, habit; B, detail of vein with indument (A-B, <gathering><collector>McDowell</collector><fieldNum>3735</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_31" type="lineart" url="fotg-a-24-31.gif">Fig. <num>30</num>. <figureLegend>Piper brasiliense C. DC.: A, habit; B, flower details (A-B, after illustration in Fl. Bras. 4(1), fig. 4. 1852).</figureLegend></figure>
-			<figure id="ID_32" type="lineart" url="fotg-a-24-32.gif">Fig. <num>31</num>. <figureLegend>Piper brownsbergense Yunck.: A, B, habit (A, <gathering><collector>de Granville et al.</collector><fieldNum>4204</fieldNum></gathering>; B, <gathering><collector>van Donselaar</collector><fieldNum>1405</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_33" type="lineart" url="fotg-a-24-33.gif">Fig. <num>32</num>. <figureLegend>Piper ciliomarginatum Görts &amp; Christenhusz: A, apex of branch with leaf, withering prophyll and young spike; B-C, showing variation in leaf shape; D, detail of leaf margin; E, detail of spike showing floral bracts and young fruits with persistent stigma's; F, fruit with persistent stigma's; G, tip of young branch showing leaf base, prophyll and developing spike (A-B, <gathering><collector>G, Henkel</collector><fieldNum>2231</fieldNum></gathering>; C-D, <gathering><collector>F, Henkel</collector><fieldNum>2166</fieldNum></gathering>; E, <gathering><collector>Henkel</collector><fieldNum>2185</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_34" type="lineart" url="fotg-a-24-34.gif">Fig. <num>33</num>. <figureLegend>Piper consanguineum (Kunth) Steud.: A, habit; B, fruits. Piper crassinervium Kunth: C, habit (A, drawing by W.H.A, Hekking; B, <gathering><collector>de Granville et al.</collector><fieldNum>11757</fieldNum></gathering>; C, <gathering><collector>de Granville et al.</collector><fieldNum>7188</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_35" type="lineart" url="fotg-a-24-35.gif">Fig. <num>34</num>. <figureLegend>Piper coruscans Kunth: A, habit. Piper cyrtopodum (Miq.) C. DC.: B, habit (A, <gathering><collector>Pipoly</collector><fieldNum>8277</fieldNum></gathering>; B, <gathering><collector>Maas et al.</collector><fieldNum>3507</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_36" type="lineart" url="fotg-a-24-36.gif">Fig. <num>35</num>. <figureLegend>Piper demeraranum (Miq.) C. DC.: A, habit; B, leaf; C, detail of leaf upper surface indument; D, fruit with subtending floral bract (A, C-D, <gathering><collector>Görts-van Rijn et al.</collector><fieldNum>102</fieldNum></gathering>; B, <gathering><collector>Lindeman</collector><fieldNum>5082</fieldNum></gathering>). B, drawing by W.H.A. Hekking.</figureLegend></figure>
-			<figure id="ID_37" type="lineart" url="fotg-a-24-37.gif">Fig. <num>36</num>. <figureLegend>Piper dilatatum Rich.: A, habit; B, stamen. Piper divaricatum G. Mey.: C, habit. Piper duckei C. DC.: D, habit; E, detail of leaf attachment (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>66</fieldNum></gathering>; C, <gathering><collector>Gillespie</collector><fieldNum>1008</fieldNum></gathering>; D-E, <gathering><collector>Clarke</collector><fieldNum>4385</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_38" type="lineart" url="fotg-a-24-38.gif">Fig. <num>37</num>. <figureLegend>Piper dumosum Rudge: A, habit. Piper eucalyptifolium Rudge: B, habit (A, <gathering><collector>de Granville et al.</collector><fieldNum>8960</fieldNum></gathering>; B, <gathering><collector>de Granville et al.</collector><fieldNum>9051</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_39" type="lineart" url="fotg-a-24-39.gif">Fig. <num>38</num>. <figureLegend>Piper fanshawei Yunck.: A, habit. Piper flexuosum Rudge: B, habit (A, <gathering><collector>Henkel</collector><fieldNum>4420</fieldNum></gathering>; B, <gathering><collector>Martin</collector><fieldNum>s.n.</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_40" type="lineart" url="fotg-a-24-40.gif">Fig. <num>39</num>. <figureLegend>Piper fuligineum (Kunth) Steud.: A-B, leaves. Piper glabrescens (Miq.) C. DC.: C, habit (A, <gathering><collector>Jansen-Jacobs et al.</collector><fieldNum>2534</fieldNum></gathering>; B, <gathering><collector>Oldenburger et al.</collector><fieldNum>74</fieldNum></gathering>; C, <gathering><collector>Hahn</collector><fieldNum>4201</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_41" type="lineart" url="fotg-a-24-41.gif">Fig. <num>40</num>. <figureLegend>Piper guianense (Klotzsch) C. DC.: A, habit (A, <gathering><collector>Schomburgk</collector><fieldNum>696</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_42" type="lineart" url="fotg-a-24-42.gif">Fig. <num>41</num>. <figureLegend>Piper hirtilimbum Trel. &amp; Yunck.: A, habit. Piper hispidum Sw.: B, habit; C, leaf indument; D, stamen (A, <gathering><collector>Clarke</collector><fieldNum>4391</fieldNum></gathering>; B-D, <gathering><collector>Hahn</collector><fieldNum>3608</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_43" type="lineart" url="fotg-a-24-43.gif">Fig. <num>42</num>. <figureLegend>Piper hostmannianum (Miq.) C. DC.: A, habit; B, leaf; C, indument of leaf lower surface (A, C, <gathering><collector>Mori et al.</collector><fieldNum>23937</fieldNum></gathering>; B, <gathering><collector>Hekking</collector><fieldNum>1209</fieldNum></gathering>). B, drawing by W.H.A. Hekking.</figureLegend></figure>
-			<figure id="ID_44" type="lineart" url="fotg-a-24-44.gif">Fig. <num>43</num>. <figureLegend>Piper humistratum Görts &amp; K.U. Kramer: A, habit; B, detail of vein indument; C, young plant (A-B, <gathering><collector>Acevedo</collector><fieldNum>5939</fieldNum></gathering>; C, <gathering><collector>Tjon Lim Sang</collector><fieldNum>62</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_45" type="lineart" url="fotg-a-24-45.gif">Fig. <num>44</num>. <figureLegend>Piper hymenophyllum (Miq.) Wight: A, habit; B, young flowering spike showing exserted recurved stamens (A, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2666</fieldNum></gathering>; B, <gathering><collector>Jenman</collector><fieldNum>1851</fieldNum></gathering>). A, drawing by W.H.A. Hekking.</figureLegend></figure>
-			<figure id="ID_46" type="lineart" url="fotg-a-24-46.gif">Fig. <num>45</num>. <figureLegend>Piper inaequale C. DC.: A, leaf. Piper insipiens Trel. &amp; Yunck.: B, habit; C, detail of leaf lower surface with glandular dots (A, <gathering><collector>Irwin et al.</collector><fieldNum>47720</fieldNum></gathering>; B-C, <gathering><collector>de Granville et al.</collector><fieldNum>11372</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_47" type="lineart" url="fotg-a-24-47.gif">Fig. <num>46</num>. <figureLegend>Piper marginatum Jacq.: A, habit; B, detail of leaf margin (A-B, <gathering><collector>Henkel</collector><fieldNum>3910</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_48" type="lineart" url="fotg-a-24-48.gif">Fig. <num>47</num>. <figureLegend>Piper nigrispicum C. DC.: A, habit; B, pendent spike. Piper nigrum L.: C, habit; D, fruit (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>7579</fieldNum></gathering>; C-D, <gathering><collector>Herbarium Lemée</collector><fieldNum>s.n.</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_49" type="lineart" url="fotg-a-24-49.gif">Fig. <num>48</num>. <figureLegend>Piper obliquum Ruiz &amp; Pav.: A, habit; B, leaf (A, <gathering><collector>Sastre</collector><fieldNum>8066</fieldNum></gathering>; B, <gathering><collector>Hahn</collector><fieldNum>5701</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_50" type="lineart" url="fotg-a-24-50.gif">Fig. <num>49</num>. <figureLegend>Piper paramaribense C. DC.: A, habit. Piper phytolaccifolium Opiz: B, habit. Piper poiteanum Steud.: C, leaf (A, <gathering><collector>de Granville et al.</collector><fieldNum>7864</fieldNum></gathering>; B, <gathering><collector>de Granville et al.</collector><fieldNum>8634</fieldNum></gathering>; C, <gathering><collector>Happle</collector><fieldNum>s.n.</fieldNum></gathering>). C, drawing by W.H.A. Hekking.</figureLegend></figure>
-			<figure id="ID_51" type="lineart" url="fotg-a-24-51.gif">Fig. <num>50</num>. <figureLegend>Piper peltatum L.: A, habit (A, <gathering><collector>Irwin et al.</collector><fieldNum>54650</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_52" type="lineart" url="fotg-a-24-52.gif">Fig. <num>51</num>. <figureLegend>Piper perstipulare Steyerm.: A, habit; B, detail of branch tip (A, <gathering><collector>Pipoly</collector><fieldNum>10640</fieldNum></gathering>; B, <gathering><collector>Pipoly</collector><fieldNum>10786</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_53" type="lineart" url="fotg-a-24-53.gif">Fig. <num>52</num>. <figureLegend>Piper piscatorum Trel. &amp; Yunck.: A, leaf; B, part of branch with leaf and spike; C, fruit (seen from above); D, fruit (lateral view); E, floral bract. Piper pulleanum Yunck.: F, part of branch with leaf and spike (A, <gathering><collector>Williams</collector><fieldNum>11685</fieldNum></gathering>; B-E, based on fig. 79 in Steyermark, 1984; F, <gathering><collector>Clarke</collector><fieldNum>4539</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_54" type="lineart" url="fotg-a-24-54.gif">Fig. <num>53</num>. <figureLegend>Piper remotinervium Görts: A, apex of branch with leaf, developing young branch tip, prophyll and immature spike; B, indument on lower leaf surface; C, apiculate tip of spike; D, fruit as seen in dried collection; E, fruit with persistent stigma's and remnants of stamens; F, detail of spike showing young anthers; G, detail of spike with open anthers between fimbriate floral bracts; H, apex of young branch showing leaf base, developing tip of branch and prophyll (A-C, <gathering><collector>Feuillet</collector><fieldNum>530</fieldNum></gathering>; D, <gathering><collector>de Granville et al.</collector><fieldNum>4444</fieldNum></gathering>; E, <gathering><collector>de Granville et al.</collector><fieldNum>13110</fieldNum></gathering>; F-G, <gathering><collector>McDowell</collector><fieldNum>2225</fieldNum></gathering>; H, <gathering><collector>Cremers</collector><fieldNum>15083</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_55" type="lineart" url="fotg-a-24-55.gif">Fig. <num>54</num>. <figureLegend>Piper reticulatum L.: A, habit. Piper rudgeanum (Miq.) C. DC.: B, habit; C, fruits (A, <gathering><collector>de Granville et al.</collector><fieldNum>2288</fieldNum></gathering>; B-C, Kegel s.n. type).</figureLegend></figure>
-			<figure id="ID_56" type="lineart" url="fotg-a-24-56.gif">Fig. <num>55</num>. <figureLegend>Piper rupununianum Trel. &amp; Yunck.: A, habit (A, <gathering><collector>Henkel</collector><fieldNum>4200</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_57" type="lineart" url="fotg-a-24-57.gif">Fig. <num>56</num>. <figureLegend>Piper salicifolium Vahl: A, habit; B, detail of leaf lower surface with indument and glandular dots (A-B, <gathering><collector>Rolander</collector><fieldNum>s.n.</fieldNum><collectionAndType>holotype</collectionAndType></gathering>).</figureLegend></figure>
-			<figure id="ID_58" type="lineart" url="fotg-a-24-58.gif">Fig. <num>57</num>. <figureLegend>Piper trichoneuron (Miq.) C. DC.: A, habit; B, indument on lower leaf surface; C, fruits (A-C, <gathering><collector>Lindeman</collector><fieldNum>562</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_59" type="lineart" url="fotg-a-24-59.gif">Fig. <num>58</num>. <figureLegend>Piper wachenheimii Trel.: A, habit; B, indument on lower leaf surface (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>7229</fieldNum></gathering>).</figureLegend></figure>
-			<figure id="ID_61" type="photo" url="fotg-a-24-61.jpg">Fig. <num>60</num>. <figureLegend>Transverse sections of Piper: A, Piper arboreum Aubl.: vessel distribution; B, id.: paratracheal parenchyma; C, Piper hostmannianum (Miq.) C. DC.: rays towards the bark unlignified; D, Piper peltatum L.: vessel distribution; E, Piper aduncum L.: radial section, showing ideoblasts in rays (scale bars A, C = 350 μm; B, D = 100 μm).</figureLegend></figure>
-			<figure id="ID_62" type="photo" url="fotg-a-24-62.jpg">Fig. <num>61</num>. <figureLegend>Tangential sections of Piper. A, Piper aduncum L.: islands of procumbent cells in rays; B, Piper reticulatum L.: very high and broad rays; coloured inclusions in vessels; C, Piper arboreum Aubl.: intervessel pitting; D, id.: vessel-parenchyma pitting; E, Piper aduncum L.: intervessel pitting (scale bars A-B = 350 μm; C-E = 35 μm).</figureLegend></figure>
+			<figure id="ID_5" type="lineart" url="fotg-a-24-5.gif">Fig. <num>4</num>. <figureLegend><fullName rank="species">Peperomia alata Ruiz &amp; Pav.</fullName>: A, habit; B, fruit. After drawing in Flora de Venezuela.</figureLegend></figure>
+			<figure id="ID_6" type="lineart" url="fotg-a-24-6.gif">Fig. <num>5</num>. <figureLegend><fullName rank="species">Peperomia angustata Kunth</fullName>: A, habit. Peperomia blanda (Jacq.) Kunth: B, habit; C, fruit (A, <gathering><collector>Feuillet</collector><fieldNum>1173</fieldNum></gathering>; B-C, <gathering><collector>Henkel</collector><fieldNum>5658</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_7" type="lineart" url="fotg-a-24-7.gif">Fig. <num>6</num>. <figureLegend><fullName rank="species">Peperomia delascioi Steyerm.</fullName>: A, habit; B, leaf; C, stipitate fruit; D, part of rachis with fruits. After Steyermark, Brittonia 40: 295. 1988.</figureLegend></figure>
+			<figure id="ID_8" type="lineart" url="fotg-a-24-8.gif">Fig. <num>7</num>. <figureLegend><fullName rank="species">Peperomia emarginella (Sw. ex Wikstr.) C. DC.</fullName>: A, habit; B, part of stem with leaves; C, spike (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>8750</fieldNum></gathering>; C, <gathering><collector>Clarke</collector><fieldNum>9725</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_9" type="lineart" url="fotg-a-24-9.gif">Fig. <num>8</num>. <figureLegend><fullName rank="species">Peperomia galioides Kunth</fullName>: A, habit; B, fruit (A-B, <gathering><collector>Hahn</collector><fieldNum>5019</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_10" type="lineart" url="fotg-a-24-10.gif">Fig. <num>9</num>. <figureLegend><fullName rank="species">Peperomia glabella (Sw.) A. Dietr.</fullName>: A, habit, with detail of glandular leaf surface; B, spike with fruits; C, fruit with 3 glands and subapical stigma (A, <gathering><collector>Kegel</collector><fieldNum>437</fieldNum></gathering>; B-C, <gathering><collector>van Donselaar</collector><fieldNum>3819</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_11" type="lineart" url="fotg-a-24-11.gif">Fig. <num>10</num>. <figureLegend><fullName rank="species">Peperomia gracieana Görts</fullName>: A, habit; B, part of stem with leaf and spike; C, detail of leaf surface and trichoom; D, part of flowering spike showing floral bracts and flowers with stamens (A, <gathering><collector>Mori et al.</collector><fieldNum>23264</fieldNum></gathering>; B-D, <gathering><collector>Mori et al.</collector><fieldNum>23773</fieldNum></gathering>). Drawing by B. Angell (NY).</figureLegend></figure>
+			<figure id="ID_12" type="lineart" url="fotg-a-24-12.gif">Fig. <num>11</num>. <figureLegend><fullName rank="species">Peperomia haematolepis Trel.</fullName>: A, habit. Peperomia magnoliifolia (Jacq.) A. Dietr.: B, habit; D, fruits. <fullName rank="species">Peperomia obtusifolia (L.) A. Dietr.</fullName>: C, fruits (A, <gathering><collector>Görts-van Rijn et al.</collector><fieldNum>71</fieldNum></gathering>; B, <gathering><collector>Chanderbali et al.</collector><fieldNum>603</fieldNum></gathering>). C-D from Table 2 in: H. Dahlstedt, Kongl. Svenska Vetensk. Handl. Stockholm 33(2): Tafel 2. 1900.</figureLegend></figure>
+			<figure id="ID_13" type="lineart" url="fotg-a-24-13.gif">Fig. <num>12</num>. <figureLegend><fullName rank="species">Peperomia hernandiifolia (Vahl) A. Dietr.</fullName>: A, habit; B, fruit. Peperomia lancifolia Hook. subsp. lancifolia: C, habit; D, fruit (A-B, <gathering><collector>Maas et al.</collector><fieldNum>4442</fieldNum></gathering>; C-D, <gathering><collector>Henkel</collector><fieldNum>4419</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_14" type="lineart" url="fotg-a-24-14.gif">Fig. <num>13</num>. <figureLegend><fullName rank="species">Peperomia macrostachya (Vahl) A. Dietr.</fullName>: A, habit; B-E, leaf shapes; F-G, fruits (A, F, <gathering><collector>Gillespie</collector><fieldNum>1180</fieldNum></gathering>; B, <gathering><collector>Acevedo</collector><fieldNum>3415</fieldNum></gathering>; D, G, <gathering><collector>de Granville et al.</collector><fieldNum>9560</fieldNum></gathering>; C, E, <gathering><collector>Mutchnick</collector><fieldNum>1102</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_15" type="lineart" url="fotg-a-24-15.gif">Fig. <num>14</num>. <figureLegend><fullName rank="species">Peperomia maguirei Yunck.</fullName>: A, habit; B, part of spike with fruits. Peperomia ouabianae C. DC.: C, D, habit; E, fruit (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>11087</fieldNum></gathering>; C, E, <gathering><collector>de Granville et al.</collector><fieldNum>12316</fieldNum></gathering>; D, <gathering><collector>Maas et al.</collector><fieldNum>4448</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_16" type="lineart" url="fotg-a-24-16.gif">Fig. <num>15</num>. <figureLegend><fullName rank="species">Peperomia pellucida (L.) Kunth</fullName>: A, habit. <fullName rank="species">Peperomia pernambucensis Miq.</fullName>: B, habit; C, leaf (A, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2858</fieldNum></gathering>; B, from photograph by T. Schöpke; C, <gathering><collector>Henkel</collector><fieldNum>4876</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_17" type="lineart" url="fotg-a-24-17.gif">Fig. <num>16</num>. <figureLegend><fullName rank="species">Peperomia popayanensis Trel. &amp; Yunck.</fullName>: A, leaf. <fullName rank="species">Peperomia purpurinervis C. DC.</fullName>: B, habit; C, fruit. <fullName rank="species">Peperomia quadrangularis (J.V. Thomps.) A. Dietr.</fullName>: D, habit; E, spike on branch tip (A, <gathering><collector>Cremers et al.</collector><fieldNum>6349</fieldNum></gathering>; B-C, <gathering><collector>Clarke</collector><fieldNum>9215</fieldNum></gathering>; D-E, <gathering><collector>Jansen-Jacobs et al.</collector><fieldNum>748</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_18" type="lineart" url="fotg-a-24-18.gif">Fig. <num>17</num>. <figureLegend><fullName rank="species">Peperomia reptans C. DC.</fullName>: A, habit (A, <gathering><collector>Henkel</collector><fieldNum>4356</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_19" type="lineart" url="fotg-a-24-19.gif">Fig. <num>18</num>. <figureLegend><fullName rank="species">Peperomia rotundifolia (L.) Kunth</fullName>: A-B, habit; C, detail of branch tip with spike bearing fruits; D, detail spike rachis with fruits. <fullName rank="species">Peperomia serpens (Sw.) Loudon</fullName>: E, habit; F, fruit (A, <gathering><collector>Henkel</collector><fieldNum>4243</fieldNum></gathering>; B, <gathering><collector>Jonker &amp; Daniëls</collector><fieldNum>1136</fieldNum></gathering>; C, <gathering><collector>Henkel</collector><fieldNum>5096</fieldNum></gathering>; D, <gathering><collector>Clarke</collector><fieldNum>6004</fieldNum></gathering>; E, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2671</fieldNum></gathering>; F, <gathering><collector>Maguire</collector><fieldNum>24092</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_20" type="lineart" url="fotg-a-24-20.gif">Fig. <num>19</num>. <figureLegend><fullName rank="species">Peperomia tenella (Sw.) A. Dietr.</fullName>: A, habit; B, detail of spike rachis with stipitate fruits. <fullName rank="species">Peperomia tetraphylla (G. Forstr.) Hook. &amp; Arn.</fullName>: C, habit. <fullName rank="species">Peperomia transparens Miq.</fullName>: D, habit. <fullName rank="species">Peperomia urocarpa Fisch. &amp; Mey.</fullName>: E, habit (A-B, <gathering><collector>Clarke</collector><fieldNum>5599</fieldNum></gathering>; C, <gathering><collector>Im Thurn</collector><fieldNum>224</fieldNum></gathering>; D, <gathering><collector>de Granville et al.</collector><fieldNum>12132</fieldNum></gathering>; E, <gathering><collector>McDowell</collector><fieldNum>2713</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_21" type="lineart" url="fotg-a-24-21.gif">Fig. <num>20</num>. <figureLegend><fullName rank="species">Piper adenandrum (Miq.) C. DC.</fullName>: A, habit; B, leaf; C, detail of indument on lower leaf surface (A, <gathering><collector>Hoff</collector><fieldNum>6799</fieldNum></gathering>; B-C, <gathering><collector>Wallnöfer</collector><fieldNum>13475</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_22" type="lineart" url="fotg-a-24-22.gif">Fig. <num>21</num>. <figureLegend><fullName rank="species">Piper aduncum L.</fullName>: A, habit (A, <gathering><collector>Pulle</collector><fieldNum>9</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_23" type="lineart" url="fotg-a-24-23.gif">Fig. <num>22</num>. <figureLegend><fullName rank="species">Piper aequale Vahl</fullName>: A, habit; B, part of stem with leaf; C, spike with fruits (A-B, <gathering><collector>Lent</collector><fieldNum>3360</fieldNum></gathering>; C, <gathering><collector>Feuillet</collector><fieldNum>2474</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_24" type="lineart" url="fotg-a-24-24.gif">Fig. <num>23</num>. <figureLegend><fullName rank="species">Piper alatabaccum Trel. &amp; Yunck.</fullName>: A, fruit seen from above; B, fruit seen from the side; C, part of spike showing rachis and young flowers. <fullName rank="species">Piper bartlingianum (Miq.) C. DC.</fullName>: D, leaf; E, fruit seen from the side. Piper bolivaranum Yunck.: F, habit; G, leaf (A-B, <gathering><collector>Henkel</collector><fieldNum>418</fieldNum></gathering>; C, <gathering><collector>de Granville et al.</collector><fieldNum>876</fieldNum></gathering>; D, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2388</fieldNum></gathering>; E, <gathering><collector>Hoffman</collector><fieldNum>1415</fieldNum></gathering>; F-G, <gathering><collector>Maas et al.</collector><fieldNum>5578</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_25" type="lineart" url="fotg-a-24-25.gif">Fig. <num>24</num>. <figureLegend><fullName rank="species">Piper angustifolium Lam.</fullName>: A, habit; B, detail of stem with indument (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>6219</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_26" type="lineart" url="fotg-a-24-26.gif">Fig. <num>25</num>. <figureLegend><fullName rank="variety">Piper anonifolium (Kunth) Steud. var. anonifolium</fullName>: A, habit; B, part of stem with petiole and decurrent lines of hairs; C, spike with fruits; D, fruit with stigmas seen from above (A-B, <gathering><collector>Billiet et al.</collector><fieldNum>6313</fieldNum></gathering>; C-D, <gathering><collector>Görts-van Rijn et al.</collector><fieldNum>124</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_27" type="lineart" url="fotg-a-24-27.gif">Fig. <num>26</num>. <figureLegend><fullName rank="species">Piper arboreum Aubl.</fullName>: A, habit; B, tip of branch, young spike, prophyll and leaf attachment; C, detail of spike showing spirally arranged flowers; D, anther; E, detail of spike with fruits; F, fruit with subtending floral bract (A-D, <gathering><collector>Hahn</collector><fieldNum>5533</fieldNum></gathering>; E-F, <gathering><collector>Fanshawe</collector><fieldNum>3076</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_28" type="lineart" url="fotg-a-24-28.gif">Fig. <num>27</num>. <figureLegend><fullName rank="species">Piper augustum Rudge</fullName>: A, habit; B, detail of leaf margin; C, spike with fruits (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>7992</fieldNum></gathering>; C, <gathering><collector>McDowell</collector><fieldNum>4748</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_29" type="lineart" url="fotg-a-24-29.gif">Fig. <num>28</num>. <figureLegend><fullName rank="species">Piper aulacospermum Callejas</fullName>: A, habit, showing sympodial branches with inflorescences at anthesis and fruit; B, detail of leaf base and prophyll; C, leaf veins, view from above; D, leaf veins, view from below; E, young fruits; F, anther; G, floral diagram; H, seed (A-H, <gathering><collector>Mori &amp; Pennington</collector><fieldNum>18087</fieldNum></gathering>). Drawing by J. Colorado (HUA).</figureLegend></figure>
+			<figure id="ID_30" type="lineart" url="fotg-a-24-30.gif">Fig. <num>29</num>. <figureLegend><fullName rank="species">Piper avellanum (Miq.) C. DC.</fullName>: A, habit; B, detail of vein with indument (A-B, <gathering><collector>McDowell</collector><fieldNum>3735</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_31" type="lineart" url="fotg-a-24-31.gif">Fig. <num>30</num>. <figureLegend><fullName rank="species">Piper brasiliense C. DC.</fullName>: A, habit; B, flower details (A-B, after illustration in Fl. Bras. 4(1), fig. 4. 1852).</figureLegend></figure>
+			<figure id="ID_32" type="lineart" url="fotg-a-24-32.gif">Fig. <num>31</num>. <figureLegend><fullName rank="species">Piper brownsbergense Yunck.</fullName>: A, B, habit (A, <gathering><collector>de Granville et al.</collector><fieldNum>4204</fieldNum></gathering>; B, <gathering><collector>van Donselaar</collector><fieldNum>1405</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_33" type="lineart" url="fotg-a-24-33.gif">Fig. <num>32</num>. <figureLegend><fullName rank="species">Piper ciliomarginatum Görts &amp; Christenhusz</fullName>: A, apex of branch with leaf, withering prophyll and young spike; B-C, showing variation in leaf shape; D, detail of leaf margin; E, detail of spike showing floral bracts and young fruits with persistent stigma's; F, fruit with persistent stigma's; G, tip of young branch showing leaf base, prophyll and developing spike (A-B, <gathering><collector>G, Henkel</collector><fieldNum>2231</fieldNum></gathering>; C-D, <gathering><collector>F, Henkel</collector><fieldNum>2166</fieldNum></gathering>; E, <gathering><collector>Henkel</collector><fieldNum>2185</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_34" type="lineart" url="fotg-a-24-34.gif">Fig. <num>33</num>. <figureLegend><fullName rank="species">Piper consanguineum (Kunth) Steud.</fullName>: A, habit; B, fruits. <fullName rank="species">Piper crassinervium Kunth</fullName>: C, habit (A, drawing by W.H.A, Hekking; B, <gathering><collector>de Granville et al.</collector><fieldNum>11757</fieldNum></gathering>; C, <gathering><collector>de Granville et al.</collector><fieldNum>7188</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_35" type="lineart" url="fotg-a-24-35.gif">Fig. <num>34</num>. <figureLegend><fullName rank="species">Piper coruscans Kunth</fullName>: A, habit. <fullName rank="species">Piper cyrtopodum (Miq.) C. DC.</fullName>: B, habit (A, <gathering><collector>Pipoly</collector><fieldNum>8277</fieldNum></gathering>; B, <gathering><collector>Maas et al.</collector><fieldNum>3507</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_36" type="lineart" url="fotg-a-24-36.gif">Fig. <num>35</num>. <figureLegend><fullName rank="species">Piper demeraranum (Miq.) C. DC.</fullName>: A, habit; B, leaf; C, detail of leaf upper surface indument; D, fruit with subtending floral bract (A, C-D, <gathering><collector>Görts-van Rijn et al.</collector><fieldNum>102</fieldNum></gathering>; B, <gathering><collector>Lindeman</collector><fieldNum>5082</fieldNum></gathering>). B, drawing by W.H.A. Hekking.</figureLegend></figure>
+			<figure id="ID_37" type="lineart" url="fotg-a-24-37.gif">Fig. <num>36</num>. <figureLegend><fullName rank="species">Piper dilatatum Rich.</fullName>: A, habit; B, stamen. <fullName rank="species">Piper divaricatum G. Mey.</fullName>: C, habit. Piper duckei C. DC.: D, habit; E, detail of leaf attachment (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>66</fieldNum></gathering>; C, <gathering><collector>Gillespie</collector><fieldNum>1008</fieldNum></gathering>; D-E, <gathering><collector>Clarke</collector><fieldNum>4385</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_38" type="lineart" url="fotg-a-24-38.gif">Fig. <num>37</num>. <figureLegend><fullName rank="species">Piper dumosum Rudge</fullName>: A, habit. <fullName rank="species">Piper eucalyptifolium Rudge</fullName>: B, habit (A, <gathering><collector>de Granville et al.</collector><fieldNum>8960</fieldNum></gathering>; B, <gathering><collector>de Granville et al.</collector><fieldNum>9051</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_39" type="lineart" url="fotg-a-24-39.gif">Fig. <num>38</num>. <figureLegend><fullName rank="species">Piper fanshawei Yunck.</fullName>: A, habit. <fullName rank="species">Piper flexuosum Rudge</fullName>: B, habit (A, <gathering><collector>Henkel</collector><fieldNum>4420</fieldNum></gathering>; B, <gathering><collector>Martin</collector><fieldNum>s.n.</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_40" type="lineart" url="fotg-a-24-40.gif">Fig. <num>39</num>. <figureLegend><fullName rank="species">Piper fuligineum (Kunth) Steud.</fullName>: A-B, leaves. <fullName rank="species">Piper glabrescens (Miq.) C. DC.</fullName>: C, habit (A, <gathering><collector>Jansen-Jacobs et al.</collector><fieldNum>2534</fieldNum></gathering>; B, <gathering><collector>Oldenburger et al.</collector><fieldNum>74</fieldNum></gathering>; C, <gathering><collector>Hahn</collector><fieldNum>4201</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_41" type="lineart" url="fotg-a-24-41.gif">Fig. <num>40</num>. <figureLegend><fullName rank="species">Piper guianense (Klotzsch) C. DC.</fullName>: A, habit (A, <gathering><collector>Schomburgk</collector><fieldNum>696</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_42" type="lineart" url="fotg-a-24-42.gif">Fig. <num>41</num>. <figureLegend><fullName rank="species">Piper hirtilimbum Trel. &amp; Yunck.</fullName>: A, habit. <fullName rank="species">Piper hispidum Sw.</fullName>: B, habit; C, leaf indument; D, stamen (A, <gathering><collector>Clarke</collector><fieldNum>4391</fieldNum></gathering>; B-D, <gathering><collector>Hahn</collector><fieldNum>3608</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_43" type="lineart" url="fotg-a-24-43.gif">Fig. <num>42</num>. <figureLegend><fullName rank="species">Piper hostmannianum (Miq.) C. DC.</fullName>: A, habit; B, leaf; C, indument of leaf lower surface (A, C, <gathering><collector>Mori et al.</collector><fieldNum>23937</fieldNum></gathering>; B, <gathering><collector>Hekking</collector><fieldNum>1209</fieldNum></gathering>). B, drawing by W.H.A. Hekking.</figureLegend></figure>
+			<figure id="ID_44" type="lineart" url="fotg-a-24-44.gif">Fig. <num>43</num>. <figureLegend><fullName rank="species">Piper humistratum Görts &amp; K.U. Kramer</fullName>: A, habit; B, detail of vein indument; C, young plant (A-B, <gathering><collector>Acevedo</collector><fieldNum>5939</fieldNum></gathering>; C, <gathering><collector>Tjon Lim Sang</collector><fieldNum>62</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_45" type="lineart" url="fotg-a-24-45.gif">Fig. <num>44</num>. <figureLegend><fullName rank="species">Piper hymenophyllum (Miq.) Wight</fullName>: A, habit; B, young flowering spike showing exserted recurved stamens (A, <gathering><collector>Kramer &amp; Hekking</collector><fieldNum>2666</fieldNum></gathering>; B, <gathering><collector>Jenman</collector><fieldNum>1851</fieldNum></gathering>). A, drawing by W.H.A. Hekking.</figureLegend></figure>
+			<figure id="ID_46" type="lineart" url="fotg-a-24-46.gif">Fig. <num>45</num>. <figureLegend><fullName rank="species">Piper inaequale C. DC.</fullName>: A, leaf. <fullName rank="species">Piper insipiens Trel. &amp; Yunck.</fullName>: B, habit; C, detail of leaf lower surface with glandular dots (A, <gathering><collector>Irwin et al.</collector><fieldNum>47720</fieldNum></gathering>; B-C, <gathering><collector>de Granville et al.</collector><fieldNum>11372</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_47" type="lineart" url="fotg-a-24-47.gif">Fig. <num>46</num>. <figureLegend><fullName rank="species">Piper marginatum Jacq.</fullName>: A, habit; B, detail of leaf margin (A-B, <gathering><collector>Henkel</collector><fieldNum>3910</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_48" type="lineart" url="fotg-a-24-48.gif">Fig. <num>47</num>. <figureLegend><fullName rank="species">Piper nigrispicum C. DC.</fullName>: A, habit; B, pendent spike. <fullName rank="species">Piper nigrum L.</fullName>: C, habit; D, fruit (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>7579</fieldNum></gathering>; C-D, <gathering><collector>Herbarium Lemée</collector><fieldNum>s.n.</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_49" type="lineart" url="fotg-a-24-49.gif">Fig. <num>48</num>. <figureLegend><fullName rank="species">Piper obliquum Ruiz &amp; Pav.</fullName>: A, habit; B, leaf (A, <gathering><collector>Sastre</collector><fieldNum>8066</fieldNum></gathering>; B, <gathering><collector>Hahn</collector><fieldNum>5701</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_50" type="lineart" url="fotg-a-24-50.gif">Fig. <num>49</num>. <figureLegend><fullName rank="species">Piper paramaribense C. DC.</fullName>: A, habit. <fullName rank="species">Piper phytolaccifolium Opiz</fullName>: B, habit. <fullName rank="species">Piper poiteanum Steud.</fullName>: C, leaf (A, <gathering><collector>de Granville et al.</collector><fieldNum>7864</fieldNum></gathering>; B, <gathering><collector>de Granville et al.</collector><fieldNum>8634</fieldNum></gathering>; C, <gathering><collector>Happle</collector><fieldNum>s.n.</fieldNum></gathering>). C, drawing by W.H.A. Hekking.</figureLegend></figure>
+			<figure id="ID_51" type="lineart" url="fotg-a-24-51.gif">Fig. <num>50</num>. <figureLegend><fullName rank="species">Piper peltatum L.</fullName>: A, habit (A, <gathering><collector>Irwin et al.</collector><fieldNum>54650</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_52" type="lineart" url="fotg-a-24-52.gif">Fig. <num>51</num>. <figureLegend><fullName rank="species">Piper perstipulare Steyerm.</fullName>: A, habit; B, detail of branch tip (A, <gathering><collector>Pipoly</collector><fieldNum>10640</fieldNum></gathering>; B, <gathering><collector>Pipoly</collector><fieldNum>10786</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_53" type="lineart" url="fotg-a-24-53.gif">Fig. <num>52</num>. <figureLegend><fullName rank="species">Piper piscatorum Trel. &amp; Yunck.</fullName>: A, leaf; B, part of branch with leaf and spike; C, fruit (seen from above); D, fruit (lateral view); E, floral bract. <fullName rank="species">Piper pulleanum Yunck.</fullName>: F, part of branch with leaf and spike (A, <gathering><collector>Williams</collector><fieldNum>11685</fieldNum></gathering>; B-E, based on fig. 79 in Steyermark, 1984; F, <gathering><collector>Clarke</collector><fieldNum>4539</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_54" type="lineart" url="fotg-a-24-54.gif">Fig. <num>53</num>. <figureLegend><fullName rank="species">Piper remotinervium Görts</fullName>: A, apex of branch with leaf, developing young branch tip, prophyll and immature spike; B, indument on lower leaf surface; C, apiculate tip of spike; D, fruit as seen in dried collection; E, fruit with persistent stigma's and remnants of stamens; F, detail of spike showing young anthers; G, detail of spike with open anthers between fimbriate floral bracts; H, apex of young branch showing leaf base, developing tip of branch and prophyll (A-C, <gathering><collector>Feuillet</collector><fieldNum>530</fieldNum></gathering>; D, <gathering><collector>de Granville et al.</collector><fieldNum>4444</fieldNum></gathering>; E, <gathering><collector>de Granville et al.</collector><fieldNum>13110</fieldNum></gathering>; F-G, <gathering><collector>McDowell</collector><fieldNum>2225</fieldNum></gathering>; H, <gathering><collector>Cremers</collector><fieldNum>15083</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_55" type="lineart" url="fotg-a-24-55.gif">Fig. <num>54</num>. <figureLegend><fullName rank="species">Piper reticulatum L.</fullName>: A, habit. <fullName rank="species">Piper rudgeanum (Miq.) C. DC.</fullName>: B, habit; C, fruits (A, <gathering><collector>de Granville et al.</collector><fieldNum>2288</fieldNum></gathering>; B-C, Kegel s.n. type).</figureLegend></figure>
+			<figure id="ID_56" type="lineart" url="fotg-a-24-56.gif">Fig. <num>55</num>. <figureLegend><fullName rank="species">Piper rupununianum Trel. &amp; Yunck.</fullName>: A, habit (A, <gathering><collector>Henkel</collector><fieldNum>4200</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_57" type="lineart" url="fotg-a-24-57.gif">Fig. <num>56</num>. <figureLegend><fullName rank="species">Piper salicifolium Vahl</fullName>: A, habit; B, detail of leaf lower surface with indument and glandular dots (A-B, <gathering><collector>Rolander</collector><fieldNum>s.n.</fieldNum><collectionAndType>holotype</collectionAndType></gathering>).</figureLegend></figure>
+			<figure id="ID_58" type="lineart" url="fotg-a-24-58.gif">Fig. <num>57</num>. <figureLegend><fullName rank="species">Piper trichoneuron (Miq.) C. DC.</fullName>: A, habit; B, indument on lower leaf surface; C, fruits (A-C, <gathering><collector>Lindeman</collector><fieldNum>562</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_59" type="lineart" url="fotg-a-24-59.gif">Fig. <num>58</num>. <figureLegend><fullName rank="species">Piper wachenheimii Trel.</fullName>: A, habit; B, indument on lower leaf surface (A-B, <gathering><collector>de Granville et al.</collector><fieldNum>7229</fieldNum></gathering>).</figureLegend></figure>
+			<figure id="ID_61" type="photo" url="fotg-a-24-61.jpg">Fig. <num>60</num>. <figureLegend>Transverse sections of <fullName rank="genus">Piper</fullName>: A, <fullName rank="species">Piper arboreum Aubl.</fullName>: vessel distribution; B, id.: paratracheal parenchyma; C, <fullName rank="species">Piper hostmannianum (Miq.) C. DC.</fullName>: rays towards the bark unlignified; D, <fullName rank="species">Piper peltatum L.</fullName>: vessel distribution; E, <fullName rank="species">Piper aduncum L.</fullName>: radial section, showing ideoblasts in rays (scale bars A, C = 350 μm; B, D = 100 μm).</figureLegend></figure>
+			<figure id="ID_62" type="photo" url="fotg-a-24-62.jpg">Fig. <num>61</num>. <figureLegend>Tangential sections of <fullName rank="genus">Piper</fullName>. A, <fullName rank="species">Piper aduncum L.</fullName>: islands of procumbent cells in rays; B, <fullName rank="species">Piper reticulatum L.</fullName>: very high and broad rays; coloured inclusions in vessels; C, <fullName rank="species">Piper arboreum Aubl.</fullName>: intervessel pitting; D, id.: vessel-parenchyma pitting; E, <fullName rank="species">Piper aduncum L.</fullName>: intervessel pitting (scale bars A-B = 350 μm; C-E = 35 μm).</figureLegend></figure>
 		</taxon>
 	</treatment>
 </publication>

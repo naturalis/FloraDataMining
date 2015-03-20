@@ -64,8 +64,12 @@ def divideNumerics(matrix, row, regex, left, right, term):
 			elif term == "r":
 				fillCell(matrix, row, i, re.search(regex, row[i]).group(0), 2)
 				
-			elif len(row[i].split(term)) > 1:			
+			elif len(row[i].split(term)) > 1:
+				print regex
+				print row[i]
+				print term			
 				numbers = re.search(regex, row[i]).group(0).split(term)
+				print numbers
 				matrix[matrix.index(row) + 1][i] = numbers[0]
 				matrix[matrix.index(row) + 2][i] = numbers[1]										
 
@@ -84,10 +88,10 @@ def splitValues(matrix, row, regex, regexLeft, regexRight, left, right, delimite
 
 def initializeDivideNumerics(matrix):
 	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
-	rangeRegex = numberRegex +'(\(-[0-9]+\))?' + '-' + numberRegex + '(\(-[0-9]+\))?'
-	dimensionRegex = numberRegex + '(\(-[0-9]+\))?' + ' x ' '(\([0-9]+(.[0-9]+)?-\))?' + numberRegex + '(\(-[0-9]+\))?'
 	maxRegex = '(up to|to over|to) ' + numberRegex
 	minRegex = '(above|from) ' + numberRegex
+	rangeRegex = numberRegex +'(\(-[0-9]+\))?' + '-' + numberRegex + '(\(-[0-9]+\))?'
+	dimensionRegex = '((up to|to over|to|above|from) )?' + numberRegex + '(\(-[0-9]+\))? x (\([0-9]+(.[0-9]+)?-\))?' + '((up to|to over|to|above|from) )?' + numberRegex 
 	lenRegex = numberRegex + '(\(-[0-9]+\))? (m|c|)?m (long)'
 	widRegex = numberRegex + '(\(-[0-9]+\))? (m|c|)?m (wide|thick|in diam)'
 	
@@ -98,7 +102,6 @@ def initializeDivideNumerics(matrix):
 			
 		elif row[0].split('/')[len(row[0].split('/')) - 1] != "minimum" and row[0].split('/')[len(row[0].split('/')) - 1] != "maximum":
 			splitValues(matrix, row, rangeRegex, minRegex, maxRegex, "/minimum", "/maximum", "-")
-
 
 
 matrix = table.readMatrix(matrixFile)

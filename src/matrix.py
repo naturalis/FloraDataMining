@@ -6,6 +6,7 @@ def printMatrixToTsv(matrix):
 		line = ""	
 	
 		for j in range(len(matrix[0])):
+			matrix[i][j] = matrix[i][j].encode("UTF-8")
 			matrix[i][j] = str(matrix[i][j]).replace("\t", " ") 
 			line = line + matrix[i][j] + "\t"
 

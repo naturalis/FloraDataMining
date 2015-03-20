@@ -24,6 +24,7 @@ def countAndRemoveEmptyPlaces(matrix, i):
 			emptyPlaces += 1
 
 	if emptyPlaces > len(matrix[0]) - 5:
+
 		matrix = numpy.delete(matrix, i, axis = 0)
 
 		if i != len(matrix):
@@ -60,7 +61,7 @@ def addSubchars(matrix, char, name, i):
 				if  matrix[0][j] == newName:
 
 					if subchar.text:
-						matrix[i][j] = subchar.text.encode("UTF-8")
+						matrix[i][j] = subchar.text#.encode("UTF-8")
 			if char.text:
 				print str(char.text.encode("UTF-8")) + "and subchars added"
 				
@@ -75,12 +76,12 @@ def addHabitatData(matrix, i, node):
 	if altitude != None:
 
 		if altitude.text:
-			matrix[i][len(matrix[0]) - 1] = altitude.text.encode("UTF-8")
+			matrix[i][len(matrix[0]) - 1] = altitude.text#.encode("UTF-8")
 
 	if habitat != None:
 
 		if habitat.text:
-			matrix[i][len(matrix[0]) - 2] = habitat.text.encode("UTF-8")	
+			matrix[i][len(matrix[0]) - 2] = habitat.text#.encode("UTF-8")	
 	
 
 #This function adds the texts belonging to the subcharacters to the matrix.
@@ -91,7 +92,7 @@ def addChars(matrix, i, node):
 		for char in node:
 
 			if matrix[0][j] == "/" + str(char.get('class')) and char.text:
-				matrix[i][j] = char.text.encode("UTF-8")
+				matrix[i][j] = char.text#.encode("UTF-8")
 
 			addSubchars(matrix, char, "/" + str(char.get('class')), i)
 
@@ -119,13 +120,14 @@ def fillMatrix(matrix):
 							addHabitatData(matrix, i, child)
 							print "habitat data added"		
 
+
 #This function reads characters and adds them to a matrix
 def getCharacters(matrix, chars):
 	i = 0
 
 	for line in chars:
 		i+=1
-		matrix[0][i] = line.split(",")[0]
+		matrix[0][i] = line.split("\n")[0]
 
 
 #This function extracts the accepted family and species names and puts them in the matrix
