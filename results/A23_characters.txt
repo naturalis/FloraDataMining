@@ -1,0 +1,1731 @@
+/branches
+/branches/angle number
+/branches/hairs
+/branches/hairs/side number
+/branches/lower axils
+/branches/lower axils/length
+/branches/lower axils/spine number
+/branches/older branches
+/branches/older branches/lenticels
+/branches/older branches/lenticels/diameter
+/branches/older branches/lenticels/shape
+/branches/shape
+/branches/tip
+/branches/tip/hairs
+/branches/tip/hairs/colour
+/branchlets
+/branchlets/shape
+/calyx
+/calyx/anterior lobes
+/calyx/anterior lobes/width
+/calyx/anthers
+/calyx/anthers/colour
+/calyx/anthers/hairs
+/calyx/anthers/length
+/calyx/anthers/shape
+/calyx/anthers/tip
+/calyx/anthers/tip/basal lobe tip
+/calyx/anthers/tip/basal lobe tip/hairs
+/calyx/anthers/tip/growth form
+/calyx/anthers/tip/hairs
+/calyx/colour
+/calyx/corolla
+/calyx/corolla/anterior lips
+/calyx/corolla/anterior lips/lobe number
+/calyx/corolla/colour
+/calyx/corolla/growth form
+/calyx/corolla/hairs
+/calyx/corolla/lateral lobes
+/calyx/corolla/lateral lobes/colour
+/calyx/corolla/lateral lobes/dimensions
+/calyx/corolla/lateral lobes/hairs
+/calyx/corolla/lateral lobes/length
+/calyx/corolla/lateral lobes/shape
+/calyx/corolla/lateral lobes/shape/relative dimensions
+/calyx/corolla/lateral lobes/shape/width
+/calyx/corolla/lateral lobes/width
+/calyx/corolla/length
+/calyx/corolla/limbs
+/calyx/corolla/limbs/colour
+/calyx/corolla/limbs/diameter
+/calyx/corolla/limbs/growth form
+/calyx/corolla/limbs/lip
+/calyx/corolla/limbs/lip/lobe number
+/calyx/corolla/limbs/lip number
+/calyx/corolla/limbs/lobe number
+/calyx/corolla/limbs/shape
+/calyx/corolla/limbs/shape/lobe number
+/calyx/corolla/limbs/shape/lower lip
+/calyx/corolla/limbs/shape/lower lip/lobe number
+/calyx/corolla/limbs/shape/upper lip
+/calyx/corolla/limbs/shape/upper lip/lobe number
+/calyx/corolla/limbs/width
+/calyx/corolla/lip
+/calyx/corolla/lip/growth form
+/calyx/corolla/lip/length
+/calyx/corolla/lip/lower lip
+/calyx/corolla/lip/lower lip/dimensions
+/calyx/corolla/lip/lower lip/shape
+/calyx/corolla/lip number
+/calyx/corolla/lip/upper lip
+/calyx/corolla/lip/upper lip/shape
+/calyx/corolla/lip/upper lip/shape/dimensions
+/calyx/corolla/lip/width
+/calyx/corolla/lobes
+/calyx/corolla/lobes/colour
+/calyx/corolla/lobes/diameter
+/calyx/corolla/lobes/dimensions
+/calyx/corolla/lobes/growth form
+/calyx/corolla/lobes/hairs
+/calyx/corolla/lobes/lateral lobes
+/calyx/corolla/lobes/lateral lobes/shape
+/calyx/corolla/lobes/length
+/calyx/corolla/lobes/lobe number
+/calyx/corolla/lobes/lowest lobe
+/calyx/corolla/lobes/lowest lobe/lip number
+/calyx/corolla/lobes/lowest lobe/other lobe number
+/calyx/corolla/lobes/middle lobes
+/calyx/corolla/lobes/middle lobes/width
+/calyx/corolla/lobes/shape
+/calyx/corolla/lobes/shape/colour
+/calyx/corolla/lobes/shape/diameter
+/calyx/corolla/lobes/shape/dimensions
+/calyx/corolla/lobes/width
+/calyx/corolla/lower lip
+/calyx/corolla/lower lip/dimensions
+/calyx/corolla/lower lip/growth form
+/calyx/corolla/lower lip/length
+/calyx/corolla/lower lip/lobe number
+/calyx/corolla/lower lip/lobes
+/calyx/corolla/lower lip/lobes/dimensions
+/calyx/corolla/lower lip/lobes/length
+/calyx/corolla/lower lip/lobes/shape
+/calyx/corolla/lower lip/lobes/shape/dimensions
+/calyx/corolla/lower lip/relative dimensions
+/calyx/corolla/lower lip/shape
+/calyx/corolla/lower lip/shape/lobe number
+/calyx/corolla/lower lip/width
+/calyx/corolla/lower lobes
+/calyx/corolla/lower lobes/colour
+/calyx/corolla/lower lobes/hairs
+/calyx/corolla/lower lobes/shape
+/calyx/corolla/middle lobes
+/calyx/corolla/middle lobes/dimensions
+/calyx/corolla/middle lobes/shape
+/calyx/corolla/middle lobes/width
+/calyx/corolla/posterior lips
+/calyx/corolla/shape
+/calyx/corolla/shape/diameter
+/calyx/corolla/shape/hairs
+/calyx/corolla/shape/lip
+/calyx/corolla/shape/lip/length
+/calyx/corolla/shape/mouth
+/calyx/corolla/shape/mouth/width
+/calyx/corolla/shape/ovary
+/calyx/corolla/shape/ovary/width
+/calyx/corolla/throat
+/calyx/corolla/throat/shape
+/calyx/corolla/throat/width
+/calyx/corolla/tube
+/calyx/corolla/tube and throat
+/calyx/corolla/tube and throat/length
+/calyx/corolla/tube/basal parts
+/calyx/corolla/tube/basal parts/relative dimensions
+/calyx/corolla/tube/basal parts/shape
+/calyx/corolla/tube/basal parts/width
+/calyx/corolla/tube/diameter
+/calyx/corolla/tube/dimensions
+/calyx/corolla/tube/growth form
+/calyx/corolla/tube/hairs
+/calyx/corolla/tube/length
+/calyx/corolla/tube/relative dimensions
+/calyx/corolla/tube/shape
+/calyx/corolla/tube/shape/width
+/calyx/corolla/tube/shape/width/relative distance
+/calyx/corolla/tube/width
+/calyx/corolla/upper lip
+/calyx/corolla/upper lip/dimensions
+/calyx/corolla/upper lip/growth form
+/calyx/corolla/upper lip/length
+/calyx/corolla/upper lip/lobe number
+/calyx/corolla/upper lip/lobes
+/calyx/corolla/upper lip/lobes/dimensions
+/calyx/corolla/upper lip/lobes/length
+/calyx/corolla/upper lip/lobes/shape
+/calyx/corolla/upper lip/shape
+/calyx/corolla/upper lip/shape/dimensions
+/calyx/corolla/upper lip/shape/lobe number
+/calyx/corolla/upper lip/shape/width
+/calyx/corolla/upper lip/teeth number
+/calyx/corolla/upper lobes
+/calyx/corolla/upper lobes/shape
+/calyx/corolla/width
+/calyx/disk
+/calyx/disk/height
+/calyx/disk/lobes
+/calyx/disk/lobes/hairs
+/calyx/disk/lobes/lobe number
+/calyx/disk/lobes/shape
+/calyx/disk/projection
+/calyx/disk/projection/height
+/calyx/disk/projection/shape
+/calyx/disk/shape
+/calyx/filaments
+/calyx/filaments/anthers
+/calyx/filaments/anthers/length
+/calyx/filaments/length
+/calyx/hairs
+/calyx/hairs/colour
+/calyx/lateral lobes
+/calyx/lateral lobes/shape
+/calyx/lateral lobes/width
+/calyx/length
+/calyx/lobe number
+/calyx lobes
+/calyx/lobes
+/calyx lobes/anterior and lateral lobes
+/calyx lobes/anterior and lateral lobes/hairs
+/calyx lobes/anterior and lateral lobes/hairs/thickness
+/calyx lobes/anterior and lateral lobes/shape
+/calyx lobes/anterior and lateral lobes/width
+/calyx lobes/anterior lobes
+/calyx lobes/anterior lobes/shape
+/calyx lobes/anterior lobes/width
+/calyx lobes/cleistogamous flower corolla
+/calyx lobes/cleistogamous flower corolla/length
+/calyx lobes/cleistogamous flower corolla/lobes
+/calyx lobes/cleistogamous flower corolla/lobes/growth form
+/calyx lobes/cleistogamous flower corolla/lobes/hairs
+/calyx lobes/cleistogamous flower corolla/shape
+/calyx lobes/cleistogamous flowers
+/calyx lobes/cleistogamous flowers/dimensions
+/calyx lobes/colour
+/calyx/lobes/colour
+/calyx lobes/corolla
+/calyx lobes/corolla/anthers
+/calyx lobes/corolla/anthers/length
+/calyx lobes/corolla/anthers/relative distance
+/calyx lobes/corolla/colour
+/calyx lobes/corolla/filaments
+/calyx lobes/corolla/filaments/relative distance
+/calyx lobes/corolla/hairs
+/calyx lobes/corolla/hairs/colour
+/calyx lobes/corolla/lateral lobes
+/calyx lobes/corolla/lateral lobes/colour
+/calyx lobes/corolla/lateral lobes/hairs
+/calyx lobes/corolla/lateral lobes/length
+/calyx lobes/corolla/lateral lobes/shape
+/calyx lobes/corolla/lateral lobes/shape/dimensions
+/calyx lobes/corolla/length
+/calyx lobes/corolla/limbs
+/calyx lobes/corolla/limbs/colour
+/calyx lobes/corolla/limbs/growth form
+/calyx lobes/corolla/limbs/length
+/calyx lobes/corolla/limbs/lobe number
+/calyx lobes/corolla/limbs/shape
+/calyx lobes/corolla/limbs/width
+/calyx lobes/corolla/lobes
+/calyx lobes/corolla/lobes/dimensions
+/calyx lobes/corolla/lobes/hairs
+/calyx lobes/corolla/lobes/length
+/calyx lobes/corolla/lobes/shape
+/calyx lobes/corolla/lobes/shape/dimensions
+/calyx lobes/corolla/lobes/shape/hairs
+/calyx lobes/corolla/lower lip
+/calyx lobes/corolla/lower lip/dimensions
+/calyx lobes/corolla/lower lip/lobe number
+/calyx lobes/corolla/lower lip/lobes
+/calyx lobes/corolla/lower lip/lobes/dimensions
+/calyx lobes/corolla/lower lip/lobes/shape
+/calyx lobes/corolla/lower lip/lobes/width
+/calyx lobes/corolla/lower lip/shape
+/calyx lobes/corolla/middle lobes
+/calyx lobes/corolla/middle lobes/dimensions
+/calyx lobes/corolla/middle lobes/growth form
+/calyx lobes/corolla/middle lobes/shape
+/calyx lobes/corolla/middle lobes/shape/dimensions
+/calyx lobes/corolla/shape
+/calyx lobes/corolla/throat
+/calyx lobes/corolla/throat/dimensions
+/calyx lobes/corolla/throat/shape
+/calyx lobes/corolla/tube
+/calyx lobes/corolla/tube/colour
+/calyx lobes/corolla/tube/diameter
+/calyx lobes/corolla/tube/dimensions
+/calyx lobes/corolla/tube/growth form
+/calyx lobes/corolla/tube/hairs
+/calyx lobes/corolla/tube/length
+/calyx lobes/corolla/tube/shape
+/calyx lobes/corolla/tube/shape/length
+/calyx lobes/corolla/tube/width
+/calyx lobes/corolla/upper lip
+/calyx lobes/corolla/upper lip/dimensions
+/calyx lobes/corolla/upper lip/growth form
+/calyx lobes/corolla/upper lip/lobe number
+/calyx lobes/corolla/upper lip/lobes
+/calyx lobes/corolla/upper lip/lobes/dimensions
+/calyx lobes/corolla/upper lip/lobes/growth form
+/calyx lobes/corolla/upper lip/lobes/shape
+/calyx lobes/corolla/upper lip/shape
+/calyx lobes/cystoliths
+/calyx lobes/dimensions
+/calyx/lobes/dimensions
+/calyx lobes/filaments
+/calyx lobes/filaments/anthers
+/calyx lobes/filaments/anthers/colour
+/calyx lobes/filaments/anthers/hairs
+/calyx lobes/filaments/length
+/calyx lobes/hairs
+/calyx/lobes/hairs
+/calyx lobes/hairs/colour
+/calyx/lobes/hairs/colour
+/calyx/lobes/hairs/shape
+/calyx lobes/inner lobes
+/calyx lobes/lateral lobes
+/calyx lobes/lateral lobes/shape
+/calyx lobes/lateral lobes/width
+/calyx lobes/length
+/calyx/lobes/length
+/calyx lobes/lobes
+/calyx lobes/lobes/hairs
+/calyx lobes/longer pair
+/calyx lobes/longer pair/length
+/calyx/lobes/midrib
+/calyx/lobes/midrib/colour
+/calyx lobes/open flower corolla
+/calyx lobes/open flower corolla/colour
+/calyx lobes/open flower corolla/lobes
+/calyx lobes/open flower corolla/lobes/dimensions
+/calyx lobes/open flower corolla/lobes/growth form
+/calyx lobes/open flower corolla/throat
+/calyx lobes/open flower corolla/throat/hairs
+/calyx lobes/open flower corolla/throat/length
+/calyx lobes/open flower corolla/throat/shape
+/calyx lobes/open flower corolla/tube
+/calyx lobes/open flower corolla/tube/hairs
+/calyx lobes/open flower corolla/tube/length
+/calyx lobes/outer lobes
+/calyx lobes/outer lobes/lobe number
+/calyx lobes/outer lobes/shape
+/calyx lobes/ovary
+/calyx lobes/ovary/colour
+/calyx lobes/ovary/hairs
+/calyx lobes/ovary/height
+/calyx lobes/ovary/length
+/calyx lobes/ovary/ovules
+/calyx lobes/ovary/ovules/ovule number per locule
+/calyx lobes/ovary/ovules/row number per locule
+/calyx lobes/ovary/shape
+/calyx lobes/ovary/stigma
+/calyx lobes/ovary/stigma/hairs
+/calyx lobes/ovary/stigma/length
+/calyx lobes/ovary/stigma/lobe number
+/calyx lobes/ovary/style
+/calyx lobes/ovary/style/colour
+/calyx lobes/ovary/style/hairs
+/calyx lobes/ovary/style/length
+/calyx lobes/ovary/style/lower stigma lobes
+/calyx lobes/ovary/style/lower stigma lobes/length
+/calyx lobes/ovary/style/shape
+/calyx lobes/posterior lobes
+/calyx lobes/posterior lobes/dimensions
+/calyx lobes/posterior lobes/shape
+/calyx lobes/posterior lobes/width
+/calyx lobes/remaining lobes
+/calyx lobes/remaining lobes/dimensions
+/calyx lobes/remaining lobes/hairs
+/calyx lobes/shape
+/calyx/lobes/shape
+/calyx lobes/shape/dimensions
+/calyx/lobes/shape/dimensions
+/calyx lobes/shorter pair
+/calyx lobes/shorter pair/length
+/calyx lobes/stamens
+/calyx lobes/stamens/anthers
+/calyx lobes/stamens/anthers/colour
+/calyx lobes/stamens/anthers/dimensions
+/calyx lobes/stamens/anthers/length
+/calyx lobes/stamens/anthers/shape
+/calyx lobes/stamens/base
+/calyx lobes/stamens/colour
+/calyx lobes/stamens/connective
+/calyx lobes/stamens/connective/hairs
+/calyx lobes/stamens/filaments
+/calyx lobes/stamens/filaments/colour
+/calyx lobes/stamens/filaments/hairs
+/calyx lobes/stamens/filaments/length
+/calyx lobes/stamens/hairs
+/calyx lobes/stamens/length
+/calyx lobes/stamens/relative dimensions
+/calyx lobes/stamens/relative distance
+/calyx lobes/stamens/staminodes
+/calyx lobes/stamens/staminodes/hairs
+/calyx lobes/stamens/staminodes/length
+/calyx lobes/stamens/staminodes/relative distance
+/calyx lobes/stamens/staminodes/shape
+/calyx lobes/stamens/thecae
+/calyx lobes/stamens/thecae/hairs
+/calyx lobes/stamens/thecae/length
+/calyx lobes/stigma
+/calyx lobes/stigma/diameter
+/calyx lobes/stigma/lobe number
+/calyx lobes/stigma/lower lobes
+/calyx lobes/stigma/lower lobes/length
+/calyx lobes/stigma/upper lobes
+/calyx lobes/stigma/upper lobes/length
+/calyx lobes/style
+/calyx lobes/style/hairs
+/calyx lobes/style/length
+/calyx lobes/style/shape
+/calyx lobes/style/stigma
+/calyx lobes/style/stigma/hairs
+/calyx lobes/style/stigma/lobe number
+/calyx lobes/style/stigma/relative distance
+/calyx lobes/style/stigma/shape
+/calyx/lobes/vein number
+/calyx/lobes/width
+/calyx/other lobes
+/calyx/other lobes/lobe number
+/calyx/other lobes/vein number
+/calyx/other lobes/width
+/calyx/ovary
+/calyx/ovary and style
+/calyx/ovary and style/hairs
+/calyx/ovary/diameter
+/calyx/ovary/hairs
+/calyx/ovary/height
+/calyx/ovary/length
+/calyx/ovary/lobes
+/calyx/ovary/ovule number per locule
+/calyx/ovary/shape
+/calyx/ovary/stigma
+/calyx/ovary/stigma/length
+/calyx/ovary/stigma/lobe number
+/calyx/ovary/stigma/lower lobes
+/calyx/ovary/stigma/lower lobes/length
+/calyx/ovary/stigma/shape
+/calyx/ovary/stigma/shape/lobe number
+/calyx/ovary/stigma/upper lobes
+/calyx/ovary/stigma/upper lobes/length
+/calyx/ovary/style
+/calyx/ovary/style/colour
+/calyx/ovary/style/hairs
+/calyx/ovary/style/length
+/calyx/ovary/style/lobe number
+/calyx/ovary/style/lower stigma lobes
+/calyx/ovary/style/lower stigma lobes/length
+/calyx/ovary/style/shape
+/calyx/ovules
+/calyx/ovules/ovule number per locule
+/calyx/ovules/posterior lobes
+/calyx/ovules/style
+/calyx/ovules/style/shape
+/calyx/part number
+/calyx/posterior lobes
+/calyx/posterior lobes/lobe number
+/calyx/posterior lobes/shape
+/calyx/posterior lobes/shape/vein number
+/calyx/posterior lobes/vein number
+/calyx/posterior lobes/width
+/calyx/shape
+/calyx/stamens
+/calyx/stamens/anterior stamen thecae
+/calyx/stamens/anterior stamen thecae/appendages
+/calyx/stamens/anterior stamen thecae/appendages/colour
+/calyx/stamens/anterior stamen thecae/appendages/length
+/calyx/stamens/anterior stamen thecae/hairs
+/calyx/stamens/anthers
+/calyx/stamens/anthers/colour
+/calyx/stamens/anthers/dimensions
+/calyx/stamens/anthers/hairs
+/calyx/stamens/anthers/length
+/calyx/stamens/anthers/shape
+/calyx/stamens/anthers/thecae
+/calyx/stamens/anthers/thecae/longer thecae
+/calyx/stamens/anthers/thecae/longer thecae/length
+/calyx/stamens/anthers/thecae/shape
+/calyx/stamens/anthers/thecae/shorter thecae
+/calyx/stamens/anthers/thecae/shorter thecae/length
+/calyx/stamens/anthers/theca number
+/calyx/stamens/base
+/calyx/stamens/colour
+/calyx/stamens/connective
+/calyx/stamens/filaments
+/calyx/stamens/filaments/colour
+/calyx/stamens/filaments/free parts
+/calyx/stamens/filaments/free parts/length
+/calyx/stamens/filaments/hairs
+/calyx/stamens/filaments/hairs/line number
+/calyx/stamens/filaments/length
+/calyx/stamens/filaments/relative distance
+/calyx/stamens/filaments/shape
+/calyx/stamens/filaments/texture
+/calyx/stamens/free parts
+/calyx/stamens/free parts/relative distance
+/calyx/stamens/length
+/calyx/stamens/longer anther pair
+/calyx/stamens/longer anther pair/length
+/calyx/stamens/posterior stamen thecae
+/calyx/stamens/posterior stamen thecae/appendages
+/calyx/stamens/posterior stamen thecae/appendages/appendage number
+/calyx/stamens/posterior stamen thecae/hairs
+/calyx/stamens/relative distance
+/calyx/stamens/shape
+/calyx/stamens/shorter anther pair
+/calyx/stamens/shorter anther pair/theca number
+/calyx/stamens/stamen number
+/calyx/stamens/staminodes
+/calyx/stamens/staminodes/staminode number
+/calyx/stamens/sterile thecae
+/calyx/stamens/thecae
+/calyx/stamens/thecae/connective
+/calyx/stamens/thecae/connective/length
+/calyx/stamens/thecae/dimensions
+/calyx/stamens/thecae/hairs
+/calyx/stamens/thecae/length
+/calyx/stamens/thecae/lower thecae
+/calyx/stamens/thecae/lower thecae/shape
+/calyx/stamens/thecae/shape
+/calyx/stamens/thecae/spines
+/calyx/stamens/thecae/spines/length
+/calyx/stamens/thecae/spines/shape
+/calyx/stamens/thecae/spines/spine number
+/calyx/stamens/thecae/spines/texture
+/calyx/stamens/thecae/spurs
+/calyx/stamens/thecae/spurs/length
+/calyx/stamens/thecae/stamen number
+/calyx/style
+/calyx/style/hairs
+/calyx/style/length
+/calyx/style/lobes
+/calyx/style/lobes/length
+/calyx/style/lobes/shape
+/calyx/style/stigma
+/calyx/style/stigma/length
+/calyx/style/stigma/lobe number
+/calyx/style/stigma/shape
+/calyx/texture
+/calyx/thecae
+/calyx/thecae/hairs
+/calyx/tube
+/calyx/tube/dimensions
+/calyx/tube/length
+/calyx/upper lobes
+/calyx/upper lobes/width
+/capsules
+/capsules/basal portion
+/capsules/basal portion/hairs
+/capsules/basal portion/length
+/capsules/base
+/capsules/beak
+/capsules/beak/length
+/capsules/beak/shape
+/capsules/body
+/capsules/body/beak
+/capsules/body/beak/length
+/capsules/body/diameter
+/capsules/body/hairs
+/capsules/body/length
+/capsules/body/shape
+/capsules/body/shape/length
+/capsules/colour
+/capsules/diameter
+/capsules/dimensions
+/capsules/hairs
+/capsules/length
+/capsules/retinacula
+/capsules/retinacula/length
+/capsules/retinacula/retinaculum number per valve
+/capsules/retinacula/shape
+/capsules/seed number
+/capsules/seeds
+/capsules/seeds/colour
+/capsules/seeds/colour/dimensions
+/capsules/seeds/cristae
+/capsules/seeds/diameter
+/capsules/seeds/dimensions
+/capsules/seeds/eyes
+/capsules/seeds/eyes/diameter
+/capsules/seeds/hairs
+/capsules/seeds/margins
+/capsules/seeds/margins/hairs
+/capsules/seeds/margins/margin type
+/capsules/seeds/margins/scales
+/capsules/seeds/margins/scales/shape
+/capsules/seeds/papillae
+/capsules/seeds/pores
+/capsules/seeds/pores/hairs
+/capsules/seeds/seed number
+/capsules/seeds/seed number per locule
+/capsules/seeds/shape
+/capsules/seeds/shape/colour
+/capsules/seeds/shape/diameter
+/capsules/seeds/texture
+/capsules/seeds/texture/colour
+/capsules/seeds/thickness
+/capsules/shape
+/capsules/shape/colour
+/capsules/shape/diameter
+/capsules/shape/dimensions
+/capsules/shape/hairs
+/capsules/shape/stipes
+/capsules/shape/stipes/length
+/capsules/shape/texture
+/capsules/stipes
+/capsules/stipes/dimensions
+/capsules/stipes/length
+/capsules/stipes/shape
+/capsules/thickness
+/capsules/valves
+/capsules/valves/seed number
+/capsules/width
+/corolla limb
+/corolla limb/colour
+/cymes
+/cymes/bracteoles
+/cymes/bracteoles/dimensions
+/cymes/bracteoles/hairs
+/cymes/bracteoles/shape
+/cymes/bracts
+/cymes/bracts/dimensions
+/cymes/bracts/shape
+/cymes/cymule bracts
+/cymes/cymule bracts/hairs
+/cymes/cymule bracts/lower bracts
+/cymes/cymule bracts/lower bracts/dimensions
+/cymes/cymule bracts/margins
+/cymes/cymule bracts/margins/hairs
+/cymes/cymule bracts/margins/length
+/cymes/cymule bracts/shape
+/cymes/cymule bracts/upper bracts
+/cymes/cymule bracts/upper bracts/dimensions
+/cymes/cymule bracts/vein number
+/cymes/part number
+/cymes/peduncle
+/cymes/peduncle/hairs
+/cymes/peduncle/length
+/cymes/peduncle/shape
+/flowering
+/flowering/growth form
+/flowering/hairs
+/flowering/height
+/flowers
+/flowers/anthers
+/flowers/anthers/staminodes
+/flowers/anthers/staminodes/staminode number
+/flowers/anthers/thecae
+/flowers/anthers/thecae/hairs
+/flowers/anthers/theca number
+/flowers/bracteole number
+/flowers/bracteoles
+/flowers/bracteoles/bracteole number
+/flowers/bracteoles/colour
+/flowers/bracteoles/dimensions
+/flowers/bracteoles/hairs
+/flowers/bracteoles/hairs/colour
+/flowers/bracteoles/hairs/length
+/flowers/bracteoles/length
+/flowers/bracteoles/margins
+/flowers/bracteoles/margins/hairs
+/flowers/bracteoles/margins/hairs/length
+/flowers/bracteoles/margins/shape
+/flowers/bracteoles/margins/shape/apiculus
+/flowers/bracteoles/margins/shape/apiculus/length
+/flowers/bracteoles/outer surfaces
+/flowers/bracteoles/outer surfaces/hairs
+/flowers/bracteoles/outer surfaces/hairs/colour
+/flowers/bracteoles/shape
+/flowers/bracteoles/shape/dimensions
+/flowers/bracteoles/shape/setae
+/flowers/bracteoles/shape/setae/length
+/flowers/bracts
+/flowers/bracts and bracteoles
+/flowers/bracts and bracteoles/colour
+/flowers/bracts/bract number
+/flowers/bracts/dimensions
+/flowers/bracts/hairs
+/flowers/bracts/length
+/flowers/bracts/rank number
+/flowers/bracts/shape
+/flowers/bracts/shape/dimensions
+/flowers/calyx
+/flowers/calyx/anterior and lateral lobes
+/flowers/calyx/anterior and lateral lobes/width
+/flowers/calyx/anterior lobes
+/flowers/calyx/anterior lobes/awns
+/flowers/calyx/anterior lobes/awns/length
+/flowers/calyx/anterior lobes/dimensions
+/flowers/calyx/anterior lobes/hairs
+/flowers/calyx/anterior lobes/longitudinal vein number
+/flowers/calyx/anterior lobes/shape
+/flowers/calyx/anterior lobes/shape/dimensions
+/flowers/calyx/anterior lobes/vein number
+/flowers/calyx/cystoliths
+/flowers/calyx/cystoliths/cystolith number
+/flowers/calyx/dimensions
+/flowers/calyx/glands
+/flowers/calyx/glands/shape
+/flowers/calyx/hairs
+/flowers/calyx/lateral lobes
+/flowers/calyx/lateral lobes/dimensions
+/flowers/calyx/lateral lobes/hairs
+/flowers/calyx/lateral lobes/longitudinal vein number
+/flowers/calyx/lateral lobes/shape
+/flowers/calyx/lateral lobes/vein number
+/flowers/calyx/length
+/flowers/calyx/linear lobe number
+/flowers/calyx/lobe number
+/flowers/calyx lobes
+/flowers/calyx/lobes
+/flowers/calyx lobes/anterior lobes
+/flowers/calyx lobes/anterior lobes/dimensions
+/flowers/calyx lobes/anterior lobes/shape
+/flowers/calyx lobes/awns
+/flowers/calyx lobes/awns/length
+/flowers/calyx/lobes/colour
+/flowers/calyx lobes/dimensions
+/flowers/calyx/lobes/dimensions
+/flowers/calyx lobes/glands
+/flowers/calyx lobes/glands/gland number
+/flowers/calyx lobes/glands/shape
+/flowers/calyx lobes/hairs
+/flowers/calyx/lobes/hairs
+/flowers/calyx/lobes/hairs/trichome number
+/flowers/calyx lobes/lateral lobes
+/flowers/calyx lobes/lateral lobes/dimensions
+/flowers/calyx lobes/lateral lobes/shape
+/flowers/calyx/lobes/length
+/flowers/calyx lobes/lobe number
+/flowers/calyx/lobes/lobe number
+/flowers/calyx/lobes/lower lobes
+/flowers/calyx/lobes/lower lobes/teeth number
+/flowers/calyx lobes/margins
+/flowers/calyx lobes/margins/hairs
+/flowers/calyx lobes/posterior lobes
+/flowers/calyx lobes/posterior lobes/dimensions
+/flowers/calyx lobes/posterior lobes/shape
+/flowers/calyx lobes/shape
+/flowers/calyx/lobes/shape
+/flowers/calyx/lobes/shape/colour
+/flowers/calyx/lobes/shape/dimensions
+/flowers/calyx/lobes/shape/hairs
+/flowers/calyx/lobes/texture
+/flowers/calyx/margins
+/flowers/calyx/margins/colour
+/flowers/calyx/margins/hairs
+/flowers/calyx/margins/hairs/colour
+/flowers/calyx/margins/margin type
+/flowers/calyx/margins/texture
+/flowers/calyx/posterior lobes
+/flowers/calyx/posterior lobes/awns
+/flowers/calyx/posterior lobes/awns/length
+/flowers/calyx/posterior lobes/dimensions
+/flowers/calyx/posterior lobes/flowers
+/flowers/calyx/posterior lobes/flowers/lobe number
+/flowers/calyx/posterior lobes/hairs
+/flowers/calyx/posterior lobes/length
+/flowers/calyx/posterior lobes/longitudinal vein number
+/flowers/calyx/posterior lobes/other lobes
+/flowers/calyx/posterior lobes/other lobes/lobe number
+/flowers/calyx/posterior lobes/other lobes/shape
+/flowers/calyx/posterior lobes/shape
+/flowers/calyx/posterior lobes/vein number
+/flowers/calyx/posterior lobes/width
+/flowers/calyx/primary veins
+/flowers/calyx/primary veins/hairs
+/flowers/calyx/remaining lobes
+/flowers/calyx/remaining lobes/lobe number
+/flowers/calyx/remaining lobes/vein number
+/flowers/calyx/shape
+/flowers/calyx/tube
+/flowers/calyx/tube/length
+/flowers/colour
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/hairs
+/flowers/corolla/lateral lobes
+/flowers/corolla/lateral lobes/dimensions
+/flowers/corolla/lateral lobes/lobes
+/flowers/corolla/lateral lobes/shape
+/flowers/corolla/lateral lobes/shape/dimensions
+/flowers/corolla/length
+/flowers/corolla/limbs
+/flowers/corolla/limbs/colour
+/flowers/corolla/limbs/growth form
+/flowers/corolla/limbs/hairs
+/flowers/corolla/limbs/lip number
+/flowers/corolla/limbs/lobe number
+/flowers/corolla/limbs/lobes
+/flowers/corolla/limbs/lobes/lobe number
+/flowers/corolla/limbs/lower lip
+/flowers/corolla/limbs/lower lip/lobe number
+/flowers/corolla/limbs/shape
+/flowers/corolla/limbs/upper lip
+/flowers/corolla/limbs/upper lip/lip number
+/flowers/corolla/limbs/upper lip/lobe number
+/flowers/corolla/limbs/width
+/flowers/corolla/lip
+/flowers/corolla/lip/hairs
+/flowers/corolla/lip/length
+/flowers/corolla/lip/lobes
+/flowers/corolla/lip/lobes/dimensions
+/flowers/corolla/lip/lobes/shape
+/flowers/corolla/lobes
+/flowers/corolla/lobes/colour
+/flowers/corolla/lobes/dimensions
+/flowers/corolla/lobes/growth form
+/flowers/corolla/lobes/hairs
+/flowers/corolla/lobes/length
+/flowers/corolla/lobes/lower lip
+/flowers/corolla/lobes/lower lip/lobes
+/flowers/corolla/lobes/lower lip/lobes/dimensions
+/flowers/corolla/lobes/lower lip/lobes/shape
+/flowers/corolla/lobes/shape
+/flowers/corolla/lobes/shape/dimensions
+/flowers/corolla/lobes/shape/length
+/flowers/corolla/lobes/upper pair
+/flowers/corolla/lower half
+/flowers/corolla/lower half of tube
+/flowers/corolla/lower half of tube/length
+/flowers/corolla/lower half of tube/shape
+/flowers/corolla/lower half/shape
+/flowers/corolla/lower lip
+/flowers/corolla/lower lip/colour
+/flowers/corolla/lower lip/dimensions
+/flowers/corolla/lower lip/growth form
+/flowers/corolla/lower lip/hairs
+/flowers/corolla/lower lip/length
+/flowers/corolla/lower lip/lobe number
+/flowers/corolla/lower lip/lobes
+/flowers/corolla/lower lip/lobes/dimensions
+/flowers/corolla/lower lip/lobes/length
+/flowers/corolla/lower lip/lobes/shape
+/flowers/corolla/lower lip/lobes/shape/dimensions
+/flowers/corolla/lower lip/shape
+/flowers/corolla/lower lip/shape/dimensions
+/flowers/corolla/middle lobes
+/flowers/corolla/middle lobes/dimensions
+/flowers/corolla/middle lobes/lateral lobes
+/flowers/corolla/middle lobes/lateral lobes/shape
+/flowers/corolla/middle lobes/lateral lobes/width
+/flowers/corolla/middle lobes/shape
+/flowers/corolla/middle lobes/width
+/flowers/corolla/relative dimensions
+/flowers/corolla/shape
+/flowers/corolla/throat
+/flowers/corolla/throat/hairs
+/flowers/corolla/tube
+/flowers/corolla/tube/basal parts
+/flowers/corolla/tube/basal parts/length
+/flowers/corolla/tube/colour
+/flowers/corolla/tube/diameter
+/flowers/corolla/tube/diameter/relative distance
+/flowers/corolla/tube/dimensions
+/flowers/corolla/tube/hairs
+/flowers/corolla/tube/length
+/flowers/corolla/tube/lower portion
+/flowers/corolla/tube/lower portion/hairs
+/flowers/corolla/tube/shape
+/flowers/corolla/tube/shape/diameter
+/flowers/corolla/tube/shape/diameter/relative distance
+/flowers/corolla/tube/shape/length
+/flowers/corolla/tube/shape/width
+/flowers/corolla/tube/upper parts
+/flowers/corolla/tube/upper parts/width
+/flowers/corolla/tube/upper portion
+/flowers/corolla/tube/upper portion/hairs
+/flowers/corolla/tube/width
+/flowers/corolla/upper half
+/flowers/corolla/upper half of tube
+/flowers/corolla/upper half of tube/shape
+/flowers/corolla/upper half/shape
+/flowers/corolla/upper lip
+/flowers/corolla/upper lip/colour
+/flowers/corolla/upper lip/dimensions
+/flowers/corolla/upper lip/growth form
+/flowers/corolla/upper lip/hairs
+/flowers/corolla/upper lip/length
+/flowers/corolla/upper lip/lobe number
+/flowers/corolla/upper lip/lobes
+/flowers/corolla/upper lip/lobes/dimensions
+/flowers/corolla/upper lip/lobes/length
+/flowers/corolla/upper lip/lobes/shape
+/flowers/corolla/upper lip/shape
+/flowers/corolla/upper lip/shape/dimensions
+/flowers/corolla/upper lip/teeth number
+/flowers/corolla/upper lip/width
+/flowers/corolla/upper lobes
+/flowers/corolla/width
+/flowers/cyme base
+/flowers/cyme base/dimensions
+/flowers/cyme base/shape
+/flowers/cymes
+/flowers/cymes/bracts
+/flowers/cymes/bracts/hairs
+/flowers/cymes/bracts/length
+/flowers/cymes/bracts/shape
+/flowers/cymes/bracts/texture
+/flowers/cymes/branch number
+/flowers/cymes/cyme number
+/flowers/cymes/hairs
+/flowers/cymes/length
+/flowers/cymes/position
+/flowers/cymule bracts
+/flowers/cymule bracts/anterior bracts
+/flowers/cymule bracts/anterior bracts/dimensions
+/flowers/cymule bracts/bract number
+/flowers/cymule bracts/colour
+/flowers/cymule bracts/hairs
+/flowers/cymule bracts/inner bracts
+/flowers/cymule bracts/inner bracts/dimensions
+/flowers/cymule bracts/inner bracts/hairs
+/flowers/cymule bracts/inner bracts/shape
+/flowers/cymule bracts/margins
+/flowers/cymule bracts/margins/hairs
+/flowers/cymule bracts/margins/length
+/flowers/cymule bracts/outer bracts
+/flowers/cymule bracts/outer bracts/hairs
+/flowers/cymule bracts/outer bracts/shape
+/flowers/cymule bracts/outer bracts/shape/dimensions
+/flowers/cymule bracts/posterior bracts
+/flowers/cymule bracts/posterior bracts/dimensions
+/flowers/cymule bracts/shape
+/flowers/cymule bracts/shape/colour
+/flowers/cymule bracts/shape/dimensions
+/flowers/cymule bracts/shape/texture
+/flowers/cymule bracts/vein number
+/flowers/cymule bracts/veins
+/flowers/dimensions
+/flowers/disk
+/flowers/disk/ovule number per locule
+/flowers/disk/stigma
+/flowers/filaments
+/flowers/filaments/anthers
+/flowers/filaments/anthers/length
+/flowers/filaments/anthers/shape
+/flowers/filaments/hairs
+/flowers/filaments/hairs/colour
+/flowers/filaments/length
+/flowers/filaments/staminodes
+/flowers/filaments/thecae
+/flowers/filaments/thecae/length
+/flowers/flower number
+/flowers/flower number per axil
+/flowers/flower number per bract
+/flowers/flower number per inflorescence
+/flowers/flower number per node
+/flowers/flowers
+/flowers/hairs
+/flowers/inflorescences
+/flowers/inflorescences/growth form
+/flowers/inflorescences/length
+/flowers/inflorescences/position
+/flowers/nectary disc
+/flowers/ovary
+/flowers/ovary and style
+/flowers/ovary and style/hairs
+/flowers/ovary/anterior lobes
+/flowers/ovary/anterior lobes/length
+/flowers/ovary/anterior lobes/shape
+/flowers/ovary/hairs
+/flowers/ovary/height
+/flowers/ovary/length
+/flowers/ovary/lobes
+/flowers/ovary/lobes/shape
+/flowers/ovary/locule number
+/flowers/ovary/lower lobes
+/flowers/ovary/lower lobes/shape
+/flowers/ovary/ovule number
+/flowers/ovary/ovule number per locule
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number per locule
+/flowers/ovary/posterior lobes
+/flowers/ovary/row number
+/flowers/ovary/stigma
+/flowers/ovary/stigma/length
+/flowers/ovary/stigma/lobe number
+/flowers/ovary/stigma/shape
+/flowers/ovary/style
+/flowers/ovary/style/growth form
+/flowers/ovary/style/hairs
+/flowers/ovary/style/length
+/flowers/ovary/style/shape
+/flowers/ovary/style/stigma
+/flowers/ovary/style/stigma/lobe number
+/flowers/ovary/style/stigma/lobes
+/flowers/ovary/style/stigma/lobes/shape
+/flowers/ovary/texture
+/flowers/ovary/upper lobes
+/flowers/ovules
+/flowers/ovules/ovule number per locule
+/flowers/ovules/posterior lobes
+/flowers/ovules/stigma
+/flowers/ovules/stigma/lobe number
+/flowers/pedicels
+/flowers/pedicels/hairs
+/flowers/pedicels/hairs/colour
+/flowers/pedicels/hairs/length
+/flowers/pedicels/length
+/flowers/pedicels/shape
+/flowers/pedicels/width
+/flowers/peduncle
+/flowers/peduncle/hairs
+/flowers/peduncle/length
+/flowers/pistil
+/flowers/pistil/stigma
+/flowers/pistil/stigma/lobe number
+/flowers/pistil/stigma/shape
+/flowers/pistil/stigma/shape/lobe number
+/flowers/pistil/style
+/flowers/pistil/style/hairs
+/flowers/placenta
+/flowers/pollen
+/flowers/pollen/aperture number
+/flowers/pollen/colpus number
+/flowers/pollen/diameter
+/flowers/pollen/insulae
+/flowers/pollen/insulae/row number
+/flowers/pollen/insulae/shape
+/flowers/pollen/shape
+/flowers/position
+/flowers/primary bracts
+/flowers/primary bracts/shape
+/flowers/rachises
+/flowers/rachises/hairs
+/flowers/rachises/hairs/colour
+/flowers/spikes
+/flowers/spikes/length
+/flowers/spikes/position
+/flowers/spikes/shape
+/flowers/stamens
+/flowers/stamens/anthers
+/flowers/stamens/anthers/colour
+/flowers/stamens/anthers/hairs
+/flowers/stamens/anthers/length
+/flowers/stamens/anthers of longer pair
+/flowers/stamens/anthers of longer pair/thecae
+/flowers/stamens/anthers of longer pair/theca number
+/flowers/stamens/anthers of shorter pair
+/flowers/stamens/anthers of shorter pair/theca number
+/flowers/stamens/anthers/shape
+/flowers/stamens/anthers/sterile theca number
+/flowers/stamens/anthers/thecae
+/flowers/stamens/anthers/thecae/shape
+/flowers/stamens/anthers/thecae/theca number
+/flowers/stamens/anthers/theca number
+/flowers/stamens/colour
+/flowers/stamens/connective
+/flowers/stamens/connective/lower thecae
+/flowers/stamens/connective/lower thecae/apiculus
+/flowers/stamens/connective/lower thecae/apiculus/colour
+/flowers/stamens/connective/lower thecae/apiculus/length
+/flowers/stamens/connective/lower thecae/dimensions
+/flowers/stamens/connective/shape
+/flowers/stamens/connective/upper thecae
+/flowers/stamens/connective/upper thecae/dimensions
+/flowers/stamens/connective/upper thecae/shape
+/flowers/stamens/connective/width
+/flowers/stamens/fertile stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/colour
+/flowers/stamens/filaments/hairs
+/flowers/stamens/filaments/length
+/flowers/stamens/filaments/shape
+/flowers/stamens/longer stamen pair
+/flowers/stamens/longer stamen pair/length
+/flowers/stamens/pollen
+/flowers/stamens/pollen/colpus number
+/flowers/stamens/relative distance
+/flowers/stamens/shorter stamen pair
+/flowers/stamens/shorter stamen pair/length
+/flowers/stamens/stamen number
+/flowers/stamens/staminode number
+/flowers/stamens/staminodes
+/flowers/stamens/staminodes/hairs
+/flowers/stamens/staminodes/length
+/flowers/stamens/staminodes/shape
+/flowers/stamens/staminodes/staminode number
+/flowers/stamens/thecae
+/flowers/stamens/thecae/basal thecae
+/flowers/stamens/thecae/colour
+/flowers/stamens/thecae/connective
+/flowers/stamens/thecae/connective/width
+/flowers/stamens/thecae/hairs
+/flowers/stamens/thecae/length
+/flowers/stamens/thecae/lower thecae
+/flowers/stamens/thecae/lower thecae/shape
+/flowers/stamens/thecae/relative distance
+/flowers/stamens/thecae/shape
+/flowers/stamens/thecae/thecae with basal appendage number
+/flowers/stamens/thecae/theca number
+/flowers/stamens/thecae/upper thecae
+/flowers/stamens/thecae/upper thecae/hairs
+/flowers/stamens/thecae/upper thecae/length
+/flowers/stamens/thecae/upper thecae/relative distance
+/flowers/stamens/tube
+/flowers/stamens/tube/shape
+/flowers/staminodes
+/flowers/staminodes/staminode number
+/flowers/stigma
+/flowers/stigma/shape
+/flowers/style
+/flowers/style/hairs
+/flowers/style/length
+/flowers/style/lobe number
+/flowers/style/lobes
+/flowers/style/relative distance
+/flowers/style/shape
+/flowers/style/stigma
+/flowers/style/stigma/length
+/flowers/style/stigma/lobe number
+/flowers/style/stigma/shape
+/flowers/style/stigma/shape/length
+/flowers/style/stigma/shape/lobe number
+/fruits
+/fruits/colour
+/fruits/dimensions
+/fruits/endocarp
+/fruits/hairs
+/fruits/mesocarps
+/fruits/mesocarps/texture
+/fruits/seeds
+/fruits/seeds/cotyledons
+/fruits/seeds/embryo
+/fruits/seeds/endosperm
+/fruits/seeds/seed number
+/fruits/seeds/shape
+/fruits/seeds/testa
+/fruits/seeds/testa/hairs
+/fruits/seeds/testa/texture
+/fruits/shape
+/fruits/shape/diameter
+/fruits/shape/dimensions
+/fruits/valve number
+/habit
+/habit/branches
+/habit/branches/growth form
+/habit/cystoliths
+/habit/flowering shoots
+/habit/flowering shoots/growth form
+/habit/flowering shoots/height
+/habit/growth form
+/habit/hairs
+/habit/height
+/habit/length
+/habit/lower nodes
+/habit/main branch number
+/habit/nodes
+/habit/older shoots
+/habit/older shoots/growth form
+/habit/roots
+/habit/stems
+/habit/stems/hairs
+/habit/stems/shape
+/indumentum
+/indumentum/colour
+/indumentum/hairs
+/indumentum/length
+/inflorescences
+/inflorescences/axes
+/inflorescences/axes/branchlets
+/inflorescences/axes/branchlets/hairs
+/inflorescences/axes/hairs
+/inflorescences/axillary spikes
+/inflorescences/axillary spikes/length
+/inflorescences/basal bracts
+/inflorescences/basal bracts/cystoliths
+/inflorescences/basal bracts/dimensions
+/inflorescences/basal bracts/hairs
+/inflorescences/basal bracts/length
+/inflorescences/basal bracts/shape
+/inflorescences/basal branchlets
+/inflorescences/basal branchlets/length
+/inflorescences/bracteoles
+/inflorescences/bracteoles/apex
+/inflorescences/bracteoles/apex/colour
+/inflorescences/bracteoles/apex/hairs
+/inflorescences/bracteoles/apex/shape
+/inflorescences/bracteoles/bracteole number
+/inflorescences/bracteoles/colour
+/inflorescences/bracteoles/dimensions
+/inflorescences/bracteoles/growth form
+/inflorescences/bracteoles/hairs
+/inflorescences/bracteoles/length
+/inflorescences/bracteoles/margins
+/inflorescences/bracteoles/margins/hairs
+/inflorescences/bracteoles/pedicels
+/inflorescences/bracteoles/pedicels/length
+/inflorescences/bracteoles/relative dimensions
+/inflorescences/bracteoles/secondary bracteoles
+/inflorescences/bracteoles/secondary bracteoles/length
+/inflorescences/bracteoles/secondary bracteoles/shape
+/inflorescences/bracteoles/shape
+/inflorescences/bracteoles/shape/dimensions
+/inflorescences/bracteoles/shape/length
+/inflorescences/bracteoles/texture
+/inflorescences/bracteoles/texture/colour
+/inflorescences/bracteoles/texture/hairs
+/inflorescences/bracteoles/vein number
+/inflorescences/bracteoles/width
+/inflorescences/bracts
+/inflorescences/bracts and bracteoles
+/inflorescences/bracts and bracteoles/dimensions
+/inflorescences/bracts and bracteoles/hairs
+/inflorescences/bracts and bracteoles/hairs/colour
+/inflorescences/bracts and bracteoles/length
+/inflorescences/bracts and bracteoles/margins
+/inflorescences/bracts and bracteoles/margins/hairs
+/inflorescences/bracts and bracteoles/shape
+/inflorescences/bracts and bracteoles/texture
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/colour
+/inflorescences/bracts/apex/dimensions
+/inflorescences/bracts/apex/hairs
+/inflorescences/bracts/apex/nectary patches
+/inflorescences/bracts/apex/nectary patches/gland number per patch
+/inflorescences/bracts/apex/nectary patches/position
+/inflorescences/bracts/apex/shape
+/inflorescences/bracts/apex/teeth pair number per side
+/inflorescences/bracts/awns
+/inflorescences/bracts/awns/length
+/inflorescences/bracts/basal bracts
+/inflorescences/bracts/basal bracts/length
+/inflorescences/bracts/basal bracts/shape
+/inflorescences/bracts/base
+/inflorescences/bracts/base/shape
+/inflorescences/bracts/bracteole number
+/inflorescences/bracts/bract number
+/inflorescences/bracts/bracts
+/inflorescences/bracts/bracts/hairs
+/inflorescences/bracts/bracts/shape
+/inflorescences/bracts/colour
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/glands
+/inflorescences/bracts/hairs
+/inflorescences/bracts/larger bracts
+/inflorescences/bracts/larger bracts/shape
+/inflorescences/bracts/larger bracts/shape/dimensions
+/inflorescences/bracts/length
+/inflorescences/bracts/lower bracts
+/inflorescences/bracts/lower bracts/shape
+/inflorescences/bracts/lowermost bracts
+/inflorescences/bracts/lowermost bracts/dimensions
+/inflorescences/bracts/lowermost bracts/hairs
+/inflorescences/bracts/lower surfaces
+/inflorescences/bracts/lower surfaces/hairs
+/inflorescences/bracts/margins
+/inflorescences/bracts/margins/colour
+/inflorescences/bracts/margins/glands
+/inflorescences/bracts/margins/glands/dimensions
+/inflorescences/bracts/margins/glands/gland number
+/inflorescences/bracts/margins/hairs
+/inflorescences/bracts/margins/hairs/colour
+/inflorescences/bracts/margins/hairs/shape
+/inflorescences/bracts/margins/margin type
+/inflorescences/bracts/margins/sterile bracts
+/inflorescences/bracts/margins/sterile bracts/dimensions
+/inflorescences/bracts/margins/sterile bracts/shape
+/inflorescences/bracts/margins/teeth
+/inflorescences/bracts/margins/teeth/dimensions
+/inflorescences/bracts/margins/teeth/teeth pair number
+/inflorescences/bracts/margins/veins
+/inflorescences/bracts/margin type
+/inflorescences/bracts/other bracts
+/inflorescences/bracts/other bracts/colour
+/inflorescences/bracts/other bracts/dimensions
+/inflorescences/bracts/other bracts/hairs
+/inflorescences/bracts/other bracts/shape
+/inflorescences/bracts/primary and secondary veins
+/inflorescences/bracts/primary and secondary veins/hairs
+/inflorescences/bracts/shape
+/inflorescences/bracts/shape/colour
+/inflorescences/bracts/shape/dimensions
+/inflorescences/bracts/shape/vein number
+/inflorescences/bracts/terminal bracts
+/inflorescences/bracts/terminal bracts/hairs
+/inflorescences/bracts/terminal bracts/shape
+/inflorescences/bracts/texture
+/inflorescences/bracts/upper bracts
+/inflorescences/bracts/upper bracts/shape
+/inflorescences/bracts/vein number
+/inflorescences/bracts/vein number per side
+/inflorescences/branches
+/inflorescences/branches/hairs
+/inflorescences/branches/shape
+/inflorescences/branches/shape/length
+/inflorescences/branches/whorl number
+/inflorescences/branchlets
+/inflorescences/branchlets/bracts
+/inflorescences/branchlets/bracts/length
+/inflorescences/branchlets/bracts/shape
+/inflorescences/branchlets/leaves
+/inflorescences/branchlets/leaves/length
+/inflorescences/branchlets/leaves/shape
+/inflorescences/calyx lobes
+/inflorescences/calyx lobes/hairs
+/inflorescences/calyx lobes/lobe number
+/inflorescences/calyx lobes/shape
+/inflorescences/central spike
+/inflorescences/central spike/diameter
+/inflorescences/central spike/length
+/inflorescences/colour
+/inflorescences/corolla
+/inflorescences/corolla/colour
+/inflorescences/corolla/hairs
+/inflorescences/corolla/lip number
+/inflorescences/corolla/lower lobes
+/inflorescences/corolla/lower lobes/hairs
+/inflorescences/corolla/lower lobes/lobe number
+/inflorescences/corolla/lower lobes/shape
+/inflorescences/corolla/shape
+/inflorescences/corolla/upper lobes
+/inflorescences/corolla/upper lobes/lobe number
+/inflorescences/corolla/upper lobes/shape
+/inflorescences/cymes
+/inflorescences/cymes/flower number
+/inflorescences/diameter
+/inflorescences/dichasia
+/inflorescences/dichasia/dichasia per axil
+/inflorescences/dichasia/flower number
+/inflorescences/dichasia/flower number per axil
+/inflorescences/dichasia/hairs
+/inflorescences/dichasia/length
+/inflorescences/dimensions
+/inflorescences/distal bracts
+/inflorescences/distal bracts/dimensions
+/inflorescences/distal bracts/hairs
+/inflorescences/distal bracts/shape
+/inflorescences/fascicles
+/inflorescences/fascicles/central spike
+/inflorescences/fascicles/lateral spikes
+/inflorescences/fascicles/lateral spikes/length
+/inflorescences/fascicles/spikes
+/inflorescences/fascicles/spikes/length
+/inflorescences/fascicles/spikes/position
+/inflorescences/fascicles/spikes/shape
+/inflorescences/fascicles/spikes/spike number per fascicle
+/inflorescences/floral bracts
+/inflorescences/floral bracts/dimensions
+/inflorescences/floral bracts/shape
+/inflorescences/floral bracts/shape/dimensions
+/inflorescences/floral bracts/shape/hairs
+/inflorescences/flower number
+/inflorescences/flower number per branch
+/inflorescences/flower number per fascicle
+/inflorescences/flower number per inflorescence
+/inflorescences/flower number per node
+/inflorescences/flowers
+/inflorescences/flowers/bracteole number
+/inflorescences/flowers/colour
+/inflorescences/flowers/flower number
+/inflorescences/flowers/flower number per axil
+/inflorescences/flowers/flower number per fascicle
+/inflorescences/flowers/flower number per node
+/inflorescences/flowers/flower number per verticillaster
+/inflorescences/flowers/hairs
+/inflorescences/flowers/peduncle
+/inflorescences/flowers/peduncle/hairs
+/inflorescences/flowers/peduncle/hairs/colour
+/inflorescences/flowers/peduncle/length
+/inflorescences/flowers/peduncle/shape
+/inflorescences/flowers/rachises
+/inflorescences/flowers/rachises/hairs
+/inflorescences/flowers/relative distance
+/inflorescences/flowers/shape
+/inflorescences/foliose bracts
+/inflorescences/foliose bracts/dimensions
+/inflorescences/foliose bracts/shape
+/inflorescences/foliose bracts/shape/dimensions
+/inflorescences/foliose bracts/shape/hairs
+/inflorescences/growth form
+/inflorescences/hairs
+/inflorescences/hairs/colour
+/inflorescences/inflorescence bracts
+/inflorescences/inflorescence bracts/dimensions
+/inflorescences/inflorescence bracts/shape
+/inflorescences/inflorescence branches
+/inflorescences/inflorescence branches/hairs
+/inflorescences/inflorescence number
+/inflorescences/inflorescence number per axil
+/inflorescences/intermediate flowers
+/inflorescences/intermediate flowers/bracts
+/inflorescences/leaf axils
+/inflorescences/leaf axils/bract number
+/inflorescences/leaves
+/inflorescences/leaves/flower number per axil
+/inflorescences/leaves/position
+/inflorescences/length
+/inflorescences/lower flowers
+/inflorescences/lowermost bracts
+/inflorescences/lowermost bracts/length
+/inflorescences/lowermost bracts/shape
+/inflorescences/other bracts
+/inflorescences/other bracts/dimensions
+/inflorescences/other bracts/shape
+/inflorescences/other flowers
+/inflorescences/other flowers/bracts
+/inflorescences/other flowers/bracts/dimensions
+/inflorescences/other flowers/bracts/hairs
+/inflorescences/other flowers/bracts/shape
+/inflorescences/other flowers/bracts/vein number
+/inflorescences/other spikes
+/inflorescences/other spikes/shape
+/inflorescences/other spikes/shape/dimensions
+/inflorescences/other spikes/shape/vein number
+/inflorescences/ovary
+/inflorescences/ovary/hairs
+/inflorescences/panicles
+/inflorescences/panicles/length
+/inflorescences/panicles/width
+/inflorescences/pedicels
+/inflorescences/pedicels/colour
+/inflorescences/pedicels/hairs
+/inflorescences/pedicels/length
+/inflorescences/peduncle
+/inflorescences/peduncle/axillary peduncles
+/inflorescences/peduncle/axillary peduncles/length
+/inflorescences/peduncle/colour
+/inflorescences/peduncle/hairs
+/inflorescences/peduncle/length
+/inflorescences/peduncle/relative dimensions
+/inflorescences/peduncle/shape
+/inflorescences/peduncle/terminal peduncles
+/inflorescences/peduncle/terminal peduncles/length
+/inflorescences/peduncle/tip
+/inflorescences/peduncle/tip/hairs
+/inflorescences/position
+/inflorescences/position/flower number per axil
+/inflorescences/rachises
+/inflorescences/rachises and rachillas
+/inflorescences/rachises and rachillas/hairs
+/inflorescences/rachises/colour
+/inflorescences/rachises/hairs
+/inflorescences/rachises/hairs/colour
+/inflorescences/rachises/internodes
+/inflorescences/rachises/internodes/length
+/inflorescences/rachises/length
+/inflorescences/rachises/shape
+/inflorescences/remaining flowers
+/inflorescences/remaining flowers/bracts
+/inflorescences/remaining flowers/bracts/shape
+/inflorescences/remaining flowers/bracts/vein number
+/inflorescences/secondary bracteoles
+/inflorescences/secondary bracteoles/dimensions
+/inflorescences/secondary bracteoles/hairs
+/inflorescences/secondary bracteoles/shape
+/inflorescences/secondary bracteoles/vein number
+/inflorescences/secondary peduncles
+/inflorescences/secondary peduncles/hairs
+/inflorescences/secondary peduncles/length
+/inflorescences/secondary peduncles/lowest node
+/inflorescences/secondary peduncles/lowest node/bracts
+/inflorescences/secondary peduncles/lowest node/bracts/dimensions
+/inflorescences/secondary peduncles/lowest node/bracts/shape
+/inflorescences/shape
+/inflorescences/shape/lower flowers
+/inflorescences/shape/lower flowers/leaves
+/inflorescences/shape/lower flowers/leaves/hairs
+/inflorescences/shape/other flowers
+/inflorescences/shape/other flowers/bracts
+/inflorescences/shape/other flowers/dimensions
+/inflorescences/shape/other flowers/vein number
+/inflorescences/side number
+/inflorescences/spike number
+/inflorescences/spikes
+/inflorescences/spikes/diameter
+/inflorescences/spikes/dimensions
+/inflorescences/spikes/length
+/inflorescences/spikes/position
+/inflorescences/spikes/shape
+/inflorescences/spikes/spike number
+/inflorescences/stamens
+/inflorescences/stamens/anthers
+/inflorescences/stamens/anthers/theca number
+/inflorescences/stamens/filaments
+/inflorescences/stamens/filaments/hairs
+/inflorescences/stamens/stamen number
+/inflorescences/stamens/staminodes
+/inflorescences/stamens/staminodes/staminode number
+/inflorescences/stamens/thecae
+/inflorescences/stamens/thecae/hairs
+/inflorescences/sterile bracts
+/inflorescences/sterile bracts/dimensions
+/inflorescences/sterile bracts/hairs
+/inflorescences/sterile bracts/shape
+/inflorescences/thyrsoid spikes
+/inflorescences/thyrsoid spikes/length
+/inflorescences/ultimate bracts
+/inflorescences/ultimate bracts/dimensions
+/inflorescences/ultimate bracts/hairs
+/inflorescences/ultimate bracts/shape
+/inflorescences/upper bracts
+/inflorescences/upper bracts/dimensions
+/inflorescences/upper flowers
+/inflorescences/upper flowers/bracts
+/inflorescences/upper flowers/bracts/shape
+/juvenile stems
+/juvenile stems/colour
+/juvenile stems/growth form
+/juvenile stems/growth form/branches
+/juvenile stems/growth form/branches/hairs
+/juvenile stems/growth form/branches/hairs/line number
+/juvenile stems/growth form/shape
+/juvenile stems/hairs
+/juvenile stems/hairs/line number
+/juvenile stems/hairs/row number
+/juvenile stems/mature stems
+/juvenile stems/mature stems/hairs
+/juvenile stems/mature stems/shape
+/juvenile stems/shape
+/leaves
+/leaves/blade
+/leaves/blade/apex
+/leaves/blade/apex/shape
+/leaves/blade/base
+/leaves/blade/base/colour
+/leaves/blade/base/hairs
+/leaves/blade/base/shape
+/leaves/blade/cystoliths
+/leaves/blade/cystoliths/cystolith number
+/leaves/blade/cystoliths/length
+/leaves/blade/cystoliths/shape
+/leaves/blade/dimensions
+/leaves/blade/hairs
+/leaves/blade/hairs/secondary vein pair number
+/leaves/blade/hairs/texture
+/leaves/blade/lower blade
+/leaves/blade/lower surfaces
+/leaves/blade/lower surfaces/hairs
+/leaves/blade/margins
+/leaves/blade/margins/cystoliths
+/leaves/blade/margins/cystoliths/cystolith number
+/leaves/blade/margins/cystoliths/shape
+/leaves/blade/margins/hairs
+/leaves/blade/margins/margin type
+/leaves/blade/margin type
+/leaves/blade/shape
+/leaves/blade/shape/dimensions
+/leaves/blade/shape/length
+/leaves/blade/shape/width
+/leaves/blade/texture
+/leaves/blade/upper blade
+/leaves/blade/upper blade/hairs
+/leaves/blade/uppermost leaf pair
+/leaves/blade/uppermost leaf pair/hairs
+/leaves/blade/uppermost leaf pair/shape
+/leaves/cystoliths
+/leaves/cystoliths/colour
+/leaves/growth form
+/leaves/hairs
+/leaves/hairs/secondary vein pair number
+/leaves/length
+/leaves/lower blade
+/leaves/lower blade/apex
+/leaves/lower blade/apex/shape
+/leaves/lower blade/base
+/leaves/lower blade/base/hairs
+/leaves/lower blade/base/shape
+/leaves/lower blade/base/texture
+/leaves/lower blade/dimensions
+/leaves/lower blade/shape
+/leaves/margins
+/leaves/margins/margin type
+/leaves/margin type
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/texture
+/leaves/primary and secondary veins
+/leaves/primary and secondary veins/hairs
+/leaves/primary and secondary veins/secondary vein pair number
+/leaves/primary veins
+/leaves/primary veins/hairs
+/leaves/primary veins/secondary veins
+/leaves/primary veins/secondary veins/hairs
+/leaves/primary veins/secondary veins/secondary vein pair number
+/leaves/secondary veins
+/leaves/secondary veins/secondary vein pair number
+/leaves/shape
+/leaves/shape/dimensions
+/leaves/upper blade
+/leaves/upper blade/apex
+/leaves/upper blade/apex/shape
+/leaves/upper blade/base
+/leaves/upper blade/base/shape
+/leaves/upper blade/cystoliths
+/leaves/upper blade/dimensions
+/leaves/upper blade/hairs
+/leaves/upper blade/secondary veins
+/leaves/upper blade/secondary veins/secondary vein pair number
+/leaves/upper blade/shape
+/leaves/whorl number
+/lower leaves
+/lower leaves/blade
+/lower leaves/blade/dimensions
+/lower leaves/blade/shape
+/lower leaves/margins
+/lower leaves/margins/colour
+/lower leaves/margins/cystoliths
+/lower leaves/margins/cystoliths/cystolith number
+/lower leaves/margins/hairs
+/lower leaves/margins/shape
+/lower leaves/petiole
+/lower leaves/petiole/hairs
+/lower leaves/petiole/length
+/lower leaves/primary and secondary veins
+/lower leaves/primary and secondary veins/hairs
+/lower leaves/primary and secondary veins/secondary vein pair number
+/ovary and style
+/ovary and style/hairs
+/ovary and style/stigma
+/petiole
+/petiole/blade
+/petiole/blade/apex
+/petiole/blade/apex/hairs
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/base/hairs
+/petiole/blade/base/shape
+/petiole/blade/base/upper and lower surfaces
+/petiole/blade/base/upper and lower surfaces/hairs
+/petiole/blade/colour
+/petiole/blade/cystoliths
+/petiole/blade/dimensions
+/petiole/blade/hairs
+/petiole/blade/hairs/colour
+/petiole/blade/lobes
+/petiole/blade/lobes/length
+/petiole/blade/lower surfaces
+/petiole/blade/lower surfaces/colour
+/petiole/blade/lower surfaces/hairs
+/petiole/blade/lower surfaces/hairs/colour
+/petiole/blade/lower surfaces/hairs/length
+/petiole/blade/lower surfaces/texture
+/petiole/blade/margins
+/petiole/blade/margins/colour
+/petiole/blade/margins/hairs
+/petiole/blade/margins/hairs/secondary vein pair number
+/petiole/blade/margins/hairs/shape
+/petiole/blade/margins/hairs/texture
+/petiole/blade/margins/margin type
+/petiole/blade/margins/shape
+/petiole/blade/margins/shape/mucrons
+/petiole/blade/margins/shape/mucrons/length
+/petiole/blade/margins/texture
+/petiole/blade/margin type
+/petiole/blade/shape
+/petiole/blade/shape/awns
+/petiole/blade/shape/awns/length
+/petiole/blade/shape/dimensions
+/petiole/blade/shape/hairs
+/petiole/blade/shape/hairs/colour
+/petiole/blade/shape/hairs/length
+/petiole/blade/shape/hairs/texture
+/petiole/blade/shape/mucrons
+/petiole/blade/shape/mucrons/length
+/petiole/blade/shape/texture
+/petiole/blade/texture
+/petiole/blade/uppermost pair
+/petiole/blade/uppermost pair/dimensions
+/petiole/blade/uppermost pair/shape
+/petiole/blade/upper surfaces
+/petiole/blade/upper surfaces/colour
+/petiole/blade/upper surfaces/hairs
+/petiole/blade/upper surfaces/hairs/colour
+/petiole/blade/upper surfaces/hairs/length
+/petiole/blade/upper surfaces/hairs/texture
+/petiole/blade/upper surfaces/shape
+/petiole/blade/upper surfaces/texture
+/petiole/blade/veins
+/petiole/cystoliths
+/petiole/cystoliths/cystolith number
+/petiole/hairs
+/petiole/leaves
+/petiole/leaves/dimensions
+/petiole/leaves/hairs
+/petiole/leaves/shape
+/petiole/length
+/petiole/margins
+/petiole/margins/cystoliths
+/petiole/margins/margin type
+/petiole/primary and secondary veins
+/petiole/primary and secondary veins/cystoliths
+/petiole/primary and secondary veins/cystoliths/cystolith number
+/petiole/primary and secondary veins/hairs
+/petiole/primary and secondary veins/secondary vein pair number
+/petiole/primary and secondary veins/secondary veins
+/petiole/primary and secondary veins/secondary veins/hairs
+/petiole/primary and secondary veins/secondary veins/hairs/colour
+/petiole/primary and secondary veins/secondary veins/secondary vein pair number
+/petiole/primary veins
+/petiole/primary veins/hairs
+/petiole/primary veins/secondary vein pair number
+/petiole/primary veins/secondary veins
+/petiole/primary veins/secondary veins/colour
+/petiole/primary veins/secondary veins/secondary vein pair number
+/petiole/relative dimensions
+/petiole/secondary veins
+/petiole/secondary veins/secondary vein pair number
+/petiole/shape
+/petiole/texture
+/petiole/upper leaves
+/petiole/veins
+/petiole/veins/secondary veins
+/petiole/veins/secondary veins/hairs
+/petiole/veins/secondary veins/secondary vein pair number
+/petiole/wings
+/roots
+/roots/colour
+/shoots
+/shoots/hairs
+/shoots/shape
+/spikes
+/spikes/bracteoles
+/spikes/bracteoles/hairs
+/spikes/bracteoles/shape
+/spikes/bracteoles/shape/dimensions
+/spikes/bracts
+/spikes/bracts/colour
+/spikes/bracts/hairs
+/spikes/bracts/shape
+/spikes/bracts/shape/dimensions
+/spikes/dimensions
+/spikes/peduncle
+/spikes/peduncle/hairs
+/spikes/peduncle/hairs/colour
+/spikes/peduncle/length
+/spikes/position
+/stems
+/stems/angle number
+/stems/bark
+/stems/bark/colour
+/stems/colour
+/stems/cystoliths
+/stems/diameter
+/stems/growth form
+/stems/hairs
+/stems/hairs/colour
+/stems/hairs/row number
+/stems/height
+/stems/internodes
+/stems/internodes/hairs
+/stems/internodes/length
+/stems/juvenile stems
+/stems/juvenile stems/hairs
+/stems/lower portion of stem
+/stems/lower portion of stem/colour
+/stems/lower portion of stem/shape
+/stems/mature stems
+/stems/mature stems/bark
+/stems/mature stems/bark/colour
+/stems/mature stems/cystoliths
+/stems/mature stems/cystoliths/shape
+/stems/mature stems/hairs
+/stems/mature stems/shape
+/stems/nodes
+/stems/rib number
+/stems/roots
+/stems/roots/colour
+/stems/shape
+/stems/shape/rib number
+/stems/texture
+/wood

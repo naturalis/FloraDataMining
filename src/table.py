@@ -7,7 +7,8 @@ def printToTsv(table):
 		line = ""	
 
 		for j in range(len(table[0])):
-			table[i][j] = table[i][j].encode("UTF-8")
+			print table[i][j]
+			#table[i][j] = table[i][j].encode("UTF-8")
 			table[i][j] = str(table[i][j]).replace("\t", " ") 
 			line = line + table[i][j] + "\t"
 
