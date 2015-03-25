@@ -7,6 +7,7 @@ root = tree.getroot()
 
 
 def constructHierarchy(character, path):
+
 	path = path + "/" + character.get('class')
 
 	print path
@@ -18,11 +19,12 @@ def constructHierarchy(character, path):
 			if child.get('class') != None:
 				constructHierarchy(child, path)
 	
-
-			
+print root.tag			
 for feature in root.findall("./treatment/taxon/feature"):
 
 	for child in feature.getchildren():
 
 		if child.get('class') != None:
 			constructHierarchy(child, "")
+
+

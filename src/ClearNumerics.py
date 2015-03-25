@@ -87,7 +87,7 @@ def splitValues(matrix, row, regex, regexLeft, regexRight, left, right, delimite
 
 
 def initializeDivideNumerics(matrix):
-	numberRegex = '[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
+	numberRegex = '(ca. )?[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
 	maxRegex = '(up to|to over|to) ' + numberRegex
 	minRegex = '(above|from) ' + numberRegex
 	rangeRegex = numberRegex +'(\(-[0-9]+\))?' + '-' + numberRegex + '(\(-[0-9]+\))?'
@@ -106,11 +106,11 @@ def initializeDivideNumerics(matrix):
 
 matrix = table.readMatrix(matrixFile)
 
-
 matrix = map(list, zip(*matrix))
 
 initializeDivideNumerics(matrix)
 rowNumbersNotInRange(matrix)
 
 table.printToTsv(map(list, zip(*matrix)))
+print "numeric values formatted"
 

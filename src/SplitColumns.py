@@ -51,7 +51,8 @@ def splitColumns(matrix, term, regexes):
 				break
 				
 			for regex in regexes:
-				
+				print regex
+				print array[i]
 				if re.search(regex, array[i]):
 					lastTerm = array[0]
 					newTerm = array[0] + "/" + term.lower()	
@@ -76,7 +77,7 @@ def stemCases(cases):
  
 def markOriginalCategories(matrix):
 	
-	for row in matrix:
+	for row in matrix[1:]:
 		markedOriginalTerm = row[0] + "*"
 		row[0] = markedOriginalTerm
 
@@ -120,4 +121,6 @@ matrix = deleteRowsAlmostEmpty(matrix)
 matrix = initSplitting(termsAndCategories, matrix)
 
 table.printToTsv(map(list, zip(*matrix)))
+
+print "Columns splitted"
 

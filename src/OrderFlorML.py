@@ -23,6 +23,7 @@ for line in flormlFile:
 		line = fields[0] + "<"
 
 		for i in range(1, len(fields) - 1):
+
 			if i%2 == 0:
 				line += fields[i] + "<"
 			else:

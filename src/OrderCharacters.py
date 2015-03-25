@@ -147,7 +147,7 @@ def getSpecies(matrix):
 			species = ""
 
 			for name in homotypes[0].findall('.//name'):
- 					
+
 				if name.get('class') == 'family':
 					family = name.text
 

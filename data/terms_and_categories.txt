@@ -1,5 +1,5 @@
 Colour:
-aquamarine,azure,black,blu(?:e|ish),brown,champagne,colored,cream,crimson,cyan,gold,green,grey,indigo,iridescent,lavender,lilac,magenta,maroon,nitid,olive,orang(?:e|ish),pink(?:ish|),purpl(?:e|ish),(brick |wine-|dark |bright )?red(?:dish|),rose,rufous,scarlet,silver(?:ish|),transparent,turquoise,variously colored,vermillion,violet,whit(?:e|ish),(pale )yellow(?:ish|),mauve
+aquamarine,azure,black,blu(?:e|ish),brown,champagne,colored,cream,crimson,cyan,gold,green,grey,indigo,iridescent,lavender,lilac,magenta,maroon,nitid,olive,orang(?:e|ish),pink(?:ish|),purpl(?:e|ish),?<![^\w](brick |wine-|dark |bright )?red(?:dish|)!?:\w,rose,rufous,scarlet,silver(?:ish|),transparent,turquoise,variously colored,vermillion,violet,whit(?:e|ish),(pale )yellow(?:ish|),mauve
 
 Growth form:
 clambering,creeping,erect,multi(?:-|)stemmed,parted,pendent,recurved,repent,scandent,sprawling,spreading,ascending,hanging,reticulate,scrambling,mat,vine,panicles,umbles,stoloniferious,trailing,connate,(sub)?erect,(sub)?regular
