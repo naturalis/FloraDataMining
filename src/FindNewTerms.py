@@ -20,8 +20,13 @@ for row in matrix[1:]:
 		
 		for word in cell.split(' '):
 
-			if word not in commonEnglishWords and re.match('[a-z]', word) and word not in newTerms:
-				newTerms.append(word)
+			if len(word) > 1:
+
+				if not word[len(word) - 1].isalpha():
+					word = word[:len(word) - 1] 
+
+				if word not in commonEnglishWords and re.match('[a-z]', word) and word not in newTerms and "," not in word:
+					newTerms.append(word)
 
 for line in termList:
 
@@ -35,7 +40,5 @@ for line in termList:
 
 					
 print str(len(newTerms)) + " new terms"
-
-for term in newTerms:
-	print term
+print newTerms
 

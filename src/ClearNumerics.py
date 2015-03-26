@@ -64,12 +64,9 @@ def divideNumerics(matrix, row, regex, left, right, term):
 			elif term == "r":
 				fillCell(matrix, row, i, re.search(regex, row[i]).group(0), 2)
 				
-			elif len(row[i].split(term)) > 1:
-				print regex
-				print row[i]
-				print term			
+			elif len(row[i].split(term)) > 1:			
 				numbers = re.search(regex, row[i]).group(0).split(term)
-				print numbers
+
 				matrix[matrix.index(row) + 1][i] = numbers[0]
 				matrix[matrix.index(row) + 2][i] = numbers[1]										
 
