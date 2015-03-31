@@ -3,8 +3,9 @@ FloraDataMining
 
 What is the project about?
 
-Plant species can be determined with the help of books mentioned Floras. There are multiple types of plants and multiple types of Floras. When a botanist wants to determine a plant he must access the correct Flora. To make these Floras more accessible, these are digitalized in an XML format mentioned FlorML, which is recogizable for humans and for machines. 
-The reason this digitalisation is not only the accessibility. When digitalized, the Flora data can be put into table form. Then, some tests can be performed with this table to find correlation between species and their traits (mentioned characters). So, the text in the new XML file is converted to a table with species on one axis and relevant plant features (characters) on the other axis. This is performed with Python 2.7.6.
+Plant species can be determined with the help of books mentioned Floras. There are multiple types of plants and multiple types of Floras. When a botanist wants to determine a plant he must access the correct Flora. 
+To make these Floras more accessible, these are digitalized in an XML format mentioned FlorML, which is recogizable for humans and for machines. The reason this digitalisation is not only the accessibility. When digitalized, the Flora data can be put into table form. Then, some tests can be performed with this table to find correlation between species and their traits (mentioned characters). 
+During this project, the text in the new XML file is converted to a table with species on one axis and relevant plant features (characters) on the other axis. This is performed with Python 2.7.6.
 
 The different steps in constructing the matrix
 
@@ -12,7 +13,7 @@ Parsing the characters (MakeCharacterList.py FlorML file )
 First, a list is made of all characters present in the FlorML file. With the help of this list, it is possible to select characters relevant for the study by hand. Because sometimes the same name is used to define different character types, all characters are displayed together with their superiors, like “/grandparent/parent/current character”. 
 
 Ordering the text in the FlorML file (OrderFlorML.py FlorML file)
-Before continuing the matrix construction, the text in the FlorML file ust be ordened. The reason is that there are some structural incorrectnesses in where some text parts are displayed in the FlorML file, where converting the text from a book to XML is comprehensive. This makes the construction of the matrix with a programming language too complex. Because of this, a code was written to put the texts displayed on the wrong place to the correct places.
+Before continuing the matrix construction, the text in the FlorML file ust be ordened. The reason is that there are some structural incorrectnesses in where some text parts are displayed in the FlorML file, where converting the text from a book to XML is comprehensive. In this format, many text parts will not be displayed in the matrix. Because of this, a code was written to put the texts displayed on the wrong place to the correct places.
 
 Ordening the text to a matrix (OrderCharacters.py (structured) 1.FlorML file 2.character list
 A code is written to construct a matrix containing values for species(rows) and characters(columns). The input files are a FlorML file, and a txt file including a list with relevant the characters. The output is a tab-delimited file containing the matrix. The rows represent the species and the columns represent the characters. In this table some characters contained not enough information. The corresponding columns were removed by hand. 

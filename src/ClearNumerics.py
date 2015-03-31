@@ -85,10 +85,10 @@ def splitValues(matrix, row, regex, regexLeft, regexRight, left, right, delimite
 
 def initializeDivideNumerics(matrix):
 	numberRegex = '(ca. )?[0-9]+(\.[0-9]+)?(-[0-9]+(\.[0-9]+)?)?'
-	maxRegex = '(up to|to over|to) ' + numberRegex
+	maxRegex = '(up to|to over|to|no more than) ' + numberRegex
 	minRegex = '(above|from) ' + numberRegex
 	rangeRegex = numberRegex +'(\(-[0-9]+\))?' + '-' + numberRegex + '(\(-[0-9]+\))?'
-	dimensionRegex = '((up to|to over|to|above|from) )?' + numberRegex + '(\(-[0-9]+\))? x (\([0-9]+(.[0-9]+)?-\))?' + '((up to|to over|to|above|from) )?' + numberRegex 
+	dimensionRegex = '((up to|to over|to|above|from|no more than) )?' + numberRegex + '(\(-[0-9]+\))? x (\([0-9]+(.[0-9]+)?-\))?' + '((up to|to over|to|above|from) )?' + numberRegex 
 	lenRegex = numberRegex + '(\(-[0-9]+\))? (m|c|)?m (long)'
 	widRegex = numberRegex + '(\(-[0-9]+\))? (m|c|)?m (wide|thick|in diam)'
 	
@@ -109,5 +109,5 @@ initializeDivideNumerics(matrix)
 rowNumbersNotInRange(matrix)
 
 table.printToTsv(map(list, zip(*matrix)))
-print "numeric values formatted"
+print "Numeric values formatted"
 

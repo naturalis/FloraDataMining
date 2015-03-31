@@ -6,8 +6,8 @@ lineNumber = 0
 
 for line in file:
 	
-	if lineNumber == 3674:
-		print len(line)
-		print line[346]
+	if lineNumber == 63:
+		print line
+		print line[205]
 	lineNumber += 1
 	

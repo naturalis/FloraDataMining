@@ -51,8 +51,7 @@ def splitColumns(matrix, term, regexes):
 				break
 				
 			for regex in regexes:
-				print regex
-				print array[i]
+
 				if re.search(regex, array[i]):
 					lastTerm = array[0]
 					newTerm = array[0] + "/" + term.lower()	

@@ -9,7 +9,6 @@ import table
 
 tree = ET.parse(sys.argv[1])
 characterFile = open(sys.argv[2], "r")
-output = open("matrix.tsv", "w")
 root = tree.getroot()
 #numberOfFeatures = 0
 
@@ -28,9 +27,7 @@ def countAndRemoveEmptyPlaces(matrix, i):
 		matrix = numpy.delete(matrix, i, axis = 0)
 
 		if i != len(matrix):
-			matrix = countAndRemoveEmptyPlaces(matrix, i)
-			print "removed"			
-		print "done"
+			matrix = countAndRemoveEmptyPlaces(matrix, i)		
 	return matrix
 
 
@@ -44,8 +41,9 @@ def deleteRowsLackingChars(matrix):
 
 		else:
 			if i != len(matrix):
-				print "counting"
-				matrix = countAndRemoveEmptyPlaces(matrix, i)							
+				matrix = countAndRemoveEmptyPlaces(matrix, i)
+	
+	print "Empty places removed"						
 
 	
 #This recursively adds the texts from the subcharacters to the matrix containing the text parst of the characters 
@@ -62,8 +60,6 @@ def addSubchars(matrix, char, name, i):
 
 					if subchar.text:
 						matrix[i][j] = subchar.text#.encode("UTF-8")
-			if char.text:
-				print str(char.text.encode("UTF-8")) + "and subchars added"
 				
 			addSubchars(matrix, subchar, newName, i)
 	
@@ -76,12 +72,11 @@ def addHabitatData(matrix, i, node):
 	if altitude != None:
 
 		if altitude.text:
-			matrix[i][len(matrix[0]) - 1] = altitude.text#.encode("UTF-8")
-
+			matrix[i][len(matrix[0]) - 1] = altitude.text
 	if habitat != None:
 
 		if habitat.text:
-			matrix[i][len(matrix[0]) - 2] = habitat.text#.encode("UTF-8")	
+			matrix[i][len(matrix[0]) - 2] = habitat.text	
 	
 
 #This function adds the texts belonging to the subcharacters to the matrix.
@@ -92,7 +87,7 @@ def addChars(matrix, i, node):
 		for char in node:
 
 			if matrix[0][j] == "/" + str(char.get('class')) and char.text:
-				matrix[i][j] = char.text#.encode("UTF-8")
+				matrix[i][j] = char.text
 
 			addSubchars(matrix, char, "/" + str(char.get('class')), i)
 
@@ -109,16 +104,22 @@ def fillMatrix(matrix):
 			if homotypes[0].get('class') == 'accepted':
 				i+=1
 
+				print matrix[i][0]
+
 				for child in taxon:
 
 					if child.tag == "feature":
  
 						if child.get('class') == "description":
 							addChars(matrix, i, child)
-							print "char added"	
+
+							print "characters filled"
+	
 						elif child.get('class') == "habitat":
 							addHabitatData(matrix, i, child)
-							print "habitat data added"		
+
+							print "habitat data filled"
+							
 
 
 #This function reads characters and adds them to a matrix
@@ -209,8 +210,6 @@ print "matrix filled"
 deleteRowsLackingChars(matrix)
 print "rows lacking chars deleted"
 table.printToTsv(matrix)				
-
-output.close()					
 
 					
 				
