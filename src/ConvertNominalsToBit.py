@@ -73,7 +73,7 @@ def listPossibilities(matrix,term):
  			for value in matrix[i][1:]:
 				possibilities.extend(value.split(','))
 
-	possibilities = list(set(possibilities))
+	possibilities = sorted(list(set(possibilities)))
 
 	possibilities.remove('-')
 

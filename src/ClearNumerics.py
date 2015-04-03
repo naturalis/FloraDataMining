@@ -1,10 +1,61 @@
 import sys
 import re
 import table
+from Length import Length
 
 matrixFile = open(sys.argv[1], "r")
 matrix = []
 output = open("matrix.tsv", "w")
+
+
+def normalize(row, units, correctUnit):
+	numberRegex = '\d+\.*\d*'
+
+	for i in range(len(row)):
+
+		for unit in units:
+	
+			if re.search(" " + unit + "( |$)", row[i]):
+
+				for number in re.findall(numberRegex, row[i]):
+					value = Length(float(number), unit)
+					correctedNumber = value.toUnit(correctUnit)[0]
+					row[i] = row[i].replace(number, str(correctedNumber))
+				
+				row[i] = row[i].replace(unit, correctUnit)
+
+	return row
+
+
+def selectDominatingUnit(amountUnits):
+
+	for key, value in amountUnits.items():
+
+		if value == max(amountUnits.values()):	
+			return key
+
+
+def countUnitNumbers(row, units):
+
+	for cell in row:
+
+		for key in units.keys():
+	
+			if re.search(" " + key + "( |$)", cell):
+				units[key] += 1
+	return units
+
+
+def normalizeUnits(matrix):	
+	
+	for row in matrix:
+		amountUnits = {"mm": 0, "cm": 0, "dm": 0, "m": 0}
+
+		countUnitNumbers(row, amountUnits)
+		correctUnit = selectDominatingUnit(amountUnits)
+		matrix[matrix.index(row)] = normalize(row, amountUnits.keys(), correctUnit) 	
+
+	return matrix
 
 
 def rowNumbersNotInRange(matrix):
@@ -102,9 +153,9 @@ def initializeDivideNumerics(matrix):
 
 
 matrix = table.readMatrix(matrixFile)
-
 matrix = map(list, zip(*matrix))
 
+matrix = normalizeUnits(matrix)
 initializeDivideNumerics(matrix)
 rowNumbersNotInRange(matrix)
 

@@ -7,7 +7,7 @@ termsAndCategories = open(sys.argv[2], "r")
 matrix = []
 
 
-#Adds the correct terms to new columns made in the matrixdef addNewValue(matrix, i, regex):
+#Adds the correct terms to new columns made in the matrix
 def addNewValue(array, regexes):
 	newArray = [0 for i in range(len(array))]	
 			
@@ -26,7 +26,8 @@ def addNewValue(array, regexes):
 
 					elif re.search(termList[len(termList) - 1], termList[j]):
 						termList.pop(len(termList) - 1)	
-
+		termsList = termList.sort()
+		print termList
 		terms = ','.join(termList)
 
 		if terms == "":
@@ -112,13 +113,13 @@ def deleteRowsAlmostEmpty(matrix):
 
 
 matrix = table.readMatrix(matrixFile)
-
+print "matrix read"
 matrix = map(list, zip(*matrix))			
 
-matrix = deleteRowsAlmostEmpty(matrix)
-
+#matrix = deleteRowsAlmostEmpty(matrix)
+#print "Almost empty rows deleted"
 matrix = initSplitting(termsAndCategories, matrix)
-
+print matrix
 table.printToTsv(map(list, zip(*matrix)))
 
 print "Columns splitted"

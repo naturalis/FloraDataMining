@@ -5,7 +5,7 @@ import sys
 import re
 
 flormlFile = open(sys.argv[1], 'r')
-characterFile = open(sys.argv[1], 'r')
+#characterFile = open(sys.argv[2], 'r')
 output = open("ordened.xml", 'w')
 subCharacter = '<\/subChar>[,:] [a-z]'
 misplacedCharacter = '<\/subChar>[,:] [^<]+'
@@ -14,7 +14,7 @@ temp = []
 
 
 def constructXmlLine(textList):
-	result = ""
+	result = "<"
 	
 	for i in range(1, len(textList) - 1):
 		
@@ -22,6 +22,7 @@ def constructXmlLine(textList):
 			result += textList[i] + "<"
 		else:
 			result += textList[i] + ">"
+	print result
 	return result
 
 
@@ -52,7 +53,8 @@ for line in flormlFile:
 			
 			for textLine in temp:
 				output.write(textLine)
-			
+			temp = []
+
 
 #	if startTags and endTags:		
 #		element += line

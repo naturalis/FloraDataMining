@@ -71,8 +71,8 @@ def listPossibilities(matrix,term):
 
  			for value in matrix[i][1:]:
 				possibilities.extend(value.split(','))
-	print possibilities
-	possibilities = list(set(possibilities))
+
+	possibilities = list(set(possibilities)).sort()
 	
 	possibilities.remove('-')
 
