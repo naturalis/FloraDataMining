@@ -1,0 +1,5697 @@
+publication
+/habit
+/habit/height
+/leaves
+/leaves/stipules
+/leaves/petiole
+/leaves/blade
+/leaves/blade/hairs
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/blade/margins/texture
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts and bracteoles
+/flowers
+/flowers/merosity
+/flowers/sepals and petals
+/flowers/sepals and petals/sepals
+/flowers/sepals and petals/petals
+/flowers/sepals and petals/petals/colour
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/whorl number
+/flowers/stamens/filaments
+/flowers/stamens/anthers
+/flowers/stamens/anthers/locule number
+/flowers/nectary disc
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/style
+/flowers/ovary/stigma
+/flowers/ovary/stigma/lobe number
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/ovules/position
+/fruits
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/endosperm
+/habit
+/habit/height
+/habit/growth form
+/leaf scars
+/stipules
+/stipules/petiole
+/stipules/petiole/length
+/stipules/blade
+/stipules/blade/texture
+/stipules/blade/shape
+/stipules/blade/dimensions
+/stipules/blade/margins
+/stipules/blade/apex
+/stipules/blade/apex/shape
+/stipules/blade/base
+/stipules/blade/base/shape
+/stipules/midveins
+/stipules/midveins/secondary veins
+/inflorescences
+/inflorescences/position
+/inflorescences/hairs
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/flowers
+/inflorescences/flowers/flower number
+/inflorescences/flowers/growth form
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/shape/length
+/inflorescences/bracteoles
+/inflorescences/bracteoles/bracteole number
+/inflorescences/bracteoles/shape
+/inflorescences/bracteoles/length
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/pedicels/colour
+/flowers
+/flowers/sepals
+/flowers/sepals/sepal number
+/flowers/sepals/colour
+/flowers/sepals/texture
+/flowers/sepals/shape
+/flowers/sepals/dimensions
+/flowers/sepals/apex
+/flowers/sepals/apex/shape
+/flowers/sepals/apex/hairs
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/colour
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/relative distance
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/stamens/anthers/width
+/flowers/stamens/anthers/colour
+/flowers/nectary disc
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/shape
+/flowers/ovary/hairs
+/flowers/ovary/length
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/ovules/position
+/flowers/ovary/style
+/flowers/ovary/style/style number
+/flowers/ovary/stigma
+/flowers/ovary/stigma/lobe number
+/fruits
+/fruits/colour
+/fruits/shape
+/fruits/dimensions
+/fruits/hairs
+/fruits/stigma
+/fruits/seeds
+/fruits/seeds/seed number per locule
+/habit
+/habit/height
+/habit/growth form
+/leaf scars
+/stipules
+/stipules/petiole
+/stipules/petiole/length
+/stipules/blade
+/stipules/blade/texture
+/stipules/blade/shape
+/stipules/blade/dimensions
+/stipules/blade/margins
+/stipules/blade/apex
+/stipules/blade/apex/shape
+/stipules/blade/base
+/stipules/blade/base/shape
+/stipules/midveins
+/stipules/midveins/secondary veins
+/inflorescences
+/inflorescences/position
+/inflorescences/hairs
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/flowers
+/inflorescences/flowers/flower number
+/inflorescences/flowers/growth form
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/shape/length
+/inflorescences/bracteoles
+/inflorescences/bracteoles/bracteole number
+/inflorescences/bracteoles/shape
+/inflorescences/bracteoles/length
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/pedicels/colour
+/flowers
+/flowers/sepals
+/flowers/sepals/sepal number
+/flowers/sepals/colour
+/flowers/sepals/texture
+/flowers/sepals/shape
+/flowers/sepals/dimensions
+/flowers/sepals/apex
+/flowers/sepals/apex/shape
+/flowers/sepals/apex/hairs
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/colour
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/relative distance
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/stamens/anthers/width
+/flowers/stamens/anthers/colour
+/flowers/nectary disc
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/shape
+/flowers/ovary/hairs
+/flowers/ovary/length
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/ovules/position
+/flowers/ovary/style
+/flowers/ovary/style/style number
+/flowers/ovary/stigma
+/flowers/ovary/stigma/lobe number
+/fruits
+/fruits/colour
+/fruits/shape
+/fruits/dimensions
+/fruits/hairs
+/fruits/stigma
+/fruits/seeds
+/fruits/seeds/seed number per locule
+/habit
+/leaves
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts
+/inflorescences/bracteoles
+/inflorescences/sepals
+/inflorescences/sepals/outer sepal lobes
+/inflorescences/sepals/outer sepal lobes/margin type
+/inflorescences/stamens
+/inflorescences/stamens/stamen number
+/inflorescences/stamens/whorl number
+/inflorescences/stamens/anthers
+/inflorescences/ovary
+/inflorescences/ovary/locule number
+/inflorescences/ovary/ovule number
+/inflorescences/ovary/style
+/fruits
+/fruits/rib number
+/fruits/seed number
+/habit
+/leaves
+/inflorescences
+/inflorescences/position
+/flowers
+/flowers/merosity
+/flowers/plant sexuality
+/flowers/calyx
+/flowers/calyx/lobes
+/flowers/calyx/margins
+/flowers/calyx/margins/texture
+/flowers/corolla
+/flowers/corolla/lobes
+/flowers/staminodes
+/flowers/stamens
+/flowers/stamens/filaments
+/flowers/stamens/anthers
+/flowers/stamens/thecae
+/flowers/pistil
+/flowers/pistil/ovary
+/flowers/pistil/ovary/shape
+/flowers/pistil/ovary/locule number
+/flowers/pistil/ovules
+/flowers/pistil/style
+/flowers/pistil/style/relative dimensions
+/flowers/pistil/stigma
+/flowers/pistil/stigma/shape
+/fruits
+/fruits/shape
+/fruits/colour
+/fruits/seeds
+/fruits/seeds/colour
+/fruits/seeds/endosperm
+/habit
+/leaves
+/leaves/petiole
+/leaves/blade
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/extraxylary sclerenchyma
+/inflorescences
+/inflorescences/position
+/inflorescences/flower number per inflorescence
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/flowers
+/flowers/merosity
+/flowers/plant sexuality
+/flowers/calyx
+/flowers/calyx/colour
+/flowers/calyx/lobes
+/flowers/calyx/lobes/shape
+/flowers/calyx/margins
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/lobes
+/flowers/corolla/lobes/shape
+/flowers/staminodes
+/flowers/staminodes/shape
+/flowers/stamens
+/flowers/stamens/filaments
+/flowers/stamens/filaments/hairs
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/ovary
+/flowers/ovary/shape
+/flowers/ovary/ovules
+/flowers/ovary/style
+/flowers/ovary/stigma
+/flowers/ovary/stigma/shape
+/fruits
+/fruits/colour
+/fruits/shape
+/fruits/pericarp
+/fruits/pericarp/texture
+/fruits/seeds
+/fruits/seeds/shape
+/fruits/seeds/colour
+/habit
+/habit/height
+/habit/juvenile shoots
+/habit/juvenile shoots/hairs
+/petiole
+/petiole/length
+/petiole/thickness
+/petiole/hairs
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/margins
+/petiole/blade/margins/margin type
+/petiole/blade/margins/hairs
+/petiole/lateral veins
+/inflorescences
+/inflorescences/bisexual and male plants
+/inflorescences/bisexual and male plants/length
+/inflorescences/bisexual and male plants/flower number
+/inflorescences/female plants
+/inflorescences/female plants/length
+/inflorescences/female plants/flower number
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/bracts
+/inflorescences/bracts/length
+/flowers
+/flowers/merosity
+/flowers/calyx lobes
+/flowers/calyx lobes/shape
+/flowers/calyx lobes/dimensions
+/flowers/calyx lobes/hairs
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/tube
+/flowers/corolla/tube/length
+/flowers/corolla/lobes
+/flowers/corolla/lobes/dimensions
+/flowers/filaments
+/flowers/filaments/male and bisexual flowers
+/flowers/filaments/male and bisexual flowers/tube
+/flowers/filaments/male and bisexual flowers/tube/length
+/flowers/filaments/female flowers
+/flowers/filaments/female flowers/length
+/flowers/pistil
+/flowers/pistil/male and bisexual flowers
+/flowers/pistil/male and bisexual flowers/shape
+/flowers/pistil/bisexual flowers
+/flowers/pistil/bisexual flowers/ovule number
+/flowers/pistil/female flowers
+/flowers/pistil/female flowers/shape
+/flowers/pistil/female flowers/ovule number
+/fruits
+/fruits/colour
+/fruits/diameter
+/fruits/pericarp
+/fruits/pericarp/thickness
+/fruits/pericarp/texture
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/length
+/habit
+/habit/height
+/habit/juvenile shoots
+/habit/juvenile shoots/hairs
+/petiole
+/petiole/length
+/petiole/thickness
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/margins
+/petiole/blade/margins/margin type
+/petiole/blade/margins/hairs
+/petiole/lateral veins
+/inflorescences
+/inflorescences/male and bisexual plants
+/inflorescences/male and bisexual plants/length
+/inflorescences/male and bisexual plants/flower number
+/inflorescences/female plants
+/inflorescences/female plants/length
+/inflorescences/female plants/flower number
+/inflorescences/rachises
+/inflorescences/rachises/thickness
+/inflorescences/rachises/hairs
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/bracts
+/inflorescences/bracts/length
+/flowers
+/flowers/merosity
+/flowers/calyx lobes
+/flowers/calyx lobes/shape
+/flowers/calyx lobes/dimensions
+/flowers/calyx lobes/hairs
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/tube
+/flowers/corolla/tube/length
+/flowers/corolla/lobes
+/flowers/corolla/lobes/dimensions
+/flowers/filaments
+/flowers/filaments/male and bisexual flowers
+/flowers/filaments/male and bisexual flowers/tube
+/flowers/filaments/male and bisexual flowers/tube/length
+/flowers/filaments/female flowers
+/flowers/filaments/female flowers/length
+/flowers/pistil
+/flowers/pistil/male flowers
+/flowers/pistil/male flowers/shape
+/flowers/pistil/bisexual flowers
+/flowers/pistil/bisexual flowers/shape
+/flowers/pistil/bisexual flowers/ovule number
+/flowers/pistil/bisexual flowers/row number
+/flowers/pistil/female flowers
+/flowers/pistil/female flowers/shape
+/flowers/pistil/female flowers/ovule number
+/flowers/pistil/female flowers/row number
+/fruits
+/fruits/colour
+/fruits/diameter
+/fruits/pericarp
+/fruits/pericarp/thickness
+/fruits/pericarp/texture
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/length
+/juvenile shoots
+/juvenile shoots/hairs
+/petiole
+/petiole/length
+/petiole/thickness
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/margins
+/petiole/blade/margins/margin type
+/petiole/blade/margins/hairs
+/juvenile shoots
+/juvenile shoots/hairs
+/petiole
+/petiole/length
+/petiole/thickness
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/margins
+/petiole/blade/margins/margin type
+/petiole/blade/margins/hairs
+/habit
+/habit/height
+/habit/juvenile shoots
+/habit/juvenile shoots/hairs
+/petiole
+/petiole/length
+/petiole/thickness
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/margins
+/petiole/blade/margins/margin type
+/petiole/blade/margins/teeth number per side
+/petiole/blade/margins/hairs
+/petiole/lateral veins
+/inflorescences
+/inflorescences/male and bisexual plants
+/inflorescences/male and bisexual plants/length
+/inflorescences/male and bisexual plants/flower number
+/inflorescences/female plants
+/inflorescences/female plants/length
+/inflorescences/female plants/flower number
+/inflorescences/rachises
+/inflorescences/rachises/thickness
+/inflorescences/rachises/hairs
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/bracts
+/inflorescences/bracts/length
+/inflorescences/bracts/position
+/flowers
+/flowers/merosity
+/flowers/calyx lobes
+/flowers/calyx lobes/shape
+/flowers/calyx lobes/dimensions
+/flowers/calyx lobes/hairs
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/tube
+/flowers/corolla/tube/length
+/flowers/corolla/lobes
+/flowers/corolla/lobes/dimensions
+/flowers/filaments
+/flowers/filaments/male and bisexual flowers
+/flowers/filaments/male and bisexual flowers/tube
+/flowers/filaments/male and bisexual flowers/tube/length
+/flowers/filaments/female flowers
+/flowers/filaments/female flowers/length
+/flowers/pistil
+/flowers/pistil/male flowers
+/flowers/pistil/male flowers/shape
+/flowers/pistil/bisexual flowers
+/flowers/pistil/bisexual flowers/shape
+/flowers/pistil/bisexual flowers/ovule number
+/flowers/pistil/pistillate flowers
+/flowers/pistil/pistillate flowers/shape
+/flowers/pistil/pistillate flowers/ovule number
+/fruits
+/fruits/colour
+/fruits/diameter
+/fruits/pericarp
+/fruits/pericarp/thickness
+/fruits/pericarp/texture
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/length
+/habit
+/leaves
+/leaves/texture
+/leaves/hairs
+/leaves/stipules
+/leaves/stipules/shape
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts and bracteoles
+/flowers
+/flowers/receptacle
+/flowers/calyx
+/flowers/calyx/lobes
+/flowers/calyx/lobes/lobe number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/disk
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/shape
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/stamens/anthers/growth form
+/flowers/stamens/anthers/locule number
+/flowers/ovary
+/flowers/ovary/shape
+/flowers/ovary/hairs
+/flowers/ovary/locule number
+/flowers/ovary/position
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/style
+/fruits
+/fruits/shape
+/fruits/exocarp
+/fruits/exocarp/texture
+/fruits/endocarp
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/shape
+/fruits/cotyledons
+/fruits/cotyledons/texture
+/habit
+/leaves
+/leaves/texture
+/leaves/hairs
+/leaves/stipules
+/leaves/stipules/shape
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts and bracteoles
+/flowers
+/flowers/receptacle
+/flowers/calyx
+/flowers/calyx/lobes
+/flowers/calyx/lobes/lobe number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/disk
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/shape
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/stamens/anthers/growth form
+/flowers/stamens/anthers/locule number
+/flowers/ovary
+/flowers/ovary/shape
+/flowers/ovary/hairs
+/flowers/ovary/locule number
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/style
+/fruits
+/fruits/shape
+/fruits/exocarp
+/fruits/exocarp/texture
+/fruits/endocarp
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/shape
+/fruits/cotyledons
+/fruits/cotyledons/texture
+/habit
+/habit/dimensions
+/habit/dimensions/dimensions
+/habit/dimensions/diameter
+/habit/stems
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/apex/shape/acumen
+/petiole/blade/apex/shape/acumen/length
+/petiole/blade/apex/hairs
+/petiole/midveins
+/petiole/midveins/secondary veins
+/petiole/midveins/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/length
+/inflorescences/hairs
+/inflorescences/bracts and bracteoles
+/inflorescences/bracts and bracteoles/shape
+/inflorescences/bracts and bracteoles/length
+/inflorescences/bracts and bracteoles/texture
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/pedicels/hairs
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/bracteoles
+/inflorescences/pedicels/bracteoles/bracteole number
+/inflorescences/pedicels/bracteoles/shape
+/inflorescences/calyx
+/inflorescences/calyx/length
+/inflorescences/calyx/hairs
+/inflorescences/calyx/lobes
+/inflorescences/petals
+/inflorescences/petals/petal number
+/inflorescences/petals/shape
+/inflorescences/petals/length
+/inflorescences/stamens
+/inflorescences/stamens/stamen number
+/inflorescences/stamens/anthers
+/inflorescences/stamens/anthers/length
+/inflorescences/stigma
+/inflorescences/stigma/shape
+/fruits
+/fruits/shape
+/fruits/diameter
+/fruits/exocarp
+/fruits/exocarp/hairs
+/fruits/exocarp/texture
+/fruits/mesocarps
+/fruits/mesocarps/texture
+/fruits/endocarp
+/fruits/endocarp/texture
+/fruits/endocarp/hairs
+/habit
+/leaves
+/leaves/texture
+/inflorescences
+/inflorescences/position
+/flowers
+/flowers/tepals
+/flowers/tepals/tepal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/glands
+/flowers/glands/gland number
+/flowers/glands/texture
+/flowers/pistil
+/flowers/pistil/locule number
+/flowers/pistil/ovules
+/flowers/pistil/ovules/ovule number
+/flowers/pistil/style
+/flowers/pistil/stigma
+/flowers/pistil/stigma/position
+/fruits
+/fruits/texture
+/fruits/seeds
+/fruits/seeds/seed number
+/habit
+/leaves
+/leaves/rachises
+/leaves/rachises/relative distance
+/leaves/leaflets
+/leaves/leaflets/leaflet pair number
+/leaves/leaflets/shape
+/leaves/leaflets/basal pair
+/leaves/margins
+/leaves/margins/margin type
+/inflorescences
+/inflorescences/position
+/inflorescences/inflorescence number per axil
+/inflorescences/flowers
+/inflorescences/bracts
+/inflorescences/flowers
+/flowers
+/flowers/tepals
+/flowers/tepals/growth form
+/flowers/stamens
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/glands
+/flowers/glands/gland number
+/flowers/glands/texture
+/flowers/ovary
+/flowers/ovary/hairs
+/flowers/ovary/ovule number
+/flowers/ovary/position
+/flowers/ovary/style
+/flowers/ovary/stigma
+/fruits
+/fruits/seed number
+/fruits/shape
+/fruits/outer mesocarp
+/fruits/outer mesocarp/texture
+/fruits/inner mesocarp
+/fruits/inner mesocarp/texture
+/fruits/seeds
+/fruits/seeds/texture
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/habit/juvenile branches/hairs/colour
+/habit/older branches
+/habit/older branches/hairs
+/habit/older branches/hairs/colour
+/habit/lenticels
+/habit/lenticels/lenticel number
+/petiole
+/petiole/length
+/petiole/diameter
+/petiole/hairs
+/petiole/hairs/colour
+/petiole/indumentum
+/petiole/indumentum/growth form
+/petiole/leaf rachises
+/petiole/leaf rachises/length
+/petiole/leaf rachises/position
+/petiole/leaf rachises/dimensions
+/petiole/shape
+/petiole/shape/length
+/petiole/shape/diameter
+/petiole/leaflets
+/petiole/leaflets/leaflet pair number
+/petiole/leaflets/texture
+/petiole/leaflets/texture/colour
+/petiole/leaflets/hairs
+/petiole/leaflets/hairs/colour
+/petiole/leaflets/shape
+/petiole/basal pair
+/petiole/basal pair/shape
+/petiole/basal pair/dimensions
+/petiole/other leaflets
+/petiole/other leaflets/dimensions
+/petiole/base
+/petiole/base/apex
+/petiole/base/apex/shape
+/petiole/base/margins
+/petiole/base/margins/margin type
+/petiole/veins
+/petiole/veins/secondary vein pair number
+/petiole/veins/midveins
+/inflorescences
+/inflorescences/position
+/inflorescences/diameter
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/diameter
+/inflorescences/floral rachises
+/inflorescences/floral rachises/length
+/inflorescences/floral rachises/hairs
+/inflorescences/floral rachises/hairs/colour
+/inflorescences/bracteoles
+/inflorescences/bracteoles/shape
+/inflorescences/bracteoles/length
+/inflorescences/bracteoles/hairs
+/inflorescences/bracteoles/hairs/colour
+/inflorescences/bracteoles/upper bracteoles
+/inflorescences/bracteoles/upper bracteoles/length
+/inflorescences/bracteoles/upper bracteoles/growth form
+/inflorescences/flowers
+/inflorescences/flowers/length
+/inflorescences/flowers/hairs
+/inflorescences/flowers/hairs/colour
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/flower buds
+/flower buds/apex
+/flower buds/apex/width
+/flower buds/midlength
+/flower buds/midlength/width
+/flower buds/hairs
+/flower buds/hairs/colour
+/flowers
+/flowers/length
+/flowers/tepals
+/flowers/tepals/dimensions
+/flowers/anthers
+/flowers/anthers/length
+/flowers/glands
+/flowers/glands/height
+/flowers/glands/width
+/flowers/ovary
+/flowers/ovary/length
+/flowers/ovary/shape
+/flowers/ovary/hairs
+/flowers/ovary/hairs/colour
+/fruits
+/fruits/length
+/fruits/infructescences
+/fruits/infructescences/length
+/fruits/fruit pedicels
+/fruits/fruit pedicels/length
+/fruits/fruit pedicels/thickness
+/juvenile fruits
+/juvenile fruits/shape
+/juvenile fruits/dimensions
+/juvenile fruits/texture
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/colour
+/habit/juvenile branches/hairs
+/habit/juvenile branches/hairs/colour
+/habit/older branches
+/habit/older branches/colour
+/habit/older branches/hairs
+/habit/older branches/hairs/colour
+/habit/lenticels
+/habit/lenticels/lenticel number
+/petiole
+/petiole/length
+/petiole/diameter
+/petiole/hairs
+/petiole/leaf rachises
+/petiole/leaf rachises/length
+/petiole/leaf rachises/terminal appendix
+/petiole/leaf rachises/terminal appendix/length
+/petiole/leaf rachises/terminal appendix/width
+/petiole/shape
+/petiole/shape/petiolule
+/petiole/shape/petiolule/length
+/petiole/shape/petiolule/diameter
+/petiole/leaflets
+/petiole/leaflets/leaflet pair number
+/petiole/leaflets/colour
+/petiole/leaflets/texture
+/petiole/leaflets/hairs
+/petiole/leaflets/hairs/colour
+/petiole/leaflets/shape
+/petiole/basal pair
+/petiole/basal pair/shape
+/petiole/basal pair/dimensions
+/petiole/other leaflets
+/petiole/other leaflets/dimensions
+/petiole/base
+/petiole/base/apex
+/petiole/base/apex/shape
+/petiole/base/margins
+/petiole/base/margins/margin type
+/petiole/veins
+/petiole/veins/secondary vein pair number
+/petiole/veins/midveins
+/inflorescences
+/inflorescences/position
+/inflorescences/diameter
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/diameter
+/inflorescences/floral rachises
+/inflorescences/floral rachises/length
+/inflorescences/floral rachises/colour
+/inflorescences/floral rachises/hairs
+/inflorescences/bracteoles
+/inflorescences/bracteoles/basal bracteoles
+/inflorescences/bracteoles/basal bracteoles/shape
+/inflorescences/bracteoles/basal bracteoles/length
+/inflorescences/bracteoles/basal bracteoles/hairs
+/inflorescences/bracteoles/basal bracteoles/hairs/colour
+/inflorescences/bracteoles/upper bracteoles
+/inflorescences/bracteoles/upper bracteoles/shape
+/inflorescences/bracteoles/upper bracteoles/length
+/inflorescences/bracteoles/upper bracteoles/growth form
+/inflorescences/flowers
+/inflorescences/flowers/length
+/inflorescences/flowers/hairs
+/inflorescences/flowers/hairs/colour
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/flower buds
+/flower buds/apex
+/flower buds/apex/width
+/flower buds/beak
+/flower buds/beak/length
+/flower buds/beak/width
+/flower buds/growth form
+/flower buds/hairs
+/flower buds/hairs/colour
+/flowers
+/flowers/length
+/flowers/growth form
+/flowers/tepals
+/flowers/tepals/width
+/flowers/anthers
+/flowers/anthers/length
+/flowers/glands
+/flowers/glands/height
+/flowers/glands/width
+/flowers/ovary
+/flowers/ovary/length
+/flowers/ovary/hairs
+/flowers/ovary/hairs/colour
+/infructescences
+/infructescences/length
+/infructescences/fruit pedicels
+/infructescences/fruit pedicels/length
+/infructescences/fruit pedicels/thickness
+/juvenile fruits
+/juvenile fruits/shape
+/juvenile fruits/dimensions
+/habit
+/habit/height
+/leaves
+/leaves/leaf number per verticel
+/leaves/blade
+/leaves/blade/margins
+/leaves/blade/margins/hairs
+/leaves/veins
+/leaves/veins/midveins
+/inflorescences
+/inflorescences/position
+/inflorescences/lateral inflorescences
+/inflorescences/bracts
+/inflorescences/bracts/hairs
+/inflorescences/inflorescences
+/inflorescences/flowers
+/inflorescences/pedicels
+/inflorescences/pedicels/hairs
+/flower buds
+/flowers
+/flowers/tepals
+/flowers/tepals/growth form
+/flowers/tepals/hairs
+/flowers/anthers
+/flowers/anthers/anthers
+/flowers/anthers/anthers/shape
+/flowers/anthers/connective
+/flowers/glands
+/flowers/glands/shape
+/flowers/glands/texture
+/flowers/glands/lobe number
+/flowers/glands/lobes
+/flowers/glands/lobes/shape
+/flowers/ovary
+/flowers/ovary/colour
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/stigma
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/ovules/position
+/fruits
+/fruits/seed number
+/fruits/option 1
+/fruits/option 1/shape
+/fruits/option 1/texture
+/fruits/option 1/colour
+/fruits/option 1/hairs
+/fruits/option 2
+/fruits/option 2/shape
+/fruits/option 2/texture
+/fruits/option 2/hairs
+/fruits/pericarp
+/fruits/pericarp/outer mesocarp
+/fruits/pericarp/mid mesocarp
+/fruits/pericarp/inner mesocarp
+/fruits/seed coat
+/fruits/seeds
+/fruits/seeds/shape
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/habit/juvenile branches/hairs/colour
+/habit/bark
+/habit/bark/colour
+/habit/lenticels
+/leaves
+/leaves/petiole
+/leaves/petiole/dimensions
+/leaves/petiole/hairs
+/leaves/leaf blades
+/leaves/leaf blades/texture
+/leaves/leaf blades/hairs
+/leaves/leaf blades/hairs/colour
+/leaves/leaf blades/shape
+/leaves/leaf blades/dimensions
+/leaves/leaf blades/base
+/leaves/leaf blades/base/shape
+/leaves/leaf blades/apex
+/leaves/leaf blades/apex/shape
+/leaves/leaf blades/apex/acumen
+/leaves/leaf blades/apex/acumen/length
+/leaves/leaf blades/margins
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/unbranched inflorescences
+/inflorescences/unbranched inflorescences/dimensions
+/inflorescences/branched inflorescences
+/inflorescences/branched inflorescences/dimensions
+/inflorescences/lateral inflorescences
+/inflorescences/lateral inflorescences/inflorescence number
+/inflorescences/lateral inflorescences/dimensions
+/inflorescences/lateral inflorescences/hairs
+/inflorescences/lateral inflorescences/hairs/colour
+/inflorescences/bracts
+/inflorescences/bracts/length
+/inflorescences/bracts/hairs
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/inflorescences/pedicels/width
+/inflorescences/pedicels/hairs
+/inflorescences/pedicels/hairs/colour
+/flowers
+/flowers/length
+/flowers/tepals
+/flowers/tepals/hairs
+/flowers/tepals/hairs/colour
+/flowers/anthers
+/flowers/anthers/length
+/flowers/anthers/relative distance
+/flowers/anthers/anthers
+/flowers/anthers/anthers/shape
+/flowers/anthers/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/glands/shape
+/flowers/ovary hairs
+/flowers/ovary hairs/relative distance
+/flowers/ovary hairs/colour
+/flowers/style
+/flowers/style/width
+/flowers/style/style
+/flowers/style/style/shape
+/fruit pedicels
+/fruit pedicels/dimensions
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/texture
+/fruits/hairs
+/fruits/hairs/colour
+/fruits/pericarp
+/fruits/pericarp/thickness
+/fruits/mesocarps
+/fruits/mesocarps/thickness
+/fruits/seeds
+/fruits/seeds/texture
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/habit/juvenile branches/hairs/colour
+/habit/bark
+/habit/bark/colour
+/habit/lenticels
+/habit/lenticels/lenticel number
+/leaves
+/leaves/leaf number per verticel
+/leaves/petiole
+/leaves/petiole/dimensions
+/leaves/petiole/hairs
+/leaves/leaf blades
+/leaves/leaf blades/texture
+/leaves/leaf blades/hairs
+/leaves/leaf blades/hairs/colour
+/leaves/leaf blades/shape
+/leaves/leaf blades/dimensions
+/leaves/leaf blades/base
+/leaves/leaf blades/base/shape
+/leaves/leaf blades/apex
+/leaves/leaf blades/apex/shape
+/leaves/leaf blades/margins
+/leaves/leaf blades/margins/margin type
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/dimensions
+/inflorescences/lateral inflorescences
+/inflorescences/lateral inflorescences/inflorescence number
+/inflorescences/lateral inflorescences/node number
+/inflorescences/lateral inflorescences/dimensions
+/inflorescences/lateral inflorescences/hairs
+/inflorescences/lateral inflorescences/hairs/colour
+/inflorescences/bracts
+/inflorescences/bracts/length
+/inflorescences/bracts/hairs
+/inflorescences/bracts/hairs/colour
+/inflorescences/pedicels
+/inflorescences/pedicels/dimensions
+/inflorescences/pedicels/hairs
+/inflorescences/pedicels/hairs/colour
+/flowers
+/flowers/length
+/flowers/tepals
+/flowers/anthers
+/flowers/anthers/length
+/flowers/anthers/relative distance
+/flowers/anthers/anthers
+/flowers/anthers/anthers/shape
+/flowers/anthers/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/glands/relative distance
+/flowers/glands/lobes
+/flowers/glands/lobes/shape
+/flowers/ovary hairs
+/flowers/ovary hairs/colour
+/flowers/ovary hairs/relative distance
+/flowers/ovary hairs/style
+/flowers/ovary hairs/style/width
+/flowers/ovary hairs/style/shape
+/fruit pedicels
+/fruit pedicels/dimensions
+/fruits
+/fruits/shape
+/fruits/diameter
+/fruits/apex
+/fruits/apex/shape
+/fruits/apex/hairs
+/fruits/apex/colour
+/fruits/pericarp
+/fruits/pericarp/thickness
+/fruits/mesocarps
+/fruits/mesocarps/outer mesocarp
+/fruits/mesocarps/outer mesocarp/thickness
+/fruits/mesocarps/mid mesocarp
+/fruits/mesocarps/mid mesocarp/thickness
+/fruits/mesocarps/inner mesocarp
+/fruits/mesocarps/inner mesocarp/texture
+/fruits/seeds
+/fruits/seeds/shape
+/fruits/seeds/diameter
+/fruits/cotyledons
+/fruits/cotyledons/texture
+/fruits/cotyledons/colour
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/leaves
+/leaves/texture
+/leaves/mature leaves
+/leaves/hairs
+/leaves/hairs/colour
+/compound leaves
+/compound leaves/leaflets
+/compound leaves/leaflets/leaflet pair number
+/compound leaves/leaflets/shape
+/compound leaves/leaflets/margins
+/compound leaves/leaflets/margins/margin type
+/simple leaves
+/simple leaves/margins
+/simple leaves/margins/margin type
+/simple leaves/veins
+/simple leaves/veins/midveins
+/inflorescences
+/inflorescences/position
+/inflorescences/hairs
+/inflorescences/flowers
+/inflorescences/bracts
+/inflorescences/pedicels
+/flower buds
+/flowers
+/flowers/tepals
+/flowers/tepals/hairs
+/flowers/filaments
+/flowers/filaments/anthers
+/flowers/filaments/anthers/shape
+/flowers/glands
+/flowers/glands/gland number
+/flowers/glands/texture
+/flowers/ovary
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/style/growth form
+/flowers/ovary/stigma
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/ovules/position
+/fruits
+/fruits/seed number
+/fruits/apex
+/fruits/style
+/fruits/seeds
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/colour
+/habit/juvenile branches/hairs
+/habit/bark
+/habit/bark/colour
+/habit/lenticels
+/habit/lenticels/lenticel number
+/leaves
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/colour
+/leaves/blade/hairs
+/simple leaves
+/simple leaves/petiole
+/simple leaves/petiole/dimensions
+/simple leaves/petiole/dimensions/length
+/simple leaves/petiole/dimensions/width
+/simple leaves/petiole/hairs
+/simple leaves/petiole/hairs/colour
+/simple leaves/blade
+/simple leaves/blade/shape
+/simple leaves/blade/dimensions
+/simple leaves/blade/length relative to width
+/simple leaves/blade/base
+/simple leaves/blade/base/shape
+/simple leaves/blade/apex
+/simple leaves/blade/apex/shape
+/simple leaves/blade/margins
+/simple leaves/blade/margins/margin type
+/simple leaves/blade/margins/teeth pair number
+/simple leaves/veins
+/simple leaves/veins/midveins
+/simple leaves/veins/secondary veins
+/simple leaves/veins/secondary veins/secondary vein pair number
+/simple leaves/veins/secondary veins/marginal veins
+/compound leaves
+/compound leaves/length
+/compound leaves/length/length
+/compound leaves/length/length/petiole length
+/compound leaves/leaflets
+/compound leaves/leaflets/leaflet pair number
+/compound leaves/petiolule lateral leaflets
+/compound leaves/petiolule lateral leaflets/length
+/compound leaves/blade lateral leaflets
+/compound leaves/blade lateral leaflets/dimensions
+/compound leaves/blade lateral leaflets/length relative to width
+/compound leaves/blade lateral leaflets/base
+/compound leaves/blade lateral leaflets/base/shape
+/compound leaves/blade lateral leaflets/apex
+/compound leaves/blade lateral leaflets/apex/shape
+/compound leaves/blade lateral leaflets/margins
+/compound leaves/blade lateral leaflets/margins/margin type
+/compound leaves/blade lateral leaflets/margins/margin type/teeth number
+/compound leaves/blade lateral leaflets/secondary veins
+/compound leaves/blade lateral leaflets/secondary veins/secondary vein pair number
+/compound leaves/petiolule terminal leaflets
+/compound leaves/petiolule terminal leaflets/length
+/compound leaves/blade terminal leaflets
+/compound leaves/blade terminal leaflets/dimensions
+/compound leaves/blade terminal leaflets/length relative to width
+/compound leaves/blade terminal leaflets/base
+/compound leaves/blade terminal leaflets/base/shape
+/compound leaves/blade terminal leaflets/apex
+/compound leaves/blade terminal leaflets/apex/shape
+/compound leaves/blade terminal leaflets/margins
+/compound leaves/blade terminal leaflets/margins/margin type
+/compound leaves/blade terminal leaflets/margins/margin type/teeth pair number
+/compound leaves/blade terminal leaflets/secondary veins
+/compound leaves/blade terminal leaflets/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/dimensions
+/inflorescences/indumentum
+/inflorescences/indumentum/hairs
+/inflorescences/indumentum/hairs/colour
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/sterile bracts
+/inflorescences/bracts
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/margins
+/inflorescences/bracts/margins/hairs
+/inflorescences/flowers
+/inflorescences/pedicels
+/inflorescences/pedicels/dimensions
+/flower buds
+/flower buds/width
+/flower buds/width
+/flower buds/section
+/flowers
+/flowers/length
+/flowers/hairs
+/flowers/filaments
+/flowers/filaments/length
+/flowers/filaments/relative distance
+/flowers/filaments/anthers
+/flowers/filaments/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/glands/texture
+/flowers/glands/lobes
+/flowers/ovary
+/flowers/ovary/shape
+/flowers/ovary/hairs
+/flowers/ovary/hairs/relative distance
+/flowers/ovary/hairs/colour
+/infructescences
+/infructescences/length
+/infructescences/hairs
+/infructescences/fruit pedicels
+/infructescences/fruit pedicels/dimensions
+/fruits
+/fruits/dimensions
+/fruits/base
+/fruits/base/constriction
+/fruits/apex
+/fruits/apex/constriction
+/fruits/apex/hairs
+/fruits/apex/hairs/colour
+/fruits/seeds
+/fruits/seeds/dimensions
+/habit
+/habit/height
+/habit/growth form
+/habit/bark
+/habit/bark/colour
+/habit/bark/hairs
+/habit/lenticels
+/habit/lenticels/lenticel number
+/leaves
+/leaves/texture
+/leaves/colour
+/leaves/hairs
+/leaves/petiole
+/leaves/petiole/dimensions
+/leaves/petiole/dimensions/length
+/leaves/petiole/dimensions/width
+/leaves/petiole/hairs
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/length relative to width
+/leaves/blade/base
+/leaves/blade/base/shape
+/leaves/blade/apex
+/leaves/blade/apex/shape
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/dimensions
+/inflorescences/hairs
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/sterile bracts
+/inflorescences/bracts
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/hairs
+/inflorescences/flowers
+/inflorescences/pedicels
+/inflorescences/pedicels/dimensions
+/inflorescences/pedicels/hairs
+/flower buds
+/flower buds/apex
+/flower buds/apex/width
+/flower buds/midlength
+/flower buds/midlength/width
+/flower buds/hairs
+/flowers
+/flowers/length
+/flowers/filaments
+/flowers/filaments/length
+/flowers/filaments/relative distance
+/flowers/filaments/anthers
+/flowers/filaments/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/glands/texture
+/flowers/ovary
+/flowers/ovary/hairs
+/flowers/ovary/hairs/colour
+/infructescences
+/infructescences/length
+/infructescences/hairs
+/infructescences/fruit pedicels
+/infructescences/fruit pedicels/dimensions
+/fruits
+/fruits/dimensions
+/fruits/shape
+/fruits/shape/constriction
+/fruits/apex
+/fruits/apex/constriction
+/fruits/apex/groove
+/fruits/apex/groove/colour
+/fruits/apex/groove/width
+/fruits/apex/immature fruits
+/fruits/apex/immature fruits/colour
+/fruits/apex/hairs
+/fruits/seeds
+/fruits/seeds/dimensions
+/fruits/seeds/wings
+/fruits/seeds/wings/texture
+/habit
+/habit/height
+/habit/diameter
+/habit/bark
+/habit/bark/colour
+/habit/bark/hairs
+/habit/bark/hairs/colour
+/habit/lenticels
+/habit/lenticels/lenticel number
+/leaves
+/leaves/texture
+/leaves/colour
+/leaves/hairs
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/width
+/leaves/petiole/hairs
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/length relative to width
+/leaves/blade/base
+/leaves/blade/base/shape
+/leaves/blade/apex
+/leaves/blade/apex/shape
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/dimensions
+/inflorescences/hairs
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/sterile bracts
+/inflorescences/bracts
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/hairs
+/inflorescences/bracts/hairs/colour
+/inflorescences/flowers
+/inflorescences/flowers/length
+/inflorescences/pedicels
+/inflorescences/pedicels/dimensions
+/inflorescences/pedicels/hairs
+/flower buds
+/flower buds/width
+/flower buds/hairs
+/flowers
+/flowers/length
+/flowers/filaments
+/flowers/filaments/length
+/flowers/filaments/relative distance
+/flowers/filaments/anthers
+/flowers/filaments/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/ovary
+/flowers/ovary/hairs
+/flowers/ovary/hairs/relative distance
+/flowers/ovary/hairs/colour
+/infructescences
+/infructescences/length
+/infructescences/hairs
+/infructescences/fruit pedicels
+/infructescences/fruit pedicels/dimensions
+/infructescences/fruit pedicels/hairs
+/fruits
+/fruits/dimensions
+/fruits/base
+/fruits/base/constriction
+/fruits/apex
+/fruits/apex/constriction
+/fruits/style
+/fruits/style/hairs
+/fruits/style/hairs/colour
+/fruits/seeds
+/fruits/seeds/dimensions
+/habit
+/habit/height
+/habit/bark
+/habit/bark/colour
+/habit/bark/hairs
+/habit/lenticels
+/habit/lenticels/lenticel number
+/leaves
+/leaves/hairs
+/leaves/hairs/colour
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/width
+/leaves/petiole/hairs
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/length relative to width
+/leaves/blade/base
+/leaves/blade/base/shape
+/leaves/blade/apex
+/leaves/blade/apex/shape
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/blade/margins/margin type/crenation pair number
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/midveins
+/leaves/secondary veins
+/leaves/secondary veins/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/dimensions
+/inflorescences/hairs
+/inflorescences/hairs/colour
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/sterile bracts
+/inflorescences/bracts
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/margins
+/inflorescences/bracts/margins/hairs
+/inflorescences/bracts/margins/hairs/colour
+/inflorescences/flowers
+/inflorescences/pedicels
+/inflorescences/pedicels/dimensions
+/flower buds
+/flower buds/apex
+/flower buds/apex/width
+/flower buds/midlength
+/flower buds/midlength/width
+/flower buds/section
+/flower buds/hairs
+/flower buds/hairs/colour
+/flowers
+/flowers/length
+/flowers/filaments
+/flowers/filaments/length
+/flowers/filaments/relative distance
+/flowers/filaments/anthers
+/flowers/filaments/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/glands/lobes
+/flowers/ovary hairs
+/flowers/ovary hairs/relative distance
+/flowers/ovary hairs/colour
+/infructescences
+/infructescences/length
+/infructescences/hairs
+/infructescences/fruit pedicels
+/infructescences/fruit pedicels/dimensions
+/fruits
+/fruits/dimensions
+/fruits/base
+/fruits/base/constriction
+/fruits/apex
+/fruits/apex/constriction
+/fruits/style
+/fruits/seeds
+/fruits/seeds/dimensions
+/habit
+/habit/tree habit
+/habit/tree habit/height
+/habit/shrub habit
+/habit/shrub habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/habit/juvenile branches/hairs/colour
+/habit/bark
+/habit/bark/colour
+/habit/lenticels
+/habit/lenticels/lenticel number
+/habit/lenticels/colour
+/leaves
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/hairs
+/leaves/blade/hairs/colour
+/simple leaves
+/simple leaves/petiole
+/simple leaves/petiole/length
+/simple leaves/petiole/width
+/simple leaves/petiole/hairs
+/simple leaves/petiole/hairs/colour
+/simple leaves/blade
+/simple leaves/blade/shape
+/simple leaves/blade/dimensions
+/simple leaves/blade/length relative to width
+/simple leaves/blade/base
+/simple leaves/blade/base/shape
+/simple leaves/blade/apex
+/simple leaves/blade/apex/shape
+/simple leaves/blade/margins
+/simple leaves/blade/margins/margin type
+/simple leaves/blade/margins/margin type/serration pair number
+/simple leaves/veins
+/simple leaves/veins/midveins
+/simple leaves/veins/secondary veins
+/simple leaves/veins/secondary veins/secondary vein pair number
+/compound leaves
+/compound leaves/dimensions
+/compound leaves/dimensions/length
+/compound leaves/dimensions/width
+/compound leaves/leaflets
+/compound leaves/leaflets/leaflet pair number
+/compound leaves/petiolule lateral leaflets
+/compound leaves/petiolule lateral leaflets/length
+/compound leaves/blade
+/compound leaves/blade/dimensions
+/compound leaves/blade/length relative to width
+/compound leaves/blade/base
+/compound leaves/blade/base/shape
+/compound leaves/blade/base/shape/position
+/compound leaves/blade/apex
+/compound leaves/blade/margins
+/compound leaves/blade/margins/margin type
+/compound leaves/blade/secondary veins
+/compound leaves/blade/secondary veins/secondary vein pair number
+/compound leaves/petiolule terminal leaflets
+/compound leaves/petiolule terminal leaflets/length
+/compound leaves/petiolule terminal leaflets
+/compound leaves/petiolule terminal leaflets/dimensions
+/compound leaves/petiolule terminal leaflets/length relative to width
+/compound leaves/petiolule terminal leaflets/base
+/compound leaves/petiolule terminal leaflets/base/shape
+/compound leaves/petiolule terminal leaflets/apex
+/compound leaves/petiolule terminal leaflets/margins
+/compound leaves/petiolule terminal leaflets/margins/margin type
+/compound leaves/petiolule terminal leaflets/secondary veins
+/compound leaves/petiolule terminal leaflets/secondary veins/secondary vein pair number
+/compound leaves/juvenile plants
+/inflorescences
+/inflorescences/position
+/inflorescences/inflorescence number per leaf axil
+/inflorescences/dimensions
+/inflorescences/hairs
+/inflorescences/hairs/colour
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/sterile bracts
+/inflorescences/bracts
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/hairs
+/inflorescences/flowers
+/inflorescences/flowers/length
+/inflorescences/pedicels
+/inflorescences/pedicels/length
+/flower buds
+/flower buds/apex
+/flower buds/apex/width
+/flower buds/midlength
+/flower buds/midlength/width
+/flowers
+/flowers/length
+/flowers/filaments
+/flowers/filaments/length
+/flowers/filaments/relative distance
+/flowers/filaments/anthers
+/flowers/filaments/anthers/dimensions
+/flowers/glands
+/flowers/glands/length
+/flowers/glands/lobes
+/flowers/ovary hairs
+/flowers/ovary hairs/relative distance
+/infructescences
+/infructescences/length
+/infructescences/hairs
+/infructescences/fruit pedicels
+/infructescences/fruit pedicels/dimensions
+/infructescences/fruit pedicels/hairs
+/fruits
+/fruits/dimensions
+/fruits/base
+/fruits/base/constriction
+/fruits/apex
+/fruits/apex/constriction
+/fruits/apex/hairs
+/fruits/apex/hairs/colour
+/fruits/seeds
+/fruits/seeds/dimensions
+/habit
+/leaves
+/indumentum
+/indumentum/hairs
+/indumentum/glands
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts
+/flowers
+/flowers/merosity
+/flowers/hypanthium
+/flowers/hypanthium/prophyllum number
+/flowers/sepals
+/flowers/sepals/sepal number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/stamens
+/flowers/stamens/anthers
+/flowers/stamens/anthers/locule number
+/flowers/nectary disc
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/ovules
+/flowers/ovary/ovules/ovule number
+/flowers/ovary/ovules/position
+/flowers/ovary/style
+/flowers/ovary/style/style number
+/fruits
+/fruits/wing number
+/fruits/texture
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/endosperm
+/fruits/seeds/cotyledons
+/fruits/seeds/cotyledons/cotyledon number
+/habit
+/habit/height
+/habit/hairs
+/leaves
+/leaves/domatia
+/leaves/glands
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts
+/flowers
+/flowers/merosity
+/flowers/lower hypanthium
+/flowers/upper hypanthium
+/flowers/calyx lobes
+/flowers/petals
+/flowers/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/fruits
+/fruits/ridge number
+/fruits/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/peduncle/hairs/colour
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/inflorescences/rachises/hairs/colour
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/relative dimensions
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins and areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/ovary
+/flowers/lower hypanthium/ovary/hairs
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/hairs/colour
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/neck
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/shape/angle number
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/hairs
+/leaves/domatia
+/leaves/domatia/hairs
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/ovary-bearing part
+/flowers/lower hypanthium/ovary-bearing part/hairs
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/domatia/hairs
+/leaves/veins
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/ovary
+/flowers/lower hypanthium/ovary/hairs
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/dimensions
+/fruits/shape
+/fruits/ridges
+/fruits/ridges/ridge number
+/fruits/apex
+/fruits/apex/length
+/fruits/base
+/fruits/base/shape
+/fruits/base/length
+/habit
+/habit/height
+/habit/buttresses
+/habit/buttresses/shape
+/habit/buttresses/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/veins/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/shape
+/flowers/lower hypanthium/shape/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/shape
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/length
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/petiole
+/petiole/length
+/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/habit/plank buttresses
+/habit/plank buttresses/width
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/flower number per inflorescence
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/peduncle/hairs/colour
+/inflorescences/rachises
+/inflorescences/rachises/length
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/relative dimensions
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/apex/shape/apiculus
+/fruits/apex/shape/apiculus/length
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/length
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/hairs/colour
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/peduncle/hairs/colour
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/inflorescences/rachises/hairs/colour
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/shape
+/flowers/lower hypanthium/shape/hairs
+/flowers/lower hypanthium/relative dimensions
+/flowers/lower hypanthium/relative dimensions/ovary-bearing part
+/flowers/lower hypanthium/relative dimensions/ovary-bearing part/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/apex/beak
+/fruits/apex/beak/length
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/shape
+/flowers/lower hypanthium/shape/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/habit
+/habit/height
+/habit/diameter
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/neck
+/flowers/lower hypanthium/neck/hairs
+/flowers/lower hypanthium/neck/relative dimensions
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/wood
+/wood/liana habit
+/wood/liana habit/length
+/wood/shrub habit
+/wood/tree habit
+/wood/tree habit/height
+/wood/hairs
+/leaves
+/leaves/leaf number per whorl
+/leaves/domatia
+/leaves/hair-tufts
+/leaves/hair-tufts/position
+/leaves/glands
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts
+/flowers
+/flowers/merosity
+/flowers/lower hypanthium
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/calyx lobes
+/flowers/calyx lobes/lobe number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/hairs
+/fruits
+/fruits/wing or ridge number
+/wood
+/wood/liana habit
+/wood/liana habit/length
+/wood/liana habit/diameter
+/wood/shrub habit
+/wood/shrub habit/height
+/wood/tree habit
+/wood/tree habit/height
+/wood/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/position
+/inflorescences/length
+/inflorescences/stems
+/inflorescences/stems/rachises
+/inflorescences/stems/hairs
+/inflorescences/bracts
+/inflorescences/bracts/dimensions
+/flowers
+/flowers/merosity
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/pedicel-like region/length
+/flowers/lower hypanthium/shape
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/flowers/upper hypanthium/hairs/glands
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/shape
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/growth form
+/flowers/petals/shape
+/flowers/petals/shape/dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/texture
+/flowers/disk/hairs
+/flowers/disk/free portion
+/flowers/disk/free portion/length
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/flowers/ovules
+/flowers/ovules/ovule number
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/base/pseudostipe
+/fruits/base/pseudostipe/length
+/fruits/base/ridges
+/fruits/base/ridges/ridge number
+/stalked glands
+/stalked glands/length
+/stalked glands/stalks
+/stalked glands/stalks/series
+/stalked glands/stalks/series/length in number of cells
+/stalked glands/head
+/stalked glands/head/shape
+/stalked glands/head/dimensions
+/habit
+/habit/length
+/habit/diameter
+/habit/growth form
+/habit/height
+/habit/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/hairs/colour
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/leaves/petiole/hairs/colour
+/inflorescences
+/inflorescences/length
+/inflorescences/racemes
+/inflorescences/racemes/position
+/inflorescences/racemes/length
+/inflorescences/hairs
+/inflorescences/hairs/colour
+/inflorescences/flowers
+/flowers
+/flowers/merosity
+/flowers/length
+/flowers/hairs
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/angle number
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/pedicel-like region/length
+/flowers/lower hypanthium/pedicel-like region/hairs
+/flowers/lower hypanthium/pedicel-like region/hairs/colour
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/infundibuliform region
+/flowers/upper hypanthium/infundibuliform region/length
+/flowers/upper hypanthium/cupuliform region
+/flowers/upper hypanthium/cupuliform region/length
+/flowers/upper hypanthium/hairs
+/flowers/upper hypanthium/hairs/colour
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/calyx lobes/apex/hairs
+/flowers/calyx lobes/apex/hairs/colour
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/relative dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/disk/margins
+/flowers/disk/margins/length
+/flowers/style
+/flowers/style/length
+/fruits
+/fruits/colour
+/fruits/hairs
+/fruits/hairs/colour
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/base/pseudostipe
+/fruits/base/pseudostipe/length
+/fruits/base/wings
+/fruits/base/wings/wing number
+/fruits/base/wings/width
+/scales
+/scales/diameter
+/scales/marginal cells
+/scales/marginal cells/marginal cell number
+/habit
+/habit/height
+/habit/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/scales
+/leaves/base/scales/colour
+/leaves/veins
+/leaves/veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/panicles
+/inflorescences/panicles/position
+/inflorescences/panicles/length
+/inflorescences/panicles/hairs
+/flowers
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/pseudostipe
+/fruits/section
+/fruits/ridges
+/scales
+/habit
+/habit/length
+/habit/diameter
+/habit/height
+/habit/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/scales
+/leaves/base/colour
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/tertiary veins
+/leaves/veins/higher order veins
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/panicles
+/inflorescences/panicles/position
+/inflorescences/panicles/length
+/inflorescences/panicles/position
+/inflorescences/panicles/hairs
+/inflorescences/flowers
+/flowers
+/flowers/merosity
+/flowers/length
+/flowers/hairs
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/basal claw
+/flowers/petals/apex/basal claw/length
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/disk/margins
+/flowers/disk/margins/length
+/flowers/style
+/flowers/style/length
+/fruits
+/broad-winged fruits
+/broad-winged fruits/hairs
+/broad-winged fruits/dimensions
+/broad-winged fruits/shape
+/broad-winged fruits/apex
+/broad-winged fruits/base
+/broad-winged fruits/base/pseudostipe
+/broad-winged fruits/base/pseudostipe/length
+/broad-winged fruits/base/body
+/broad-winged fruits/base/body/wing number
+/broad-winged fruits/base/body/texture
+/broad-winged fruits/base/body/width
+/narrow-winged fruits
+/narrow-winged fruits/hairs
+/narrow-winged fruits/dimensions
+/narrow-winged fruits/shape
+/narrow-winged fruits/apex
+/narrow-winged fruits/apex/shape
+/narrow-winged fruits/base
+/narrow-winged fruits/base/shape
+/narrow-winged fruits/base/pseudostipe
+/narrow-winged fruits/base/pseudostipe/length
+/narrow-winged fruits/base/body
+/narrow-winged fruits/base/body/wing or ridge number
+/narrow-winged fruits/base/body/texture
+/narrow-winged fruits/base/body/width
+/narrow-winged fruits/base/body/shape
+/scales
+/scales/diameter
+/scales/colour
+/scales/marginal cells
+/scales/marginal cells/marginal cell number
+/wood
+/wood/liana habit
+/wood/liana habit/length
+/wood/shrub habit
+/wood/shrub habit/height
+/wood/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/position
+/inflorescences/length
+/inflorescences/ultimate branches
+/inflorescences/ultimate branches/length
+/inflorescences/ultimate branches/hairs
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/shape
+/flowers/lower hypanthium/pedicel-like upper region
+/flowers/lower hypanthium/pedicel-like upper region/length
+/flowers/lower hypanthium/pedicel-like upper region/pedicel-like lower region
+/flowers/lower hypanthium/pedicel-like upper region/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/shape
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/petals
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/relative dimensions
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/disk/margins
+/flowers/disk/margins/width
+/flowers/style
+/flowers/style/length
+/fruits
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/pseudostipe
+/fruits/pseudostipe/length
+/fruits/pseudostipe/shape
+/fruits/pseudostipe/shape/angle number
+/fruits/pseudostipe/shape/wing number
+/fruits/pseudostipe/ridges
+/fruits/pseudostipe/ridges/width
+/scales
+/scales/diameter
+/scales/colour
+/scales/marginal cells
+/scales/marginal cells/marginal cell number
+/habit
+/habit/length
+/habit/height
+/habit/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/scales
+/leaves/base/scales/colour
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/panicles
+/inflorescences/panicles/position
+/inflorescences/panicles/length
+/inflorescences/panicles/hairs
+/inflorescences/flowers
+/flowers
+/flowers/merosity
+/flowers/length
+/flowers/hairs
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/relative dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/basal claw
+/flowers/petals/apex/basal claw/length
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/disk/margins
+/flowers/disk/margins/length
+/flowers/style
+/flowers/style/length
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/base/texture
+/fruits/base/texture/length
+/fruits/body
+/fruits/body/wings
+/fruits/body/wings/wing or ridge number
+/fruits/body/wings/texture
+/fruits/body/wings/width
+/fruits/body/shape
+/scales
+/wood
+/wood/liana habit
+/wood/liana habit/length
+/wood/liana habit/diameter
+/wood/shrub habit
+/wood/shrub habit/height
+/wood/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/hairs/colour
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/leaves/petiole/hairs/colour
+/inflorescences
+/inflorescences/length
+/inflorescences/racemes
+/inflorescences/racemes/position
+/inflorescences/racemes/length
+/inflorescences/racemes/hairs
+/inflorescences/racemes/hairs/colour
+/inflorescences/flowers
+/flowers
+/flowers/merosity
+/flowers/length
+/flowers/hairs
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/angle number
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/pedicel-like region/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/hairs/colour
+/flowers/upper hypanthium
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/infundibuliform region
+/flowers/upper hypanthium/infundibuliform region/length
+/flowers/upper hypanthium/cupuliform region
+/flowers/upper hypanthium/cupuliform region/length
+/flowers/upper hypanthium/hairs
+/flowers/upper hypanthium/hairs/colour
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/calyx lobes/apex/hairs
+/flowers/calyx lobes/apex/hairs/colour
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/relative dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/base
+/flowers/petals/base/basal claw
+/flowers/petals/base/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/disk/margins
+/flowers/disk/margins/length
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/flowers/ovules
+/flowers/ovules/ovule number
+/fruits
+/fruits/hairs
+/fruits/hairs/colour
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/base/pseudostipe
+/fruits/base/pseudostipe/length
+/fruits/base/wings
+/fruits/base/wings/wing number
+/fruits/base/wings/width
+/scales
+/scales/diameter
+/scales/marginal cells
+/scales/marginal cells/marginal cell number
+/habit
+/habit/liana habit
+/habit/liana habit/length
+/habit/shrub habit
+/habit/shrub habit/height
+/habit/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/hairs/colour
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/leaves/petiole/hairs/colour
+/inflorescences
+/inflorescences/position
+/inflorescences/length
+/inflorescences/racemes
+/inflorescences/racemes/length
+/inflorescences/racemes/hairs
+/inflorescences/racemes/hairs/colour
+/inflorescences/flowers
+/flowers
+/flowers/merosity
+/flowers/shape
+/flowers/length
+/flowers/hairs
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/angle number
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/pedicel-like region/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/hairs/colour
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/shape/dimensions
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/upper hypanthium/hairs/colour
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/calyx lobes/apex/hairs
+/flowers/calyx lobes/apex/hairs/colour
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/relative dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/base
+/flowers/petals/base/basal claw
+/flowers/petals/base/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/disk/margins
+/flowers/disk/margins/length
+/flowers/style
+/flowers/style/length
+/fruits
+/fruits/hairs
+/fruits/hairs/colour
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/base/pseudostipe
+/fruits/base/pseudostipe/length
+/fruits/base/wings
+/fruits/base/wings/wing number
+/fruits/base/wings/width
+/scales
+/scales/diameter
+/scales/marginal cells
+/scales/marginal cells/marginal cell number
+/habit
+/habit/height
+/habit/stems
+/habit/stems/spines
+/habit/stems/spines/length
+/habit/hairs
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/base/glands
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/hairs
+/flowers
+/flowers/merosity
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/pedicel-like region
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/shape
+/flowers/calyx lobes/length
+/flowers/calyx lobes/apex
+/flowers/calyx lobes/apex/shape
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/shape
+/flowers/petals/dimensions
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/disk
+/flowers/disk/texture
+/flowers/disk/hairs
+/flowers/disk/free portion
+/flowers/disk/free portion/length
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/flowers/ovules
+/flowers/ovules/ovule number
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/apex
+/fruits/apex/shape
+/fruits/base
+/fruits/base/shape
+/fruits/base/pseudostipe
+/fruits/base/ridges
+/fruits/base/ridges/ridge number
+/fruits/base/ridges/shape
+/fruits/base/ridges/wings
+/fruits/base/ridges/colour
+/stalked glands
+/stalked glands/length
+/stalked glands/stalks
+/stalked glands/stalks/series
+/stalked glands/stalks/length in number of cells
+/stalked glands/head
+/stalked glands/head/dimensions
+/habit
+/habit/hairs
+/leaves
+/leaves/glands
+/inflorescences
+/inflorescences/position
+/inflorescences/head
+/inflorescences/head/shape
+/inflorescences/bracts
+/flowers
+/flowers/merosity
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/calyx lobes
+/flowers/calyx lobes/lobe number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/style
+/flowers/style/hairs
+/fruits
+/fruits/shape
+/fruits/wing number
+/fruits/upper hypanthium
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/inflorescences
+/inflorescences/position
+/inflorescences/flower-heads
+/inflorescences/flower-heads/shape
+/inflorescences/length
+/inflorescences/plant sexuality
+/inflorescences/peduncle
+/inflorescences/flowers
+/inflorescences/flowers/diameter
+/flowers
+/flowers/length
+/flowers/lower hypanthium
+/flowers/lower hypanthium/dimensions
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/dimensions
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/relative dimensions
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/shape
+/flowers/style/hairs
+/fruits
+/fruits/head
+/fruits/head/shape
+/fruits/head/dimensions
+/fruits/fruits
+/fruits/fruits/hairs
+/fruits/fruits/dimensions
+/fruits/fruits/shape
+/fruits/fruits/wing number
+/fruits/fruits/wings
+/fruits/fruits/wings/width
+/habit
+/habit/hairs
+/leaves
+/leaves/glands
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts
+/flowers
+/flowers/merosity
+/flowers/lower hypanthium
+/flowers/lower hypanthium/bracteoles
+/flowers/lower hypanthium/bracteoles/bracteole number
+/flowers/lower hypanthium/bracteoles/position
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/calyx lobes
+/flowers/calyx lobes/lobe number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/style
+/flowers/style/hairs
+/fruits
+/fruits/bracteoles
+/fruits/bracteoles/prophyllum number
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/glands
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/position
+/inflorescences/axes
+/inflorescences/axes/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/flowers
+/flowers/male flowers
+/flowers/male flowers/dimensions
+/flowers/bisexual and female flowers
+/flowers/bisexual and female flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/shape
+/flowers/lower hypanthium/bisexual and female flowers
+/flowers/lower hypanthium/bisexual and female flowers/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/bracteoles
+/flowers/lower hypanthium/bracteoles/bracteole number
+/flowers/upper hypanthium
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/length/length
+/flowers/upper hypanthium/hairs
+/flowers/petals
+/flowers/petals/shape
+/flowers/petals/length
+/flowers/petals/apex
+/flowers/petals/apex/shape
+/flowers/petals/apex/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/fruits
+/fruits/hairs
+/fruits/dimensions
+/fruits/shape
+/fruits/ridges
+/fruits/wings
+/fruits/wings/wing number
+/fruits/wings/width
+/habit
+/habit/height
+/habit/hairs
+/leaves
+/leaves/glands
+/inflorescences
+/inflorescences/position
+/inflorescences/bracts
+/flowers
+/flowers/merosity
+/flowers/lower hypanthium
+/flowers/upper hypanthium
+/flowers/calyx lobes
+/flowers/calyx lobes/lobe number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/hairs
+/fruits
+/fruits/wing or ridge number
+/habit
+/habit/height
+/habit/plank buttresses
+/habit/plank buttresses/height
+/habit/plank buttresses/relative distance
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/position
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/colour
+/infructescences/fruits/hairs
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex
+/infructescences/fruits/apex/shape
+/infructescences/fruits/base
+/infructescences/fruits/base/shape
+/infructescences/fruits/base/wings
+/infructescences/fruits/base/wings/wing number
+/infructescences/fruits/base/wings/lateral wings
+/infructescences/fruits/base/wings/lateral wings/wing number
+/infructescences/fruits/base/wings/lateral wings/width
+/infructescences/fruits/base/wings/lateral wings/shape
+/infructescences/fruits/base/wings/other wings
+/infructescences/fruits/base/wings/other wings/wing number
+/infructescences/fruits/base/wings/other wings/width
+/infructescences/fruits/base/width
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/tertiary veins
+/leaves/quaternary veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/male flowers
+/flowers/male flowers/dimensions
+/flowers/bisexual flowers
+/flowers/bisexual flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/bisexual flowers
+/flowers/lower hypanthium/bisexual flowers/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/hairs
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex
+/infructescences/fruits/apex/shape
+/infructescences/fruits/base
+/infructescences/fruits/base/shape
+/infructescences/fruits/base/ridges or wings
+/infructescences/fruits/base/ridges or wings/width
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/hairs
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex
+/infructescences/fruits/apex/shape
+/infructescences/fruits/base
+/infructescences/fruits/base/shape
+/infructescences/fruits/base/wings
+/infructescences/fruits/base/wings/wing number
+/infructescences/fruits/base/wings/width
+/infructescences/fruits/base/wings/shape
+/infructescences/fruits/base/wings/shape/thin part of wings
+/infructescences/fruits/base/wings/shape/thin part of wings/width
+/infructescences/fruits/body
+/infructescences/fruits/body/width
+/infructescences/fruits/body/ridges
+/infructescences/fruits/body/ridges/ridge number
+/habit
+/habit/height
+/habit/plank buttresses
+/habit/plank buttresses/height
+/habit/plank buttresses/width
+/habit/plank buttresses/thickness
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/shape
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/hairs
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex
+/infructescences/fruits/apex/shape
+/infructescences/fruits/base
+/infructescences/fruits/base/shape
+/infructescences/fruits/base/wings
+/infructescences/fruits/base/wings/wing number
+/infructescences/fruits/base/wings/width
+/infructescences/fruits/base/wings/shape
+/infructescences/fruits/base/wings/length
+/infructescences/fruits/base/body
+/infructescences/fruits/base/body/width
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/apex/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/lower hypanthium/hairs/colour
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/hairs
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex
+/infructescences/fruits/apex/shape
+/infructescences/fruits/base
+/infructescences/fruits/base/wings
+/infructescences/fruits/base/wings/wing number
+/infructescences/fruits/base/wings/texture
+/infructescences/fruits/base/wings/texture/width
+/infructescences/fruits/base/wings/texture/shape
+/infructescences/fruits/base/wings/texture/narrower wings
+/infructescences/fruits/base/body
+/infructescences/fruits/base/body/width
+/infructescences/fruits/base/body/ridges
+/infructescences/fruits/base/body/groove
+/habit
+/habit/height
+/habit/buttresses
+/habit/buttresses/height
+/habit/buttresses/width
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex
+/infructescences/fruits/base
+/infructescences/fruits/base/shape
+/infructescences/fruits/pseudostipe
+/infructescences/fruits/pseudostipe/length
+/infructescences/fruits/pseudostipe/wings
+/infructescences/fruits/pseudostipe/wings/wing number
+/infructescences/fruits/pseudostipe/wings/texture
+/infructescences/fruits/pseudostipe/wings/width
+/infructescences/fruits/pseudostipe/wings/shape
+/infructescences/fruits/pseudostipe/body
+/infructescences/fruits/pseudostipe/body/width
+/habit
+/habit/height
+/leaves
+/leaves/texture
+/leaves/shape
+/leaves/dimensions
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/hairs
+/leaves/domatia
+/leaves/veins
+/leaves/veins/midveins
+/leaves/veins/secondary veins
+/leaves/veins/secondary veins/secondary vein pair number
+/leaves/veins/intersecondary veins
+/leaves/tertiary veins
+/leaves/higher order veins
+/leaves/areolation
+/leaves/petiole
+/leaves/petiole/length
+/leaves/petiole/hairs
+/inflorescences
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/inflorescences/rachises
+/inflorescences/rachises/length
+/inflorescences/rachises/hairs
+/flowers
+/flowers/merosity
+/flowers/bisexual flowers
+/flowers/bisexual flowers/dimensions
+/flowers/male flowers
+/flowers/male flowers/dimensions
+/flowers/lower hypanthium
+/flowers/lower hypanthium/bisexual flowers
+/flowers/lower hypanthium/bisexual flowers/length
+/flowers/lower hypanthium/male flowers
+/flowers/lower hypanthium/male flowers/length
+/flowers/lower hypanthium/hairs
+/flowers/upper hypanthium
+/flowers/upper hypanthium/shape
+/flowers/upper hypanthium/length
+/flowers/upper hypanthium/hairs
+/flowers/calyx lobes
+/flowers/calyx lobes/growth form
+/flowers/calyx lobes/length
+/flowers/calyx lobes/hairs
+/flowers/stamens
+/flowers/stamens/length
+/flowers/disk
+/flowers/disk/hairs
+/flowers/style
+/flowers/style/length
+/flowers/style/hairs
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/hairs
+/infructescences/fruits/dimensions
+/infructescences/fruits/shape
+/infructescences/fruits/apex and base
+/infructescences/fruits/apex and base/shape
+/infructescences/fruits/wings
+/infructescences/fruits/wings/wing number
+/infructescences/fruits/wings/width
+/infructescences/fruits/wings/shape
+/infructescences/fruits/body
+/infructescences/fruits/body/width
+/habit
+/leaves
+/leaves/stipules
+/inflorescences
+/inflorescences/position
+/flowers
+/flowers/pedicels
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/lobes
+/flowers/petals/lobes
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/fertile stamen number
+/flowers/stamens/anthers
+/flowers/stamens/anthers/locule number
+/flowers/disk
+/flowers/disk/gland number
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/ovules
+/flowers/ovary/ovules/position
+/flowers/ovary/style
+/flowers/ovary/style/style number
+/flowers/ovary/style/growth form
+/flowers/ovary/stigma
+/fruits
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/endocarp
+/fruits/endocarp/locule number
+/fruits/endocarp/seed number
+/fruits/seeds
+/fruits/seeds/position
+/fruits/seeds/embryo
+/fruits/seeds/embryo/growth form
+/corolla
+/corolla/lobe number
+/corolla/fertile stamens
+/corolla/fertile stamens/fertile stamen number
+/corolla/anthers
+/habit
+/leaves
+/inflorescences
+/inflorescences/position
+/flowers
+/flowers/bracts
+/flowers/receptacle
+/flowers/sepals
+/flowers/sepals/sepal number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/lobe number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/disk
+/flowers/disk/gland number
+/flowers/ovary
+/flowers/ovary/shape
+/flowers/ovary/locule number
+/flowers/ovary/ovule number per locule
+/flowers/style
+/flowers/style/style number
+/fruits
+/fruits/locule number
+/fruits/seed number
+/fruits/hairs
+/habit
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/shape
+/stipules/length
+/stipules/hairs
+/stipules/margins
+/stipules/margins/margin type
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/shape/dimensions
+/petiole/blade/texture
+/petiole/blade/hairs
+/petiole/midrib
+/petiole/midrib/hairs
+/petiole/midrib/secondary vein pair number
+/inflorescences
+/inflorescences/growth form
+/inflorescences/position
+/inflorescences/rachises and branches
+/inflorescences/rachises and branches/hairs
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/flowers
+/flowers/pedicels
+/flowers/pedicels/length
+/flowers/bracts and bracteoles
+/flowers/bracts and bracteoles/shape
+/flowers/bracts and bracteoles/length
+/flowers/bracts and bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/hairs
+/flowers/calyx/lobes
+/flowers/petals
+/flowers/petals/lobe number
+/flowers/petals/colour
+/flowers/petals/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/disk
+/flowers/disk/gland number
+/flowers/ovary
+/flowers/style
+/flowers/style/hairs
+/flowers/style/division
+/fruits
+/fruits/shape
+/fruits/locule number
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/endocarp
+/fruits/endocarp/hairs
+/habit
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/shape
+/stipules/length
+/stipules/hairs
+/stipules/margins
+/stipules/margins/margin type
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/shape/dimensions
+/petiole/blade/hairs
+/petiole/midrib
+/petiole/midrib/hairs
+/petiole/midrib/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/length
+/inflorescences/rachises and branches
+/inflorescences/rachises and branches/hairs
+/flowers
+/flowers/pedicels
+/flowers/pedicels/length
+/flowers/bracts and bracteoles
+/flowers/bracts and bracteoles/shape
+/flowers/bracts and bracteoles/length
+/flowers/bracts and bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/hairs
+/flowers/calyx/hairs/colour
+/flowers/calyx/lobes
+/flowers/petals
+/flowers/petals/lobe number
+/flowers/petals/colour
+/flowers/petals/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/disk
+/flowers/disk/gland number
+/flowers/ovary
+/flowers/ovary/style
+/flowers/ovary/style/hairs
+/flowers/ovary/apex
+/fruits
+/fruits/locule number
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/endocarp
+/fruits/endocarp/texture
+/fruits/endocarp/hairs
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/length
+/stipules/shape
+/stipules/hairs
+/stipules/margins
+/stipules/margins/margin type
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/hairs
+/petiole/blade/acumen
+/petiole/blade/acumen/length
+/petiole/blade/acumen/shape
+/petiole/midrib
+/petiole/midrib/hairs
+/petiole/midrib/secondary vein pair number
+/petiole/midrib/anastomosed veins
+/petiole/midrib/anastomosed veins/relative distance
+/inflorescences
+/inflorescences/position
+/inflorescences/flower number per inflorescence
+/inflorescences/length
+/inflorescences/rachises and branches
+/inflorescences/rachises and branches/hairs
+/inflorescences/rachises and branches/hairs/colour
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/flowers
+/flowers/length
+/flowers/pedicels
+/flowers/pedicels/length
+/flowers/bracts and bracteoles
+/flowers/bracts and bracteoles/shape
+/flowers/bracts and bracteoles/length
+/flowers/bracts and bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/colour
+/flowers/calyx/hairs
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/lobes
+/flowers/petals/lobes/lobe number
+/flowers/petals/colour
+/flowers/petals/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/fertile stamens/petal lobes
+/flowers/fertile stamens/petal lobes/lobe number
+/flowers/fertile stamens/filaments
+/flowers/disk
+/flowers/disk/gland number
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/style/apex
+/flowers/ovary/style/apex/shape
+/fruits
+/habit
+/inflorescences
+/flowers
+/flowers/bracts
+/flowers/sepals
+/flowers/sepals/sepal number
+/flowers/petals
+/flowers/petals/petal number
+/flowers/petals/lobes
+/flowers/petals/lobes/larger lobes
+/flowers/petals/lobes/larger lobes/lobe number
+/flowers/petals/lobes/smaller lobes
+/flowers/petals/lobes/smaller lobes/lobe number
+/flowers/petals/lobes/smaller lobes/shape
+/flowers/petals/lobes/bicucullate lobes
+/flowers/petals/lobes/bicucullate lobes/lobe number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/fertile stamen number
+/flowers/stamens/fertile stamen number/staminode number
+/flowers/stamens/filaments
+/flowers/stamens/anthers
+/flowers/disk
+/flowers/disk/segment number
+/flowers/ovary
+/flowers/ovary/shape
+/flowers/ovary/locule number
+/flowers/ovary/ovule number
+/flowers/ovary/style
+/flowers/ovary/style/lobe number
+/fruits
+/fruits/texture
+/fruits/locule number
+/fruits/seed number
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/shape
+/stipules/length
+/stipules/hairs
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/shape/dimensions
+/petiole/blade/acumen
+/petiole/blade/acumen/length
+/petiole/blade/acumen/shape
+/petiole/blade/acumen/hairs
+/petiole/midrib
+/petiole/midrib/hairs
+/petiole/midrib/secondary vein pair number
+/inflorescences
+/flowers
+/flowers/length
+/flowers/bracteoles
+/flowers/bracteoles/length
+/flowers/bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/hairs
+/flowers/calyx/lobes
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/lobes
+/flowers/corolla/lobes/bicucullate lobes
+/flowers/corolla/lobes/bicucullate lobes/lobe number
+/flowers/corolla/lobes/smaller lobes
+/flowers/corolla/lobes/smaller lobes/lobe number
+/flowers/corolla/tube
+/flowers/corolla/tube/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/fertile stamens/staminode number
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/style/segment number
+/flowers/ovary/style/hairs
+/fruits
+/fruits/shape
+/fruits/length
+/fruits/locule number
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/mesocarps/thickness
+/fruits/endocarp
+/fruits/endocarp/hairs
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/shape
+/stipules/length
+/stipules/hairs
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/shape/dimensions
+/petiole/blade/acumen
+/petiole/blade/acumen/length
+/petiole/blade/shape
+/petiole/blade/hairs
+/petiole/midrib
+/petiole/midrib/secondary vein pair number
+/inflorescences
+/flowers
+/flowers/bracteoles
+/flowers/bracteoles/shape
+/flowers/bracteoles/length
+/flowers/bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/hairs
+/flowers/calyx/hairs/colour
+/flowers/calyx/lobes
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/lobes
+/flowers/corolla/lobes/bicucullate lobes
+/flowers/corolla/lobes/bicucullate lobes/lobe number
+/flowers/corolla/lobes/smaller lobes
+/flowers/corolla/lobes/smaller lobes/lobe number
+/flowers/corolla/tube
+/flowers/corolla/tube/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/fertile stamens/filaments
+/flowers/fertile stamens/filaments/hairs
+/flowers/fertile stamens/filaments/staminodes
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/style/segment number
+/fruits
+/fruits/shape
+/fruits/length
+/fruits/locule number
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/endocarp
+/fruits/endocarp/hairs
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/shape
+/stipules/length
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/shape/dimensions
+/petiole/blade/acumen
+/petiole/blade/acumen/length
+/petiole/blade/shape
+/petiole/blade/hairs
+/petiole/midrib
+/petiole/midrib/hairs
+/petiole/midrib/secondary vein pair number
+/inflorescences
+/flowers
+/flowers/bracteoles
+/flowers/bracteoles/length
+/flowers/bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/hairs
+/flowers/calyx/lobes
+/flowers/corolla
+/flowers/corolla/colour
+/flowers/corolla/lobes
+/flowers/corolla/lobes/bicucullate lobes
+/flowers/corolla/lobes/bicucullate lobes/lobe number
+/flowers/corolla/lobes/smaller lobes
+/flowers/corolla/lobes/smaller lobes/lobe number
+/flowers/corolla/tube
+/flowers/corolla/tube/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/fertile stamens/filaments
+/flowers/fertile stamens/filaments/hairs
+/flowers/fertile stamens/filaments/staminode number
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/style/segment number
+/flowers/ovary/style/hairs
+/fruits
+/fruits/shape
+/fruits/locule number
+/fruits/locule number
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/endocarp
+/fruits/endocarp/hairs
+/habit
+/habit/height
+/habit/juvenile branches
+/habit/juvenile branches/hairs
+/stipules
+/stipules/shape
+/stipules/length
+/petiole
+/petiole/length
+/petiole/hairs
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/shape/dimensions
+/petiole/blade/acumen
+/petiole/blade/acumen/length
+/petiole/blade/shape
+/petiole/blade/hairs
+/petiole/midrib
+/petiole/midrib/hairs
+/petiole/midrib/secondary vein pair number
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/hairs
+/flowers
+/flowers/pedicels
+/flowers/pedicels/length
+/flowers/bracteoles
+/flowers/bracteoles/length
+/flowers/bracteoles/shape
+/flowers/bracteoles/hairs
+/flowers/calyx
+/flowers/calyx/length
+/flowers/calyx/hairs
+/flowers/calyx/lobes
+/flowers/corolla
+/flowers/corolla/tube
+/flowers/corolla/tube/hairs
+/flowers/fertile stamens
+/flowers/fertile stamens/stamen number
+/flowers/fertile stamens/staminode number
+/flowers/ovary
+/flowers/ovary/locule number
+/flowers/ovary/hairs
+/flowers/ovary/style
+/flowers/ovary/style/segment number
+/flowers/ovary/style/hairs
+/fruits
+/fruits/shape
+/fruits/length
+/fruits/locule number
+/fruits/epicarp
+/fruits/epicarp/hairs
+/fruits/mesocarps
+/fruits/endocarp
+/fruits/endocarp/texture
+/fruits/endocarp/hairs
+/habit
+/habit/hairs
+/roots
+/stems
+/stems/texture
+/stems/growth form
+/stems/internodes
+/leaves
+/leaves/petiole
+/leaves/petiole/shape
+/leaves/petiole/relative dimensions
+/leaves/petiole/sheaths
+/leaves/blade
+/leaves/blade/margins
+/leaves/blade/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/bracts
+/inflorescences/bracts/texture
+/flowers
+/flowers/perianth
+/flowers/perianth/segment number
+/flowers/perianth/series
+/flowers/perianth/sepals
+/flowers/perianth/sepals/sepal number
+/flowers/perianth/sepals/growth form
+/flowers/perianth/petals
+/flowers/perianth/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/stamens/anthers/locule number
+/flowers/pollen
+/flowers/pollen/pollen aperture number
+/flowers/pollen/shape
+/flowers/gynoecium
+/flowers/gynoecium/carpel number
+/flowers/gynoecium/locule number
+/flowers/gynoecium/style
+/flowers/gynoecium/stigma
+/flowers/gynoecium/stigma/shape
+/fruits
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/hairs
+/fruits/endosperm
+/habit
+/stems
+/stems/growth form
+/stems/stolons
+/leaves
+/leaves/petiole
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/blade/apex
+/leaves/blade/apex/shape
+/leaves/blade/base
+/leaves/blade/base/shape
+/inflorescences
+/inflorescences/peduncle
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/flowers
+/flowers/pedicels
+/flowers/pedicels/shape
+/flowers/sepals
+/flowers/sepals/colour
+/flowers/sepals/texture
+/flowers/sepals/growth form
+/flowers/sepals/shape
+/flowers/sepals/apex
+/flowers/petals
+/flowers/petals/colour
+/flowers/petals/shape
+/flowers/petals/growth form
+/flowers/petals/relative dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/series
+/flowers/stamens/filaments
+/flowers/stamens/filaments/shape
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/flowers/carpels/shape
+/flowers/style
+/fruits
+/fruits/shape
+/fruits/texture
+/fruits/seeds
+/fruits/seeds/seed number
+/fruits/seeds/hairs
+/habit
+/habit/height
+/habit/stolons
+/habit/stolons/length
+/petiole
+/petiole/length
+/petiole/width
+/petiole/sheathing base
+/petiole/sheathing base/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/apex/shape
+/petiole/blade/base
+/petiole/blade/base/shape
+/petiole/blade/primary veins
+/petiole/blade/primary veins/primary vein number
+/inflorescences
+/inflorescences/flower number per inflorescence
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/peduncle/diameter
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/length
+/inflorescences/pedicels/diameter
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/dimensions
+/flowers/sepals/apex
+/flowers/sepals/apex/shape
+/flowers/petals
+/flowers/petals/colour
+/flowers/petals/growth form
+/flowers/petals/relative dimensions
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/series
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/dimensions
+/flowers/stamens/staminodes
+/flowers/stamens/staminodes/staminode number
+/flowers/carpels
+/flowers/carpels/carpel number
+/flowers/carpels/length
+/fruits
+/fruits/dimensions
+/fruits/beak
+/fruits/beak/length
+/fruits/seeds
+/fruits/seeds/length
+/fruits/seeds/hairs
+/fruits/seeds/hairs/length
+/fruits/seeds/hairs/relative distance
+/habit
+/habit/hairs
+/roots
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/shape
+/leaves/petiole/relative dimensions
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/margins
+/leaves/blade/margins/margin type
+/leaves/blade/apex
+/leaves/blade/apex/shape
+/leaves/blade/base
+/leaves/blade/base/shape
+/leaves/blade/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/flowers
+/flowers/perianth
+/flowers/perianth/free segment number
+/flowers/perianth/series
+/flowers/perianth/sepals
+/flowers/perianth/sepals/sepal number
+/flowers/perianth/sepals/colour
+/flowers/perianth/sepals/growth form
+/flowers/perianth/petals
+/flowers/perianth/petals/petal number
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/anthers
+/flowers/stamens/anthers/locule number
+/flowers/pollen
+/flowers/pollen/aperture number
+/flowers/pollen/shape
+/flowers/gynoecium
+/flowers/gynoecium/carpel number
+/flowers/gynoecium/locule number
+/flowers/gynoecium/ovule number per locule
+/flowers/gynoecium/style
+/flowers/gynoecium/style/position
+/flowers/gynoecium/stigma
+/flowers/gynoecium/stigma/shape
+/akenes
+/akenes/seeds
+/akenes/seeds/seed number
+/akenes/endosperm
+/habit
+/roots
+/stems
+/leaves
+/leaves/emerged leaves
+/leaves/emerged leaves/petiole
+/leaves/emerged leaves/petiole/shape
+/leaves/submerged leaves
+/leaves/submerged leaves/blade
+/leaves/submerged leaves/blade/shape
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/flowers
+/flowers/sepals
+/flowers/sepals/texture
+/flowers/sepals/growth form
+/flowers/petals
+/flowers/petals/colour
+/flowers/petals/relative dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/hairs
+/flowers/stamens/anthers
+/flowers/gynoecium
+/flowers/gynoecium/carpel number
+/flowers/gynoecium/ovule number per carpel
+/flowers/style
+/flowers/style/position
+/akenes
+/akenes/beak
+/akenes/beak/position
+/akenes/beak/growth form
+/habit
+/habit/height
+/habit/hairs
+/habit/rhizome
+/habit/stolons
+/leaves
+/leaves/emerged leaves
+/leaves/emerged leaves/colour
+/leaves/emerged leaves/petiole
+/leaves/emerged leaves/petiole/dimensions
+/leaves/emerged leaves/basal sheaths
+/leaves/emerged leaves/basal sheaths/length
+/leaves/emerged leaves/blade
+/leaves/emerged leaves/blade/shape
+/leaves/emerged leaves/blade/dimensions
+/leaves/emerged leaves/margins
+/leaves/emerged leaves/margins/margin type
+/leaves/emerged leaves/apex
+/leaves/emerged leaves/apex/shape
+/leaves/emerged leaves/base
+/leaves/emerged leaves/base/shape
+/leaves/emerged leaves/basal lobes
+/leaves/emerged leaves/veins
+/leaves/emerged leaves/veins/vein number
+/leaves/emerged leaves/pellucid markings
+/leaves/submerged leaves
+/leaves/submerged leaves/colour
+/leaves/submerged leaves/petiole
+/leaves/submerged leaves/petiole/dimensions
+/leaves/submerged leaves/blade
+/leaves/submerged leaves/blade/shape
+/leaves/submerged leaves/blade/dimensions
+/leaves/submerged leaves/margins
+/leaves/submerged leaves/margins/margin type
+/leaves/submerged leaves/apex
+/leaves/submerged leaves/apex/shape
+/leaves/submerged leaves/base
+/leaves/submerged leaves/base/shape
+/leaves/submerged leaves/veins
+/leaves/submerged leaves/veins/vein number
+/leaves/submerged leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/ridge number
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/sepals/margins
+/flowers/sepals/margins/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/petals/claws
+/flowers/petals/claws/length
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/rib number
+/fruits/beak
+/fruits/beak/position
+/fruits/growth form
+/fruits/length
+/habit
+/habit/hairs
+/habit/height
+/habit/rhizome
+/habit/rhizome/growth form
+/habit/rhizome/length
+/habit/stolons
+/leaves
+/leaves/emerged leaves
+/leaves/emerged leaves/colour
+/leaves/emerged leaves/petiole
+/leaves/emerged leaves/petiole/dimensions
+/leaves/emerged leaves/basal sheaths
+/leaves/emerged leaves/basal sheaths/length
+/leaves/emerged leaves/blade
+/leaves/emerged leaves/blade/shape
+/leaves/emerged leaves/blade/dimensions
+/leaves/emerged leaves/margins
+/leaves/emerged leaves/margins/margin type
+/leaves/emerged leaves/apex
+/leaves/emerged leaves/apex/shape
+/leaves/emerged leaves/base
+/leaves/emerged leaves/base/shape
+/leaves/emerged leaves/basal lobes
+/leaves/emerged leaves/veins
+/leaves/emerged leaves/veins/vein number
+/leaves/emerged leaves/pellucid markings
+/leaves/submerged leaves
+/leaves/submerged leaves/colour
+/leaves/submerged leaves/petiole
+/leaves/submerged leaves/petiole/shape
+/leaves/submerged leaves/petiole/dimensions
+/leaves/submerged leaves/basal sheaths
+/leaves/submerged leaves/basal sheaths/length
+/leaves/submerged leaves/blade
+/leaves/submerged leaves/blade/shape
+/leaves/submerged leaves/blade/dimensions
+/leaves/submerged leaves/apex
+/leaves/submerged leaves/apex/shape
+/leaves/submerged leaves/base
+/leaves/submerged leaves/base/shape
+/leaves/submerged leaves/margins
+/leaves/submerged leaves/margins/margin type
+/leaves/submerged leaves/veins
+/leaves/submerged leaves/veins/vein number
+/leaves/submerged leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/texture
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/length
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/dimensions
+/fruits/rib number
+/fruits/gland number
+/fruits/position
+/fruits/growth form
+/fruits/length
+/habit
+/habit/height
+/habit/hairs
+/habit/rhizome
+/habit/rhizome/growth form
+/habit/stolons
+/leaves
+/leaves/colour
+/leaves/petiole
+/leaves/petiole/relative dimensions
+/leaves/petiole/dimensions
+/leaves/basal sheaths
+/leaves/basal sheaths/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/margins
+/leaves/margins/margin type
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/lobes
+/leaves/lobes/shape
+/leaves/veins
+/leaves/veins/vein number
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/apex
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/fruits
+/fruits/dimensions
+/fruits/rib number
+/fruits/glands
+/fruits/glands/gland number
+/fruits/glands/upper half of fruit
+/fruits/glands/upper half of fruit/gland number
+/fruits/glands/lower half of fruit
+/fruits/glands/lower half of fruit/gland number
+/fruits/beak
+/fruits/beak/position
+/fruits/beak/growth form
+/fruits/beak/length
+/habit
+/habit/height
+/habit/hairs
+/habit/rhizome
+/habit/stolons
+/leaves
+/leaves/colour
+/leaves/petiole
+/leaves/petiole/hairs
+/leaves/petiole/texture
+/leaves/petiole/dimensions
+/leaves/basal sheaths
+/leaves/basal sheaths/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/margins
+/leaves/margins/margin type
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/basal lobes
+/leaves/veins
+/leaves/veins/vein number
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/rachises/shape
+/inflorescences/rachises/hairs
+/inflorescences/rachises/texture
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/shape
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/rib number
+/fruits/keel number
+/fruits/glands
+/fruits/glands/gland number
+/fruits/glands/shape
+/fruits/beak
+/fruits/beak/position
+/fruits/growth form
+/fruits/length
+/habit
+/habit/height
+/habit/hairs
+/habit/rhizome
+/habit/stolons
+/leaves
+/leaves/colour
+/leaves/petiole
+/leaves/petiole/hairs
+/leaves/petiole/texture
+/leaves/petiole/dimensions
+/leaves/basal sheaths
+/leaves/basal sheaths/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/margins
+/leaves/margins/margin type
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/basal lobes
+/leaves/veins
+/leaves/veins/vein number
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/rachises/shape
+/inflorescences/rachises/hairs
+/inflorescences/rachises/texture
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/apex
+/inflorescences/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/shape
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/rib number
+/fruits/shape
+/fruits/position
+/fruits/growth form
+/fruits/length
+/habit
+/habit/hairs
+/habit/height
+/habit/rhizome
+/habit/rhizome/dimensions
+/habit/stolons
+/leaves
+/leaves/colour
+/leaves/petiole
+/leaves/petiole/shape
+/leaves/petiole/dimensions
+/leaves/basal sheaths
+/leaves/basal sheaths/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/margins
+/leaves/margins/margin type
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/basal lobes
+/leaves/veins
+/leaves/veins/vein number
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/shape
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/rachises/shape
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/apex
+/inflorescences/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/rib number
+/fruits/keel number
+/fruits/beak
+/fruits/beak/position
+/fruits/beak/growth form
+/fruits/beak/length
+/habit
+/habit/hairs
+/habit/height
+/habit/rhizome
+/habit/stolons
+/leaves
+/leaves/colour
+/leaves/petiole
+/leaves/petiole/dimensions
+/leaves/basal sheaths
+/leaves/basal sheaths/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/margins
+/leaves/margins/margin type
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/basal lobes
+/leaves/veins
+/leaves/veins/vein number
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/shape
+/inflorescences/peduncle/width
+/inflorescences/rachises
+/inflorescences/rachises/shape
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/apex
+/inflorescences/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/growth form
+/flowers/petals/dimensions
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/dimensions
+/fruits/rib number
+/fruits/keel number
+/fruits/beak
+/fruits/beak/position
+/fruits/beak/length
+/habit
+/habit/hairs
+/habit/height
+/habit/rhizome
+/habit/rhizome/dimensions
+/habit/stolons
+/leaves
+/leaves/colour
+/leaves/petiole
+/leaves/petiole/dimensions
+/leaves/basal sheaths
+/leaves/basal sheaths/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/margins
+/leaves/margins/margin type
+/leaves/apex
+/leaves/apex/shape
+/leaves/base
+/leaves/base/shape
+/leaves/basal lobes
+/leaves/veins
+/leaves/veins/vein number
+/leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/flower number/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/rachises/shape
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/apex
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/growth form
+/flowers/sepals/dimensions
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/petals/claws
+/flowers/petals/claws/length
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/rib number
+/fruits/keel
+/fruits/glands
+/fruits/glands/gland number
+/fruits/glands/shape
+/fruits/glands/position
+/fruits/glands/growth form
+/fruits/glands/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/vein number
+/petiole/pellucid markings
+/inflorescences
+/fruits
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/vein number
+/petiole/pellucid markings
+/inflorescences
+/fruits
+/habit
+/habit/hairs
+/habit/height
+/habit/rhizome
+/habit/stolons
+/leaves
+/leaves/emerged leaves
+/leaves/emerged leaves/colour
+/leaves/emerged leaves/petiole
+/leaves/emerged leaves/petiole/dimensions
+/leaves/emerged leaves/basal sheaths
+/leaves/emerged leaves/basal sheaths/length
+/leaves/emerged leaves/blade
+/leaves/emerged leaves/blade/shape
+/leaves/emerged leaves/blade/dimensions
+/leaves/emerged leaves/margins
+/leaves/emerged leaves/margins/margin type
+/leaves/emerged leaves/apex
+/leaves/emerged leaves/apex/shape
+/leaves/emerged leaves/base
+/leaves/emerged leaves/basal lobes
+/leaves/emerged leaves/veins
+/leaves/emerged leaves/veins/vein number
+/leaves/emerged leaves/pellucid markings
+/leaves/submerged leaves
+/leaves/submerged leaves/colour
+/leaves/submerged leaves/shape
+/leaves/submerged leaves/dimensions
+/leaves/submerged leaves/margins
+/leaves/submerged leaves/margins/margin type
+/leaves/submerged leaves/apex
+/leaves/submerged leaves/apex/shape
+/leaves/submerged leaves/base
+/leaves/submerged leaves/veins
+/leaves/submerged leaves/veins/vein number
+/leaves/submerged leaves/pellucid markings
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/rachises
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/bracts/dimensions
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/pedicels/dimensions
+/flowers
+/flowers/width
+/flowers/sepals
+/flowers/sepals/length
+/flowers/sepals/vein number
+/flowers/petals
+/flowers/petals/dimensions
+/flowers/petals/claws
+/flowers/petals/claws/length
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/length
+/flowers/stamens/anthers
+/flowers/stamens/anthers/length
+/flowers/stamens/apex
+/flowers/stamens/apex/shape
+/flowers/carpels
+/flowers/carpels/carpel number
+/fruits
+/fruits/shape
+/fruits/dimensions
+/fruits/rib number
+/fruits/beak
+/fruits/beak/position
+/fruits/beak/growth form
+/fruits/beak/length
+/plant sexuality
+/plant sexuality/hairs
+/roots
+/stems
+/stems/rhizome
+/stems/rhizome/tuber
+/stems/rhizome/tuber/colour
+/leaves
+/leaves/petiole
+/leaves/petiole/shape
+/inflorescences
+/inflorescences/growth form
+/inflorescences/whorl number
+/inflorescences/bracts
+/inflorescences/bracts/shape
+/inflorescences/pedicels
+/inflorescences/pedicels/growth form
+/inflorescences/carpellate flowers
+/flowers
+/flowers/sepals
+/flowers/sepals/texture
+/flowers/petals
+/flowers/petals/colour
+/flowers/stamens
+/flowers/stamens/stamen number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/shape
+/flowers/stamens/filaments/hairs
+/flowers/stamens/anthers
+/flowers/stamens/anthers/shape
+/flowers/gynoecium
+/flowers/gynoecium/carpels
+/flowers/gynoecium/carpels/ovule number
+/flowers/style
+/flowers/style/position
+/akenes
+/habit
+/habit/height
+/habit/hairs
+/habit/corms
+/habit/corms/dimensions
+/leaves
+/leaves/submerged leaves
+/leaves/submerged leaves/colour
+/leaves/submerged leaves/dimensions
+/leaves/submerged leaves/apex
+/leaves/submerged leaves/apex/shape
+/leaves/submerged leaves/basal lobes
+/leaves/submerged leaves/veins
+/leaves/submerged leaves/veins/vein number
+/leaves/floating leaves
+/leaves/floating leaves/shape
+/leaves/floating leaves/dimensions
+/leaves/floating leaves/basal sheaths
+/leaves/floating leaves/basal sheaths/length
+/leaves/floating leaves/blade
+/leaves/floating leaves/blade/colour
+/leaves/floating leaves/blade/shape
+/leaves/floating leaves/blade/dimensions
+/leaves/floating leaves/apex
+/leaves/floating leaves/apex/shape
+/leaves/floating leaves/base
+/leaves/floating leaves/base/shape
+/leaves/floating leaves/basal lobes
+/leaves/floating leaves/basal lobes/relative dimensions
+/leaves/floating leaves/veins
+/leaves/floating leaves/veins/vein number
+/inflorescences
+/inflorescences/dimensions
+/inflorescences/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/staminate bracts
+/inflorescences/staminate bracts/shape
+/inflorescences/staminate bracts/length
+/inflorescences/staminate bracts/apex
+/inflorescences/staminate bracts/apex/shape
+/inflorescences/carpellate bracts
+/inflorescences/carpellate bracts/shape
+/inflorescences/carpellate bracts/length
+/inflorescences/carpellate bracts/apex
+/inflorescences/carpellate bracts/apex/shape
+/inflorescences/staminate pedicels
+/inflorescences/staminate pedicels/growth form
+/inflorescences/staminate pedicels/hairs
+/inflorescences/staminate pedicels/shape
+/inflorescences/staminate pedicels/dimensions
+/inflorescences/carpellate pedicels
+/inflorescences/carpellate pedicels/growth form
+/inflorescences/carpellate pedicels/hairs
+/inflorescences/carpellate pedicels/shape
+/inflorescences/carpellate pedicels/dimensions
+/staminate flowers
+/staminate flowers/sepals
+/staminate flowers/sepals/growth form
+/staminate flowers/sepals/dimensions
+/staminate flowers/sepals/petals
+/staminate flowers/sepals/petals/dimensions
+/staminate flowers/sepals/stamens
+/staminate flowers/sepals/stamens/stamen number
+/staminate flowers/sepals/filaments
+/staminate flowers/sepals/filaments/hairs
+/staminate flowers/sepals/filaments/shape
+/staminate flowers/sepals/filaments/dimensions
+/staminate flowers/sepals/anthers
+/staminate flowers/sepals/anthers/shape
+/staminate flowers/sepals/anthers/dimensions
+/staminate flowers/sepals/apex
+/staminate flowers/sepals/apex/shape
+/carpellate flowers
+/carpellate flowers/sepals
+/carpellate flowers/sepals/growth form
+/carpellate flowers/sepals/dimensions
+/carpellate flowers/sepals/petals
+/carpellate flowers/sepals/petals/dimensions
+/fruits
+/fruits/diameter
+/fruits/akenes
+/fruits/akenes/shape
+/fruits/akenes/dimensions
+/fruits/akenes/wings
+/fruits/akenes/wings/wing number
+/fruits/akenes/wings/position
+/fruits/akenes/margins
+/fruits/akenes/margins/margin type
+/fruits/akenes/margins/beak
+/fruits/akenes/margins/beak/position
+/fruits/akenes/margins/growth form
+/fruits/akenes/margins/length
+/habit
+/habit/height
+/habit/hairs
+/habit/rhizome
+/habit/rhizome/dimensions
+/leaves
+/leaves/petiole
+/leaves/petiole/shape
+/leaves/petiole/dimensions
+/leaves/petiole/basal sheaths
+/leaves/petiole/basal sheaths/length
+/leaves/petiole/blade
+/leaves/petiole/blade/colour
+/leaves/petiole/blade/shape
+/leaves/petiole/blade/dimensions
+/leaves/petiole/apex
+/leaves/petiole/apex/shape
+/leaves/petiole/basal lobes
+/leaves/petiole/veins
+/leaves/petiole/veins/vein number
+/inflorescences
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/shape
+/inflorescences/peduncle/dimensions
+/inflorescences/bracts
+/inflorescences/bracts/staminate bracts
+/inflorescences/bracts/staminate bracts/shape
+/inflorescences/bracts/staminate bracts/length
+/inflorescences/bracts/staminate bracts/apex
+/inflorescences/bracts/staminate bracts/apex/shape
+/inflorescences/bracts/carpellate bracts
+/inflorescences/bracts/length
+/inflorescences/bracts/apex
+/inflorescences/bracts/apex/shape
+/inflorescences/staminate pedicels
+/inflorescences/staminate pedicels/growth form
+/inflorescences/staminate pedicels/shape
+/inflorescences/staminate pedicels/dimensions
+/inflorescences/carpellate pedicels
+/inflorescences/carpellate pedicels/growth form
+/inflorescences/carpellate pedicels/dimensions
+/staminate flowers
+/staminate flowers/sepals
+/staminate flowers/sepals/growth form
+/staminate flowers/sepals/dimensions
+/staminate flowers/sepals/petals
+/staminate flowers/sepals/petals/dimensions
+/staminate flowers/sepals/petals/claws
+/staminate flowers/sepals/petals/claws/length
+/staminate flowers/sepals/stamens
+/staminate flowers/sepals/stamens/stamen number
+/staminate flowers/sepals/filaments
+/staminate flowers/sepals/filaments/hairs
+/staminate flowers/sepals/filaments/shape
+/staminate flowers/sepals/filaments/dimensions
+/staminate flowers/sepals/anthers
+/staminate flowers/sepals/anthers/shape
+/staminate flowers/sepals/anthers/dimensions
+/staminate flowers/sepals/apex
+/staminate flowers/sepals/apex/shape
+/carpellate flowers
+/carpellate flowers/sepals
+/carpellate flowers/sepals/growth form
+/carpellate flowers/sepals/dimensions
+/carpellate flowers/sepals/dimensions
+/carpellate flowers/sepals/length
+/fruits
+/fruits/diameter
+/fruits/akenes
+/fruits/akenes/shape
+/fruits/akenes/dimensions
+/fruits/akenes/gland number
+/fruits/akenes/beak
+/fruits/akenes/beak/position
+/fruits/akenes/growth form
+/fruits/akenes/length
+/habit
+/habit/height
+/habit/hairs
+/habit/rhizome
+/habit/rhizome/width
+/habit/corms
+/habit/corms/dimensions
+/leaves
+/leaves/submerged leaves
+/leaves/submerged leaves/colour
+/leaves/submerged leaves/shape
+/leaves/submerged leaves/dimensions
+/leaves/submerged leaves/apex
+/leaves/submerged leaves/apex/shape
+/leaves/submerged leaves/basal lobes
+/leaves/submerged leaves/veins
+/leaves/submerged leaves/veins/vein number
+/leaves/emerged leaves
+/leaves/emerged leaves/petiole
+/leaves/emerged leaves/petiole/shape
+/leaves/emerged leaves/dimensions
+/leaves/emerged leaves/basal sheaths
+/leaves/emerged leaves/basal sheaths/length
+/leaves/emerged leaves/blade
+/leaves/emerged leaves/blade/colour
+/leaves/emerged leaves/blade/shape
+/leaves/emerged leaves/blade/dimensions
+/leaves/emerged leaves/apex
+/leaves/emerged leaves/apex/shape
+/leaves/emerged leaves/basal lobes
+/leaves/emerged leaves/base
+/leaves/emerged leaves/base/shape
+/leaves/emerged leaves/veins
+/leaves/emerged leaves/veins/vein number
+/inflorescences
+/inflorescences/whorl number
+/inflorescences/dimensions
+/inflorescences/flower number per whorl
+/inflorescences/peduncle
+/inflorescences/peduncle/dimensions
+/inflorescences/staminate bracts
+/inflorescences/staminate bracts/shape
+/inflorescences/staminate bracts/length
+/inflorescences/staminate bracts/apex
+/inflorescences/staminate bracts/apex/shape
+/inflorescences/carpellate bracts
+/inflorescences/carpellate bracts/shape
+/inflorescences/carpellate bracts/length
+/inflorescences/carpellate bracts/apex
+/inflorescences/carpellate bracts/apex/shape
+/inflorescences/staminate pedicels
+/inflorescences/staminate pedicels/growth form
+/inflorescences/staminate pedicels/shape
+/inflorescences/staminate pedicels/dimensions
+/inflorescences/carpellate pedicels
+/inflorescences/carpellate pedicels/growth form
+/inflorescences/carpellate pedicels/shape
+/inflorescences/carpellate pedicels/dimensions
+/staminate flowers
+/staminate flowers/sepals
+/staminate flowers/sepals/growth form
+/staminate flowers/sepals/dimensions
+/staminate flowers/sepals/petals
+/staminate flowers/sepals/petals/dimensions
+/staminate flowers/sepals/petals/claws
+/staminate flowers/sepals/petals/claws/length
+/staminate flowers/sepals/stamens
+/staminate flowers/sepals/stamens/stamen number
+/staminate flowers/sepals/filaments
+/staminate flowers/sepals/filaments/hairs
+/staminate flowers/sepals/filaments/dimensions
+/staminate flowers/sepals/anthers
+/staminate flowers/sepals/anthers/shape
+/staminate flowers/sepals/anthers/dimensions
+/staminate flowers/sepals/apex
+/staminate flowers/sepals/apex/shape
+/staminate flowers/sepals/sterile carpels
+/carpellate flowers
+/carpellate flowers/sepals
+/carpellate flowers/sepals/dimensions
+/carpellate flowers/sepals/petals
+/carpellate flowers/sepals/petals/colour
+/carpellate flowers/sepals/petals/dimensions
+/carpellate flowers/sepals/petals/claws
+/carpellate flowers/sepals/petals/claws/length
+/fruits
+/fruits/diameter
+/fruits/akenes
+/fruits/akenes/shape
+/fruits/akenes/dimensions
+/fruits/akenes/beak
+/fruits/akenes/beak/position
+/fruits/akenes/beak/length

@@ -1,5 +1,10 @@
 output = open("matrix.tsv", "w")
 
+def is_ascii(string):
+
+    return all(ord(char) < 128 for char in string)
+
+
 # This function prints a matrix in tsv format, when giving the matrix as argument.
 def printToTsv(table):
 
@@ -7,10 +12,12 @@ def printToTsv(table):
 		line = ""	
 
 		for j in range(len(table[0])):
-			#table[i][j] = table[i][j].encode("UTF-8")
+
+			table[i][j] = table[i][j].encode("UTF-8")
+			print table[i][j]
 			table[i][j] = str(table[i][j]).replace("\t", " ") 
 			line = line + table[i][j] + "\t"
-
+		
 		line = line.replace("\n", "") 
 
 		output.write(line)

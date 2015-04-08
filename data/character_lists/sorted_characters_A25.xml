@@ -1,0 +1,645 @@
+/anthers
+/anthers/locule number
+/branches
+/branches/internodes
+/branches/internodes/length
+/branches/length
+/chromosomes
+/epicortical roots
+/epicortical roots/stems
+/epicortical roots/stems/epidermis colour
+/epicortical roots/stems/width
+/female flowers
+/female flowers/calyculus
+/female flowers/length
+/female flowers/merosity
+/female flowers/petals
+/female flowers/petals/length
+/female flowers/sterile anthers
+/female flowers/style
+/female flowers/style/length
+/female flowers/style/stigma
+/female inflorescences
+/female inflorescences/bracts and bracteoles
+/female inflorescences/dimensions
+/female inflorescences/female inflorescences
+/female inflorescences/fertile internodes
+/female inflorescences/fertile internodes/fertile internode number
+/female inflorescences/flower arrangement
+/female inflorescences/flower arrangement/triad pair number
+/female inflorescences/flowers
+/female inflorescences/flowers/additional flower number
+/female inflorescences/flowers/flower number
+/female inflorescences/flowers/flower number per bract
+/female inflorescences/flowers/flower number per internode
+/female inflorescences/flowers/length
+/female inflorescences/flowers/position
+/female inflorescences/flowers/series
+/female inflorescences/inflorescence apex
+/female inflorescences/internodes
+/female inflorescences/internodes/fertile internodes
+/female inflorescences/internodes/fertile internodes/fertile internode number
+/female inflorescences/internodes/sterile internode number
+/female inflorescences/length
+/female inflorescences/peduncle
+/female inflorescences/peduncle/fertile internode number
+/female inflorescences/peduncle/length
+/female inflorescences/position
+/female inflorescences/sterile internodes
+/female inflorescences/sterile internodes/fertile internodes
+/female inflorescences/sterile internodes/fertile internodes/fertile internode number
+/female inflorescences/sterile internodes/sterile internode number
+/female inflorescences/style
+/female inflorescences/style/stigma
+/flower buds
+/flower buds/apex
+/flower buds/base
+/flower buds/base/length
+/flower buds/base/tip length
+/flower buds/base/width
+/flower buds/bud thickness
+/flower buds/colour
+/flower buds/colour/colour
+/flower buds/dimensions
+/flower buds/filaments
+/flower buds/filaments/anthers
+/flower buds/filaments/anthers/dimensions
+/flower buds/filaments/anthers/length
+/flower buds/filaments/anthers/shape
+/flower buds/filaments/hairs
+/flower buds/filaments/length
+/flower buds/filaments/relative distance
+/flower buds/length
+/flower buds/ovary
+/flower buds/ovary dimensions
+/flower buds/ovary/length
+/flower buds/ovary/relative distance
+/flower buds/ovary/thickness
+/flower buds/petal interior
+/flower buds/petals
+/flower buds/petals/anthers
+/flower buds/petals/anthers/length
+/flower buds/petals/colour
+/flower buds/petals/filaments
+/flower buds/petals/filaments/length
+/flower buds/petals/filaments/relative distance
+/flower buds/petals/growth form
+/flower buds/petals/length
+/flower buds/petals/ligula length
+/flower buds/petals/ligula position
+/flower buds/petals/petal shape
+/flower buds/petals/petal shape/relative distance
+/flower buds/petals/texture
+/flower buds/petals/tube base
+/flower buds/petals/tube base/dimensions
+/flower buds/petals/tube base/length
+/flower buds/petals/tube base/ligula colour
+/flower buds/petals/tube base/tip width
+/flower buds/petal tip length
+/flower buds/stamens
+/flower buds/stamens/anthers
+/flower buds/stamens/anthers/colour
+/flower buds/stamens/anthers/connectival horn length
+/flower buds/stamens/anthers/dimensions
+/flower buds/stamens/anthers/growth form
+/flower buds/stamens/anthers/hair colour
+/flower buds/stamens/anthers/length
+/flower buds/stamens/anthers/series
+/flower buds/stamens/anthers/texture
+/flower buds/stamens/colour
+/flower buds/stamens/filaments
+/flower buds/stamens/filaments/length
+/flower buds/stamens/filaments/relative distance
+/flower buds/stamens/length
+/flower buds/stamens/pollen
+/flower buds/stigma
+/flower buds/style
+/flower buds/style/colour
+/flower buds/style/length
+/flower buds/style/stigma
+/flower buds/style/stigma/shape
+/flower buds/style/stigma/thickness
+/flower buds/thickness
+/flower buds/tip length
+/flower buds/tip number
+/flowers
+/flowers/aborted organs
+/flowers/anthers
+/flowers/anthers/colour
+/flowers/anthers/connectival horns
+/flowers/anthers/connective
+/flowers/anthers/inner pollen sac number
+/flowers/anthers/locule number
+/flowers/anthers/lower anthers
+/flowers/anthers/pollen sac number
+/flowers/anthers/upper anthers
+/flowers/bract and bracteole number
+/flowers/bracts and bracteoles
+/flowers/calyculus
+/flowers/calyx
+/flowers/colour
+/flowers/filaments
+/flowers/filaments/anthers
+/flowers/length
+/flowers/male flowers
+/flowers/mature flowers
+/flowers/mature flowers/length
+/flowers/merosity
+/flowers/ovary
+/flowers/ovary/calyculus
+/flowers/ovary/calyculus/colour
+/flowers/ovary/calyculus/texture
+/flowers/ovary length
+/flowers/ovary/length
+/flowers/ovary/stigma
+/flowers/ovary/style
+/flowers/ovary/style/length
+/flowers/petals
+/flowers/petals and stamens
+/flowers/petals and stamens/anthers
+/flowers/petals and stamens/anthers/locule number
+/flowers/petals and stamens/pollen
+/flowers/petals/anthers
+/flowers/petals/anthers/locule number
+/flowers/petals/colour
+/flowers/petals/length
+/flowers/petals/locule number
+/flowers/petals/petal number
+/flowers/pollen
+/flowers/prophyllum number
+/flowers/stamens
+/flowers/stamens/anthers
+/flowers/stamens/anthers/locule number
+/flowers/stamens/filaments
+/flowers/stamens/filaments/position
+/flowers/stamens/pollen sac number
+/flowers/stigma
+/flowers/style
+/flowers/style/female flowers
+/flowers/style/length
+/flowers/style/male flowers
+/flowers/style/stigma
+/fruiting spikes
+/fruiting spikes/length
+/fruits
+/fruits/apex
+/fruits/base
+/fruits/calyculus
+/fruits/calyculus/colour
+/fruits/calyculus/growth form
+/fruits/colour
+/fruits/cotyledons
+/fruits/diameter
+/fruits/dimensions
+/fruits/embryo
+/fruits/embryo/colour
+/fruits/embryo/cotyledon number
+/fruits/embryo/texture
+/fruits/endosperm
+/fruits/endosperm/colour
+/fruits/endosperm/embryo
+/fruits/endosperm/embryo/colour
+/fruits/germination
+/fruits/growth form
+/fruits/length
+/fruits/mature seeds
+/fruits/mature seeds/cotyledons
+/fruits/mature seeds/embryo
+/fruits/mature seeds/embryo/length
+/fruits/mature seeds/endosperm colour
+/fruits/mature seeds/texture
+/fruits/pedicels
+/fruits/pedicels/colour
+/fruits/perianth segments
+/fruits/perianth segments/growth form
+/fruits/seed number
+/fruits/seeds
+/fruits/seeds/colour
+/fruits/seeds/cotyledon number
+/fruits/seeds/endosperm
+/fruits/seeds/endosperm colour
+/fruits/shape
+/habit
+/habit/appearance
+/habit/appearance/length
+/habit/appearance/width
+/habit/basal cataphylls
+/habit/basal cataphylls/basal cataphyll second pair
+/habit/basal cataphylls/basal cataphyll second pair/relative distance
+/habit/basal cataphylls/cataphyll number
+/habit/basal cataphylls/cataphyll pair number
+/habit/basal cataphylls/height
+/habit/basal cataphylls/position
+/habit/basal cataphylls/relative distance
+/habit/branches
+/habit/branches/cataphyll pair number
+/habit/branches/relative distance
+/habit/cataphylls
+/habit/colour
+/habit/diameter
+/habit/epicortical root number
+/habit/epicortical roots
+/habit/growth form
+/habit/hairs
+/habit/hairs/colour
+/habit/haustoria
+/habit/height
+/habit/inflorescence arrangement
+/habit/innovations
+/habit/innovations/cataphyll pair number
+/habit/innovations/foliage leaf pair number
+/habit/innovations/inflorescence position
+/habit/innovations/internode number
+/habit/intercalary cataphylls
+/habit/intercalary cataphylls/cataphyll pair number
+/habit/intercalary cataphylls/fertile to sterile cataphyll number proportion
+/habit/intercalary cataphylls/height
+/habit/intercalary cataphylls/intercalary cataphyll pair number
+/habit/intercalary cataphylls/relative distance
+/habit/internodes
+/habit/internodes/cataphyll pair number
+/habit/internodes/colour
+/habit/internodes/epicortical roots
+/habit/internodes/epicortical roots/length
+/habit/internodes/length
+/habit/internodes/lenticel colour
+/habit/internodes/position
+/habit/internodes/relative distance
+/habit/internodes/thickness
+/habit/juvenile internodes
+/habit/juvenile internodes/length
+/habit/juvenile plants
+/habit/juvenile stems
+/habit/juvenile stems/colour
+/habit/juvenile twigs
+/habit/juvenile twigs/colour
+/habit/juvenile twigs/length
+/habit/lateral branches
+/habit/lateral branches/cataphyll pair number
+/habit/lateral branches/fertile cataphyll pair number
+/habit/lateral branches/relative distance
+/habit/lateral branches/sterile cataphyll pair number
+/habit/lateral internodes
+/habit/lateral internodes/position
+/habit/lateral stems
+/habit/lateral stems/cataphyll pair number
+/habit/leafy stems
+/habit/leafy stems/thickness
+/habit/leaves
+/habit/leaves/cataphyll pair number
+/habit/leaves/relative distance
+/habit/length
+/habit/lenticels
+/habit/lenticels/colour
+/habit/lowest internodes of lateral shoots
+/habit/lowest internodes of lateral shoots/position
+/habit/nodes
+/habit/primary haustoria
+/habit/stems
+/habit/stems/cataphyll pair number
+/habit/stems/inflorescence position
+/habit/stems/length
+/habit/texture
+/habit/twigs
+/haustoria
+/inflorescences
+/inflorescences/axes
+/inflorescences/axes/colour
+/inflorescences/axes/dyad pair number
+/inflorescences/axes/length
+/inflorescences/axes/triad pair number
+/inflorescences/axillary inflorescence position
+/inflorescences/base
+/inflorescences/bracteole number
+/inflorescences/bracteoles
+/inflorescences/bracteoles/bracteole number
+/inflorescences/bracts
+/inflorescences/bracts and bracteoles
+/inflorescences/bracts and bracteoles/alveole number
+/inflorescences/bracts and bracteoles/flower number
+/inflorescences/calyculus
+/inflorescences/calyculus/length
+/inflorescences/cataphylls
+/inflorescences/cataphylls/cataphyll pair number
+/inflorescences/cataphylls/relative distance
+/inflorescences/colour
+/inflorescences/compound inflorescences
+/inflorescences/compound inflorescences/lateral inflorescences
+/inflorescences/compound inflorescences/lateral inflorescences/length
+/inflorescences/compound inflorescences/lateral inflorescences/texture
+/inflorescences/compound inflorescences/position
+/inflorescences/compound inflorescences/terminal inflorescences
+/inflorescences/compound inflorescences/terminal inflorescences/length
+/inflorescences/cupules
+/inflorescences/cupules/colour
+/inflorescences/cupules/dimensions
+/inflorescences/cupules/length
+/inflorescences/cupules/margins
+/inflorescences/cupules/margins/ovary
+/inflorescences/cupules/margins/ovary/length
+/inflorescences/cupules/margins/ovary/width
+/inflorescences/cupules/relative dimensions
+/inflorescences/dyad number per umbel
+/inflorescences/dyad peduncle
+/inflorescences/dyad peduncle/length
+/inflorescences/dyad peduncle/pedicels
+/inflorescences/female flowers
+/inflorescences/fertile bracts
+/inflorescences/fertile internode number
+/inflorescences/fertile internodes
+/inflorescences/fertile internodes/female flowers
+/inflorescences/fertile internodes/female flowers/series
+/inflorescences/fertile internodes/fertile internode number
+/inflorescences/fertile internodes/flower number per bract
+/inflorescences/fertile internodes/flowers
+/inflorescences/fertile internodes/flowers/flower number per bract
+/inflorescences/fertile internodes/flowers/series
+/inflorescences/fertile internodes/series
+/inflorescences/fertile internodes/sterile cataphyll pair number
+/inflorescences/flower arrangement
+/inflorescences/flower arrangement/colour
+/inflorescences/flower arrangement/distal internodes
+/inflorescences/flower arrangement/distal internodes/series
+/inflorescences/flower arrangement/series
+/inflorescences/flower number
+/inflorescences/flower number per spike
+/inflorescences/flowers
+/inflorescences/flowers/female flowers
+/inflorescences/flowers/female flowers/flower number
+/inflorescences/flowers/female flowers/position
+/inflorescences/flowers/flower number per bract
+/inflorescences/flowers/male flowers
+/inflorescences/flowers/male flowers/flower number
+/inflorescences/flowers/perianth segment number
+/inflorescences/flowers/series
+/inflorescences/flowers/stamen number
+/inflorescences/fruits
+/inflorescences/fruits/fruit number per bract
+/inflorescences/inflorescence arrangement
+/inflorescences/inflorescence arrangement/cataphyll pair number
+/inflorescences/inflorescence arrangement/fertile internode number
+/inflorescences/inflorescence arrangement/flower number per bract
+/inflorescences/inflorescence arrangement/flower series
+/inflorescences/inflorescence arrangement/relative distance
+/inflorescences/inflorescence arrangement/series
+/inflorescences/inflorescence number per axil
+/inflorescences/inflorescence number per leaf axil
+/inflorescences/lateral inflorescences
+/inflorescences/lateral inflorescences/fertile internodes
+/inflorescences/lateral inflorescences/fertile internodes/fertile internode number
+/inflorescences/lateral inflorescences/fertile internodes/flower number per bract
+/inflorescences/lateral inflorescences/peduncle
+/inflorescences/lateral inflorescences/peduncle/length
+/inflorescences/lateral inflorescences/sterile bracts
+/inflorescences/lateral inflorescences/sterile bracts/sterile bract pair number
+/inflorescences/lateral raceme pair number
+/inflorescences/length
+/inflorescences/lower lateral raceme number
+/inflorescences/male flowers
+/inflorescences/ovary
+/inflorescences/ovary/dimensions
+/inflorescences/ovary/length
+/inflorescences/ovary/width
+/inflorescences/pedicels
+/inflorescences/pedicels/cupule width
+/inflorescences/pedicels/length
+/inflorescences/pedicels/ovary length
+/inflorescences/pedicels/relative dimensions
+/inflorescences/peduncle
+/inflorescences/peduncle/bract length
+/inflorescences/peduncle/cataphyll pair number
+/inflorescences/peduncle/dimensions
+/inflorescences/peduncle/dyad peduncle
+/inflorescences/peduncle/dyad peduncle/length
+/inflorescences/peduncle/fertile internode number
+/inflorescences/peduncle/fertile internodes
+/inflorescences/peduncle/fertile internodes/fertile internode number
+/inflorescences/peduncle/fertile internodes/texture
+/inflorescences/peduncle/flower number per bract
+/inflorescences/peduncle/internode number
+/inflorescences/peduncle/length
+/inflorescences/peduncle/length when sterile bracts present
+/inflorescences/peduncle/pedicels
+/inflorescences/peduncle/pedicels/length
+/inflorescences/peduncle/series
+/inflorescences/peduncle/shape
+/inflorescences/peduncle/sterile bract pair number
+/inflorescences/peduncle/triad pair number
+/inflorescences/peduncle/triad peduncle
+/inflorescences/peduncle/triad peduncle/growth form
+/inflorescences/peduncle/triad peduncle/length
+/inflorescences/peduncle/triad peduncles and pedicels
+/inflorescences/peduncle/triad peduncles and pedicels/length
+/inflorescences/peduncle/width
+/inflorescences/peduncle/wing number
+/inflorescences/position
+/inflorescences/position/inflorescence number per axil
+/inflorescences/position/triad number
+/inflorescences/racemes
+/inflorescences/racemes/length
+/inflorescences/secondary inflorescences
+/inflorescences/spikes
+/inflorescences/spikes/flowers
+/inflorescences/spikes/flowers/flower number per spike
+/inflorescences/spikes/scale leaves
+/inflorescences/sterile bracts
+/inflorescences/sterile bracts/length
+/inflorescences/sterile bracts/relative distance
+/inflorescences/sterile bracts/sterile bract number
+/inflorescences/sterile cataphyll pair number
+/inflorescences/sterile cataphylls
+/inflorescences/sterile cataphylls/sterile cataphyll pair number
+/inflorescences/sterile internode number
+/inflorescences/sterile internodes
+/inflorescences/sterile internodes/length
+/inflorescences/sterile internodes/sterile internode number
+/inflorescences/terminal inflorescence position
+/inflorescences/terminal inflorescences
+/inflorescences/triad number
+/inflorescences/triad number per inflorescence
+/inflorescences/triad number per umbel
+/inflorescences/triad pair number
+/inflorescences/triad peduncle
+/inflorescences/triad peduncle/bracteole length
+/inflorescences/triad peduncle/bracteole number
+/inflorescences/triad peduncle/bract number
+/inflorescences/triad peduncle/flower number per bracteole
+/inflorescences/triad peduncle/growth form
+/inflorescences/triad peduncle/length
+/infructescences
+/infructescences/fertile internodes
+/infructescences/fertile internodes/fertile internode number
+/infructescences/flowers
+/infructescences/flowers/flower number per bract
+/infructescences/flowers/series
+/infructescences/length
+/infructescences/peduncle
+/infructescences/peduncle/length
+/internodes
+/internodes/basal cataphylls
+/internodes/basal cataphylls/cataphyll pair number
+/internodes/basal cataphylls/cataphyll pair number/relative distance
+/internodes/basal cataphylls/relative distance
+/internodes/length
+/internodes/scale leaves
+/juvenile stems
+/juvenile stems/intercalary cataphylls
+/juvenile stems/internodes
+/juvenile stems/internodes/length
+/juvenile stems/lateral internodes
+/juvenile stems/lateral internodes/basal cataphyll pair number
+/juvenile stems/lateral internodes/relative distance
+/lateral branches
+/lateral branches/branching
+/lateral branches/branching/inflorescence position
+/lateral branches/cataphylls
+/lateral branches/position
+/leaf blades
+/leaf blades/apex
+/leaf blades/apex and base
+/leaf blades/base
+/leaf blades/base/width
+/leaf blades/dimensions
+/leaf blades/length
+/leaf blades/shape
+/leaf blades/texture
+/leaf blades/veins
+/leaf blades/veins/basal vein number
+/leaf blades/veins/major vein number
+/leaf blades/veins/midveins
+/leaf scales
+/leaf scales/length
+/leaves
+/leaves/apex
+/leaves/arrangement
+/leaves/base
+/leaves/blade
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/blade/dimensions
+/leaves/blade/lower surfaces
+/leaves/blade/margins
+/leaves/blade/margins/colour
+/leaves/blade/margins/texture
+/leaves/blade/shape
+/leaves/blade/texture
+/leaves/blade/upper surfaces
+/leaves/colour
+/leaves/dimensions
+/leaves/margins
+/leaves/petiole
+/leaves/petiole/length
+/leaves/relative distance
+/leaves/shape
+/leaves/texture
+/leaves/veins
+/leaves/veins/lateral vein number
+/male flowers
+/male flowers/female flowers
+/male flowers/female flowers/length
+/male flowers/female flowers/shape
+/male flowers/length
+/male inflorescences
+/male inflorescences/flowers
+/male inflorescences/flowers/flower number per bract
+/male inflorescences/flowers/series
+/male inflorescences/length
+/male inflorescences/terminal leaves
+/mature flowers
+/mature flowers/length
+/merosity
+/merosity/filaments
+/merosity/filaments/connectival horns
+/merosity/filaments/pollen
+/merosity/filaments/pollen/pollen sac number
+/merosity/filaments/pollen/shape
+/merosity/merosity
+/merosity/petals
+/merosity/petals/colour
+/merosity/style
+/merosity/style/stigma
+/petals
+/petals/aborted organs
+/petals and stamens
+/petals and stamens/anthers
+/petals and stamens/anthers/locule number
+/petals and stamens/lower anthers
+/petals and stamens/lower anthers/locule number
+/petals and stamens/style
+/petals and stamens/style/length
+/petals and stamens/upper anthers
+/petals and stamens/upper anthers/filaments
+/petals and stamens/upper anthers/locule number
+/petals/anthers
+/petals/colour
+/petiole
+/petiole/basal veins
+/petiole/blade
+/petiole/blade/apex
+/petiole/blade/apex and base
+/petiole/blade/base
+/petiole/blade/colour
+/petiole/blade/dimensions
+/petiole/blade/length
+/petiole/blade/lower surfaces
+/petiole/blade/shape
+/petiole/blade/texture
+/petiole/blade/upper surfaces
+/petiole/colour
+/petiole/length
+/petiole/mature blade
+/petiole/mature blade/apex
+/petiole/mature blade/base
+/petiole/mature blade/dimensions
+/petiole/mature blade/shape
+/petiole/mature blade/texture
+/petiole/midrib
+/petiole/midrib/lateral veins
+/petiole/thickness
+/petiole/upper surfaces
+/petiole/veins
+/petiole/veins/lateral vein number
+/petiole/veins/midveins
+/plant sexuality
+/plant sexuality/flower number
+/plant sexuality/flowers
+/plant sexuality/flowers/flower number per bract
+/plant sexuality/flowers/series
+/plant sexuality/length
+/plant sexuality/sterile internode number
+publication
+/spikes
+/spikes/bracteoles
+/spikes/fertile internodes
+/spikes/fertile internodes/fertile internode number
+/spikes/fertile internodes/flower number per bract
+/spikes/fertile internodes/position
+/spikes/fertile internodes/series
+/spikes/inflorescence number per axil
+/spikes/length
+/spikes/peduncle
+/spikes/peduncle/floriferous parts
+/spikes/peduncle/flower number per spike
+/spikes/peduncle/large spikes
+/spikes/peduncle/large spikes/flower number per spike
+/spikes/peduncle/length
+/spikes/position
+/spikes/sterile cataphyll pair number
+/stems
+/stems/basal cataphylls
+/stems/basal cataphylls/cataphyll pair number
+/stems/basal cataphylls/colour
+/stems/basal cataphylls/position
+/stems/basal cataphylls/relative distance
+/stems/epicortical roots
+/stems/epicortical roots/colour
+/stems/haustoria
+/stems/intercalary cataphylls
+/stems/intercalary cataphylls/cataphyll pair number
+/stems/intercalary cataphylls/relative distance
+/stems/internodes
+/stems/internodes/length
+/stems/lateral branches
+/stems/nodes
+/wood
+/wood/epicortical roots

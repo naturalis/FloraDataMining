@@ -22,7 +22,7 @@ def constructXmlLine(textList):
 			result += textList[i] + "<"
 		else:
 			result += textList[i] + ">"
-	print result
+	print '*' +  result
 	return result
 
 

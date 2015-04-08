@@ -10,7 +10,8 @@ matrix = []
 #Adds the correct terms to new columns made in the matrix
 def addNewValue(array, regexes):
 	newArray = [0 for i in range(len(array))]	
-			
+		
+	print array[0]	
 	for i in range(1, len(array)):
 		termList = []
 
@@ -27,14 +28,13 @@ def addNewValue(array, regexes):
 					elif re.search(termList[len(termList) - 1], termList[j]):
 						termList.pop(len(termList) - 1)	
 		termsList = termList.sort()
-		print termList
 		terms = ','.join(termList)
 
 		if terms == "":
 			terms = "-"
 
 		newArray[i] = terms
-
+	print "new values added"
 	return newArray
 
 
@@ -61,7 +61,7 @@ def splitColumns(matrix, term, regexes):
 
 					matrix.insert(matrix.index(array) + 1, newArray)
 					break	
-
+	print "columns splitted"
 	return matrix
 
 
@@ -81,6 +81,7 @@ def markOriginalCategories(matrix):
 		markedOriginalTerm = row[0] + "*"
 		row[0] = markedOriginalTerm
 
+	print "original categories marked"
 	return matrix
 		
 
@@ -116,10 +117,10 @@ matrix = table.readMatrix(matrixFile)
 print "matrix read"
 matrix = map(list, zip(*matrix))			
 
-#matrix = deleteRowsAlmostEmpty(matrix)
-#print "Almost empty rows deleted"
+matrix = deleteRowsAlmostEmpty(matrix)
+print "Almost empty rows deleted"
 matrix = initSplitting(termsAndCategories, matrix)
-print matrix
+
 table.printToTsv(map(list, zip(*matrix)))
 
 print "Columns splitted"

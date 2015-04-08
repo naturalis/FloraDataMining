@@ -1,0 +1,2185 @@
+publication
+/habit
+/leaves
+/leaves/stipules
+/leaves/prophyllum
+/inflorescences
+/inflorescences/position
+/flowers
+/flowers/stamens
+/flowers/ovary
+/flowers/ovary/stigma
+/fruits
+/dispersal
+/habit
+/leaves
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/flowers
+/inflorescences/rachises
+/inflorescences/floral bracts
+/stamens
+/stamens/filaments
+/stamens/anthers
+/stamens/ovary
+/fruits
+/fruits/apex
+/fruits/stigma
+/habit
+/stems
+/stems/length
+/stems/internodes
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/fruits/stigma
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/habit/height
+/stems
+/stems/length
+/stems/upper internodes
+/stems/upper internodes/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/inflorescences/rachises
+/fruits
+/fruits/dimensions
+/fruits/stigma
+/habit
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/diameter
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/length
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/juvenile fruits
+/mature fruits
+/habit
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/stems
+/stems/thickness
+/leaves
+/leaves/petiole
+/leaves/petiole/relative distance
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/common peduncle
+/inflorescences/common peduncle/length
+/inflorescences/common peduncle/lateral branches
+/inflorescences/common peduncle/lateral branches/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/common peduncle
+/inflorescences/common peduncle/length
+/inflorescences/common peduncle/lateral branches
+/inflorescences/common peduncle/lateral branches/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/fruits
+/fruits/stigma
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/fruits
+/fruits/apex
+/fruits/stigma
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/flower number
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/stems
+/stems/internodes
+/stems/internodes/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/rachises
+/fruits
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/fruits/stigma
+/habit
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/habit
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/fruits
+/fruits/length
+/fruits/stigma
+/habit
+/stems
+/stems/internodes
+/stems/internodes/length
+/leaves
+/leaves/fertile branches
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/stems/internodes
+/stems/internodes/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/habit/fertile stems
+/stems
+/stems/internodes
+/stems/internodes/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/habit
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/habit/rhizome
+/stems
+/stems/length
+/leaves
+/leaves/petiole
+/leaves/petiole/relative distance
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/habit
+/stems
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/margins
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/position
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/stems
+/prophyllum
+/prophyllum/sheaths
+/leaves
+/leaves/petiole
+/leaves/blade
+/leaves/blade/texture
+/leaves/veins
+/inflorescences
+/inflorescences/floral bracts
+/flowers
+/flowers/stamens
+/flowers/stamens/filaments
+/flowers/ovary
+/flowers/ovary/stigma
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/habit/length
+/habit/upper internodes
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/inflorescences/anthers
+/fruits
+/fruits/diameter
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/upper internodes
+/prophyllum
+/prophyllum/length
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/texture
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/blade/base/length
+/leaves/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/flowers
+/inflorescences/floral bracts
+/inflorescences/stamens
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/prophyllum
+/prophyllum/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/flowers
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/rachises
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/prophyllum
+/prophyllum/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/inflorescences/thecae
+/fruits
+/fruits/length
+/fruits/diameter
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stipules
+/stipules/petiole
+/stipules/petiole/length
+/stipules/blade
+/stipules/blade/texture
+/stipules/blade/shape
+/stipules/blade/dimensions
+/stipules/blade/apex
+/stipules/blade/base
+/stipules/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/dimensions
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/thickness
+/inflorescences/rachises
+/inflorescences/floral bracts
+/inflorescences/anthers
+/infructescences
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/stigma
+/leaves
+/indumentum
+/leaves
+/leaves/shape
+/habit
+/habit/height
+/stems
+/shoot apex
+/petiole
+/petiole/length
+/petiole/margins
+/petiole/margins/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/inflorescences/anthers
+/fruits
+/fruits/length
+/fruits/diameter
+/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/diameter
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/length
+/fruits/diameter
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/prophyllum
+/prophyllum/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/dimensions
+/inflorescences/floral bracts
+/inflorescences/flowers
+/inflorescences/anthers
+/fruits
+/fruits/diameter
+/fruits/stigma
+/fruits/seeds
+/habit
+/habit/height
+/habit/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/diameter
+/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/thickness
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/length
+/stems/upper internodes
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/secondary veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/inflorescences/stamens
+/fruits
+/fruits/width
+/fruits/stigma
+/fruits/stigma/length
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/rachises
+/infructescences
+/infructescences/dimensions
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/stipules
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/dimensions
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/width
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/width
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/prophyllum
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/inflorescences/stamens
+/inflorescences/stamens/anthers
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/dimensions
+/infructescences/fruits
+/infructescences/fruits/thickness
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/apex
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stipules
+/stipules/dimensions
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/margins
+/petiole/margins/apex
+/petiole/margins/base
+/petiole/margins/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/thickness
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/ligula
+/petiole/ligula/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/width
+/inflorescences/floral bracts
+/inflorescences/anthers
+/inflorescences/ovary
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/inflorescences/ovary
+/inflorescences/ovary/stigma
+/habit
+/habit/height
+/stems
+/prophyllum
+/prophyllum/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/inflorescences/floral bracts/filaments
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/prophyllum
+/stipules
+/stipules/petiole
+/stipules/petiole/length
+/stipules/blade
+/stipules/blade/shape
+/stipules/blade/dimensions
+/stipules/blade/margins
+/stipules/blade/apex
+/stipules/blade/base
+/stipules/blade/base/differential distance
+/stipules/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/width
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/stamens
+/inflorescences/stamens/length
+/fruits
+/fruits/stigma
+/fruits/stigma/length
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/width
+/inflorescences/rachises
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/stipules
+/stipules/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/habit/odor
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/diameter
+/inflorescences/floral bracts
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/thickness
+/fruits
+/fruits/length
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/diameter
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stipules
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/rachises
+/infructescences
+/infructescences/length
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/internodes
+/leaves
+/leaves/petiole
+/leaves/petiole/length
+/leaves/blade
+/leaves/blade/shape
+/leaves/blade/dimensions
+/leaves/blade/apex
+/leaves/blade/base
+/leaves/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/position
+/inflorescences/common peduncle
+/inflorescences/common peduncle/length
+/inflorescences/common peduncle/peduncle
+/inflorescences/common peduncle/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/habit
+/habit/height
+/stems
+/stipules
+/stipules/length
+/petiole
+/petiole/length
+/petiole/margins
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/fruits
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/upper internodes
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/upper internodes
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/fruits
+/infructescences/fruits/thickness
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/stipules
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/anthers
+/infructescences
+/infructescences/fruits
+/infructescences/fruits/width
+/infructescences/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/nodes
+/prophyllum
+/prophyllum/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/dimensions
+/fruits/stigma
+/habit
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/infructescences
+/infructescences/length
+/infructescences/thickness
+/infructescences/fruits
+/infructescences/fruits/diameter
+/infructescences/fruits/stigma
+/habit
+/habit/height
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/stems
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/margins
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/spikes/thickness
+/inflorescences/floral bracts
+/inflorescences/ovary
+/habit
+/habit/height
+/stems
+/stipules
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/blade/base/differential distance
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/length
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/floral bracts
+/inflorescences/floral bracts/diameter
+/fruits
+/fruits/stigma
+/habit
+/habit/height
+/stems
+/stems/length
+/petiole
+/petiole/length
+/petiole/blade
+/petiole/blade/texture
+/petiole/blade/shape
+/petiole/blade/dimensions
+/petiole/blade/apex
+/petiole/blade/base
+/petiole/veins
+/inflorescences
+/inflorescences/growth form
+/inflorescences/peduncle
+/inflorescences/peduncle/length
+/inflorescences/spikes
+/inflorescences/spikes/length
+/inflorescences/rachises
+/inflorescences/floral bracts
+/fruits
+/fruits/thickness
+/fruits/stigma

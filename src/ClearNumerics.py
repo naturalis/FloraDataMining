@@ -11,6 +11,8 @@ output = open("matrix.tsv", "w")
 def normalize(row, units, correctUnit):
 	numberRegex = '\d+\.*\d*'
 
+	row[0] += " (" + correctUnit + ")"
+
 	for i in range(len(row)):
 
 		for unit in units:
@@ -52,8 +54,11 @@ def normalizeUnits(matrix):
 		amountUnits = {"mm": 0, "cm": 0, "dm": 0, "m": 0}
 
 		countUnitNumbers(row, amountUnits)
+
 		correctUnit = selectDominatingUnit(amountUnits)
-		matrix[matrix.index(row)] = normalize(row, amountUnits.keys(), correctUnit) 	
+
+		if amountUnits[correctUnit] > 0:
+			matrix[matrix.index(row)] = normalize(row, amountUnits.keys(), correctUnit) 	
 
 	return matrix
 

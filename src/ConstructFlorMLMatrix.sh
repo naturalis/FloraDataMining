@@ -1,19 +1,47 @@
-#python sls data/Cha	rc/OrderFlorML.py data/A26_final.xml
+#python src/OrderFlorML.py data/A26_final.xml
 #mv ordened.xml results/A26_ordened.xml
 
-#python src/MakeCharacterList.py results/A26_ordened.xml > out.txt
-#echo "Character list constructed"
-#cat  out.txt | sort | uniq > character_list.txt
+#for flormlFile in $*
+#do
+#	echo $flormlFile
 
-#python src/OrderCharacters.py results/A26_ordened.xml character_list.txt
-#cp matrix.tsv input.tsv
+#	python ../../src/MakeCharacterList.py $flormlFile > "../character_lists/characters_$flormlFile"
+#done
 
-#python src/SplitColumns.py results/CharacterSplitting/condensed_matrix.tsv data/terms_and_categories.txt
-#cp matrix.tsv input.tsv
+#for characterList in $*
+#do
 
-#python src/ConvertNominalsToBit.py input.tsv data/terms_and_categories.txt
-#mv matrix.tsv input.tsv
+#	cat  $characterList | sort | uniq > "sorted_$characterList"
+#done
 
-#python src/ClearNumerics.py input.tsv
-#mv matrix.tsv input.tsv
-python src/CleanMatrix.py input.tsv
+for flormlFile in $*
+do
+	echo $flormlFile
+
+	python ../../src/OrderCharacters.py $flormlFile "../character_lists/sorted_characters_$flormlFile" 
+
+	mv matrix.tsv $flormlFile"_matrix.tsv"
+
+#	cp matrix.tsv input.tsv
+
+#	python ../../src/SplitColumns.py $flormlFile ../../data/terms_and_categories.txt
+
+#	mv matrix.tsv newchars_$flormlFile
+	
+#	cp matrix.tsv input.tsv
+
+#	python src/ConvertNominalsToBit.py $flormlFile data/terms_and_categories.txt
+	
+#	mv matrix.tsv "bit_$flormlFile"
+
+#	mv matrix.tsv input.tsv
+
+#	python src/ClearNumerics.py input.tsv
+
+#	mv matrix.tsv "num_$flormlFile"
+
+#	python src/CleanMatrix.py input.tsv
+
+#	mv matrix.tsv "final_$flormlFile"
+
+done
