@@ -46,16 +46,19 @@ def addTerms(matrix, termList):
 	print "terms added"
 	return list(set(termList))
 
-plt.close("all")
 
 for file in sys.argv[1:]:
 
 	matrixFile = open(file, 'r')
 	matrix = table.readMatrix(matrixFile)
 	fractionNew = calculateFractionNew(matrix, termList)
-	print fractionNew
 	termList = addTerms(matrix, termList)
 	fractionNewTerms.append(fractionNew)
-	
+
 plt.plot(fractionNewTerms, 'ro')
-plt.show()
+plt.xticks("A24", "A25", "A26", "A22", "A23", "A27")
+plt.title("Fraction new words using six FlorML matrices")
+plt.ylabel("fraction")
+plt.xlabel("florML files")
+plt.savefig("results/fraction_new_words.pdf")
+plt.close()
