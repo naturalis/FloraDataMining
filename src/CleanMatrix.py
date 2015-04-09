@@ -30,8 +30,7 @@ def clean(matrix):
 
 			elif row[0][len(row[0]) - 1] != '*':
 				result[result.index(row)][0] = correctCharName(result[result.index(row)][0])
-	
-			row[0].replace('*', '')	
+				result[result.index(row)][0].replace('*', '')	
 	return result
 
 

@@ -18,9 +18,9 @@ for flormlFile in $*
 do
 	echo $flormlFile
 
-	python ../../src/OrderCharacters.py $flormlFile "../character_lists/sorted_characters_$flormlFile" 
+#	python ../../src/OrderCharacters.py $flormlFile "../character_lists/sorted_characters_$flormlFile" 
 
-	mv matrix.tsv $flormlFile"_matrix.tsv"
+#	mv matrix.tsv $flormlFile"_matrix.tsv"
 
 #	cp matrix.tsv input.tsv
 
@@ -30,18 +30,18 @@ do
 	
 #	cp matrix.tsv input.tsv
 
-#	python src/ConvertNominalsToBit.py $flormlFile data/terms_and_categories.txt
+#	python ../../src/ConvertNominalsToBit.py $flormlFile ../../data/terms_and_categories.txt
 	
 #	mv matrix.tsv "bit_$flormlFile"
 
 #	mv matrix.tsv input.tsv
 
-#	python src/ClearNumerics.py input.tsv
+#	python ../../src/ClearNumerics.py $flormlFile
 
 #	mv matrix.tsv "num_$flormlFile"
 
-#	python src/CleanMatrix.py input.tsv
+	python ../../src/CleanMatrix.py $flormlFile
 
-#	mv matrix.tsv "final_$flormlFile"
+	mv matrix.tsv "final_$flormlFile"
 
 done
