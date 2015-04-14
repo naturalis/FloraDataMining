@@ -1,47 +1,51 @@
-#This code corrects texts in an FlorML XML file, that are displayed between /subChar elements. This code puts these texts in the correct element. 
-
-import xml.etree.ElementTree as ET
+#This code searches in a FlorML file for text parts belonging to a 
+#\char element, but which are wrongly placed between the \subchar 
+#elements. The code copies these text parts to the correct place, with 
+#a "|" on the places where text parts are pasted together. The input is a 
+#FlorML file and the output is a new ordened FlorML file.
+ 
 import sys
 import re
 
+import xml.etree.ElementTree as ET
+
+MISPLACED_TEXT_REGEX = '<\/subChar>[,:] [^<]+'
+
 flormlFile = open(sys.argv[1], 'r')
-#characterFile = open(sys.argv[2], 'r')
-output = open("ordened.xml", 'w')
-subCharacter = '<\/subChar>[,:] [a-z]'
-misplacedCharacter = '<\/subChar>[,:] [^<]+'
+output = open('ordened.xml', 'w')
 element = False
 temp = []
 
 
 def constructXmlLine(textList):
-	result = "<"
+	#This function print a line in a FolroML file, which is splitted 
+	#by "<" and ">" before
+	result = '<'
 	
-	for i in range(1, len(textList) - 1):
-		
+	for i in range(1, len(textList) - 1):		
 		if i % 2 == 0:
-			result += textList[i] + "<"
+			result += textList[i] + '<'
 		else:
-			result += textList[i] + ">"
-	print '*' +  result
+			result += textList[i] + '>'
 	return result
 
 
 for line in flormlFile:
-	startTag = "<char"
-	endTag = "</char>"
+	startTag = '<char'
+	endTag = '</char>'
 
 	if startTag in line:
 		element = True
 		fields = re.split('[<>]', line)
 
-	if element == False:
+	if not element:
 		output.write(line)
 
-	if element == True:
-		misplacedTexts = re.findall(misplacedCharacter, line)
+	if element:
+		misplacedTexts = re.findall(MISPLACED_TEXT_REGEX, line)
 		
 		for text in misplacedTexts:
-			fields[2] += "|" + text.split('>')[1]
+			fields[2] += '|' + text.split('>')[1]
 
 		if startTag not in line:
 			temp.append(line)
@@ -56,29 +60,3 @@ for line in flormlFile:
 			temp = []
 
 
-#	if startTags and endTags:		
-#		element += line
-		
-#		if len(startTags) == len(endTags):
-
-#			if re.search(subCharacter, element):
-#				misplacedTexts = re.findall(misplacedCharacter, element)
-#				fields = re.split('[<>]', element)
-	
-#				for group in misplacedTexts:
-		
-#					fields[2] += "|" + group.split('>')[1]			
-
-#				element = fields[0] + "<"
-	
-#				for i in range(1, len(fields) - 1):
-
-#					if i%2 == 0:
-#						element += fields[i] + "<"
-#					else:
-#						element += fields[i] + ">"	
-#			output.write(element)
-#			element = ""
-
-#	elif not startTags and not endTags:
-#		output.write(line)
