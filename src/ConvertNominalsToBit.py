@@ -1,115 +1,85 @@
+#This code converts the states of a character to a bit string of all 
+#states present in the matrix: 1 means that the state is present for the
+#current species and 0 means not present. This input is a data matrix in 
+#tsv format without bit values and the output is a data matrix (matrix.tsv) containing 
+#a new column displaying these bit strings. 
+
+#The bit values are first written to be printed in table form, where at the
+#end the cells in a row were sticked together to form a string. The reason 
+#was that initially the idea was to print a matrix for every character, 
+#containing all states and species.
+
 import sys
 import re
 import table
 
-matrixFile = open(sys.argv[1], "r")
-termsAndCategories = open(sys.argv[2], "r")
+matrixFile = open(sys.argv[1], 'r')
+termsAndCategories = open(sys.argv[2], 'r')
 matrix = []
 
 
-def constructColumns(array):
-
-	for cell in array:
-
-		if cell.split(',') > 1:
-			
-			for term in array.split(','):
-				array.append(term)
-				array.remove(array[array.index(term)])
-	return set(array)							
-
-
-def ConstructNewArray(rows):
-	columns = constructColumns(rows)
-	newMatrix = [[0 for j in range(len(columns) + 1)] for i in range(len(array) + 1)]
-
-	for i in range(1, len(newMatrix) + 1):
-
-		for j in range(1, len(newMatrix[0] + 1)):
-
-			if matrix[0][j] in matrix[i][0]:
-				matrix[i][j] = 1
-
-
-# This function prints a matrix in tsv format, when giving the matrix as argument.
-def printMatrixToTsv(m):
-	
-	for i in range(len(m)):
-		line = ""
-		
-		for j in range(len(m[0])):
-			m[i][j] = str(m[i][j]).replace("\t", " ") 
-			line = line + str(m[i][j]) + "\t"
-
-		line = line.replace("\n", "") 
-
-		output.write(line)
-		output.write("\n")
-	
-
 def constructCategoryMatrix(row, term, possibilities):
-	categoryMatrix = [["0" for j in range(len(possibilities))] for i in range(len(row))]
+	#Constructs a matrix  for a row in a matrix. Every column 
+	#represents a character state and every row represents a species.
+	#When a state is present for a species and a term, the	
+	#the corresponding cell shows a 1, otherwise a 0.
+	categoryMatrix = [['0' for j in range(len(possibilities))] for i in range(len(row))]
 	categoryMatrix[0] = possibilities
 
 	for i in range(1, len(row)):
-		categories = row[i].split(",")
+		categories = row[i].split(',')
 
 		for possibility in possibilities:
-
 			for category in categories:
-
 				if possibility == category:
-					categoryMatrix[i][possibilities.index(possibility)] = "1"
-	return categoryMatrix
-	
+					categoryMatrix[i][possibilities.index(possibility)] = '1'
+	return categoryMatrix	
 
 def listPossibilities(matrix,term):
+	#Returns a list of all possibilities present in the matrix for a 
+	#particular term  
 	possibilities = []
 
 	for i in range(1, len(matrix)):
-
-		if matrix[i][0].split('/')[len(matrix[i][0].split('/')) - 1] == term and matrix[i][0] != matrix[i + 1][0]:
-
+		if matrix[i][0].endswith(term) and matrix[i][0] != matrix[i + 1][0]:
  			for value in matrix[i][1:]:
 				possibilities.extend(value.split(','))
 
 	possibilities = sorted(list(set(possibilities)))
 
 	possibilities.remove('-')
-
 	return possibilities		
 			
-
 def initBitColumns(matrix, term):
-	result = matrix[:][:]			
+	#This function returns a new matrix containing new columns with bit
+	#strings for a particular category.
+	result = matrix[:]			
 	possibilities = listPossibilities(matrix, term)
 
 	for i in range(1,len(matrix)):
 
-		if matrix[i][0].split('/')[len(matrix[i][0].split('/')) - 1] == term and matrix[i][0] != matrix[i + 1][0]:
-			categoryMatrix = constructCategoryMatrix(matrix[i], term, possibilities)
-			
-			result.insert(result.index(matrix[i]), ['-' for cell in range(len(matrix[0]))])
+		if matrix[i][0].endswith(term) and matrix[i][0] != matrix[i + 1][0]: #checks whether there is already contructed a new column. This is needed 
+										     #because the code uses the character names, which are displayed in the
+										     #first cell of the row.
+				result.insert(result.index(matrix[i]), ['-' for cell in range(len(matrix[0]))])
 			
 			for j in range(1, len(result[0])):
-				result[result.index(matrix[i]) - 1][j] = "".join(categoryMatrix[j])
+				result[result.index(matrix[i]) - 1][j] = ''.join(categoryMatrix[j])
 
 			result[result.index(matrix[i]) - 1][0] = matrix[i][0]
 	return result
 
 
 def initBitCodingMultipleCat(matrix, cat):	
-
+	#This function initilializes the code by selecting the terms in the  
+	#the file containing the terms and categories. It finally returns 
+	#a new matrix containing bit strings.
 	for line in cat:
 
-		if line[len(line) - 2] == ':':
-			matrix = initBitColumns(matrix, line[:len(line) - 2].lower())
-	return matrix
-
-
-def column(matrix, i):
-
-	return [row[i] for row in matrix]			
+		if line.endswith(':\n'):
+			term = line[:len(line) - 2].lower()
+			result = initBitColumns(matrix, term)
+	return result			
 
 
 matrix = table.readMatrix(matrixFile)
@@ -118,4 +88,4 @@ matrix = initBitCodingMultipleCat(map(list, zip(*matrix)), termsAndCategories)
  
 table.printToTsv(map(list, zip(*matrix)))
 
-print "Nominals converted to bit strings"
+print 'Nominals converted to bit strings'

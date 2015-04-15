@@ -1,4 +1,11 @@
-#This program constructs a matrix with the features belonging to different plant species. The arguments are a FlorML file, a csv file containing a table with the characters and a "Y", when they can be selected. The output is a tsv file containing the matrix.
+#This program constructs a matrix with the features belonging to 
+#different plant species. The arguments are a FlorML file, and a txt 
+#file containing important charactersThe output is a tsv file 
+#(matrix.tsv) containing the matrix. The names off all species found in 
+#the matrix are printed while running the code. It also shows it when 
+#character data is added, and (when present) habitat data is added. 
+#Running this code takes some time, around 15 minutes for an average 
+#FlorML file.
 
 import sys
 import xml.etree.ElementTree as ET
@@ -10,11 +17,21 @@ import table
 tree = ET.parse(sys.argv[1])
 characterFile = open(sys.argv[2], "r")
 root = tree.getroot()
-#numberOfFeatures = 0
 
 
-#In this function, all places in a matrix with "-" are counted. When this amount exceeds a [articular value, the corresponding row will be deleted. The argument are the matrix and the row number.
+def decodeWholeMatrix(matrix):
+	#This function reads all strings in a matrix and encodes UTF-8."
+
+	for row in matrix:
+		for i in range(len(row)):
+			matrix[matrix.index(row)][i] = matrix[matrix.index(row)][i].encode('UTF-8')
+
+
+
 def countAndRemoveEmptyPlaces(matrix, i):
+	#In this function, all places in a matrix with "-" are counted. When 
+	#this amount exceeds a particular value, the corresponding row will be 
+	#deleted. The argument are the matrix and the row number.
 	emptyPlaces = 0
 
 	for j in range(len(matrix[i])):
@@ -31,9 +48,11 @@ def countAndRemoveEmptyPlaces(matrix, i):
 	return matrix
 
 
-#In this fucntion a matrix is read and for each row not not containing enough values. The input is a matrix and the output is a smaller filtered matrix.
-def deleteRowsLackingChars(matrix): 
 
+def deleteRowsLackingChars(matrix): 
+	#In this function a matrix is read and for each row notnot containing 
+	#enough values. The input is a matrix and the output is a smaller 
+	#filtered matrix.
 	for i in range(len(matrix)):
 
 		if i >= len(matrix) - 1:
@@ -46,20 +65,21 @@ def deleteRowsLackingChars(matrix):
 	print "Empty places removed"						
 
 	
-#This recursively adds the texts from the subcharacters to the matrix containing the text parst of the characters 
-def addSubchars(matrix, char, name, i):
 
+def addSubchars(matrix, char, name, i):
+	#This recursively adds the texts from the subcharacters to the matrix 
+	#containing the text parts of the characters 
 	if char.getchildren(): 
 
 		for  subchar in char.getchildren():
-			newName = name + '/' + str(subchar.get('class'))
+			newName = '/'.join([name, str(subchar.get('class'))])
 			
 			for j in range(len(matrix[0])):
 			
 				if  matrix[0][j] == newName:
 
 					if subchar.text:
-						matrix[i][j] = subchar.text#.encode("UTF-8")
+						matrix[i][j] = subchar.text
 				
 			addSubchars(matrix, subchar, newName, i)
 	
@@ -79,21 +99,23 @@ def addHabitatData(matrix, i, node):
 			matrix[i][len(matrix[0]) - 2] = habitat.text	
 	
 
-#This function adds the texts belonging to the subcharacters to the matrix.
-def addChars(matrix, i, node):
 
+def addCharData(matrix, i, feature):
+	#This function adds the texts belonging to the subcharacters to the 
+	#matrix.
 	for j in range(len(matrix[0])):
 
-		for char in node:
+		for char in feature:
 
-			if matrix[0][j] == "/" + str(char.get('class')) and char.text:
+			if matrix[0][j] == "/"+str(char.get('class')) and char.text:
 				matrix[i][j] = char.text
 
-			addSubchars(matrix, char, "/" + str(char.get('class')), i)
+			addSubchars(matrix, char, "/"+str(char.get('class')), i)
 
 
-#This function fills the matrix with all descriptions of the characters.
+
 def fillMatrix(matrix):
+	#This function fills the matrix with all descriptions of the characters.
 	i = 0
 
 	for taxon in root.findall("./treatment/taxon"):	
@@ -111,19 +133,19 @@ def fillMatrix(matrix):
 					if child.tag == "feature":
  
 						if child.get('class') == "description":
-							addChars(matrix, i, child)
+							addCharData(matrix, i, child)
 
-							print "characters filled"
+							print "character data added"
 	
 						elif child.get('class') == "habitat":
 							addHabitatData(matrix, i, child)
 
-							print "habitat data filled"
+							print "habitat data added"
 							
 
 
-#This function reads characters and adds them to a matrix
 def getCharacters(matrix, chars):
+	#This function reads characters and adds them to a matrix.
 	i = 0
 
 	for line in chars:
@@ -131,8 +153,9 @@ def getCharacters(matrix, chars):
 		matrix[0][i] = line.split("\n")[0]
 
 
-#This function extracts the accepted family and species names and puts them in the matrix
 def getSpecies(matrix):	
+	#This function extracts the accepted family and species names and puts 
+	#them into the matrix.
 	i = 0
 
 	for nomenclature in root.findall("./treatment/taxon/nomenclature"):		
@@ -167,11 +190,12 @@ def getSpecies(matrix):
 				elif name.get('class') == 'variety':
 					variety = name.text
 					
-				matrix[i][0] = family + genus + " " + species + " " + infrank + variety + subspecies
+				matrix[i][0] = " ".join([family+genus, species, infrank+variety+subspecies])
 
 				
-#Counts the number of characters added to the matrix
+
 def getNumberOfCharacters(char):
+	#Counts the number of characters added to the matrix.
 	numberOfChar = 0
 
 	for line in char:
@@ -181,8 +205,9 @@ def getNumberOfCharacters(char):
 	return numberOfChar
 
 
-#Counts the number of species in the matrix
+
 def getNumberOfSpecies():
+	#Counts the number of species in the matrix
 	numberOfSpecies = 0
 
 	for homotypes in root.findall("./treatment/taxon/nomenclature/homotypes"):
@@ -194,9 +219,11 @@ def getNumberOfSpecies():
 	return numberOfSpecies
 
 
-numberOfCharacters = getNumberOfCharacters(characterFile)
-numberOfSpecies = getNumberOfSpecies()
-matrix = [["-" for i in range(2 + numberOfCharacters + 1)] for j in range(numberOfSpecies + 1)]
+NUMBER_OF_CHARACTERS = getNumberOfCharacters(characterFile)
+NUMBER_OF_SPECIES = getNumberOfSpecies()
+
+matrix = [["-" for i in range(2 + NUMBER_OF_CHARACTERS + 1)] for j in 
+range(NUMBER_OF_SPECIES + 1)]
 matrix[0][len(matrix[0]) - 1] = "/habitat/altitude"
 matrix[0][len(matrix[0]) - 2] = "/habitat"
 
@@ -209,6 +236,7 @@ fillMatrix(matrix)
 print "matrix filled" 
 deleteRowsLackingChars(matrix)
 print "rows lacking chars deleted"
+decodeWholeMatrix(matrix)
 table.printToTsv(matrix)				
 
 					

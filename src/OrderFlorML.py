@@ -19,7 +19,7 @@ temp = []
 
 def constructXmlLine(textList):
 	#This function print a line in a FolroML file, which is splitted 
-	#by "<" and ">" before
+	#by "<" and ">" before.
 	result = '<'
 	
 	for i in range(1, len(textList) - 1):		
