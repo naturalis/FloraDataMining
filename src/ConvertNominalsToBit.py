@@ -61,7 +61,8 @@ def initBitColumns(matrix, term):
 		if matrix[i][0].endswith(term) and matrix[i][0] != matrix[i + 1][0]: #checks whether there is already contructed a new column. This is needed 
 										     #because the code uses the character names, which are displayed in the
 										     #first cell of the row.
-				result.insert(result.index(matrix[i]), ['-' for cell in range(len(matrix[0]))])
+			categoryMatrix = constructCategoryMatrix(matrix[i], term, possibilities)								     
+			result.insert(result.index(matrix[i]), ['-' for cell in range(len(matrix[0]))])
 			
 			for j in range(1, len(result[0])):
 				result[result.index(matrix[i]) - 1][j] = ''.join(categoryMatrix[j])

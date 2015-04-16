@@ -36,7 +36,7 @@ do
 
 #	mv matrix.tsv input.tsv
 
-#	python ../../src/ClearNumerics.py $flormlFile
+#	python ../../src/ModifyNumerics.py $flormlFile
 
 #	mv matrix.tsv "num_$flormlFile"
 
