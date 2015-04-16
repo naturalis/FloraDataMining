@@ -22,7 +22,7 @@ def normalize(row, units, correctUnit):
 	#row with the units normalized.
 	numberRegex = '\d+\.*\d*'
 
-	row[0] += " (" + correctUnit + ")"
+	row[0] += "(" + correctUnit + ")"
 
 	for i in range(len(row)):
 		for unit in units:			
@@ -32,8 +32,7 @@ def normalize(row, units, correctUnit):
 						value = Length(float(number), unit)
 						correctedNumber = value.toUnit(correctUnit)[0]
 
-						if len(str(correctedNumber).split('.')) == 3:
-							row[i] = row[i].replace(number, str(correctedNumber))
+						row[i] = row[i].replace(number, str(correctedNumber))
 				
 					row[i] = row[i].replace(unit, correctUnit)
 	return row
@@ -48,7 +47,7 @@ def selectDominatingUnit(amountUnits):
 
 def countUnitNumbers(row, units):
 	#This method counts the numbers of different unit types for a row
-	#with textsand returns a dictionary woith every unit and every 
+	#with texts and returns a dictionary woith every unit and every 
 	#number in it. 
 	for cell in row:
 
@@ -154,12 +153,11 @@ def splitValues(matrix, row, regex, regexLeft, regexRight, left, right, delimite
 	#Reads a matrix and a particular row and uses regular expressions 
 	#to distinguish values that must be splitted in left and right 
 	#(ranges, dimensions) and numbers that can just be printed alone.
-	for i in range(len(row)):
-		expression = ''.join(['(', regex, '|', regexLeft, '|', regexRight, ')'])
-		
+	expression = ''.join(['(', regex, '|', regexLeft, '|', regexRight, ')'])
+
+	for i in range(len(row)):				
 		if re.search(expression, row[i]):
 			constructCharacters(matrix, row, left, right)
-
 			break
 
 	divideNumerics(matrix, row, regex, left, right, delimiter)
@@ -181,13 +179,23 @@ def initializeDivideNumerics(matrix):
 	'((up to|to over|to|above|from) )?',numberRegex]) 
 	lenRegex = ''.join([numberRegex, '(\(-[0-9]+\))? (m|c|)?m (long)'])
 	widRegex = ''.join([numberRegex, '(\(-[0-9]+\))? (m|c|)?m (wide|thick|in diam)'])
-	
+	measurementUnitRegex = '\((m|c|d)?m\)'	
+		
 	for row in matrix:
-		if row[0].endswith("dimensions*") or row[0].endswith("dimensions (merged)*"):
-			splitValues(matrix, row, dimensionRegex, lenRegex, widRegex, "/length", "/width", " x ")
+		if re.search(measurementUnitRegex, row[0]):
+			measurementUnit = re.search(measurementUnitRegex, row[0]).group(0)
+
+			if (row[0].replace(measurementUnit, '').endswith("dimensions*") 
+			or row[0].replace(measurementUnit, '').endswith("dimensions (merged)*")):
+				for i in range(len(row)):
+					if re.search(dimensionRegex, row[i]):
+						constructCharacters(matrix, row, "/length", "/width")
+						break
+
+				divideNumerics(matrix, row, dimensionRegex, "/length", "/width", " x ")
 			
-		elif not row[0].endswith("minimum") and not row[0].endswith("maximum"):
-			splitValues(matrix, row, rangeRegex, minRegex, maxRegex, "/minimum", "/maximum", "-")
+			elif not row[0].endswith("minimum") and not row[0].endswith("maximum"):
+				splitValues(matrix, row, rangeRegex, minRegex, maxRegex, "/minimum", "/maximum", "-")
 
 
 matrix = table.readMatrix(matrixFile)

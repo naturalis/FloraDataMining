@@ -1,36 +1,49 @@
+#This function removes the columns from the FlorML matrices which are not 
+#Needed for the analysis. It also makes the names of the characters easier
+#to interpret.
+
 import sys
-import table
 import re
+
+import table
 
 matrixFile = open(sys.argv[1], 'r')
 
 def correctCharName(name):
+	#This function reads a character name and removes the nunneeded 
+	#parts of it.
+	if '*' in name:
+		name = name.replace('*', '')
+
 	chars = name.split('/')
 
-	if chars[len(chars) - 1] == chars[len(chars) - 2].split('*'):
-		chars[len(chars) - 2] = chars[len(chars) - 2].split('*')[0]
+	if chars[len(chars) - 1] == chars[len(chars) - 2]:
+		chars[len(chars) - 2] = chars[len(chars) - 1]
+		chars.pop()
 
-	return '/'.join(chars[:len(chars)])
+	result = '/'.join(chars)
+
+
+	return result
 
 
 def clean(matrix):
+	#This function removes superfluous columns and selects the columns 
+	#that need to be saved to modify the character name. 
 	result = matrix[:]
-
+	
 	for row in matrix:
-
 		if len(row[0]) != '-*' and len(row[0]) > 0:
-			print row[0]
-			if row[0][len(row[0]) - 1] == '*': 
+			if row[0].endswith('*'): 
 				result.remove(row)
 
 			elif re.search('length$', row[0]) or re.search('width$', row[0]):
-
 				if matrix[matrix.index(row)][0] == matrix[matrix.index(row) + 1][0]:	
 					result.remove(row)			
 
-			elif row[0][len(row[0]) - 1] != '*':
+			else:
 				result[result.index(row)][0] = correctCharName(result[result.index(row)][0])
-				result[result.index(row)][0].replace('*', '')	
+
 	return result
 
 
