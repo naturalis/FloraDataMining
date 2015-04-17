@@ -1,4 +1,4 @@
-#This code reads a matrix in tsv format and a list of categories and states 
+#This script reads a matrix in tsv format and a list of categories and states 
 #used to split the matrix into more matrices. This code looks for words which 
 #are not yet included in the the list of categories and  terms, but should 
 #be included. Common used English words or words ending with a punctuation 
